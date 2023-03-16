@@ -1,6 +1,7 @@
-# Uma das cinco partes de Doutrina.org
+# EM BREVE!
 
-O Livro dos Espíritos (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+O Livro dos Médiuns (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+
 - um único arquivo.
 - separado em 6 partes.
 
@@ -53,17 +54,13 @@ Em sequência, converteremos os outros livros da codificação. Ao término de G
 
 Clique abaixo para abrir o livro em arquivo único.
 
-- [LDE](./lde-single-file.md)
+- [LDM](./ldm-single-file.md)
 
  Aqui estão os links para as partes individuais:
 
-- [parte 0](./partes/lde.0.md)
-- [parte 1](./partes/lde.1.md)
-- [parte 2](./partes/lde.2.md)
-- [parte 3](./partes/lde.3.md)
-- [parte 4](./partes/lde.4.md)
-- [parte 5](./partes/lde.5.md)
-- [parte 6](./partes/lde.6.md)
+- [parte 0](./partes/ldm.0.md)
+- [parte 1](./partes/ldm.1.md)
+- [parte 2](./partes/ldm.2.md)
 
-<img src="https://user-images.githubusercontent.com/107352082/225607677-43f4b829-6245-481d-82f1-276dbc95f30e.jpg" alt="capa de O Livro dos Espíritos" style="max-width: 50%">
+<img src="./ldm-capa.jpg" alt="capa de O Livro dos Médiuns" style="max-width: 50%">
 
