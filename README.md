@@ -1,6 +1,6 @@
 # EM BREVE!
 
-O Livro dos Médiuns (ISBN 978-85-7328-728-8) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+O Livro dos Médiuns (ISBN 978-85-7328-729-5) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
 
 - um único arquivo.
 - separado em 6 partes.
