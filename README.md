@@ -74,7 +74,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
 | 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
 | 📄 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `ldm.X.X.X` | page_facing_up |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | 📄 seções | `lde.X.X.X.X` | question |
+| #️⃣ | questão |  | - | 📄 seções | `lde.X.X.X.X` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
@@ -83,7 +83,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🟨 | assunto | agrupa #️⃣ questões e/ou 📄 seções | yellow_square |
+| 🟨 | assunto | agrupa #️⃣ parágrafos e/ou 📄 seções | yellow_square |
 | ⚜️ | fim | parte final de um elemento | fleur_de_lis |
 
 ### 6.3. Hierarquia 
@@ -97,7 +97,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
      |
      └── 📄 seção
        |     
-       └── #️⃣ questão
+       └── #️⃣ parágrafo
 
 🟨 ── assunto
 ✝️ ── trecho bíblico
@@ -108,7 +108,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-lde.X.X.X
+ldm.X.X.X
  │ │ │ │
  │ | | └── 📄 seção
  | | |
@@ -119,21 +119,7 @@ lde.X.X.X
  └── 📔 livro
 ```
 
-E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` para:
-
-```
-#️⃣ lde.q X a
-  │ │ │ │
-  │ | | └── sub-questão
-  | | |
-  │ | └── número
-  | |
-  │ └── questão 
-  |
-  └── 📔 livro
-```
-
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens.
 
 ## 7. Controle de Qualidade
 
@@ -160,7 +146,7 @@ Deus abençoa, sempre!
 
 ## 10. Notas
 
-- **1lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **2ldm.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
