@@ -72,8 +72,8 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 |---|---|---|---|---|---|---|
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `ldm` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
-| #️⃣ | questão |  | - | 📄 seções | `ldm.pX` | hash |
+| 📑 | capítulo | subdivisão de partes |  | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
+| #️⃣ | parágrafo |  | - | 📑 capítulos | `ldm.pX` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
@@ -82,7 +82,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🟨 | assunto | agrupa #️⃣ parágrafos e/ou 📄 seções | yellow_square |
+| 🟨 | assunto | agrupa #️⃣ parágrafos | yellow_square |
 | ⚜️ | fim | parte final de um elemento | fleur_de_lis |
 
 ### 6.3. Hierarquia 
@@ -91,14 +91,26 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 📔 livro
  |
  └── 🗂️ parte
-   |
-   └── 📑 capítulo
-       |     
-       └── #️⃣ parágrafo
+      |
+      └── 📑 capítulo
+           |     
+           └── #️⃣ parágrafo
 
 🟨 ── assunto
 ✝️ ── trecho bíblico
 ```
+
+Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X.X` para:
+
+```
+ldm.pX
+ |   | 
+ |   └── #️⃣ parágrafo
+ |
+ └── 📔 livro
+```
+
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a
 
 ### 6.4. Código mestre
 
