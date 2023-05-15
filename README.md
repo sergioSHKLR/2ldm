@@ -29,7 +29,7 @@ Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística
 
 3. *Poder-se-ia dizer que* Deus *é o infinito?*
 
-Sample
+*Sample*
 
 E disse Jesus: “A cada um, de acordo com suas obras.”
 
