@@ -6,79 +6,79 @@
 
 `ldm.1` 🗂️ Parte 1 - Noções Preliminares
 
-`ldm.1.01` 📃 1. Há Espíritos?
+`ldm.1.01` 📑 1. Há Espíritos?
 
-`ldm.1.02` 📃 2. Do maravilhoso e do sobrenatural
+`ldm.1.02` 📑 2. Do maravilhoso e do sobrenatural
 
-`ldm.1.03` 📃 3. Do método
+`ldm.1.03` 📑 3. Do método
 
-`ldm.1.04` 📃 4. Dos sistemas
+`ldm.1.04` 📑 4. Dos sistemas
 
 `ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas
 
-`ldm.2.01` 📃 1. título
+`ldm.2.01` 📑 1. título
 
-`ldm.2.02` 📃 2. título
+`ldm.2.02` 📑 2. título
 
-`ldm.2.03` 📃 3. título
+`ldm.2.03` 📑 3. título
 
-`ldm.2.04` 📃 4. título
+`ldm.2.04` 📑 4. título
 
-`ldm.2.05` 📃 5. título
+`ldm.2.05` 📑 5. título
 
-`ldm.2.06` 📃 6. título
+`ldm.2.06` 📑 6. título
 
-`ldm.2.07` 📃 7. título
+`ldm.2.07` 📑 7. título
 
-`ldm.2.08` 📃 8. título
+`ldm.2.08` 📑 8. título
 
-`ldm.2.09` 📃 9. título
+`ldm.2.09` 📑 9. título
 
-`ldm.2.10` 📃 10. título
+`ldm.2.10` 📑 10. título
 
-`ldm.2.11` 📃 11. título
+`ldm.2.11` 📑 11. título
 
-`ldm.2.12` 📃 12. título
+`ldm.2.12` 📑 12. título
 
-`ldm.2.13` 📃 13. título
+`ldm.2.13` 📑 13. título
 
-`ldm.2.14` 📃 14. título
+`ldm.2.14` 📑 14. título
 
-`ldm.2.15` 📃 15. título
+`ldm.2.15` 📑 15. título
 
-`ldm.2.16` 📃 16. título
+`ldm.2.16` 📑 16. título
 
-`ldm.2.17` 📃 17. título
+`ldm.2.17` 📑 17. título
 
-`ldm.2.18` 📃 18. título
+`ldm.2.18` 📑 18. título
 
-`ldm.2.19` 📃 19. título
+`ldm.2.19` 📑 19. título
 
-`ldm.2.20` 📃 20. título
+`ldm.2.20` 📑 20. título
 
-`ldm.2.21` 📃 21. título
+`ldm.2.21` 📑 21. título
 
-`ldm.2.22` 📃 22. título
+`ldm.2.22` 📑 22. título
 
-`ldm.2.23` 📃 23. título
+`ldm.2.23` 📑 23. título
 
-`ldm.2.24` 📃 24. título
+`ldm.2.24` 📑 24. título
 
-`ldm.2.25` 📃 25. título
+`ldm.2.25` 📑 25. título
 
-`ldm.2.26` 📃 26. título
+`ldm.2.26` 📑 26. título
 
-`ldm.2.27` 📃 27. título
+`ldm.2.27` 📑 27. título
 
-`ldm.2.28` 📃 28. título
+`ldm.2.28` 📑 28. título
 
-`ldm.2.29` 📃 29. título
+`ldm.2.29` 📑 29. título
 
-`ldm.2.30` 📃 30. título
+`ldm.2.30` 📑 30. título
 
-`ldm.2.31` 📃 31. título
+`ldm.2.31` 📑 31. título
 
-`ldm.2.32` 📃 32. título
+`ldm.2.32` 📑 32. título
 
 `ldm.3` 🗂️ Parte 3 - Pós-textual
 
