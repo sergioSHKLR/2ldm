@@ -96,11 +96,11 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
            |     
            └── #️⃣ parágrafo
 
-🟨 ── assunto
-✝️ ── trecho bíblico
+🟨 ─ assunto
+✝️ ─ trecho bíblico
 ```
 
-Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X.X` para:
+Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X` para:
 
 ```
 ldm.pX
