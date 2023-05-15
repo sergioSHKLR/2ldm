@@ -53,10 +53,6 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ### 6.1. Formatação de texto (2ldm.md)
 
-`lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
-
-> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
 
 ⚜️
 
@@ -74,11 +70,11 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 
 | **Icone** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
 |---|---|---|---|---|---|---|
-| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
-| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
-| 📄 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_facing_up |
-| #️⃣ | questão | pergunta, reposta e comentário * | - | 📄 seções | `lde.qX` | question |
+| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `ldm` | notebook_with_decorative_cover |
+| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
+| 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
+| 📄 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `ldm.X.X.X` | page_facing_up |
+| #️⃣ | questão | pergunta, reposta e comentário * | - | 📄 seções | `lde.X.X.X.X` | question |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
 
