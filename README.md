@@ -72,7 +72,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 |---|---|---|---|---|---|---|
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `ldm` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes |  | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
+| 📑 | capítulo | subdivisão de partes | #️⃣ parágrafos | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
 | #️⃣ | parágrafo |  | - | 📑 capítulos | `ldm.pX` | hash |
 
 * Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
