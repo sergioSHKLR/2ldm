@@ -1,66 +1,185 @@
-# EM BREVE!
+# O LIVRO DOS MÉDIUNS
+Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
-O Livro dos Médiuns (ISBN 978-85-7328-729-5) digitalizado (manualmente, de parágrafo em parágrafo) em duas opções:
+## 0. Direto ao ponto                       
 
-- um único arquivo.
-- separado em 6 partes.
+O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
-Os trechos originais em *itálico* foram mudados. Perguntas estão em estilo normal, fragmentos estão em **negrito**. Trechos entre aspas (mensagens espirituais) viraram 'blockquote'. Comentários de Kardec viraram 'nested blockquotes'
+## 1. Objetivo
 
-X. Pergunta
-> Resposta
-> > Comentário
+Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas -- em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
+## 2. Análise
 
-## Estrutura de hieraquia
+Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
-<pre>
-📔 Livro
+## 3. Formato de arquivo
+
+Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
+
+## 4. Obra original
+
+Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
+
+### 4.1 Formatação de texto (livro impresso)
+
+Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos por livro, capítulo e versículo.
+
+---
+
+3. *Poder-se-ia dizer que* Deus *é o infinito?*
+
+Sample
+
+E disse Jesus: “A cada um, de acordo com suas obras.”
+
+---
+
+## 5. Método
+
+Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
+
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à *Parte 1 - Noções Preliminares* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a *Parte 2 - Das Manifestações Espíritas*, decidimos por dar-lhes o nome de *Parte 3* e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+
+## 6. Padronização
+
+Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
+
+- respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
+- trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
+- trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
+
+Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
+
+### 6.1. Formatação de texto (2ldm.md)
+
+`lde.q3` #️⃣ 3. Poder-se-ia dizer que **Deus** é o infinito?
+
+> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+
+⚜️
+
+E disse Jesus: 
+
+“A cada um, de acordo com suas obras.”
+
+✝️ Romanos, cap. 2, vers. 6
+
+---
+
+### 6.2. Legenda
+
+Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou grupamento.
+
+| **Icone** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
+|---|---|---|---|---|---|---|
+| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `lde` | notebook_with_decorative_cover |
+| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `lde.X` | card_index_dividers |
+| 📑 | capítulo | subdivisão de partes | 📄 seções | 🗂️ partes | `lde.X.X` | bookmark_tabs |
+| 📄 | seção | subdivisão de capítulos | #️⃣ questões | 📑 capítulos | `lde.X.X.X` | page_facing_up |
+| #️⃣ | questão | pergunta, reposta e comentário * | - | 📄 seções | `lde.qX` | question |
+
+* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
+
+##### 6.2.1. Adicionais
+
+| **Icone** | **Descrição** | **Conteúdo** | **GFM** |
+|---|---|---|---|
+| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
+| 🟨 | assunto | agrupa #️⃣ questões e/ou 📄 seções | yellow_square |
+| ⚜️ | fim | parte final de um elemento | fleur_de_lis |
+
+### 6.3. Hierarquia 
+
+```
+📔 livro
  |
- └── 🗂️ Parte
+ └── 🗂️ parte
+   |
+   └── 📑 capítulo
      |
-     └── 📑 Capítulo
-         |
-         └── 📄 Item
-</pre>
+     └── 📄 seção
+       |     
+       └── #️⃣ questão
 
-> Livros podem ser:
-> - `lde` (O Livro dos Espíritos)
-> - `ldm` (O Livro dos Médiuns)
-> - `ese` (O Evangelho segundo o Espiritismo)
-> - `ceu` (O Céu e o Inferno)
-> - `gen` (A Gênese)
+🟨 ── assunto
+✝️ ── trecho bíblico
+```
 
-## Código alfanúmerico
+### 6.4. Código mestre
 
-📄 `liv.0.00.00`
-<pre>
-  │  │  │  │
-  │  |  |  └── 📄 Item
-  |  |  |
-  │  |  └── 📑 Capítulo
-  |  |
-  │  └── 🗂️ Parte
+Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
+
+```
+lde.X.X.X
+ │ │ │ │
+ │ | | └── 📄 seção
+ | | |
+ │ | └── 📑 capítulo
+ | |
+ │ └── 🗂️ parte
+ |
+ └── 📔 livro
+```
+
+E em especial no LDE, o código para questões é modificado de `lde.X.X.X.X` para:
+
+```
+#️⃣ lde.q X a
+  │ │ │ │
+  │ | | └── sub-questão
+  | | |
+  │ | └── número
+  | |
+  │ └── questão 
   |
-  └── 📔 Livro
-</pre>
+  └── 📔 livro
+```
 
-Como ilustrado acima, usamos três letras para o livro, e de um a dois dígitos para partes, capítulos, e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-itens de modo a designar uma pergunta específica (ex. `lde.q909a`).
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a`).
 
-Em sequência, converteremos os outros livros da codificação. Ao término de GEN, iremos criar um 'fork' para incluir inline links (dicionário, Wikipédia, videos, etc), figuras, citações biblícas, e outros aperfeiçoamentos.
+## 7. Controle de Qualidade
 
-# Amai-vos e instruí-vos.
+Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
-Clique abaixo para abrir o livro em arquivo único.
+Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-- [LDM](./ldm-single-file.md)
+## 8. Autor
 
- Aqui estão os links para as partes individuais:
+Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
-- [parte 0](./partes/ldm.0.md)
-- [parte 1](./partes/ldm.1.md)
-- [parte 2](./partes/ldm.2.md)
+## 9. Agradecimentos
 
-<img src="./ldm-capa.jpg" alt="capa de O Livro dos Médiuns" style="max-width: 50%">
+À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster (*in memoriam*) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou *scripts* que possibilitam a conversão (duplex) do formato MD para vários outros.
 
+Deus abençoa, sempre!
+
+![Sergio SHKLR](./sign-dark.png#gh-dark-mode-only)
+![Sergio SHKLR](./sign-light.png#gh-light-mode-only)
+
+🎩 Fundador
+
+⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde)
+
+## 10. Notas
+
+- **1lde-single-file.md** é licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+
+- Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
+
+- Não exercemos direitos sobre as obras originais, suas traduções, ou derivativos que pertencem aos seus respectivos proprietários e/ou herdeiros.
+
+- O nome e/ou logotipo de instituições, grupos, organizações, ou sociedades não constituem aprovação ou endosso. Ademais, estas entidades não são responsáveis pela qualidade de nossos serviços e/ou produtos.
+
+- Uma ofensa aos direitos autorais não se constitui desde que se limite o uso de acordo com o [Artigo 46, Capítulo IV, Lei Nº 9.610, de 19 de Fevereiro de 1998](http://www.planalto.gov.br/ccivil_03/leis/l9610.htm#:~:text=Art.%2046.%20N%C3%A3o%20constitui%20ofensa%20aos%20direitos%20autorais%3A). Reproduzimos abaixo alguns trechos pertinentes.
+
+ - Título II, Capítulo I, Art. 7º, § 3º – No domínio das ciências, a proteção recairá sobre a forma literária ou artística, não abrangendo o seu conteúdo científico ou técnico, sem prejuízo dos direitos que protegem os demais campos da propriedade imaterial.
+
+    - Título III, Capítulo IV, Art. 46 – Não constitui ofensa aos direitos autorais:
+       - I – a reprodução
+       - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
+
+- Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
+
+⚜️
