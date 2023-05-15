@@ -118,10 +118,10 @@ Para facilitar a organização hierárquica, localização, correlação de item
 
 ```
 ldm.X.X
- | | |
- │ | └── 📑 capítulo
- | |
- │ └── 🗂️ parte
+ |  | |
+ |  | └── 📑 capítulo
+ |  |
+ |  └── 🗂️ parte
  |
  └── 📔 livro
 ```
