@@ -39,7 +39,7 @@ E disse Jesus: “A cada um, de acordo com suas obras.”
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à *Parte 1 - Noções Preliminares* como *Parte 0*, e dar o título de *Pré-textual*. Considerando as seções que seguem a *Parte 2 - Das Manifestações Espíritas*, decidimos por dar-lhes o nome de *Parte 3* e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `ldm.1` 🗂️ Parte 1 - Noções Preliminares como `ldm.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `ldm.2` 🗂️ Parte 2 - Das Manifestações Espíritas, decidimos por dar-lhes o nome de `ldm.3` 🗂️ Parte 3 e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
 ## 6. Padronização
 
