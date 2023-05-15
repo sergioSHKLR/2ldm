@@ -93,8 +93,6 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
  └── 🗂️ parte
    |
    └── 📑 capítulo
-     |
-     └── 📄 seção
        |     
        └── #️⃣ parágrafo
 
@@ -107,9 +105,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-ldm.X.X.X
- │ │ │ │
- │ | | └── 📄 seção
+ldm.X.X
  | | |
  │ | └── 📑 capítulo
  | |
