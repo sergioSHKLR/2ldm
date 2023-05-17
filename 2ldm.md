@@ -1,4 +1,4 @@
-# `ldm` :notebook_with_decorative_cover: O Livro dos Médiuns
+# `ldm` :notebook_with_decorative_cover: O Livro dos Médiuns (working copy)
 
 ## `ldm.0` :card_index_dividers: Parte 0 - Pré-textual
 
