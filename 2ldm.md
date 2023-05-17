@@ -1,10 +1,10 @@
 # `ldm` :notebook_with_decorative_cover: O Livro dos Médiuns
 
-## `ldm.0` 🗂️ Parte 0 - Pré-textual
+## `ldm.0` :card_index_dividers: Parte 0 - Pré-textual
 
 ### `ldm.0.01` 📃 Introdução
 
-## `ldm.1` 🗂️ Parte 1 - Noções Preliminares
+## `ldm.1` :card_index_dividers: Parte 1 - Noções Preliminares
 
 ### `ldm.1.01` 📑 1. Há Espíritos?
 
@@ -14,7 +14,7 @@
 
 ### `ldm.1.04` 📑 4. Dos sistemas
 
-## `ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas
+## `ldm.2` :card_index_dividers: Parte 2 - Das Manifestações espíritas
 
 ### `ldm.2.01` 📑 1. título
 
@@ -80,52 +80,52 @@
 
 ### `ldm.2.32` 📑 32. título
 
-## `ldm.3` 🗂️ Parte 3 - Pós-textual
+## `ldm.3` :card_index_dividers: Parte 3 - Pós-textual
 
 ### `ldm.3.01` 📃 Nota Explicativa
 
 ### `ldm.3.02` 🗃️ Índice Geral
 
-#### `ldm.3.02.01` 🟨 A
+#### `ldm.3.02.01` :yellow_square: A
 
-#### `ldm.3.02.02` 🟨 B
+#### `ldm.3.02.02` :yellow_square: B
 
-#### `ldm.3.02.03` 🟨 C
+#### `ldm.3.02.03` :yellow_square: C
 
-#### `ldm.3.02.04` 🟨 D
+#### `ldm.3.02.04` :yellow_square: D
 
-#### `ldm.3.02.05` 🟨 E
+#### `ldm.3.02.05` :yellow_square: E
 
-#### `ldm.3.02.06` 🟨 F
+#### `ldm.3.02.06` :yellow_square: F
 
-#### `ldm.3.02.07` 🟨 G
+#### `ldm.3.02.07` :yellow_square: G
 
-#### `ldm.3.02.08` 🟨 H
+#### `ldm.3.02.08` :yellow_square: H
 
-#### `ldm.3.02.09` 🟨 I
+#### `ldm.3.02.09` :yellow_square: I
 
-#### `ldm.3.02.10` 🟨 J
+#### `ldm.3.02.10` :yellow_square: J
 
-#### `ldm.3.02.11` 🟨 K
+#### `ldm.3.02.11` :yellow_square: K
 
-#### `ldm.3.02.12` 🟨 L
+#### `ldm.3.02.12` :yellow_square: L
 
-#### `ldm.3.02.13` 🟨 M
+#### `ldm.3.02.13` :yellow_square: M
 
-#### `ldm.3.02.14` 🟨 N
+#### `ldm.3.02.14` :yellow_square: N
 
-#### `ldm.3.02.15` 🟨 O
+#### `ldm.3.02.15` :yellow_square: O
 
-#### `ldm.3.02.16` 🟨 P
+#### `ldm.3.02.16` :yellow_square: P
 
-#### `ldm.3.02.17` 🟨 R
+#### `ldm.3.02.17` :yellow_square: R
 
-#### `ldm.3.02.18` 🟨 S
+#### `ldm.3.02.18` :yellow_square: S
 
-#### `ldm.3.02.19` 🟨 T
+#### `ldm.3.02.19` :yellow_square: T
 
-#### `ldm.3.02.20` 🟨 U
+#### `ldm.3.02.20` :yellow_square: U
 
-#### `ldm.3.02.21` 🟨 V
+#### `ldm.3.02.21` :yellow_square: V
 
-⚜️
+:fleur_de_lis:
