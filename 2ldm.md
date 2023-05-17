@@ -84,7 +84,7 @@
 
 ### `ldm.3.01` :page_with_curl: Nota Explicativa
 
-### `ldm.3.02` 🗃️ Índice Geral
+### `ldm.3.02` :card_file_box: Índice Geral
 
 #### `ldm.3.02.01` :yellow_square: A
 
