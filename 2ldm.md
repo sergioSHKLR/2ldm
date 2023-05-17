@@ -1,4 +1,4 @@
-# `ldm` 📔 O Livro dos Médiuns
+# `ldm` :notebook_with_decorative_cover: O Livro dos Médiuns
 
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
