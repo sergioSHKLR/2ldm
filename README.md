@@ -1,4 +1,4 @@
-# O LIVRO DOS MÉDIUNS
+# ✒️ O LIVRO DOS MÉDIUNS
 Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 ## 0. Direto ao ponto                       
