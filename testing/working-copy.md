@@ -26,7 +26,7 @@
 
 ### `ldm.2.05` 📑 5. Das manifestações físicas espontâneas
 
-### `ldm.2.06` 📑 6. Das manifestações visuais .
+### `ldm.2.06` 📑 6. Das manifestações visuais
 
 ### `ldm.2.07` 📑 7. Da bicorporeidade e da transfiguração
 
@@ -34,7 +34,7 @@
 
 ### `ldm.2.09` 📑 9. Dos lugares assombrados
 
-### `ldm.2.10` 📑 10. Da natureza das comunicações.
+### `ldm.2.10` 📑 10. Da natureza das comunicações
 
 ### `ldm.2.11` 📑 11. Da sematologia e da tiptologia
 
