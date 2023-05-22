@@ -78,7 +78,8 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🏷️ | tag | agrupa #️⃣ parágrafos por assunto | label |
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
+| 🏷️ | _tag_ | agrupa #️⃣ parágrafos por assunto | label |
 <!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
@@ -92,8 +93,9 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
            |     
            └── #️⃣ parágrafo
 
-🏷️ ─ assunto
 ✝️ ─ trecho bíblico
+🗃️ ─ Índice Geral
+🏷️ ─ assunto
 ```
 
 Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X` para:
