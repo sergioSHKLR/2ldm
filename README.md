@@ -5,7 +5,12 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
-Em desenvolvimento diário, *release* mais recente - NENHUM
+| Descrição | arquivo |
+| --- | --- |
+| sem Índice Geral ou tags; respostas à mostra | [**1ldm**-05.23b2.md](./1lde-05.23b2.md) | 
+| sem Índice Geral ou tags; respostas ocultas | **1ldm-ro**-(versão).md | 
+| com Índice Geral e tags; respostas à mostra | **1ldm-ig**-(versão).md | 
+| com Índice Geral e tags; respostas ocultas | **1ldm-ro-ig**-(versão).md | 
 
 ## 1. Objetivo
 
@@ -23,27 +28,36 @@ Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição 
 
 Optamos por utilizar a coletânea traduzida do original francês de Allan Kardec para o português de Brasil por Guillon Ribeiro e Manuel Quintão, e impressa pela Federação Espírita Brasileira. Agradecemos a FEB, por disponibilizar gratuitamente o PDF das obras básicas, todas disponíveis [nesta](https://www.febnet.org.br/portal/2022/08/10/obras-de-allan-kardec-3/) página (verificada em 02 de maio de 2023).
 
-### 4.1 Formatação de texto (livro impresso)
+### 4.1. Formatação de texto (livro impresso)
 
-Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não são separados ou atribuídos por livro, capítulo e versículo.
+Originalmente usou-se a divisão visual (linhas em branco; aspas) e estilística (fonte normal; itálico; fonte menor) para separar elementos (origem humana; origem espiritual) e denotar realce ou grifo, como no exemplo abaixo (modificado do original para ilustração). Trechos bíblicos, em geral, não foram separados ou atribuídos por livro, capítulo e versículo.
+
+---
+
+(create sample)
 
 ---
 
-3. *Poder-se-ia dizer que* Deus *é o infinito?*
+Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto que a sentença se encontra em estilo itálico. Já na resposta, palavra 'insuficiente' foi realçada em estilo itálico, visto que a sentença se encontra em estilo normal. De modo a diferenciar os comentários de Kardec das mensagens de Espíritos, usou-se uma fonte ligeiramente menor em tamanho. 
 
-*Sample*
-
-E disse Jesus: “A cada um, de acordo com suas obras.”
-
----
+Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
 ## 5. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `ldm.1` 🗂️ Parte 1 - Noções Preliminares como `ldm.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `ldm.2` 🗂️ Parte 2 - Das Manifestações Espíritas, decidimos por dar-lhes o nome de `ldm.3` 🗂️ Parte 3 e o título de *Pós-textual*. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `ldm.1` 🗂️ Parte 1 - título como `ldm.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `ldm.2` 🗂️ Parte 2 - Manifestações espíritas, decidimos por dar-lhes o nome de `ldm.3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
 ## 6. Padronização
+
+Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
+
+- respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
+- comentários de Kardec serão *nested blockquotes* (linha cinza vertical, dupla),
+- trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
+- trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
+
+Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
 Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
@@ -55,14 +69,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 ### 6.1. Formatação de texto (2ldm.md)
 
-
-⚜️
-
-E disse Jesus: 
-
-“A cada um, de acordo com suas obras.”
-
-✝️ Romanos, cap. 2, vers. 6
+(create sample)
 
 ---
 
@@ -85,7 +92,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
 | 🟨 | assunto | agrupa #️⃣ parágrafos | yellow_square |
-| ⚜️ | fim | término de um elemento | fleur_de_lis |
+<!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
 
