@@ -148,6 +148,7 @@ Deus abençoa, sempre!
 ![Sergio SHKLR](./images/sign-light.png#gh-light-mode-only)
 
 🎩 Fundador
+
 | --- |
 | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde) |
 
