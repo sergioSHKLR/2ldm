@@ -92,7 +92,7 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
            |     
            └── #️⃣ parágrafo
 
-🟨 ─ assunto
+🏷️ ─ assunto
 ✝️ ─ trecho bíblico
 ```
 
