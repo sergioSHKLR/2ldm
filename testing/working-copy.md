@@ -1,131 +1,85 @@
-# `ldm` :notebook_with_decorative_cover: O Livro dos Médiuns (working copy)
+# `ldm` ✒️ O Livro dos Médiuns (working copy)
 
-## `ldm.0` :card_index_dividers: Parte 0 - Pré-textual
+## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
-### `ldm.0.01` :page_with_curl: Introdução
+### `ldm.0.01` 📃 Introdução
 
-## `ldm.1` :card_index_dividers: Parte 1 - Noções Preliminares
+## `ldm.1` 🗂️ Parte 1 - Noções Preliminares
 
-### `ldm.1.01` :bookmark_tabs: 1. Há Espíritos?
+### `ldm.1.01` 📑 1. Há Espíritos?
 
-### `ldm.1.02` :bookmark_tabs: 2. Do maravilhoso e do sobrenatural
+### `ldm.1.02` 📑 2. Do maravilhoso e do sobrenatural
 
-### `ldm.1.03` :bookmark_tabs: 3. Do método
+### `ldm.1.03` 📑 3. Do método
 
-### `ldm.1.04` :bookmark_tabs: 4. Dos sistemas
+### `ldm.1.04` 📑 4. Dos sistemas
 
-## `ldm.2` :card_index_dividers: Parte 2 - Das Manifestações espíritas
+## `ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas
 
-### `ldm.2.01` :bookmark_tabs: 1. título
+### `ldm.2.01` 📑 1. Da ação dos Espíritos sobre a matéria
 
-### `ldm.2.02` :bookmark_tabs: 2. título
+### `ldm.2.02` 📑 2. Das manifestações físicas. Das mesas girantes
 
-### `ldm.2.03` :bookmark_tabs: 3. título
+### `ldm.2.03` 📑 3. Das manifestações inteligentes
 
-### `ldm.2.04` :bookmark_tabs: 4. título
+### `ldm.2.04` 📑 4. Da teoria das manifestações físicas
 
-### `ldm.2.05` :bookmark_tabs: 5. título
+### `ldm.2.05` 📑 5. Das manifestações físicas espontâneas
 
-### `ldm.2.06` :bookmark_tabs: 6. título
+### `ldm.2.06` 📑 6. Das manifestações visuais .
 
-### `ldm.2.07` :bookmark_tabs: 7. título
+### `ldm.2.07` 📑 7. Da bicorporeidade e da transfiguração
 
-### `ldm.2.08` :bookmark_tabs: 8. título
+### `ldm.2.08` 📑 8. Do laboratório do mundo invisível
 
-### `ldm.2.09` :bookmark_tabs: 9. título
+### `ldm.2.09` 📑 9. Dos lugares assombrados
 
-### `ldm.2.10` :bookmark_tabs: 10. título
+### `ldm.2.10` 📑 10. Da natureza das comunicações.
 
-### `ldm.2.11` :bookmark_tabs: 11. título
+### `ldm.2.11` 📑 11. Da sematologia e da tiptologia
 
-### `ldm.2.12` :bookmark_tabs: 12. título
+### `ldm.2.12` 📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia
 
-### `ldm.2.13` :bookmark_tabs: 13. título
+### `ldm.2.13` 📑 13. Da psicografia
 
-### `ldm.2.14` :bookmark_tabs: 14. título
+### `ldm.2.14` 📑 14. Dos médiuns
 
-### `ldm.2.15` :bookmark_tabs: 15. título
+### `ldm.2.15` 📑 15. Dos médiuns escreventes ou psicógrafos
 
-### `ldm.2.16` :bookmark_tabs: 16. título
+### `ldm.2.16` 📑 16. Dos médiuns especiais
 
-### `ldm.2.17` :bookmark_tabs: 17. título
+### `ldm.2.17` 📑 17. Da formação dos médiuns
 
-### `ldm.2.18` :bookmark_tabs: 18. título
+### `ldm.2.18` 📑 18. Dos inconvenientes e perigos da mediunidade
 
-### `ldm.2.19` :bookmark_tabs: 19. título
+### `ldm.2.19` 📑 19. Do papel dos médiuns nas comunicações espíritas
 
-### `ldm.2.20` :bookmark_tabs: 20. título
+### `ldm.2.20` 📑 20. Da influência moral do médium
 
-### `ldm.2.21` :bookmark_tabs: 21. título
+### `ldm.2.21` 📑 21. Da influência do meio
 
-### `ldm.2.22` :bookmark_tabs: 22. título
+### `ldm.2.22` 📑 22. Da mediunidade nos animais
 
-### `ldm.2.23` :bookmark_tabs: 23. título
+### `ldm.2.23` 📑 23. Da obsessão
 
-### `ldm.2.24` :bookmark_tabs: 24. título
+### `ldm.2.24` 📑 24. Da identidade dos Espíritos
 
-### `ldm.2.25` :bookmark_tabs: 25. título
+### `ldm.2.25` 📑 25. Das evocações
 
-### `ldm.2.26` :bookmark_tabs: 26. título
+### `ldm.2.26` 📑 26. Das perguntas que se podem fazer aos Espíritos
 
-### `ldm.2.27` :bookmark_tabs: 27. título
+### `ldm.2.27` 📑 27. Das contradições e das mistificações
 
-### `ldm.2.28` :bookmark_tabs: 28. título
+### `ldm.2.28` 📑 28. Do charlatanismo e do embuste
 
-### `ldm.2.29` :bookmark_tabs: 29. título
+### `ldm.2.29` 📑 29. Das reuniões e das Sociedades Espíritas
 
-### `ldm.2.30` :bookmark_tabs: 30. título
+### `ldm.2.30` 📑 30. Regulamento da Sociedade Parisiense de Estudos Espíritas
 
-### `ldm.2.31` :bookmark_tabs: 31. título
+### `ldm.2.31` 📑 31. Dissertações espíritas
 
-### `ldm.2.32` :bookmark_tabs: 32. título
+### `ldm.2.32` 📑 32. Vocabulário espírita
 
-## `ldm.3` :card_index_dividers: Parte 3 - Pós-textual
+## `ldm.3` 🗂️ Parte 3 - Pós-textual
 
-### `ldm.3.01` :page_with_curl: Nota Explicativa
-
-### `ldm.3.02` :card_file_box: Índice Geral
-
-#### `ldm.3.02.01` :yellow_square: A
-
-#### `ldm.3.02.02` :yellow_square: B
-
-#### `ldm.3.02.03` :yellow_square: C
-
-#### `ldm.3.02.04` :yellow_square: D
-
-#### `ldm.3.02.05` :yellow_square: E
-
-#### `ldm.3.02.06` :yellow_square: F
-
-#### `ldm.3.02.07` :yellow_square: G
-
-#### `ldm.3.02.08` :yellow_square: H
-
-#### `ldm.3.02.09` :yellow_square: I
-
-#### `ldm.3.02.10` :yellow_square: J
-
-#### `ldm.3.02.11` :yellow_square: K
-
-#### `ldm.3.02.12` :yellow_square: L
-
-#### `ldm.3.02.13` :yellow_square: M
-
-#### `ldm.3.02.14` :yellow_square: N
-
-#### `ldm.3.02.15` :yellow_square: O
-
-#### `ldm.3.02.16` :yellow_square: P
-
-#### `ldm.3.02.17` :yellow_square: R
-
-#### `ldm.3.02.18` :yellow_square: S
-
-#### `ldm.3.02.19` :yellow_square: T
-
-#### `ldm.3.02.20` :yellow_square: U
-
-#### `ldm.3.02.21` :yellow_square: V
-
-:fleur_de_lis:
+### `ldm.3.01` 📃 Nota Explicativa
