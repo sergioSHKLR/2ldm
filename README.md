@@ -7,8 +7,8 @@ O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
 | Descrição | arquivo |
 | --- | --- |
-| sem Índice Geral ou tags | **1ldm**-(versão).md | 
-| com Índice Geral e tags | **1ldm-ig**-(versão).md | 
+| sem Índice Geral ou tags | **2ldm**-(versão).md | 
+| com Índice Geral e tags | **2ldm-ig**-(versão).md | 
 
 ## 1. Objetivo
 
@@ -73,14 +73,12 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
 | 📑 | capítulo | subdivisão de partes | #️⃣ parágrafos | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
 | #️⃣ | parágrafo |  | - | 📑 capítulos | `ldm.pX` | hash |
 
-* Existem exceções deste formato, tais como 59, 100-113, 222, 257, 455 e 872.
-
 ##### 6.2.1. Adicionais
 
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
-| 🟨 | assunto | agrupa #️⃣ parágrafos | yellow_square |
+| 🏷️ | tag | agrupa #️⃣ parágrafos por assunto | label |
 <!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
