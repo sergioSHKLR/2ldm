@@ -7,8 +7,8 @@ O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
 | Descrição | arquivo |
 | --- | --- |
-| sem Índice Geral ou tags; respostas à mostra | **1ldm**-(versão).md | 
-| com Índice Geral e tags; respostas à mostra | **1ldm-ig**-(versão).md | 
+| sem Índice Geral ou tags | **1ldm**-(versão).md | 
+| com Índice Geral e tags | **1ldm-ig**-(versão).md | 
 
 ## 1. Objetivo
 
