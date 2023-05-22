@@ -149,7 +149,7 @@ Deus abençoa, sempre!
 
 🎩 Fundador
 
-| --- |
+| --- | --- | --- |
 | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1lde) |
 
 ## 10. Notas
