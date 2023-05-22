@@ -53,15 +53,6 @@ Analisando a divisão do livro em partes, decidimos nomear a seção anterior à
 Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 - respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
-- comentários de Kardec serão *nested blockquotes* (linha cinza vertical, dupla),
-- trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
-- trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
-
-Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
-
-Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
-
-- respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
 - trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
 - trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
 
