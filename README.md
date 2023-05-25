@@ -5,10 +5,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
-| Descrição | arquivo |
-| --- | --- |
-| sem Índice Geral ou tags | **2ldm**-(versão).md | 
-| com Índice Geral e tags | **2ldm-ig**-(versão).md | 
+[**1ldm**-05.23b.md](./1lde-05.23b.md)
 
 ## 1. Objetivo
 
@@ -51,36 +48,66 @@ Analisando a divisão do livro em partes, decidimos nomear a seção anterior à
 Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 - respostas dos Espíritos (entre aspas) serão destacadas em *blockquote* (linha cinza vertical, simples),
+- comentários de Kardec serão *nested blockquotes* (linha cinza vertical, dupla),
 - trechos bíblicos serão identificados com o emoji ✝️ e atribuídos com livro, capítulo e versículo,
 - trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-### 6.1. Formatação de texto (2ldm.md)
+### 6.1. Formatação de texto (1lde)
 
-(create sample)
+#### 6.1.1 Questões
+
+`lde.q3` #️⃣ 3
+
+3. Poder-se-ia dizer que **Deus** é o infinito?
+
+> “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+
+---
+
+#### 6.1.2 Trechos bíblicos
+
+E disse Jesus:
+
+“_A cada um, de acordo com suas obras._”
+
+✝️ Romanos, cap. 2, vers. 6
 
 ---
 
 ### 6.2. Legenda
+<!--
+Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou grupamento.
+| **Livro** | **Abreviação** | **emoji** | **GFM** |
+|---|---|---|---|
+| O Livro dos Espíritos | LDE | 👻 | ghost |
+| O Livro dos Médiuns | LDM | ✒️ | black_nib |
+| O Evangelho segundo o Espiritismo | ESE | 🕊️ | dove |
+| O Céu e o Inferno | CEU | 🔥 | fire |
+| A Gênese | GEN | 🌱 | seedling |
+-->
 
-| **Icone** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
+Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
+
+| **emoji** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
 |---|---|---|---|---|---|---|
 | 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `ldm` | notebook_with_decorative_cover |
 | 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | #️⃣ parágrafos | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
-| #️⃣ | parágrafo |  | - | 📑 capítulos | `ldm.pX` | hash |
+| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
+| #️⃣ | parágrafo | elemento básico | - | 📃 seções | `ldm.pX` | hash |
 
 ##### 6.2.1. Adicionais
 
 | **Icone** | **Descrição** | **Conteúdo** | **GFM** |
 |---|---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
+<!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
-| 🏷️ | _tag_ | agrupa #️⃣ parágrafos por assunto | label |
-<!-- | ⚜️ | fim | término de um elemento | fleur_de_lis | -->
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
+| ⚜️ | fim | término de um elemento | fleur_de_lis | -->
 
 ### 6.3. Hierarquia 
 
@@ -94,8 +121,6 @@ Os emojis abaixo denotam a seguinte arrumação, do maior ao menor elemento ou g
            └── #️⃣ parágrafo
 
 ✝️ ─ trecho bíblico
-🗃️ ─ Índice Geral
-🏷️ ─ assunto
 ```
 
 Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X` para:
@@ -145,7 +170,7 @@ Deus abençoa, sempre!
 ![Sergio SHKLR](./images/sign-dark.png#gh-dark-mode-only)
 ![Sergio SHKLR](./images/sign-light.png#gh-light-mode-only)
 
-| cargo | companhia | website | email |
+| cargo | organização | website | email |
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1ldm) |
 
@@ -168,5 +193,3 @@ Deus abençoa, sempre!
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
-
-⚜️
