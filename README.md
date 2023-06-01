@@ -5,7 +5,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
-[**1ldm**-05.23b.md](./1lde-05.23b.md)
+[**1ldm**-06.23.md]()
 
 ## 1. Objetivo
 
