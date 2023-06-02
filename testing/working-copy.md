@@ -167,7 +167,7 @@ Tanta puerilidade haveria em se querer ver todo o Espiritismo numa mesa girante,
 5º Se bem reconheça um fundo de verdade em muitas crenças populares, o Espiritismo de modo algum dá sua solidariedade a todas as histórias fantásticas que a imaginação há criado.
 <br /><br />
 6º Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
-<br />
+<br /><br />
 7º A explicação dos fatos que o Espiritismo admite, de suas causas e consequências morais, forma toda uma ciência e toda uma filosofia, que reclamam estudo sério, perseverante e aprofundado.
 <br /><br />
 8º O Espiritismo não pode considerar crítico sério senão aquele que tudo tenha visto, estudado e aprofundado com a paciência e a perseverança de um observador consciencioso; que do assunto saiba tanto quanto qualquer adepto instruído; que haja, por conseguinte, haurido seus conhecimentos algures, que não nos romances da ciência; aquele a quem não se possa opor **fato algum** que lhe seja desconhecido, nenhum argumento de que já não tenha cogitado e cuja refutação faça não por mera negação, mas por meio de outros argumentos mais peremptórios; aquele, finalmente, que possa indicar, para os fatos averiguados, causa mais lógica do que a que lhes aponta o Espiritismo. Tal crítico ainda está por aparecer.<br /><br />
