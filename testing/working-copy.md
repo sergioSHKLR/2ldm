@@ -93,7 +93,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 #### `ldm.p6` #️⃣ 6
 6. Abstraiamos, por instante, dos fatos que, ao nosso ver, tornam incontestável a realidade dessa comunicação; admitamo-la apenas como hipótese. Pedimos aos incrédulos que nos provem, não por simples negativas, visto que suas opiniões pessoais não podem constituir lei, mas expendendo razões peremptórias, que tal coisa não pode dar-se. Colocando-nos no terreno em que eles se colocam, uma vez que entendem de apreciar os fatos espíritas com o auxílio das leis da matéria, que tirem desse arsenal qualquer demonstração matemática, física, química, mecânica, fisiológica e provem por **a** mais **b**, partindo sempre do princípio da existência e da sobrevivência da alma:<br /><br />
-1º que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;
+1º que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;<br /><br />
 2º que, se continua a pensar, está inibido de pensar naqueles a quem amou;
 <br /><br />
 3º que, se pensa nestes, não cogita de se comunicar com eles;
