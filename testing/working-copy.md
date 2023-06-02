@@ -107,7 +107,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 7º que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
 <br /><br />
 8º que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
-<br />
+<br /><br />
 9º que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.<br /><br />
 Quando os adversários do Espiritismo nos provarem que isto é impossível, aduzindo razões tão patentes quais as com que Galileu demonstrou que o Sol não é que gira em torno da Terra, então poderemos considerar-lhes fundadas as dúvidas. Infelizmente, até hoje, toda a argumentação a que recorrem se resume nestas palavras:<br /><br />
 **Não creio, logo isto é impossível.**<br /><br />
