@@ -2,8 +2,6 @@
 
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
----
-
 ### `ldm.0.01` 📃 Folha de rosto
 
 Espiritismo Experimental
