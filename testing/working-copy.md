@@ -1,4 +1,4 @@
-# `ldm` ✒️ O Livro dos Médiuns (working copy)
+# `ldm` ✒️ O LIVRO DOS MEDIUNS (working copy)
 
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
