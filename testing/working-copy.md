@@ -54,8 +54,6 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 
 ## `ldm.1` 🗂️ Parte 1 - Noções Preliminares
 
----
-
 ### `ldm.1.01` 📑 1. Há Espíritos?
 
 ---
