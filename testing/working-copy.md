@@ -185,9 +185,9 @@ Esclarecendo-nos com relação a essa potência, o Espiritismo nos dá a explica
 Quanto à personagem que se apresentou na Salette, é outra questão. Sua identidade não nos foi absolutamente demonstrada. Apenas reconhecemos que pode ter havido uma aparição; quanto ao mais, escapa à nossa competência. A esse respeito, cada um está no direito de manter suas convicções, nada tendo o Espiritismo que ver com isso. Dizemos tão somente que os fatos que o Espiritismo produz nos revelam leis novas e nos dão a explicação de um mundo de coisas que pareciam sobrenaturais. Desde que alguns dos que passavam por miraculosos encontram, assim, explicação lógica, motivo é este bastante para que ninguém se apresse a negar o que não compreende.<br /><br />
 Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.<br /><br />
 
-[^1]: 1. N.E. : Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
+[^1]: N.E. : Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
-[^2]: 2. N.E. : Mau pintor.
+[^2]: N.E. : Mau pintor.
 
 [^3]: Rafael Sanzio (1483–1520), pintor, escultor e arquiteto italiano. O seu gênio reunia todas as qualidades: perfeição do desenho, vivacidade dos movimentos, harmonia das linhas, delicadeza do colorido. Deixou grande número de obras-primas. É considerado o poeta da Pintura, como Ovídio foi considerado o músico da Poesia e como Chopin é considerado o poeta da Música.
 
