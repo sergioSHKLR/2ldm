@@ -4,9 +4,9 @@
 Sumário
 
   - [`ldm.0` 🗂️ Parte 0 - Pré-textual](#ldm0-%EF%B8%8F-parte-0---pr%C3%A9-textual)
-  - [`ldm.1` 🗂️ Parte 1 - Noções Preliminares](#ldm1--parte-1---noes-preliminares)
-  - [`ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas](#ldm2--parte-2---das-manifestaes-espritas)
-  - [`ldm.3` 🗂️ Parte 3 - Pós-textual](#ldm3--parte-3---ps-textual)
+  - [`ldm.1` 🗂️ Parte 1 - Noções Preliminares](#ldm1-%EF%B8%8F-parte-1---no%C3%A7%C3%B5es-preliminares)
+  - [`ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas](#ldm2-%EF%B8%8F-parte-2---das-manifesta%C3%A7%C3%B5es-esp%C3%ADritas)
+  - [`ldm.3` 🗂️ Parte 3 - Pós-textual](#ldm3-%EF%B8%8F-parte-3---p%C3%B3s-textual)
 
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
