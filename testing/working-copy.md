@@ -80,9 +80,9 @@ Figuremos, primeiramente, o Espírito em união com o corpo. Ele é o ser princi
 #### `ldm.p4` #️⃣ 4
 4. A existência da alma e a de Deus, consequência uma da outra, constituem a base de todo o edifício. Antes de travarmos qualquer discussão espírita, importa indaguemos se o nosso interlocutor admite essa base.<br /><br />
 Se a estas questões:<br /><br />
-Credes em Deus?<br />
-Credes que tendes uma alma?<br />
-Credes na sobrevivência da alma após a morte?<br /><br />
+- Credes em Deus?<br />
+- Credes que tendes uma alma?<br />
+- Credes na sobrevivência da alma após a morte?<br /><br />
 responder negativamente, ou, mesmo, se disser simplesmente: **Não sei; desejara que assim fosse, mas não tenho a certeza disso**, o que, quase sempre, equivale a uma negação polida, disfarçada sob uma forma menos categórica, para não chocar bruscamente o a que ele chama preconceitos respeitáveis, tão inútil seria ir além, como querer demonstrar as propriedades da luz a um cego que não admitisse a existência da luz. Porque, em suma, as manifestações espíritas não são mais do que efeitos das propriedades da alma. Com semelhante interlocutor, se se não quiser perder tempo, ter-se-á que seguir muito diversa ordem de ideias.<br /><br />
 Admitida que seja a base não como simples **probabilidade**, mas como coisa averiguada, incontestável, dela muito naturalmente decorrerá a existência dos Espíritos.<br /><br />
 
