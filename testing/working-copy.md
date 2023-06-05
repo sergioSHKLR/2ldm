@@ -1,6 +1,13 @@
 
 # `ldm` ✒️ O LIVRO DOS MEDIUNS (working copy)
 
+Sumário
+
+  - [`ldm.0` 🗂️ Parte 0 - Pré-textual](#ldm0--parte-0---pr-textual)
+  - [`ldm.1` 🗂️ Parte 1 - Noções Preliminares](#ldm1--parte-1---noes-preliminares)
+  - [`ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas](#ldm2--parte-2---das-manifestaes-espritas)
+  - [`ldm.3` 🗂️ Parte 3 - Pós-textual](#ldm3--parte-3---ps-textual)
+
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
 ### `ldm.0.01` 📃 Folha de rosto
