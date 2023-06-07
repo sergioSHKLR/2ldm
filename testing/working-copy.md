@@ -500,22 +500,23 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 73. Desde que se tornaram conhecidas a natureza dos Espíritos, sua forma humana, as propriedades semimateriais do perispírito, a ação mecânica que este pode exercer sobre a matéria; desde que, em casos de aparição, se viram mãos fluídicas e mesmo tangíveis tomar dos objetos e transportá-los, julgou-se, como era natural, que o Espírito se servia muito simplesmente de suas próprias mãos para fazer que a mesa girasse e que à força de braço é que ela se erguia no espaço. Mas, então, sendo assim, que necessidade havia de médium? Não pode o Espírito atuar só por si? Porque é evidente que o médium, que as mais das vezes põe as mãos sobre a mesa em sentido contrário ao do seu movimento, ou que mesmo não coloca ali as mãos, não pode secundar o Espírito por meio de uma ação muscular qualquer. Deixemos, porém, que primeiro falem os Espíritos a quem interrogamos sobre esta questão.
 
 #### `ldm.p74` #️⃣ 74
-74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.<br /><br />1. Será o fluido universal uma emanação da divindade?<br />
->“Não.”<br />
-2. Será uma criação da divindade?<br />
->“Tudo é criado, exceto Deus.”<br />
-3. O fluido universal será ao mesmo tempo o elemento universal?<br />
->“Sim, é o princípio elementar de todas as coisas.”<br />
-4. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?<br />
->“É o seu elemento.”<br />
-5. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?<br />
->“Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais fluido magnético animal.”<br />
-6. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?<br />
->“Não, esse fluido apenas anima a matéria.”<br />
-7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?<br />
->“Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”<br />
-8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
->“Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br />
+74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.<br /><br />
+    1. Será o fluido universal uma emanação da divindade?<br />
+    >“Não.”<br />
+    2. Será uma criação da divindade?<br />
+    >“Tudo é criado, exceto Deus.”<br />
+    3. O fluido universal será ao mesmo tempo o elemento universal?<br />
+    >“Sim, é o princípio elementar de todas as coisas.”<br />
+    4. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?<br />
+    >“É o seu elemento.”<br />
+    5. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?<br />
+    >“Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais fluido magnético animal.”<br />
+    6. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?<br />
+    >“Não, esse fluido apenas anima a matéria.”<br />
+    7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?<br />
+    >“Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”<br />
+    8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
+    >“Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br />
 
 #### `ldm.p75` #️⃣ 75
 
