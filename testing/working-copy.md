@@ -505,8 +505,9 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
         1. Será o fluido universal uma emanação da divindade?
 
     “Não.“
+    <br />
 
-    2. Será uma criação da divindade?
+        2. Será uma criação da divindade?
     “Tudo é criado, exceto Deus.”
         3. O fluido universal será ao mesmo tempo o elemento universal?<br />
     “Sim, é o princípio elementar de todas as coisas.
