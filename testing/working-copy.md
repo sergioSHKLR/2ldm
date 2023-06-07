@@ -780,7 +780,7 @@ Nota de Erasto. Não atribuais aos Espíritos o que é obra do homem, mas crede 
 “Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”<br /><br />
 18ª Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?<br />
 “Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”<br /><br />
-19a Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?<br />
+19ª Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?<br />
 “Tirei a matéria que os envolvia.”<br /><br />
 Nota de Erasto. O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.<br /><br /> 
 20ª (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?<br />
