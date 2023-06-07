@@ -554,7 +554,7 @@ provocar.<br /><br />
         20. As pessoas qualificadas de elétricas podem ser consideradas médiuns?<br />
 “Essas pessoas tiram de si mesmas o fluido necessário à produção do fenômeno e podem operar sem o concurso de outros Espíritos. Não são, portanto, médiuns, no sentido que se atribui a esta palavra. Mas também pode dar-se que um Espírito as assista e se aproveite de suas disposições naturais.”<br /><br />
         Nota. Sucede com essas pessoas o que ocorre com os sonâmbulos, que podem operar com ou sem o concurso de Espíritos estranhos. (Veja-se, no capítulo Dos médiuns, o artigo relativo aos médiuns sonambúlicos.)
-        21. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?<br />
+        21. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?<br /><br />
 “Dá-se uma e outra coisa. Já dissemos que a matéria não constitui obstáculos para os Espíritos. Em tudo eles penetram. Uma porção do perispírito se identifica, por assim dizer, com o objeto em que penetra.”<br /><br />
         22. Como faz o Espírito para bater? Serve-se de algum objeto material?<br />
 “Tanto quanto dos braços para levantar a mesa. Sabes perfeitamente que nenhum martelo tem o Espírito à sua disposição. Seu martelo é o fluido que, combinado, ele põe em ação, pela sua vontade, para mover ou bater. Quando move um objeto, a luz vos dá a percepção do movimento; quando bate, o ar vos traz o som.”<br /><br />
