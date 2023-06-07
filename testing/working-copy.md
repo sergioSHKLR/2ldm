@@ -502,7 +502,7 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 #### `ldm.p74` #️⃣ 74
 74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.
 
-    1. Será o fluido universal uma emanação da divindade?
+     1. Será o fluido universal uma emanação da divindade?
     “Não.“
        2. Será uma criação da divindade?
     “Tudo é criado, exceto Deus.”
