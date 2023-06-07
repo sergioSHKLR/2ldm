@@ -500,8 +500,7 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 73. Desde que se tornaram conhecidas a natureza dos Espíritos, sua forma humana, as propriedades semimateriais do perispírito, a ação mecânica que este pode exercer sobre a matéria; desde que, em casos de aparição, se viram mãos fluídicas e mesmo tangíveis tomar dos objetos e transportá-los, julgou-se, como era natural, que o Espírito se servia muito simplesmente de suas próprias mãos para fazer que a mesa girasse e que à força de braço é que ela se erguia no espaço. Mas, então, sendo assim, que necessidade havia de médium? Não pode o Espírito atuar só por si? Porque é evidente que o médium, que as mais das vezes põe as mãos sobre a mesa em sentido contrário ao do seu movimento, ou que mesmo não coloca ali as mãos, não pode secundar o Espírito por meio de uma ação muscular qualquer. Deixemos, porém, que primeiro falem os Espíritos a quem interrogamos sobre esta questão.
 
 #### `ldm.p74` #️⃣ 74
-74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.<br />
-<br />
+74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.<br /><br />
     1. Será o fluido universal uma emanação da divindade?<br />
 “Não.“
 <br />
