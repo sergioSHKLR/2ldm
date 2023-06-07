@@ -503,44 +503,44 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.<br /><br />
         1. Será o fluido universal uma emanação da divindade?<br />
 “Não.“<br /><br />
-2. Será uma criação da divindade?<br />
+        2. Será uma criação da divindade?<br />
 “Tudo é criado, exceto Deus.”<br /><br />
-3. O fluido universal será ao mesmo tempo o elemento universal?<br />
+        3. O fluido universal será ao mesmo tempo o elemento universal?<br />
 “Sim, é o princípio elementar de todas as coisas.”<br /><br />
-4. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?<br />
+        4. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?<br />
 “É o seu elemento.”<br /><br />
-5. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?<br />
+        5. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?<br />
 “Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais *fluido magnético animal*.”<br /><br />
-6. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?<br />
+        6. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?<br />
 “Não, esse fluido apenas anima a matéria.”<br /><br />
-7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?<br />
+        7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?<br />
 “Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”<br /><br />
-8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
+        8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
 “Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br /><br />
-9. Será com os seus próprios membros, de certo modo solidificados, que os Espíritos levantam a mesa?<br />
+        9. Será com os seus próprios membros, de certo modo solidificados, que os Espíritos levantam a mesa?<br />
 “Esta resposta ainda não te levará até onde desejas. Quando, sob as vossas mãos, uma mesa se move, o Espírito haure no fluido universal o que é necessário para lhe dar uma vida factícia. Assim preparada a mesa, o Espírito a atrai e move sob a influência do fluido que de si mesmo desprende, por efeito da sua vontade. Quando quer pôr em movimento uma massa por demais pesada para suas forças, chama em seu auxílio outros Espíritos, cujas condições sejam idênticas às suas. Em virtude da sua natureza etérea, o Espírito propriamente dito não pode atuar sobre a matéria grosseira sem intermediário, isto é, sem o elemento que o liga à matéria. Esse elemento, que constitui o que chamais perispírito, vos faculta a chave de todos os fenômenos espíritas de ordem material. Julgo ter-me explicado muito claramente, para ser compreendido.”<br /><br />
 Nota. Chamamos a atenção para a seguinte frase, primeira da resposta acima: Esta resposta AINDA não te levará até onde desejas. O Espírito compreendera perfeitamente que todas as questões precedentes só haviam sido formuladas para chegarmos a esta última e alude ao nosso pensamento que, com efeito, esperava por outra resposta muito diversa, isto é, pela confirmação da ideia que tínhamos sobre a maneira por que o Espírito obtém o movimento da mesa.<br /><br />
-10. Os Espíritos que aquele que deseja mover um objeto chama em seu auxílio são-lhe inferiores? Estão-lhe sob as ordens?<br />
+        10. Os Espíritos que aquele que deseja mover um objeto chama em seu auxílio são-lhe inferiores? Estão-lhe sob as ordens?<br />
 “São-lhe iguais, quase sempre. Muitas vezes acodem espontaneamente.”<br /><br />
-11. São aptos, todos os Espíritos, a produzir fenômenos deste gênero?<br />
+        11. São aptos, todos os Espíritos, a produzir fenômenos deste gênero?<br />
 “Os que produzem efeitos desta espécie são sempre Espíritos inferiores, que ainda se não desprenderam inteiramente de toda a influência material.”<br /><br />
-12. Compreendemos que os Espíritos Superiores não se ocupam com coisas que estão muito abaixo deles. Mas perguntamos se, uma vez que estão mais desmaterializados, teriam o poder de fazê-lo, dado que o quisessem?<br />
+        12. Compreendemos que os Espíritos Superiores não se ocupam com coisas que estão muito abaixo deles. Mas perguntamos se, uma vez que estão mais desmaterializados, teriam o poder de fazê-lo, dado que o quisessem?<br />
 “Os Espíritos Superiores têm a força moral, como os outros têm a força física. Quando precisam desta força, servem-se dos que a possuem. Já não se vos disse que eles se servem dos Espíritos inferiores, como vós vos servis dos carregadores?”<br /><br />
 Nota. Já foi explicado que a densidade do perispírito, se assim se pode dizer, varia de acordo com o estado dos mundos. Parece que também varia, em um mesmo mundo, de indivíduo para indivíduo. Nos Espíritos moralmente adiantados, é mais sutil e se aproxima da dos Espíritos elevados; nos Espíritos inferiores, ao contrário, aproxima-se da matéria e é o que faz que os Espíritos de baixa condição conservem por muito tempo as ilusões da vida terrestre. Esses pensam e obram como se ainda fossem vivos; experimentam os mesmos desejos e quase que se poderia dizer a mesma sensualidade. Esta grosseria do perispírito, dando-lhe mais afinidade com a matéria, torna os Espíritos inferiores mais aptos às manifestações físicas. Pela mesma razão é que um homem de sociedade, habituado aos trabalhos da inteligência, franzino e delicado de corpo, não pode suspender fardos pesados, como o faz um carregador. Nele, a matéria é, de certa maneira, menos compacta, menos resistentes os órgãos; há menos fluido nervoso. Sendo o perispírito, para o Espírito, o que o corpo é para o homem e como à sua maior densidade corresponde menor superioridade espiritual, essa densidade substitui no Espírito a força muscular, isto é, dá-lhe, sobre os fluidos necessários às manifestações, um poder maior do que o de que dispõem aqueles cuja natureza é mais etérea. Querendo um Espírito elevado produzir tais efeitos, faz o que entre nós fazem as pessoas delicadas: chama para executá-los um Espírito do ofício.<br /><br />
-13. Se compreendemos bem o que disseste, o princípio vital reside no fluido universal; o Espírito tira deste fluido o envoltório semimaterial que constitui o seu perispírito e é ainda por meio deste fluido que ele atua sobre a matéria inerte. É assim?<br />
+        13. Se compreendemos bem o que disseste, o princípio vital reside no fluido universal; o Espírito tira deste fluido o envoltório semimaterial que constitui o seu perispírito e é ainda por meio deste fluido que ele atua sobre a matéria inerte. É assim?<br />
 “É. Quer dizer: ele empresta à matéria uma espécie de vida factícia; a matéria se anima da vida animal. A mesa, que se move debaixo das vossas mãos, vive como animal; obedece por si mesma ao ser inteligente. Não é este quem a impele, como faz o homem com um fardo. Quando ela se eleva, não é o Espírito quem a levanta com o esforço do seu braço: é a própria mesa que, animada, obedece à impulsão que lhe dá o Espírito.”<br /><br />
-14. Que papel desempenha o médium nesse fenômeno?<br />
+        14. Que papel desempenha o médium nesse fenômeno?<br />
 “Já eu disse que o fluido próprio do médium se combina com o fluido universal que o Espírito acumula. É necessária a união desses dois fluidos, isto é, do fluido animalizado e do fluido universal para dar vida à mesa. Mas nota bem que essa vida é apenas momentânea, que se extingue com a ação e, às vezes, antes que esta termine, logo que a quantidade de fluido deixa de ser bastante para a animar.”<br /><br />
-15. Pode o Espírito atuar sem o concurso de um médium?<br />
+        15. Pode o Espírito atuar sem o concurso de um médium?<br />
 “Pode atuar à revelia do médium. Quer isto dizer que muitas pessoas, sem que o suspeitem, servem de auxiliares aos Espíritos. Delas haurem os Espíritos, como de uma fonte, o fluido animalizado de que necessitem. Assim é que o concurso de um médium, tal como o entendeis, nem sempre é preciso, o que se verifica principalmente nos fenômenos espontâneos.”<br /><br />
-16. Animada, atua a mesa com inteligência? Pensa?<br />
+        16. Animada, atua a mesa com inteligência? Pensa?<br />
 “Pensa tanto quanto a bengala com que fazes um sinal inteligente, mas a vitalidade de que se acha animada lhe permite obedecer à impulsão de uma inteligência. Fica, pois, sabendo que a mesa que se move não se torna Espírito e que não tem, em si mesma, capacidade de pensar, nem de querer.”<br /><br />
         Nota. Muito amiúde, na linguagem usual, servimo-nos de uma expressão análoga. Diz-se, de uma roda que gira velozmente, que está animada de um movimento rápido.<br /><br />
-17. Qual a causa preponderante na produção desse fenômeno: o Espírito ou o fluido?<br />
+        17. Qual a causa preponderante na produção desse fenômeno: o Espírito ou o fluido?<br />
 “O Espírito é a causa, o fluido, o instrumento; ambos são necessários.”<br /><br />
-18. Que papel, nesse caso, desempenha a vontade do médium?<br />
+        18. Que papel, nesse caso, desempenha a vontade do médium?<br />
 “O de atrair os Espíritos e secundá-los no impulso que dão ao fluido.”<br /><br />
-a) É sempre indispensável a ação da vontade?<br />
+        a) É sempre indispensável a ação da vontade?<br />
 “Aumenta a força, mas nem sempre é necessária, pois que o movimento pode produzir-se contra e apesar dessa vontade, e isso prova haver uma causa independente do médium.”<br /><br />
 Nota. Nem sempre o contato das mãos é necessário para que um objeto se mova.
 As mais das vezes, esse contato só se faz preciso para dar o primeiro impulso; porém, desde que o objeto está animado, pode obedecer à vontade do Espírito, sem
@@ -548,22 +548,22 @@ contato material. Depende isto, ou da potencialidade do médium, ou da natureza
 do Espírito. Nem sempre mesmo é indispensável um primeiro contato, do que
 são provas os movimentos e deslocamentos espontâneos que ninguém cogitou de
 provocar.<br /><br />
-19. Por que é que nem toda gente pode produzir o mesmo efeito e não têm todos os médiuns o mesmo poder?<br />
+        19. Por que é que nem toda gente pode produzir o mesmo efeito e não têm todos os médiuns o mesmo poder?<br />
 “Isto depende da organização e da maior ou menor facilidade com que se pode operar a combinação dos fluidos. Influi também a maior ou menor simpatia do médium para com os Espíritos que encontram nele a força fluídica necessária. Dá-se com esta força o que se verifica com a dos magnetizadores, que não é igual em todos. A esse respeito, há mesmo pessoas que são de todo refratárias; outras com as quais a combinação só se opera por um esforço de vontade da parte delas; outras, finalmente, com quem a combinação dos fluidos se efetua tão natural e facilmente que elas nem dão por isso e servem de instrumento a seu mau grado, como atrás dissemos.” (Vede aqui adiante o capítulo sobre as manifestações espontâneas.)<br /><br />
 Nota. Estes fenômenos têm, sem dúvida, por princípio o magnetismo, porém não como geralmente o entendem. A prova está na existência de poderosos magnetizadores que não conseguiram fazer que uma pequenina mesa se movesse e na de pessoas que não logram magnetizar ninguém, nem mesmo uma criança, às quais, no entanto, basta que ponham os dedos sobre uma mesa pesada para que esta se agite. Assim, desde que a força mediúnica não guarda proporção com a força magnética, é que outra causa existe.<br /><br />
-20. As pessoas qualificadas de elétricas podem ser consideradas médiuns?<br />
+        20. As pessoas qualificadas de elétricas podem ser consideradas médiuns?<br />
 “Essas pessoas tiram de si mesmas o fluido necessário à produção do fenômeno e podem operar sem o concurso de outros Espíritos. Não são, portanto, médiuns, no sentido que se atribui a esta palavra. Mas também pode dar-se que um Espírito as assista e se aproveite de suas disposições naturais.”<br /><br />
 Nota. Sucede com essas pessoas o que ocorre com os sonâmbulos, que podem operar com ou sem o concurso de Espíritos estranhos. (Veja-se, no capítulo Dos médiuns, o artigo relativo aos médiuns sonambúlicos.)<br /><br />
-21. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?<br /><br />
+        21. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?<br /><br />
 “Dá-se uma e outra coisa. Já dissemos que a matéria não constitui obstáculos para os Espíritos. Em tudo eles penetram. Uma porção do perispírito se identifica, por assim dizer, com o objeto em que penetra.”<br /><br />
-22. Como faz o Espírito para bater? Serve-se de algum objeto material?<br />
+        22. Como faz o Espírito para bater? Serve-se de algum objeto material?<br />
 “Tanto quanto dos braços para levantar a mesa. Sabes perfeitamente que nenhum martelo tem o Espírito à sua disposição. Seu martelo é o fluido que, combinado, ele põe em ação, pela sua vontade, para mover ou bater. Quando move um objeto, a luz vos dá a percepção do movimento; quando bate, o ar vos traz o som.”<br /><br />
-23. Concebemos que seja assim quando o Espírito bate num corpo duro; mas como pode fazer que se ouçam ruídos ou sons articulados na massa instável do ar?<br />
+        23. Concebemos que seja assim quando o Espírito bate num corpo duro; mas como pode fazer que se ouçam ruídos ou sons articulados na massa instável do ar?<br />
 “Pois que é possível atuar sobre a matéria, tanto pode ele atuar sobre uma mesa, como sobre o ar. Quanto aos sons articulados, pode imitá-los, como o pode fazer com quaisquer outros ruídos.”<br /><br />
-24. Dizes que o Espírito não se serve de suas mãos para deslocar a mesa. Entretanto, já se tem visto, em certas manifestações visuais, aparecerem mãos a dedilhar um teclado, a percutir as teclas e a tirar dali sons. Neste caso, o movimento das teclas não será devido, como parece, à pressão dos dedos? E não é também direta e real essa pressão, quando se faz sentir sobre nós, quando as mãos que a exercem deixam marcas na pele?<br />
+        24. Dizes que o Espírito não se serve de suas mãos para deslocar a mesa. Entretanto, já se tem visto, em certas manifestações visuais, aparecerem mãos a dedilhar um teclado, a percutir as teclas e a tirar dali sons. Neste caso, o movimento das teclas não será devido, como parece, à pressão dos dedos? E não é também direta e real essa pressão, quando se faz sentir sobre nós, quando as mãos que a exercem deixam marcas na pele?<br />
 “Não podeis compreender a natureza dos Espíritos nem a maneira por que atuam senão mediante comparações, que de uma e outra coisa apenas vos dão ideia incompleta, e errareis sempre que quiserdes assimilar aos vossos os processos de que eles usam. Estes, necessariamente, hão de corresponder à organização que lhes é própria. Já te não disse eu que o fluido do perispírito penetra a matéria e com ela se identifica, que a anima de uma vida factícia? Pois bem! Quando o Espírito põe os dedos sobre as teclas, realmente os põe e de fato as movimenta. Porém, não é por meio da força muscular que exerce a pressão. Ele as anima, como o faz com a mesa, e as teclas, obedecendo-lhe a vontade, se abaixam e tangem as cordas do piano. Em tudo isto uma coisa ainda se dá, que difícil vos será compreender: é que alguns Espíritos tão pouco adiantados se encontram e, em comparação com os Espíritos elevados, tão materiais se conservam que guardam as ilusões da vida terrena e julgam obrar como quando tinham o corpo de carne. Não percebem a verdadeira causa dos efeitos que produzem, mais do que um camponês compreende a teoria dos sons que articula. Perguntai-lhes como é que tocam piano e vos responderão que batendo com os dedos nas teclas, porque julgam ser assim que o fazem. O efeito se produz instintivamente neles, sem que saibam como, se bem lhes resulte da ação da vontade. O mesmo ocorre quando se exprimem por palavras.”<br /><br />
 Nota. Destas explicações decorre que os Espíritos podem produzir todos os efeitos que nós outros homens produzimos, mas por meios apropriados à sua organização. Algumas forças, que lhes são próprias, substituem os músculos de que precisamos para atuar, da mesma maneira que, para um mudo, o gesto substitui a palavra que lhe falta.<br /><br />
-25. Entre os fenômenos que se apontam como probantes da ação de uma potência oculta, alguns há evidentemente contrários a todas as conhecidas Leis da Natureza. Nesses casos, não será legítima a dúvida?<br />
+        25. Entre os fenômenos que se apontam como probantes da ação de uma potência oculta, alguns há evidentemente contrários a todas as conhecidas Leis da Natureza. Nesses casos, não será legítima a dúvida?<br />
 “É que o homem está longe de conhecer todas as Leis da Natureza. Se as conhecesse todas, seria Espírito Superior. Cada dia que se passa desmente os que, supondo tudo saberem, pretendem impor limites à Natureza, sem que por isso, entretanto, se tornem menos orgulhosos. Desvendando-lhe, incessantemente, novos mistérios, Deus adverte o homem de que deve desconfiar de suas próprias luzes, porquanto dia virá em que a ciência do mais sábio será confundida. Não tendes todos os dias, sob os olhos, exemplos de corpos animados de um movimento que domina a força da gravitação? Uma pedra, atirada para o ar, não sobrepuja momentaneamente aquela força? Pobres homens, que vos considerais muito sábios e cuja tola vaidade a todos os momentos está sendo desbancada, ficai sabendo que ainda sois muito pequeninos.”<br />
 
 #### `ldm.p75` #️⃣ 75
