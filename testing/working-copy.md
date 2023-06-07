@@ -517,7 +517,6 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 “Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”<br /><br />
         8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
 “Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br /><br />
-<br />
 
 #### `ldm.p75` #️⃣ 75
 
