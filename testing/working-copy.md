@@ -506,7 +506,6 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 
     “Não.“
     <br />
-
         2. Será uma criação da divindade?
     “Tudo é criado, exceto Deus.”
         3. O fluido universal será ao mesmo tempo o elemento universal?<br />
