@@ -519,9 +519,7 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 “Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br />
         9. Será com os seus próprios membros, de certo modo solidificados, que os Espíritos levantam a mesa?<br />
 “Esta resposta ainda não te levará até onde desejas. Quando, sob as vossas mãos, uma mesa se move, o Espírito haure no fluido universal o que é necessário para lhe dar uma vida factícia. Assim preparada a mesa, o Espírito a atrai e move sob a influência do fluido que de si mesmo desprende, por efeito da sua vontade. Quando quer pôr em movimento uma massa por demais pesada para suas forças, chama em seu auxílio outros Espíritos, cujas condições sejam idênticas às suas. Em virtude da sua natureza etérea, o Espírito propriamente dito não pode atuar sobre a matéria grosseira sem intermediário, isto é, sem o elemento que o liga à matéria. Esse elemento, que constitui o que chamais perispírito, vos faculta a chave de todos os fenômenos espíritas de ordem material. Julgo ter-me explicado muito claramente, para ser compreendido.”<br /><br />
-
 Nota. Chamamos a atenção para a seguinte frase, primeira da resposta acima: Esta resposta AINDA não te levará até onde desejas. O Espírito compreendera perfeitamente que todas as questões precedentes só haviam sido formuladas para chegarmos a esta última e alude ao nosso pensamento que, com efeito, esperava por outra resposta muito diversa, isto é, pela confirmação da ideia que tínhamos sobre a maneira por que o Espírito obtém o movimento da mesa.<br /><br />
-
         10. Os Espíritos que aquele que deseja mover um objeto chama em seu auxílio são-lhe inferiores? Estão-lhe sob as ordens?<br />
 “São-lhe iguais, quase sempre. Muitas vezes acodem espontaneamente.”<br /><br />
         11. São aptos, todos os Espíritos, a produzir fenômenos deste gênero?<br />
