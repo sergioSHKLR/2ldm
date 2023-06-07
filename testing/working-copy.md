@@ -757,7 +757,7 @@ Nota de Erasto. Creio que o fato foi explicado de modo incompleto, em virtude da
         11ª A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?<br />
         <blockquote>“Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados.”</blockquote><br />
 Nota de Erasto. Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.<br />
-        12ª Quais são as dificuldades que encontras?<br />
+        12ª Quais são as dificuldades que encontras?<br /><br />
         <blockquote>“Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”</blockquote><br />
         13ª Como trazes o objeto? Será segurando-o com as mãos?<br />
         <blockquote>“Não; envolvo-o em mim mesmo.”</blockquote><br />
