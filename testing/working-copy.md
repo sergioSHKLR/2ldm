@@ -516,7 +516,7 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
         7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?<br />
 “Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”<br /><br />
         8. Como pode um Espírito produzir o movimento de um corpo sólido?<br />
-“Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br /><br />
+“Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”<br />
 
 #### `ldm.p75` #️⃣ 75
 
