@@ -504,7 +504,7 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
     <br />
         1. Será o fluido universal uma emanação da divindade?
     >“Não.“
-<br />
+    <br />
         2. Será uma criação da divindade?<br />
     >“Tudo é criado, exceto Deus.”<br />
     <br />
