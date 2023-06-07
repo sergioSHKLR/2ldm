@@ -504,35 +504,35 @@ Uma ideia se apresenta muito naturalmente e nós a tivemos. Dando-nos outra expl
 
         1. Será o fluido universal uma emanação da divindade?
         
-        “Não.“
+    “Não.“
 
         2. Será uma criação da divindade?
 
-        “Tudo é criado, exceto Deus.”
+    “Tudo é criado, exceto Deus.”
 
         3. O fluido universal será ao mesmo tempo o elemento universal?
 
-        “Sim, é o princípio elementar de todas as coisas.
+    “Sim, é o princípio elementar de todas as coisas.
 
         4. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?
 
-        “É o seu elemento.”
+    “É o seu elemento.”
 
         5. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?
 
-        “Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais fluido magnético animal.”
+    “Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais fluido magnético animal.”
 
         6. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?
 
-        “Não, esse fluido apenas anima a matéria.”
+    “Não, esse fluido apenas anima a matéria.”
 
         7. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?
 
-        “Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”
+    “Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”
 
         8. Como pode um Espírito produzir o movimento de um corpo sólido?
 
-        “Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”
+    “Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”
 
 #### `ldm.p75` #️⃣ 75
 
