@@ -753,7 +753,7 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
         8ª. Será possível trazer flores de outro planeta?<br />
         <blockquote>“Não; a mim não me é possível.”</blockquote><br />
             <ol>(A Erasto) Teriam outros Espíritos esse poder?<br />
-         <blockquote>“Não, isso não é possível, em virtude da diferença dos meios ambientes.”</blockquote><br />
+         <blockquote>“Não, isso não é possível, em virtude da diferença dos meios ambientes.”</blockquote><br /></ol>
         9ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?<br />
         <blockquote>“Desde que seja da Terra, posso.”</blockquote><br />
         10ª. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?<br />
