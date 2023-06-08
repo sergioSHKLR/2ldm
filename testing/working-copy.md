@@ -796,7 +796,133 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
         <blockquote>“É complexa esta questão. O Espírito pode tornar invisíveis, porém não penetráveis, os objetos que ele transporte; não pode quebrar a agregação da matéria, porque seria a destruição do objeto. Tornando este invisível, o Espírito o pode transportar quando queira e não o libertar senão no momento oportuno, para fazê-lo aparecer. De modo diverso se passam as coisas, com relação aos que compomos. Como nestes só introduzimos os elementos da matéria, como esses elementos são essencialmente penetráveis e, ainda, como nós mesmos penetramos e atravessamos os corpos mais condensados, com a mesma facilidade com que os raios solares atravessam uma placa de vidro, podemos perfeitamente dizer que introduzimos o objeto num lugar que esteja hermeticamente fechado, mas isso somente neste caso.”</blockquote><br />
         Nota. Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.<br />
 
+
+
+### `ldm.2.06` 📑 6. Das manifestações visuais
+
 #### `ldm.p100` #️⃣ 100
+100. De todas as manifestações espíritas, as mais interessantes, sem contestação possível, são aquelas por meio das quais os Espíritos se tornam visíveis. Pela explicação deste fenômeno se verá que ele não é mais sobrenatural do que os outros. Vamos apresentar primeiramente as respostas que os Espíritos deram acerca do assunto:<br />
+        <blockquote>1ª Podem os Espíritos tornar-se visíveis?
+“Podem, sobretudo, durante o sono. Entretanto, algumas pessoas os veem quando acordadas, porém isso é mais raro.”
+Nota. Enquanto o corpo repousa, o Espírito se desprende dos laços materiais; fica mais livre e pode mais facilmente ver os outros Espíritos, entrando com eles em comunicação. O sonho não é senão a recordação desse estado. Quando de nada nos lembramos, diz-se que não sonhamos, mas nem por isso a alma deixou de ver e de gozar da sua liberdade. Aqui nos ocupamos especialmente com as aparições no estado de vigília.[^12] 
+2ª. Pertencem mais a uma categoria do que a outra os Espíritos que se manifestam fazendo-se visíveis?<br />
+        <blockquote>“Não; podem pertencer a todas as classes, assim às mais elevadas, como às mais inferiores.”
+3ª. A todos os Espíritos é dado manifestarem-se visivelmente?<br />
+        <blockquote>“Todos o podem, mas nem sempre têm permissão para fazê-lo, ou o querem.”
+4ª. Que fim objetivam os Espíritos que se manifestam visivelmente?<br />
+        <blockquote>“Isso depende; de acordo com as suas naturezas, o fim pode ser bom ou mau.”
+5ª. Como lhes pode ser permitido manifestar-se, quando para mau fim?<br />
+        <blockquote>“Nesse caso é para experimentar os a quem eles aparecem. Pode ser má a intenção do Espírito e bom o resultado.”
+6ª. Qual pode ser o fim que tem em vista o Espírito que se torna visível com má intenção?<br />
+        <blockquote>“Amedrontar e muitas vezes vingar-se.”
+a) Que visam os que vêm com boa intenção?<br />
+        <blockquote>“Consolar as pessoas que deles guardam saudades, provar-lhes que existem e que estão perto delas; dar conselhos e, algumas vezes, pedir para si mesmos assistência.”
+7ª. Que inconveniente haveria em ser permanente e geral entre os homens a possibilidade de verem os Espíritos? Não seria esse um meio de tirar a dúvida aos mais incrédulos?<br />
+        <blockquote>“Estando o homem constantemente cercado de Espíritos, vê-los a todos os instantes o perturbaria, embaraçar-lhe-ia os atos e tirar-lhe-ia a iniciativa na maioria dos casos, ao passo que, julgando-se só, ele age mais livremente. Quanto aos incrédulos, de muitos meios dispõem para se convencerem, se desses meios quiserem aproveitar-se e não estiverem cegos pelo orgulho. Sabes muito bem existirem pessoas que hão visto e que nem por isso creem, pois dizem que são ilusões. Com esses não te preocupes; deles se encarrega Deus.”
+                <ol>Nota
+                <blockquote>Tantos inconvenientes haveria em vermos constantemente os Espíritos, como em vermos o ar que nos cerca e as miríades de animais microscópicos que sobre nós e em torno de nós pululam. Donde devemos concluir que o que Deus faz é benfeito e que Ele sabe melhor do que nós o que nos convém.</blockquote><br /><br /></ol>
+8ª. Uma vez que há inconveniente em vermos os Espíritos, por que, em certos casos, é isso permitido?<br />
+        <blockquote>“Para dar ao homem uma prova de que nem tudo morre com o corpo, que a alma conserva a sua individualidade após a morte. A visão passageira basta para essa prova e para atestar a presença de amigos ao vosso lado e não oferece os inconvenientes da visão constante.”
+9ª. Nos mundos mais adiantados que o nosso, os Espíritos são vistos com mais frequência do que entre nós?<br />
+        <blockquote>“Quanto mais o homem se aproxima da natureza espiritual, tanto mais facilmente se põe em comunicação com os Espíritos. A grosseria do vosso envoltório é que dificulta e torna rara a percepção dos seres etéreos.”
+10ª. Será racional assustarmo-nos com a aparição de um Espírito?<br />
+        <blockquote>“Quem refletir deverá compreender que um Espírito, qualquer que seja, é menos perigoso do que um vivo. Demais, podendo os Espíritos, como podem, ir a toda parte, não se faz preciso que uma pessoa os veja para saber que alguns estão a seu lado. O Espírito que queira causar dano pode fazê-lo, e até com mais segurança, sem se dar a ver. Ele não é perigoso pelo fato de ser Espírito, mas sim pela influência que pode exercer sobre o homem, desviando-o do bem e impelindo-o ao mal.”
+                <ol>Nota
+                <blockquote>As pessoas que, quando se acham na solidão ou na obscuridade, se enchem de medo raramente se apercebem da causa de seus pavores. Não seriam capazes de dizer de que é que têm medo. Muito mais deveriam temer o encontro com homens do que com Espíritos, porquanto um malfeitor é bem mais perigoso quando vivo do que depois de morto. Uma senhora do nosso conhecimento teve uma noite, em seu quarto, uma aparição tão bem caracterizada que ela julgou estar em sua presença uma pessoa e a sua primeira sensação foi de terror. Certificada de que não havia pessoa alguma, disse: “Parece que é apenas um Espírito; posso dormir tranquila.”</blockquote><br /><br /></ol>
+11ª. Poderá aquele a quem um Espírito apareça travar com ele conversação?<br />
+        <blockquote>“Perfeitamente e é mesmo o que se deve fazer em tal caso, perguntando ao Espírito quem ele é, o que deseja e em que se lhe pode ser útil. Se se tratar de um Espírito infeliz e sofredor, a comiseração que se lhe testemunhar o aliviará. Se for um Espírito bondoso, pode acontecer que traga a intenção de dar bons conselhos.”
+a) Como pode o Espírito, nesse caso, responder?<br />
+        <blockquote>“Algumas vezes o faz por meio de sons articulados, como o faria uma pessoa viva. Na maioria dos casos, porém, pela transmissão dos pensamentos.”
+12ª. Os Espíritos que aparecem com asas têm-nas realmente ou essas asas são apenas uma aparência simbólica?<br />
+        <blockquote>“Os Espíritos não têm asas, nem de tal coisa precisam, visto que podem ir a toda parte como Espíritos. Aparecem da maneira por que precisam impressionar a pessoa a quem se mostram. Assim é que uns aparecerão em trajes comuns, outros envoltos em amplas roupagens, alguns com asas, como atributo da categoria espiritual a que pertencem.”
+13ª. As pessoas que vemos em sonho são sempre as que parecem ser pelo seu aspecto?<br />
+        <blockquote>“Quase sempre são mesmo as que os vossos Espíritos buscam, ou que vêm ao encontro deles.”
+14ª. Não poderiam os Espíritos zombeteiros tomar as aparências das pessoas que nos são caras, para nos induzirem em erro?<br />
+        <blockquote>“Somente para se divertirem à vossa custa tomam eles aparências fantásticas. Há coisas, porém, com que não lhes é lícito brincar.”
+15ª. Compreende-se que, sendo uma espécie de evocação, o pensamento faça com que se apresente o Espírito em quem se pensa. Como é, entretanto, que muitas vezes as pessoas em quem mais pensamos, que ardentemente desejamos tornar a ver, jamais se nos apresentam em sonho, ao passo que vemos outras que nos são indiferentes e nas quais nunca pensamos?<br />
+        <blockquote>“Os Espíritos nem sempre podem manifestar-se visivelmente, mesmo em sonho e malgrado o desejo que tenhais de vê-los. Pode dar-se que obstem a isso causas independentes da vontade deles. Frequentemente, é também uma prova de que não consegue triunfar o mais ardente desejo. Quanto às pessoas que vos são indiferentes, se é certo que nelas não pensais, bem pode acontecer que elas em vós pensem. Aliás, não podeis formar ideia das relações no mundo dos Espíritos. Lá tendes uma multidão de conhecimentos íntimos, antigos ou recentes, de que não suspeitais quando despertos.”
+                <ol>Nota
+                <blockquote>Quando nenhum meio tenhamos de verificar a realidade das visões ou aparições, podemos sem dúvida lançá-las à conta da alucinação. Quando, porém, os sucessos as confirmam, ninguém tem o direito de atribuí-las à imaginação. Tais, por exemplo, as aparições, que temos em sonho ou em estado de vigília, de pessoas em quem absolutamente não pensávamos e que, produzindo-as no momento em que morrem, vêm, por meio de sinais diversos, revelar as circunstâncias totalmente ignoradas em que faleceram. Têm-se visto cavalos empinarem e recusarem caminhar para a frente, por motivo de aparições que assustam os cavaleiros que os montam. Embora se admita que a imaginação desempenhe aí algum papel, quando o fato se passa com os homens, ninguém, certamente, negará que ela nada tem que ver com o caso, quando este se dá com os animais. Acresce que, se fosse exato que as imagens que vemos em sonho são sempre efeito das nossas preocupações quando acordados, não haveria como explicar que nunca sonhemos, conforme se verifica frequentemente, com aquilo em que mais pensamos.</blockquote><br /><br /></ol>
+16ª. Por que razão certas visões ocorrem com mais frequência quando se está doente?<br />
+        <blockquote>“Elas ocorrem do mesmo modo quando estais de perfeita saúde. Simplesmente, no estado de doença, os laços materiais se afrouxam; a fraqueza do corpo permite maior liberdade ao Espírito, que, então, se põe mais facilmente em comunicação com os outros Espíritos.”
+17ª. As aparições espontâneas parecem mais frequentes em certos países. Será que alguns povos estão mais bem-dotados do que outros para receberem esta espécie de manifestações?<br />
+        <blockquote>“Dar-se-á tenhais um registro histórico de cada aparição? As aparições, como os ruídos e todas as manifestações, produzem-se igualmente em todos os pontos da Terra; apresentam, porém, caracteres distintos, de conformidade com o povo em cujo seio se verificam. Nuns, por exemplo, onde o uso da escrita está pouco espalhado, não há médiuns escreventes; noutros, abundam os médiuns desta natureza; entre outros, observam-se mais os ruídos e os movimentos do que as manifestações inteligentes, por serem estas menos apreciadas e procuradas.”
+18ª. Por que é que as aparições se dão de preferência à noite? Não indica isso que elas são efeito do silêncio e da obscuridade sobre a imaginação?<br />
+        <blockquote>“Pela mesma razão por que vedes, durante a noite, as estrelas e não as divisais em pleno dia. A grande claridade pode apagar uma aparição ligeira, mas errôneo é supor-se que a noite tenha qualquer coisa com isso. Inquiri os que têm tido visões e verificareis que são em maior número os que as tiveram de dia.”
+                <ol>Nota
+                <blockquote>Muito mais frequentes e gerais do que se julga são as aparições; porém, muitas pessoas deixam de torná-las conhecidas, por medo do ridículo, e outras as atribuem à ilusão. Se parecem mais numerosas entre alguns povos, é isso devido a que aí se conservam com mais cuidado as tradições verdadeiras, ou falsas, quase sempre ampliadas pelo poder de sedução do maravilhoso a que mais ou menos se preste o aspecto das localidades. A credulidade então faz que se vejam efeitos sobrenaturais nos mais vulgares fenômenos: o silêncio da solidão, o escarpamento das quebradas, o mugido da floresta, as rajadas da tempestade, o eco das montanhas, a forma fantástica das nuvens, as sombras, as miragens, tudo, enfim, se presta à ilusão, para imaginações simples e ingênuas, que de boa-fé narram o que viram, ou julgaram ver. Porém, ao lado da ficção, há a realidade. O estudo sério do Espiritismo leva precisamente o homem a se desembaraçar de todas as superstições ridículas.</blockquote><br /><br /></ol>
+19ª. A visão dos Espíritos se produz no estado normal ou só estando o vidente num estado extático?<br />
+        <blockquote>“Pode produzir-se achando-se este em condições perfeitamente normais. Entretanto, as pessoas que os veem se encontram muito amiúde num estado próximo do de êxtase, estado que lhes faculta uma espécie de dupla vista.” (*O Livro dos Espíritos*, lde.q447)
+20ª. Os que veem os Espíritos veem-nos com os olhos?<br />
+        <blockquote>“Assim o julgam, mas, na realidade, é a alma quem vê, e o que o prova é que os podem ver com os olhos fechados.”
+21ª. Como pode o Espírito fazer-se visível?<br />
+        <blockquote>“O princípio é o mesmo de todas as manifestações, reside nas propriedades do perispírito, que pode sofrer diversas modificações ao sabor do Espírito.”
+22ª. Pode o Espírito propriamente dito fazer-se visível ou só o pode com o auxílio do perispírito?<br />
+        <blockquote>“No estado material em que vos achais, só com o auxílio de seus invólucros semimateriais podem os Espíritos manifestar-se. Esse invólucro é o intermediário por meio do qual eles atuam sobre os vossos sentidos. Sob esse envoltório é que aparecem, às vezes, com uma forma humana, ou com outra qualquer, seja nos sonhos, seja no estado de vigília, assim em plena luz, como na obscuridade.”
+23ª. Poder-se-á dizer que é pela condensação do fluido do perispírito que o Espírito se torna visível?<br />
+        <blockquote>“Condensação não é o termo. Essa palavra apenas pode ser usada para estabelecer uma comparação, que vos faculte compreender o fenômeno, porquanto não há realmente condensação. Pela combinação dos fluidos, o perispírito toma uma disposição especial, sem analogia para vós outros, disposição que o torna perceptível.”
+24ª. Os Espíritos que aparecem são sempre inapreensíveis e imperceptíveis ao tato?<br />
+        <blockquote>“Em seu estado normal, são inapreensíveis, como num sonho. Entretanto, podem tornar-se capazes de produzir impressão ao tato, de deixar vestígios de sua presença e até, em certos casos, de tornar-se momentaneamente tangíveis, o que prova haver matéria entre vós e eles.”
+25ª. Toda gente tem aptidão para ver os Espíritos?<br />
+        <blockquote>“Durante o sono, todos têm; em estado de vigília, não. Durante o sono, a alma vê sem intermediário; no estado de vigília, acha-se sempre mais ou menos influenciada pelos órgãos. Daí vem não serem totalmente idênticas as condições nos dois casos.”
+26ª. De que depende, para o homem, a faculdade de ver os Espíritos, em estado de vigília?<br />
+        <blockquote>“Depende da organização física. Reside na maior ou menor facilidade que tem o fluido do vidente para se combinar com o do Espírito. Assim, não basta que o Espírito queira mostrar-se, é preciso também que encontre a necessária aptidão na pessoa a quem deseje fazer-se visível.”
+a) Pode essa faculdade desenvolver-se pelo exercício?<br />
+        <blockquote>“Pode, como todas as outras faculdades, mas pertence ao número daquelas com relação às quais é melhor que se espere o desenvolvimento natural do que provocá-lo, para não sobre-excitar a imaginação. A de ver os Espíritos, em geral e permanentemente, constitui uma faculdade excepcional e não está nas condições normais do homem.”
+27ª. Pode-se provocar a aparição dos Espíritos?<br />
+        <blockquote>“Isso algumas vezes é possível, porém muito raramente. A aparição é quase sempre espontânea. Para que alguém veja os Espíritos, precisa ser dotado de uma faculdade especial.”
+28ª. Podem os Espíritos tornar-se visíveis sob outra aparência que não a da forma humana?<br />
+        <blockquote>“A humana é a forma normal. O Espírito pode variar-lhe a aparência, mas sempre com o tipo humano.”
+a) Não podem manifestar-se sob a forma de chama?<br />
+        <blockquote>“Podem produzir chamas, clarões, como todos os outros efeitos, para atestar sua presença, mas não são os próprios Espíritos que assim aparecem. A chama não passa muitas vezes de uma miragem ou de uma emanação do perispírito. Em todo caso, nunca é mais do que uma parcela deste. O perispírito não se mostra integralmente nas visões.”
+29ª. Que se deve pensar da crença que atribui os fogos-fátuos à presença de almas ou Espíritos?<br />
+        <blockquote>“Superstição produzida pela ignorância. Bem conhecida é a causa física dos fogos-fátuos.”
+a) A chama azul que, segundo dizem, apareceu sobre a cabeça de Sérvius Túlius, quando menino, é uma fábula ou foi real?<br />
+        <blockquote>“Era real e produzida por um Espírito familiar, que desse modo dava um aviso à mãe do menino. Médium vidente, essa mãe percebeu uma irradiação do Espírito protetor de seu filho. Assim como os médiuns escreventes não escrevem todos a mesma coisa, também, nos médiuns videntes, não é em todos do mesmo grau a vidência. Ao passo que aquela mãe viu apenas uma chama, outro médium teria podido ver o próprio corpo do Espírito.”
+30ª. Poderiam os Espíritos apresentar-se sob a forma de animais?<br />
+        <blockquote>“Isso pode dar-se, mas somente Espíritos muito inferiores tomam essas aparências. Em caso algum, porém, será mais do que uma aparência momentânea. Fora absurdo acreditar-se que um qualquer animal verdadeiro pudesse ser a encarnação de um Espírito. Os animais são sempre animais e nada mais do que isto.”
+                <ol>Nota
+                <blockquote>Somente a superstição pode fazer crer que certos animais são animados por Espíritos. É preciso uma imaginação muito complacente, ou muito impressionada, para ver qualquer coisa de sobrenatural nas circunstâncias um pouco extravagantes em que eles algumas vezes se apresentam. O medo faz que amiúde se veja o que não existe. Mas não só no medo tem sua origem essa ideia. Conhecemos uma senhora, muito inteligente aliás, que consagrava desmedida afeição a um gato preto, porque acreditava ser ele de natureza sobreanimal. Entretanto, essa senhora jamais ouvira falar do Espiritismo. Se o houvesse conhecido, ele lhe teria feito compreender o ridículo da causa de sua predileção pelo animal, provando-lhe a impossibilidade de tal metamorfose.</blockquote><br /><br /></ol>
+
+[^12]: A.K.: Ver, para mais particularidades sobre o estado do Espírito durante o sono, *O Livro dos Espíritos*, lde.q409.
+
+#### `ldm.p101` #️⃣ 101
+
+
+#### `ldm.p102` #️⃣ 102
+
+
+#### `ldm.p103` #️⃣ 103
+
+
+#### `ldm.p104` #️⃣ 104
+
+
+#### `ldm.p105` #️⃣ 105
+
+
+#### `ldm.p106` #️⃣ 106
+
+
+#### `ldm.p107` #️⃣ 107
+
+
+#### `ldm.p108` #️⃣ 108
+
+
+#### `ldm.p109` #️⃣ 109
+
+
+#### `ldm.p110` #️⃣ 110
+
+
+#### `ldm.p111` #️⃣ 111
+
+
+#### `ldm.p112` #️⃣ 112
+
+
+#### `ldm.p113` #️⃣ 113
 
 
 
