@@ -736,8 +736,8 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
         <blockquote>“Isto se prende à natureza do médium. Os fatos que produzo, quando o meu está adormecido, poderia produzi-los igualmente com outro médium em estado de vigília.”</blockquote><br />
         2ª. Por que fazes demorar tanto a trazida dos objetos e por que é que avivas a cobiça do médium, excitando-lhe o desejo de obter o objeto prometido?<br />
         <blockquote>“O tempo me é necessário a preparar os fluidos que servem para o transporte. Quanto à excitação, essa só tem por fim, as mais das vezes, divertir as pessoas presentes e o sonâmbulo.”</blockquote><br />
-Nota de Erasto<br />
-<blockquote>“O Espírito que responde não sabe mais do que isso; não percebe o motivo dessa cobiça, que ele instintivamente aguça, sem lhe compreender o efeito. Julga proporcionar um divertimento, enquanto, na realidade, provoca, sem o suspeitar, uma emissão maior de fluido. É uma consequência da dificuldade que o fenômeno apresenta, dificuldade sempre maior quando ele não é espontâneo, sobretudo com certos médiuns.”</blockquote><br />
+        Nota de Erasto<br />
+        <blockquote>“O Espírito que responde não sabe mais do que isso; não percebe o motivo dessa cobiça, que ele instintivamente aguça, sem lhe compreender o efeito. Julga proporcionar um divertimento, enquanto, na realidade, provoca, sem o suspeitar, uma emissão maior de fluido. É uma consequência da dificuldade que o fenômeno apresenta, dificuldade sempre maior quando ele não é espontâneo, sobretudo com certos médiuns.”</blockquote><br />
         3ª. Depende da natureza especial do médium a produção do fenômeno e poderia produzir-se por outros médiuns com mais facilidade e presteza?<br />
         <blockquote>“A produção depende da natureza do médium e o fenômeno não se pode produzir senão por meio de naturezas correspondentes. Pelo que toca à presteza, o hábito que adquirimos, comunicando-nos frequentemente com o mesmo médium, nos é de grande vantagem.”</blockquote><br />
         4ª. As pessoas presentes influem alguma coisa no fenômeno?<br />
@@ -748,11 +748,11 @@ Nota de Erasto<br />
         <blockquote>“Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.”</blockquote><br />
         7ª. Mas os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?<br />
         <blockquote>“Tirei-os de lugares que todos desconhecem e fi-lo por maneira que daí não resultará prejuízo para ninguém.”</blockquote><br />
-Nota de Erasto
-<blockquote>“Creio que o fato foi explicado de modo incompleto, em virtude da deficiência da capacidade do Espírito que respondeu. Sim, de fato, pode resultar prejuízo real, mas o Espírito não quis passar por haver desviado o que quer que fosse. Um objeto só pode ser substituído por outro objeto idêntico, da mesma forma, do mesmo valor. Conseguintemente, se um Espírito tivesse a faculdade de substituir, por outro objeto igual, um de que se apodera, já não teria razão para se apossar deste, visto que poderia dar o de que se iria servir para substituir o objeto retirado.”</blockquote><br />
+        Nota de Erasto
+        <blockquote>“Creio que o fato foi explicado de modo incompleto, em virtude da deficiência da capacidade do Espírito que respondeu. Sim, de fato, pode resultar prejuízo real, mas o Espírito não quis passar por haver desviado o que quer que fosse. Um objeto só pode ser substituído por outro objeto idêntico, da mesma forma, do mesmo valor. Conseguintemente, se um Espírito tivesse a faculdade de substituir, por outro objeto igual, um de que se apodera, já não teria razão para se apossar deste, visto que poderia dar o de que se iria servir para substituir o objeto retirado.”</blockquote><br />
         8ª. Será possível trazer flores de outro planeta?<br />
         <blockquote>“Não; a mim não me é possível.”</blockquote><br />
- – (A Erasto) Teriam outros Espíritos esse poder?<br />
+        – (A Erasto) Teriam outros Espíritos esse poder?<br />
          <blockquote>“Não, isso não é possível, em virtude da diferença dos meios ambientes.”</blockquote><br />
         9ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?<br />
         <blockquote>“Desde que seja da Terra, posso.”</blockquote><br />
@@ -760,37 +760,37 @@ Nota de Erasto
         <blockquote>“Assim como os trouxe aqui, posso levá-los, à minha vontade.”</blockquote><br />
         11ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?<br />
         <blockquote>“Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados.”</blockquote><br />
-Nota de Erasto
-<blockquote>“Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.<br /><br />
+        Nota de Erasto
+        <blockquote>“Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.<br /><br />
         12ª. Quais são as dificuldades que encontras?”</blockquote><br />
         <blockquote>“Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”</blockquote><br />
         13ª. Como trazes o objeto? Será segurando-o com as mãos?<br />
         <blockquote>“Não; envolvo-o em mim mesmo.”</blockquote><br />
-Nota de Erasto
-<blockquote>“A resposta não explica de modo claro a operação. Ele não envolve o objeto com a sua própria personalidade, mas, como o seu fluido pessoal é dilatável, combina uma parte desse fluido com o fluido animalizado do médium e é nesta combinação que oculta e transporta o objeto que escolheu para transportar. Ele, pois, não exprime com justeza o fato, dizendo que envolve em si o objeto.”</blockquote><br /><br />
+        Nota de Erasto
+        <blockquote>“A resposta não explica de modo claro a operação. Ele não envolve o objeto com a sua própria personalidade, mas, como o seu fluido pessoal é dilatável, combina uma parte desse fluido com o fluido animalizado do médium e é nesta combinação que oculta e transporta o objeto que escolheu para transportar. Ele, pois, não exprime com justeza o fato, dizendo que envolve em si o objeto.”</blockquote><br /><br />
         14ª. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos por exemplo?<br />
         <blockquote>“O peso nada é para nós. Trazemos flores, porque agrada mais do que um volume pesado.”</blockquote><br />
-Nota de Erasto
-<blockquote>“É exato. Pode trazer objetos de 100 ou 200 quilos, por isso que a gravidade, existente para vós, é anulada para os Espíritos. Mas, ainda aqui, ele não percebe bem o que se passa. A massa dos fluidos combinados é proporcional à dos objetos. Numa palavra, a força deve estar em proporção com a resistência; donde se segue que, se o Espírito apenas traz uma flor ou um objeto leve, é muitas vezes porque não encontra no médium, ou em si mesmo, os elementos necessários para um esforço mais considerável.”</blockquote><br />
+        Nota de Erasto
+        <blockquote>“É exato. Pode trazer objetos de 100 ou 200 quilos, por isso que a gravidade, existente para vós, é anulada para os Espíritos. Mas, ainda aqui, ele não percebe bem o que se passa. A massa dos fluidos combinados é proporcional à dos objetos. Numa palavra, a força deve estar em proporção com a resistência; donde se segue que, se o Espírito apenas traz uma flor ou um objeto leve, é muitas vezes porque não encontra no médium, ou em si mesmo, os elementos necessários para um esforço mais considerável.”</blockquote><br />
         15ª. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?<br />
         <blockquote>“Isso se dá com frequência; com mais frequência do que supondes, mas isso se pode remediar, pedindo ao Espírito que traga de novo o objeto desaparecido.”</blockquote><br />
-Nota de Erasto
-<blockquote>“É certo, mas, às vezes, o que é subtraído fica muito bem subtraído, pois que para muito longe são levados os objetos que desaparecem de uma casa e que o dono não mais consegue achar. Entretanto, como a subtração dos objetos exige quase que as mesmas condições fluídicas que o trazimento deles reclama, ela só se pode dar com o concurso de médiuns dotados de faculdades especiais. Por isso, quando alguma coisa desapareça, é mais provável que o fato seja devido a descuido vosso do que à ação dos Espíritos.”</blockquote><br />
+        Nota de Erasto
+        <blockquote>“É certo, mas, às vezes, o que é subtraído fica muito bem subtraído, pois que para muito longe são levados os objetos que desaparecem de uma casa e que o dono não mais consegue achar. Entretanto, como a subtração dos objetos exige quase que as mesmas condições fluídicas que o trazimento deles reclama, ela só se pode dar com o concurso de médiuns dotados de faculdades especiais. Por isso, quando alguma coisa desapareça, é mais provável que o fato seja devido a descuido vosso do que à ação dos Espíritos.”</blockquote><br />
         16ª. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?<br />
         <blockquote>“Nos dias que correm, abundam fatos dessa ordem, fatos que não percebeis, porque neles não pensais, mas que, com um pouco de reflexão, se vos tornariam patentes.”</blockquote><br />
-Nota de Erasto
-<blockquote>“Não atribuais aos Espíritos o que é obra do homem, mas crede na influência deles, oculta, constante, a criar em torno de vós mil circunstâncias, mil incidentes necessários ao cumprimento dos vossos atos, da vossa existência.”</blockquote><br />
+        Nota de Erasto
+        <blockquote>“Não atribuais aos Espíritos o que é obra do homem, mas crede na influência deles, oculta, constante, a criar em torno de vós mil circunstâncias, mil incidentes necessários ao cumprimento dos vossos atos, da vossa existência.”</blockquote><br />
         17ª. Entre os objetos que os Espíritos costumam trazer, não haverá alguns que eles próprios possam fabricar, isto é, produzidos espontaneamente pelas modificações que os Espíritos possam operar no fluido, ou no elemento universal?<br />
         <blockquote>“Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”</blockquote><br />
         18ª. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?<br />
         <blockquote>“Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”</blockquote><br />
         19ª. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?<br />
         <blockquote>“Tirei a matéria que os envolvia.”</blockquote><br />
-Nota de Erasto
-<blockquote>“O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.”</blockquote><br />
+        Nota de Erasto
+        <blockquote>“O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.”</blockquote><br />
         20ª. (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?<br />
         <blockquote>“É complexa esta questão. O Espírito pode tornar invisíveis, porém não penetráveis, os objetos que ele transporte; não pode quebrar a agregação da matéria, porque seria a destruição do objeto. Tornando este invisível, o Espírito o pode transportar quando queira e não o libertar senão no momento oportuno, para fazê-lo aparecer. De modo diverso se passam as coisas, com relação aos que compomos. Como nestes só introduzimos os elementos da matéria, como esses elementos são essencialmente penetráveis e, ainda, como nós mesmos penetramos e atravessamos os corpos mais condensados, com a mesma facilidade com que os raios solares atravessam uma placa de vidro, podemos perfeitamente dizer que introduzimos o objeto num lugar que esteja hermeticamente fechado, mas isso somente neste caso.”</blockquote><br />
-Nota. Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.<br />
+        Nota. Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.<br />
 
 #### `ldm.p100` #️⃣ 100
 
