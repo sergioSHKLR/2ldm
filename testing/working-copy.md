@@ -197,6 +197,8 @@ Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fen�
 
 ### `ldm.1.03` 📑 3. Do método
 
+---
+
 #### `ldm.p18` #️⃣ 18
 18. Muito natural e louvável é, em todos os adeptos, o desejo, que nunca será demais animar, de fazer prosélitos. Visando facilitar-lhes essa tarefa, aqui nos propomos examinar o caminho que nos parece mais seguro para se atingir esse objetivo, a fim de lhes pouparmos inúteis esforços.<br /><br />
 Dissemos que o Espiritismo é toda uma ciência, toda uma filosofia. Quem, pois, seriamente queira conhecê-lo deve, como primeira condição, dispor-se a um estudo sério e persuadir-se de que ele não pode, como nenhuma outra ciência, ser aprendido a brincar. O Espiritismo, também já o dissemos, diz respeito a todas as questões que interessam a Humanidade, tem imenso campo, e o que principalmente convém é encará-lo pelas suas consequências.<br /><br />
@@ -286,6 +288,8 @@ Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermo
 [^5]: N.E.: De Kardec são ainda as obras: O Evangelho segundo o Espiritismo; O Céu e o Inferno; A Gênese e Obras Póstumas.
 
 ### `ldm.1.04` 📑 4. Dos sistemas
+
+---
 
 #### `ldm.p36` #️⃣ 36
 36. Quando começaram a produzir-se os estranhos fenômenos do Espiritismo, ou melhor dizendo, quando esses fenômenos se renovaram nestes últimos tempos, o primeiro sentimento que despertaram foi o da dúvida sobre a realidade deles e, mais ainda, sobre a causa que lhes dava origem. Uma vez certificados, por testemunhos irrecusáveis e pelas experiências que todos hão podido fazer, sucedeu que cada um os interpretou a seu modo, de acordo com suas ideias pessoais, suas crenças ou suas prevenções. Daí, muitos sistemas, a que uma observação mais atenta viria dar o justo valor.<br /><br />
