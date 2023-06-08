@@ -803,8 +803,8 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
         1ª Podem os Espíritos tornar-se visíveis?<br />
         <blockquote>“Podem, sobretudo, durante o sono. Entretanto, algumas pessoas os veem quando acordadas, porém isso é mais raro.”</blockquote>
 Nota – Enquanto o corpo repousa, o Espírito se desprende dos laços materiais; fica mais livre e pode mais facilmente ver os outros Espíritos, entrando com eles em comunicação. O sonho não é senão a recordação desse estado. Quando de nada nos lembramos, diz-se que não sonhamos, mas nem por isso a alma deixou de ver e de gozar da sua liberdade. Aqui nos ocupamos especialmente com as aparições no estado de vigília. [^12]<br /><br />
-        2ª. Pertencem mais a uma categoria do que a outra os Espíritos que se manifestam fazendo-se visíveis?<br />
-        <blockquote>“Não; podem pertencer a todas as classes, assim às mais elevadas, como às mais inferiores.”</blockquote><br />
+                2ª. Pertencem mais a uma categoria do que a outra os Espíritos que se manifestam fazendo-se visíveis?<br />
+                <blockquote>“Não; podem pertencer a todas as classes, assim às mais elevadas, como às mais inferiores.”</blockquote><br />
         3ª. A todos os Espíritos é dado manifestarem-se visivelmente?<br />
         <blockquote>“Todos o podem, mas nem sempre têm permissão para fazê-lo, ou o querem.”</blockquote><br />
         4ª. Que fim objetivam os Espíritos que se manifestam visivelmente?<br />
