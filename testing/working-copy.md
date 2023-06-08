@@ -285,7 +285,7 @@ Tão verdade é isto que, em dez pessoas completamente novatas no assunto, que a
 Isto pelo que nos diz respeito. Os que desejem tudo conhecer de uma ciência devem necessariamente ler tudo o que se ache escrito sobre a matéria, ou, pelo menos, o que haja de principal, não se limitando a um único autor. Devem mesmo ler o pró e o contra, as críticas como as apologias, inteirar-se dos diferentes sistemas, a fim de poderem julgar por comparação.<br /><br />
 Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermos, de nenhum modo, influenciar a opinião que dela se possa formar. Trazendo nossa pedra ao edifício, colocamo-nos nas fileiras. Não nos cabe ser juiz e parte e não alimentamos a ridícula pretensão de ser o único distribuidor da luz. Toca ao leitor separar o bom do mau, o verdadeiro do falso.<br />
 
-[^5]: N.E.: De Kardec são ainda as obras: O Evangelho segundo o Espiritismo; O Céu e o Inferno; A Gênese e Obras Póstumas.
+[^5]: N.E.: De Kardec são ainda as obras: *O Evangelho segundo o Espiritismo*; *O Céu e o Inferno*; *A Gênese* e *Obras Póstumas*.
 
 ### `ldm.1.04` 📑 4. Dos sistemas
 
