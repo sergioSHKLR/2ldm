@@ -192,21 +192,21 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 #### `ldm.p14` #️⃣ 14
 14. Resumimos nas proposições seguintes o que havemos expendido:
 
-   1º. Todos os fenômenos espíritas têm por princípio a existência da alma, sua sobrevivência ao corpo e suas manifestações.
+    1º. Todos os fenômenos espíritas têm por princípio a existência da alma, sua sobrevivência ao corpo e suas manifestações.
 
-   2º. Fundando-se numa Lei da Natureza, esses fenômenos nada têm de **maravilhosos** nem de **sobrenaturais**, no sentido vulgar dessas palavras.
+    2º. Fundando-se numa Lei da Natureza, esses fenômenos nada têm de **maravilhosos** nem de **sobrenaturais**, no sentido vulgar dessas palavras.
 
-   3º. Muitos fatos são tidos por sobrenaturais, porque não se lhes conhece a causa; atribuindo-lhes uma causa, o Espiritismo os repõe no domínio dos fenômenos naturais.
+    3º. Muitos fatos são tidos por sobrenaturais, porque não se lhes conhece a causa; atribuindo-lhes uma causa, o Espiritismo os repõe no domínio dos fenômenos naturais.
 
-   4º. Entre os fatos qualificados de sobrenaturais, muitos há cuja impossibilidade o Espiritismo demonstra, incluindo-os em o número das crenças supersticiosas.
+    4º. Entre os fatos qualificados de sobrenaturais, muitos há cuja impossibilidade o Espiritismo demonstra, incluindo-os em o número das crenças supersticiosas.
 
-   5º. Se bem reconheça um fundo de verdade em muitas crenças populares, o Espiritismo de modo algum dá sua solidariedade a todas as histórias fantásticas que a imaginação há criado.
+    5º. Se bem reconheça um fundo de verdade em muitas crenças populares, o Espiritismo de modo algum dá sua solidariedade a todas as histórias fantásticas que a imaginação há criado.
 
-   6º. Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
+    6º. Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
 
-   7º. A explicação dos fatos que o Espiritismo admite, de suas causas e consequências morais, forma toda uma ciência e toda uma filosofia, que reclamam estudo sério, perseverante e aprofundado.
+    7º. A explicação dos fatos que o Espiritismo admite, de suas causas e consequências morais, forma toda uma ciência e toda uma filosofia, que reclamam estudo sério, perseverante e aprofundado.
 
-   8º. O Espiritismo não pode considerar crítico sério senão aquele que tudo tenha visto, estudado e aprofundado com a paciência e a perseverança de um observador consciencioso; que do assunto saiba tanto quanto qualquer adepto instruído; que haja, por conseguinte, haurido seus conhecimentos algures, que não nos romances da ciência; aquele a quem não se possa opor **fato algum** que lhe seja desconhecido, nenhum argumento de que já não tenha cogitado e cuja refutação faça não por mera negação, mas por meio de outros argumentos mais peremptórios; aquele, finalmente, que possa indicar, para os fatos averiguados, causa mais lógica do que a que lhes aponta o Espiritismo. Tal crítico ainda está por aparecer.
+    8º. O Espiritismo não pode considerar crítico sério senão aquele que tudo tenha visto, estudado e aprofundado com a paciência e a perseverança de um observador consciencioso; que do assunto saiba tanto quanto qualquer adepto instruído; que haja, por conseguinte, haurido seus conhecimentos algures, que não nos romances da ciência; aquele a quem não se possa opor **fato algum** que lhe seja desconhecido, nenhum argumento de que já não tenha cogitado e cuja refutação faça não por mera negação, mas por meio de outros argumentos mais peremptórios; aquele, finalmente, que possa indicar, para os fatos averiguados, causa mais lógica do que a que lhes aponta o Espiritismo. Tal crítico ainda está por aparecer.
 
 #### `ldm.p15` #️⃣ 15
 15. Pronunciamos há pouco a palavra **milagre**; uma ligeira observação sobre isso não virá fora de propósito, neste capítulo que trata do maravilhoso.
