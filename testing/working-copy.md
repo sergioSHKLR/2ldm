@@ -91,7 +91,7 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 #### `ldm.p4` #️⃣ 4
 4. A existência da alma e a de Deus, consequência uma da outra, constituem a base de todo o edifício. Antes de travarmos qualquer discussão espírita, importa indaguemos se o nosso interlocutor admite essa base.
 
-Se a estas questões:
+   Se a estas questões:
 
    1. Credes em Deus?
 
@@ -109,25 +109,30 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 #### `ldm.p6` #️⃣ 6
 6. Abstraiamos, por instante, dos fatos que, ao nosso ver, tornam incontestável a realidade dessa comunicação; admitamo-la apenas como hipótese. Pedimos aos incrédulos que nos provem, não por simples negativas, visto que suas opiniões pessoais não podem constituir lei, mas expendendo razões peremptórias, que tal coisa não pode dar-se. Colocando-nos no terreno em que eles se colocam, uma vez que entendem de apreciar os fatos espíritas com o auxílio das leis da matéria, que tirem desse arsenal qualquer demonstração matemática, física, química, mecânica, fisiológica e provem por **a** mais **b**, partindo sempre do princípio da existência e da sobrevivência da alma:
-1º. que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;
-2º. que, se continua a pensar, está inibido de pensar naqueles a quem amou;
 
-3º. que, se pensa nestes, não cogita de se comunicar com eles;
+   1º. que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;
 
-4º. que, podendo estar em toda parte, não pode estar ao nosso lado;
+   2º. que, se continua a pensar, está inibido de pensar naqueles a quem amou;
 
-5º. que, podendo estar ao nosso lado, não pode comunicar-se conosco;
+   3º. que, se pensa nestes, não cogita de se comunicar com eles;
 
-6º. que não pode, por meio do seu envoltório fluídico, atuar sobre a matéria inerte;
+   4º. que, podendo estar em toda parte, não pode estar ao nosso lado;
 
-7º. que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
+   5º. que, podendo estar ao nosso lado, não pode comunicar-se conosco;
 
-8º. que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
+   6º. que não pode, por meio do seu envoltório fluídico, atuar sobre a matéria inerte;
 
-9º. que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.
-Quando os adversários do Espiritismo nos provarem que isto é impossível, aduzindo razões tão patentes quais as com que Galileu demonstrou que o Sol não é que gira em torno da Terra, então poderemos considerar-lhes fundadas as dúvidas. Infelizmente, até hoje, toda a argumentação a que recorrem se resume nestas palavras:
-**Não creio, logo isto é impossível.**
- Dir-nos-ão, com certeza, que cabe a nós provar a realidade das manifestações. Ora, nós lhes damos, pelos fatos e pelo raciocínio, a prova de que elas são reais. Mas, se não admitem nem uma nem outra coisa, se chegam mesmo a negar o que veem, toca-lhes a eles provar que o nosso raciocínio é falso e que os fatos são impossíveis.
+   7º. que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
+
+   8º. que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
+
+   9º. que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.
+
+   Quando os adversários do Espiritismo nos provarem que isto é impossível, aduzindo razões tão patentes quais as com que Galileu demonstrou que o Sol não é que gira em torno da Terra, então poderemos considerar-lhes fundadas as dúvidas. Infelizmente, até hoje, toda a argumentação a que recorrem se resume nestas palavras:
+
+   **Não creio, logo isto é impossível.**
+
+    Dir-nos-ão, com certeza, que cabe a nós provar a realidade das manifestações. Ora, nós lhes damos, pelos fatos e pelo raciocínio, a prova de que elas são reais. Mas, se não admitem nem uma nem outra coisa, se chegam mesmo a negar o que veem, toca-lhes a eles provar que o nosso raciocínio é falso e que os fatos são impossíveis.
 
 ---
 
