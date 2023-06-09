@@ -800,6 +800,7 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
 
 #### `ldm.p100` #️⃣ 100
 100. De todas as manifestações espíritas, as mais interessantes, sem contestação possível, são aquelas por meio das quais os Espíritos se tornam visíveis. Pela explicação deste fenômeno se verá que ele não é mais sobrenatural do que os outros. Vamos apresentar primeiramente as respostas que os Espíritos deram acerca do assunto:
+
 1ª Podem os Espíritos tornar-se visíveis?
 > “Podem, sobretudo, durante o sono. Entretanto, algumas pessoas os veem quando acordadas, porém isso é mais raro.”
 
