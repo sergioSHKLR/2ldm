@@ -844,7 +844,7 @@ As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as r
         >“Perfeitamente e é mesmo o que se deve fazer em tal caso, perguntando ao Espírito quem ele é, o que deseja e em que se lhe pode ser útil. Se se tratar de um Espírito infeliz e sofredor, a comiseração que se lhe testemunhar o aliviará. Se for um Espírito bondoso, pode acontecer que traga a intenção de dar bons conselhos.”
 
         a) Como pode o Espírito, nesse caso, responder?
-        “Algumas vezes o faz por meio de sons articulados, como o faria uma pessoa viva. Na maioria dos casos, porém, pela transmissão dos pensamentos.”
+        >“Algumas vezes o faz por meio de sons articulados, como o faria uma pessoa viva. Na maioria dos casos, porém, pela transmissão dos pensamentos.”
 
         12ª. Os Espíritos que aparecem com asas têm-nas realmente ou essas asas são apenas uma aparência simbólica?
         >“Os Espíritos não têm asas, nem de tal coisa precisam, visto que podem ir a toda parte como Espíritos. Aparecem da maneira por que precisam impressionar a pessoa a quem se mostram. Assim é que uns aparecerão em trajes comuns, outros envoltos em amplas roupagens, alguns com asas, como atributo da categoria espiritual a que pertencem.”
