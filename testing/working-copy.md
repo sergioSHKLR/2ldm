@@ -951,83 +951,118 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### `ldm.p98` #️⃣ 98
 98. A teoria do fenômeno dos transportes e das manifestações físicas em geral se acha resumida, de maneira notável, na seguinte dissertação feita por um Espírito, cujas comunicações todas trazem o cunho incontestável de profundeza e lógica. Com muitas delas deparará o leitor no curso desta obra. Ele se dá a conhecer pelo nome de **Erasto**, discípulo de Paulo, e como protetor do médium que lhe serviu de instrumento:
-“Quem deseja obter fenômeno desta ordem precisa ter consigo médiuns a que chamarei — **sensitivos**, isto é, dotados, no mais alto grau, das faculdades mediúnicas de expansão e de penetrabilidade, porque o sistema nervoso facilmente excitável de tais médiuns lhes permite, por meio de certas vibrações, projetar abundantemente, em torno de si, o fluido animalizado que lhes é próprio.”
-“As naturezas impressionáveis, as pessoas cujos nervos vibram à menor impressão, à mais insignificante sensação; as que a influência moral ou física, interna ou externa, sensibiliza são muito aptas a se tornarem excelentes médiuns para os efeitos físicos de tangibilidade e de transportes. Efetivamente, quase de todo desprovido do invólucro refratário, que, na maioria dos outros encarnados, o isola, o sistema nervoso dessas pessoas as capacita para a produção destes diversos fenômenos. Assim, com um indivíduo de tal natureza e cujas outras faculdades não sejam hostis à mediunidade, facilmente se obterão os fenômenos de tangibilidade, as pancadas nas paredes e nos móveis, os movimentos inteligentes e mesmo a suspensão, no espaço, da mais pesada matéria inerte. **A fortiori**, os mesmos resultados se conseguirão se, em vez de um médium, o experimentador dispuser de muitos, igualmente bem-dotados.”
-“Mas, da produção de tais fenômenos à obtenção dos de transporte, há um mundo de permeio, porquanto, neste caso, não só o trabalho do Espírito é mais complexo, mais difícil, como, sobretudo, ele não pode operar senão por meio de um único aparelho mediúnico, isto é, muitos médiuns não podem concorrer simultaneamente para a produção do mesmo fenômeno. Sucede até que, ao contrário, a presença de algumas pessoas antipáticas ao Espírito que opera lhe obsta radicalmente à operação. A estes motivos a que, como vedes, não falta importância, acrescentemos que os transportes reclamam sempre maior concentração e, ao mesmo tempo, maior difusão de certos fluidos, que não podem ser obtidos senão com médiuns superiormente dotados, com aqueles, numa palavra, cujo aparelho eletromediúnico é o que melhores condições oferece.”
-“Em geral, os fatos de transporte são e continuarão a ser extremamente raros. Não preciso demonstrar porque são e serão menos frequentes do que os outros fenômenos de tangibilidade; do que digo, vós mesmos podeis deduzi-lo. Demais, estes fenômenos são de tal natureza que nem todos os médiuns servem para produzi-los. Com efeito, é necessário que entre o Espírito e o médium influenciado exista certa afinidade, certa analogia; em suma: certa semelhança capaz de permitir que a parte expansível do fluido **perispirítico**[^11] do encarnado se misture, se una, se combine com o fluido do Espírito que queira fazer um transporte. Deve ser tal esta fusão que a força resultante dela se torne, por assim dizer, **uma**: do mesmo modo que, atuando sobre o carvão, uma corrente elétrica produz um só foco, uma só claridade. Por que essa união, essa fusão? perguntareis. É que, para que estes fenômenos se produzam, necessário se faz que as propriedades essenciais do Espírito motor se aumentem com algumas das do médium; é que o **fluido vital**, indispensável à produção de todos os fenômenos mediúnicos, é apanágio **exclusivo** do encarnado e que, por conseguinte, o Espírito operador fica obrigado a se impregnar dele. Só então pode, mediante certas propriedades, que desconheceis, do vosso meio ambiente, isolar, tornar invisíveis e fazer que se movam alguns objetos materiais e mesmo os encarnados.”
-“Não me é permitido, por enquanto, desvendar-vos as leis particulares que governam os gases e os fluidos que vos cercam, mas, antes que alguns anos tenham decorrido, antes que uma existência de homem se tenha esgotado, a explicação destas leis e destes fenômenos vos será revelada e vereis surgir e produzir-se uma variedade nova de médiuns, que agirão num estado cataléptico especial, desde que sejam mediunizados.”
-“Vedes, assim, quantas dificuldades cercam a produção do fenômeno dos transportes. Muito logicamente podeis concluir daí que os fenômenos desta natureza são extremamente raros, como eu disse acima, e com tanto mais razão, quanto os Espíritos muito pouco se prestam a produzi-los, porque isso dá lugar, da parte deles, a um trabalho quase material, o que lhes acarreta aborrecimento e fadiga. Por outro lado, ocorre também que, frequentemente, não obstante a energia e a vontade que os animem, o estado do próprio médium lhes opõe intransponível barreira.”
-“Evidente é, pois, e o vosso raciocínio, estou certo, o sancionará, que os fatos de tangibilidade, como pancadas, suspensão e movimentos, são fenômenos simples, que se operam mediante a concentração e a dilatação de certos fluidos e que podem ser provocados e obtidos pela vontade e pelo trabalho dos médiuns aptos a isso, quando secundados por Espíritos amigos e benevolentes, ao passo que os fatos de transporte são múltiplos, complexos, exigem um concurso de circunstâncias especiais, não se podem operar senão por um único Espírito e um único médium e necessitam, além do que a tangibilidade reclama, uma combinação muito especial, para isolar e tornar invisíveis o objeto ou os objetos destinados ao transporte.”
-“Todos vós espíritas compreendeis as minhas explicações e perfeitamente apreendeis o que seja essa concentração de fluidos especiais, para a locomoção e a tatilidade da matéria inerte. Acreditais nisso, como acreditais nos fenômenos da eletricidade e do magnetismo, com os quais os fatos mediúnicos têm grande analogia e de que são, por assim dizer, a confirmação e o desenvolvimento. Quanto aos incrédulos e aos sábios, piores estes do que aqueles, não me compete convencê-los e com eles não me ocupo. Convencer-se-ão um dia, por força da evidência, pois que forçoso será se curvem diante do testemunho dos fatos espíritas, como forçoso foi que o fizessem diante de outros fatos, que a princípio repeliram.”
-“Resumindo: os fenômenos de tangibilidade são frequentes, mas os de transporte são muito raros, porque muito difíceis de se realizar são as condições em que se produzem. Conseguintemente, nenhum médium pode dizer: a tal hora, em tal momento, obterei um transporte, visto que muitas vezes o próprio Espírito se vê obstado na execução da sua obra. Devo acrescentar que esses fenômenos são duplamente difíceis em público, porque quase sempre, entre este, se encontram elementos energicamente refratários, que paralisam os esforços do Espírito e, com mais forte razão, a ação do médium. Tende, ao contrário, como certo que, na intimidade, os ditos fenômenos se produzem quase sempre espontaneamente, as mais das vezes à revelia dos médiuns e sem premeditação, sendo muito raros quando esses se acham prevenidos. Deveis deduzir daí que há motivo de suspeição todas as vezes que um médium se lisonjeia de os obter à vontade, ou, por outra, de dar ordens aos Espíritos, como a servos seus, o que é simplesmente absurdo. Tende ainda como regra geral que os fenômenos espíritas não se produzem para constituir espetáculo e para divertir os curiosos. Se alguns Espíritos se prestam a tais coisas, só pode ser para a produção de fenômenos simples, não para os que, como os de transporte e outros semelhantes, exigem condições excepcionais.”
-“Lembrai-vos, espíritas, de que, se é absurdo repelir sistematicamente todos os fenômenos de Além-Túmulo, também não é de bom aviso aceitá-los todos cegamente. Quando um fenômeno de tangibilidade, de visibilidade ou de transporte se opera espontaneamente e de modo instantâneo, aceitai-o. Porém, nunca o repetirei demasiado, não aceiteis coisa alguma às cegas. Seja cada fato submetido a um exame minucioso, aprofundado e severo, porquanto, crede, o Espiritismo, tão rico em fenômenos sublimes e grandiosos, nada tem que ganhar com essas pequenas manifestações, que prestidigitadores hábeis podem imitar.”
-“Bem sei que ides dizer: é que estes são úteis para convencer os incrédulos. Mas, ficai sabendo, se não houvésseis disposto de outros meios de convicção, não contaríeis hoje a centésima parte dos espíritas que existem. Falai ao coração; por aí é que fareis maior número de conversões sérias. Se julgardes conveniente, para certas pessoas, valer-vos dos fatos materiais, ao menos apresentai-os em circunstâncias tais que não possam permitir nenhuma interpretação falsa e, sobretudo, não vos afasteis das condições normais dos mesmos fatos, porque, apresentados em más condições, eles fornecem argumentos aos incrédulos, em vez de convencê-los.”
-**Erasto**
+
+    >“Quem deseja obter fenômeno desta ordem precisa ter consigo médiuns a que chamarei — **sensitivos**, isto é, dotados, no mais alto grau, das faculdades mediúnicas de expansão e de penetrabilidade, porque o sistema nervoso facilmente excitável de tais médiuns lhes permite, por meio de certas vibrações, projetar abundantemente, em torno de si, o fluido animalizado que lhes é próprio.”
+
+    >“As naturezas impressionáveis, as pessoas cujos nervos vibram à menor impressão, à mais insignificante sensação; as que a influência moral ou física, interna ou externa, sensibiliza são muito aptas a se tornarem excelentes médiuns para os efeitos físicos de tangibilidade e de transportes. Efetivamente, quase de todo desprovido do invólucro refratário, que, na maioria dos outros encarnados, o isola, o sistema nervoso dessas pessoas as capacita para a produção destes diversos fenômenos. Assim, com um indivíduo de tal natureza e cujas outras faculdades não sejam hostis à mediunidade, facilmente se obterão os fenômenos de tangibilidade, as pancadas nas paredes e nos móveis, os movimentos inteligentes e mesmo a suspensão, no espaço, da mais pesada matéria inerte. **A fortiori**, os mesmos resultados se conseguirão se, em vez de um médium, o experimentador dispuser de muitos, igualmente bem-dotados.”
+
+    >“Mas, da produção de tais fenômenos à obtenção dos de transporte, há um mundo de permeio, porquanto, neste caso, não só o trabalho do Espírito é mais complexo, mais difícil, como, sobretudo, ele não pode operar senão por meio de um único aparelho mediúnico, isto é, muitos médiuns não podem concorrer simultaneamente para a produção do mesmo fenômeno. Sucede até que, ao contrário, a presença de algumas pessoas antipáticas ao Espírito que opera lhe obsta radicalmente à operação. A estes motivos a que, como vedes, não falta importância, acrescentemos que os transportes reclamam sempre maior concentração e, ao mesmo tempo, maior difusão de certos fluidos, que não podem ser obtidos senão com médiuns superiormente dotados, com aqueles, numa palavra, cujo aparelho eletromediúnico é o que melhores condições oferece.”
+
+    >“Em geral, os fatos de transporte são e continuarão a ser extremamente raros. Não preciso demonstrar porque são e serão menos frequentes do que os outros fenômenos de tangibilidade; do que digo, vós mesmos podeis deduzi-lo. Demais, estes fenômenos são de tal natureza que nem todos os médiuns servem para produzi-los. Com efeito, é necessário que entre o Espírito e o médium influenciado exista certa afinidade, certa analogia; em suma: certa semelhança capaz de permitir que a parte expansível do fluido **perispirítico**[^11] do encarnado se misture, se una, se combine com o fluido do Espírito que queira fazer um transporte. Deve ser tal esta fusão que a força resultante dela se torne, por assim dizer, **uma**: do mesmo modo que, atuando sobre o carvão, uma corrente elétrica produz um só foco, uma só claridade. Por que essa união, essa fusão? perguntareis. É que, para que estes fenômenos se produzam, necessário se faz que as propriedades essenciais do Espírito motor se aumentem com algumas das do médium; é que o **fluido vital**, indispensável à produção de todos os fenômenos mediúnicos, é apanágio **exclusivo** do encarnado e que, por conseguinte, o Espírito operador fica obrigado a se impregnar dele. Só então pode, mediante certas propriedades, que desconheceis, do vosso meio ambiente, isolar, tornar invisíveis e fazer que se movam alguns objetos materiais e mesmo os encarnados.”
+
+    >“Não me é permitido, por enquanto, desvendar-vos as leis particulares que governam os gases e os fluidos que vos cercam, mas, antes que alguns anos tenham decorrido, antes que uma existência de homem se tenha esgotado, a explicação destas leis e destes fenômenos vos será revelada e vereis surgir e produzir-se uma variedade nova de médiuns, que agirão num estado cataléptico especial, desde que sejam mediunizados.”
+
+    >“Vedes, assim, quantas dificuldades cercam a produção do fenômeno dos transportes. Muito logicamente podeis concluir daí que os fenômenos desta natureza são extremamente raros, como eu disse acima, e com tanto mais razão, quanto os Espíritos muito pouco se prestam a produzi-los, porque isso dá lugar, da parte deles, a um trabalho quase material, o que lhes acarreta aborrecimento e fadiga. Por outro lado, ocorre também que, frequentemente, não obstante a energia e a vontade que os animem, o estado do próprio médium lhes opõe intransponível barreira.”
+
+    >“Evidente é, pois, e o vosso raciocínio, estou certo, o sancionará, que os fatos de tangibilidade, como pancadas, suspensão e movimentos, são fenômenos simples, que se operam mediante a concentração e a dilatação de certos fluidos e que podem ser provocados e obtidos pela vontade e pelo trabalho dos médiuns aptos a isso, quando secundados por Espíritos amigos e benevolentes, ao passo que os fatos de transporte são múltiplos, complexos, exigem um concurso de circunstâncias especiais, não se podem operar senão por um único Espírito e um único médium e necessitam, além do que a tangibilidade reclama, uma combinação muito especial, para isolar e tornar invisíveis o objeto ou os objetos destinados ao transporte.”
+
+    >“Todos vós espíritas compreendeis as minhas explicações e perfeitamente apreendeis o que seja essa concentração de fluidos especiais, para a locomoção e a tatilidade da matéria inerte. Acreditais nisso, como acreditais nos fenômenos da eletricidade e do magnetismo, com os quais os fatos mediúnicos têm grande analogia e de que são, por assim dizer, a confirmação e o desenvolvimento. Quanto aos incrédulos e aos sábios, piores estes do que aqueles, não me compete convencê-los e com eles não me ocupo. Convencer-se-ão um dia, por força da evidência, pois que forçoso será se curvem diante do testemunho dos fatos espíritas, como forçoso foi que o fizessem diante de outros fatos, que a princípio repeliram.”
+
+    >“Resumindo: os fenômenos de tangibilidade são frequentes, mas os de transporte são muito raros, porque muito difíceis de se realizar são as condições em que se produzem. Conseguintemente, nenhum médium pode dizer: a tal hora, em tal momento, obterei um transporte, visto que muitas vezes o próprio Espírito se vê obstado na execução da sua obra. Devo acrescentar que esses fenômenos são duplamente difíceis em público, porque quase sempre, entre este, se encontram elementos energicamente refratários, que paralisam os esforços do Espírito e, com mais forte razão, a ação do médium. Tende, ao contrário, como certo que, na intimidade, os ditos fenômenos se produzem quase sempre espontaneamente, as mais das vezes à revelia dos médiuns e sem premeditação, sendo muito raros quando esses se acham prevenidos. Deveis deduzir daí que há motivo de suspeição todas as vezes que um médium se lisonjeia de os obter à vontade, ou, por outra, de dar ordens aos Espíritos, como a servos seus, o que é simplesmente absurdo. Tende ainda como regra geral que os fenômenos espíritas não se produzem para constituir espetáculo e para divertir os curiosos. Se alguns Espíritos se prestam a tais coisas, só pode ser para a produção de fenômenos simples, não para os que, como os de transporte e outros semelhantes, exigem condições excepcionais.”
+
+    >“Lembrai-vos, espíritas, de que, se é absurdo repelir sistematicamente todos os fenômenos de Além-Túmulo, também não é de bom aviso aceitá-los todos cegamente. Quando um fenômeno de tangibilidade, de visibilidade ou de transporte se opera espontaneamente e de modo instantâneo, aceitai-o. Porém, nunca o repetirei demasiado, não aceiteis coisa alguma às cegas. Seja cada fato submetido a um exame minucioso, aprofundado e severo, porquanto, crede, o Espiritismo, tão rico em fenômenos sublimes e grandiosos, nada tem que ganhar com essas pequenas manifestações, que prestidigitadores hábeis podem imitar.”
+
+    >“Bem sei que ides dizer: é que estes são úteis para convencer os incrédulos. Mas, ficai sabendo, se não houvésseis disposto de outros meios de convicção, não contaríeis hoje a centésima parte dos espíritas que existem. Falai ao coração; por aí é que fareis maior número de conversões sérias. Se julgardes conveniente, para certas pessoas, valer-vos dos fatos materiais, ao menos apresentai-os em circunstâncias tais que não possam permitir nenhuma interpretação falsa e, sobretudo, não vos afasteis das condições normais dos mesmos fatos, porque, apresentados em más condições, eles fornecem argumentos aos incrédulos, em vez de convencê-los.”
+
+    >**Erasto**
 
 [^11]: A.K.: Vê-se que, quando se trata de exprimir uma ideia nova, para a qual faltam termos na língua, os Espíritos sabem perfeitamente criar neologismos. Estas palavras: eletromediúnico, perispirítico, não são de invenção nossa. Os que nos têm criticado por havermos criado os termos espírita, espiritismo, perispírito, que tinham análogos, poderão fazer também a mesma crítica aos Espíritos.
 
 #### `ldm.p99` #️⃣ 99
 99. O fenômeno de transporte apresenta uma particularidade notável, e é que alguns médiuns só o obtêm em estado sonambúlico, o que facilmente se explica. Há no sonâmbulo um desprendimento natural, uma espécie de isolamento do Espírito e do perispírito, que deve facilitar a combinação dos fluidos necessários. Tal o caso dos transportes de que temos sido testemunha.
-As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as respostas se ressentem por vezes da deficiência dos seus conhecimentos. Submetemo-las ao Espírito Erasto, muito mais instruído do ponto de vista teórico, e ele as completou, aditando-lhes notas muito judiciosas. Um é o artista; o outro, o sábio, constituindo a própria comparação dessas inteligências um estudo instrutivo, porquanto prova que não basta ser Espírito para tudo saber.
-1ª. Dize-nos, peço, por que os transportes que acabaste de executar só se produzem estando o médium em estado sonambúlico?
-“Isto se prende à natureza do médium. Os fatos que produzo, quando o meu está adormecido, poderia produzi-los igualmente com outro médium em estado de vigília.”
-2ª. Por que fazes demorar tanto a trazida dos objetos e por que é que avivas a cobiça do médium, excitando-lhe o desejo de obter o objeto prometido?
-“O tempo me é necessário a preparar os fluidos que servem para o transporte. Quanto à excitação, essa só tem por fim, as mais das vezes, divertir as pessoas presentes e o sonâmbulo.”
-<ol>Nota de Erasto
-    “O Espírito que responde não sabe mais do que isso; não percebe o motivo dessa cobiça, que ele instintivamente aguça, sem lhe compreender o efeito. Julga proporcionar um divertimento, enquanto, na realidade, provoca, sem o suspeitar, uma emissão maior de fluido. É uma consequência da dificuldade que o fenômeno apresenta, dificuldade sempre maior quando ele não é espontâneo, sobretudo com certos médiuns.”</ol>
-3ª. Depende da natureza especial do médium a produção do fenômeno e poderia produzir-se por outros médiuns com mais facilidade e presteza?
-“A produção depende da natureza do médium e o fenômeno não se pode produzir senão por meio de naturezas correspondentes. Pelo que toca à presteza, o hábito que adquirimos, comunicando-nos frequentemente com o mesmo médium, nos é de grande vantagem.”
-4ª. As pessoas presentes influem alguma coisa no fenômeno?
-“Quando há da parte delas incredulidade, oposição, muito nos podem embaraçar. Preferimos apresentar nossas provas aos crentes e a pessoas versadas no Espiritismo. Não quero, porém, dizer com isso que a má vontade consiga paralisar-nos inteiramente.”
-5ª. Onde foste buscar as flores e os confeitos que trouxeste para aqui?
-“As flores, tomo-as aos jardins, onde bem me parece.”
-6ª. E os confeitos? Devem ter feito falta ao respectivo negociante.
-“Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.”
-7ª. Mas os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?
-“Tirei-os de lugares que todos desconhecem e fi-lo por maneira que daí não resultará prejuízo para ninguém.”
-    <ol>Nota de Erasto
-“Creio que o fato foi explicado de modo incompleto, em virtude da deficiência da capacidade do Espírito que respondeu. Sim, de fato, pode resultar prejuízo real, mas o Espírito não quis passar por haver desviado o que quer que fosse. Um objeto só pode ser substituído por outro objeto idêntico, da mesma forma, do mesmo valor. Conseguintemente, se um Espírito tivesse a faculdade de substituir, por outro objeto igual, um de que se apodera, já não teria razão para se apossar deste, visto que poderia dar o de que se iria servir para substituir o objeto retirado.”</ol>
-8ª. Será possível trazer flores de outro planeta?
-“Não; a mim não me é possível.”
-    <ol>(A Erasto) Teriam outros Espíritos esse poder?
- “Não, isso não é possível, em virtude da diferença dos meios ambientes.”</ol>
-9ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?
-“Desde que seja da Terra, posso.”
-10ª. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?
-“Assim como os trouxe aqui, posso levá-los, à minha vontade.”
-11ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
-“Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados.”
-    <ol>Nota de Erasto
-“Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.</ol>
-12ª. Quais são as dificuldades que encontras?”
-“Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”
-13ª. Como trazes o objeto? Será segurando-o com as mãos?
-“Não; envolvo-o em mim mesmo.”
-    <ol>Nota de Erasto
-“A resposta não explica de modo claro a operação. Ele não envolve o objeto com a sua própria personalidade, mas, como o seu fluido pessoal é dilatável, combina uma parte desse fluido com o fluido animalizado do médium e é nesta combinação que oculta e transporta o objeto que escolheu para transportar. Ele, pois, não exprime com justeza o fato, dizendo que envolve em si o objeto.”</ol>
-14ª. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos por exemplo?
-“O peso nada é para nós. Trazemos flores, porque agrada mais do que um volume pesado.”
-    <ol>Nota de Erasto
-“É exato. Pode trazer objetos de 100 ou 200 quilos, por isso que a gravidade, existente para vós, é anulada para os Espíritos. Mas, ainda aqui, ele não percebe bem o que se passa. A massa dos fluidos combinados é proporcional à dos objetos. Numa palavra, a força deve estar em proporção com a resistência; donde se segue que, se o Espírito apenas traz uma flor ou um objeto leve, é muitas vezes porque não encontra no médium, ou em si mesmo, os elementos necessários para um esforço mais considerável.”</ol>
-15ª. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?
-“Isso se dá com frequência; com mais frequência do que supondes, mas isso se pode remediar, pedindo ao Espírito que traga de novo o objeto desaparecido.”
-    <ol>Nota de Erasto
-“É certo, mas, às vezes, o que é subtraído fica muito bem subtraído, pois que para muito longe são levados os objetos que desaparecem de uma casa e que o dono não mais consegue achar. Entretanto, como a subtração dos objetos exige quase que as mesmas condições fluídicas que o trazimento deles reclama, ela só se pode dar com o concurso de médiuns dotados de faculdades especiais. Por isso, quando alguma coisa desapareça, é mais provável que o fato seja devido a descuido vosso do que à ação dos Espíritos.”</ol>
-16ª. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?
-“Nos dias que correm, abundam fatos dessa ordem, fatos que não percebeis, porque neles não pensais, mas que, com um pouco de reflexão, se vos tornariam patentes.”
-    <ol>Nota de Erasto
-“Não atribuais aos Espíritos o que é obra do homem, mas crede na influência deles, oculta, constante, a criar em torno de vós mil circunstâncias, mil incidentes necessários ao cumprimento dos vossos atos, da vossa existência.”</ol>
-17ª. Entre os objetos que os Espíritos costumam trazer, não haverá alguns que eles próprios possam fabricar, isto é, produzidos espontaneamente pelas modificações que os Espíritos possam operar no fluido, ou no elemento universal?
-“Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”
-18ª. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?
-“Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”
-19ª. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?
-“Tirei a matéria que os envolvia.”
-    <ol>Nota de Erasto
-“O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.”</ol>
-20ª. (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?
-“É complexa esta questão. O Espírito pode tornar invisíveis, porém não penetráveis, os objetos que ele transporte; não pode quebrar a agregação da matéria, porque seria a destruição do objeto. Tornando este invisível, o Espírito o pode transportar quando queira e não o libertar senão no momento oportuno, para fazê-lo aparecer. De modo diverso se passam as coisas, com relação aos que compomos. Como nestes só introduzimos os elementos da matéria, como esses elementos são essencialmente penetráveis e, ainda, como nós mesmos penetramos e atravessamos os corpos mais condensados, com a mesma facilidade com que os raios solares atravessam uma placa de vidro, podemos perfeitamente dizer que introduzimos o objeto num lugar que esteja hermeticamente fechado, mas isso somente neste caso.”
-Nota – Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.
+
+    As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as respostas se ressentem por vezes da deficiência dos seus conhecimentos. Submetemo-las ao Espírito Erasto, muito mais instruído do ponto de vista teórico, e ele as completou, aditando-lhes notas muito judiciosas. Um é o artista; o outro, o sábio, constituindo a própria comparação dessas inteligências um estudo instrutivo, porquanto prova que não basta ser Espírito para tudo saber.
+
+    1ª. Dize-nos, peço, por que os transportes que acabaste de executar só se produzem estando o médium em estado sonambúlico?
+    “Isto se prende à natureza do médium. Os fatos que produzo, quando o meu está adormecido, poderia produzi-los igualmente com outro médium em estado de vigília.”
+
+    2ª. Por que fazes demorar tanto a trazida dos objetos e por que é que avivas a cobiça do médium, excitando-lhe o desejo de obter o objeto prometido?
+    “O tempo me é necessário a preparar os fluidos que servem para o transporte. Quanto à excitação, essa só tem por fim, as mais das vezes, divertir as pessoas presentes e o sonâmbulo.”
+
+    Nota de Erasto – “O Espírito que responde não sabe mais do que isso; não percebe o motivo dessa cobiça, que ele instintivamente aguça, sem lhe compreender o efeito. Julga proporcionar um divertimento, enquanto, na realidade, provoca, sem o suspeitar, uma emissão maior de fluido. É uma consequência da dificuldade que o fenômeno apresenta, dificuldade sempre maior quando ele não é espontâneo, sobretudo com certos médiuns.”
+
+    3ª. Depende da natureza especial do médium a produção do fenômeno e poderia produzir-se por outros médiuns com mais facilidade e presteza?
+    “A produção depende da natureza do médium e o fenômeno não se pode produzir senão por meio de naturezas correspondentes. Pelo que toca à presteza, o hábito que adquirimos, comunicando-nos frequentemente com o mesmo médium, nos é de grande vantagem.”
+
+    4ª. As pessoas presentes influem alguma coisa no fenômeno?
+    “Quando há da parte delas incredulidade, oposição, muito nos podem embaraçar. Preferimos apresentar nossas provas aos crentes e a pessoas versadas no Espiritismo. Não quero, porém, dizer com isso que a má vontade consiga paralisar-nos inteiramente.”
+
+    5ª. Onde foste buscar as flores e os confeitos que trouxeste para aqui?
+    “As flores, tomo-as aos jardins, onde bem me parece.”
+
+    6ª. E os confeitos? Devem ter feito falta ao respectivo negociante.
+    “Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.”
+
+    7ª. Mas os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?
+    “Tirei-os de lugares que todos desconhecem e fi-lo por maneira que daí não resultará prejuízo para ninguém.”
+
+    Nota de Erasto – “Creio que o fato foi explicado de modo incompleto, em virtude da deficiência da capacidade do Espírito que respondeu. Sim, de fato, pode resultar prejuízo real, mas o Espírito não quis passar por haver desviado o que quer que fosse. Um objeto só pode ser substituído por outro objeto idêntico, da mesma forma, do mesmo valor. Conseguintemente, se um Espírito tivesse a faculdade de substituir, por outro objeto igual, um de que se apodera, já não teria razão para se apossar deste, visto que poderia dar o de que se iria servir para substituir o objeto retirado.”
+
+    8ª. Será possível trazer flores de outro planeta?
+    “Não; a mim não me é possível.”
+
+    (A Erasto) Teriam outros Espíritos esse poder?
+    “Não, isso não é possível, em virtude da diferença dos meios ambientes.”
+
+    9ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?
+    “Desde que seja da Terra, posso.”
+
+    10ª. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?
+    “Assim como os trouxe aqui, posso levá-los, à minha vontade.”
+
+    11ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
+    “Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados.”
+
+    Nota de Erasto – “Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.
+
+    12ª. Quais são as dificuldades que encontras?”
+    “Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”
+
+    13ª. Como trazes o objeto? Será segurando-o com as mãos?
+    “Não; envolvo-o em mim mesmo.”
+
+    Nota de Erasto – “A resposta não explica de modo claro a operação. Ele não envolve o objeto com a sua própria personalidade, mas, como o seu fluido pessoal é dilatável, combina uma parte desse fluido com o fluido animalizado do médium e é nesta combinação que oculta e transporta o objeto que escolheu para transportar. Ele, pois, não exprime com justeza o fato, dizendo que envolve em si o objeto.”
+
+    14ª. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos por exemplo?
+    “O peso nada é para nós. Trazemos flores, porque agrada mais do que um volume pesado.”
+
+    Nota de Erasto – “É exato. Pode trazer objetos de 100 ou 200 quilos, por isso que a gravidade, existente para vós, é anulada para os Espíritos. Mas, ainda aqui, ele não percebe bem o que se passa. A massa dos fluidos combinados é proporcional à dos objetos. Numa palavra, a força deve estar em proporção com a resistência; donde se segue que, se o Espírito apenas traz uma flor ou um objeto leve, é muitas vezes porque não encontra no médium, ou em si mesmo, os elementos necessários para um esforço mais considerável.”
+
+    15ª. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?
+    “Isso se dá com frequência; com mais frequência do que supondes, mas isso se pode remediar, pedindo ao Espírito que traga de novo o objeto desaparecido.”
+
+    Nota de Erasto – “É certo, mas, às vezes, o que é subtraído fica muito bem subtraído, pois que para muito longe são levados os objetos que desaparecem de uma casa e que o dono não mais consegue achar. Entretanto, como a subtração dos objetos exige quase que as mesmas condições fluídicas que o trazimento deles reclama, ela só se pode dar com o concurso de médiuns dotados de faculdades especiais. Por isso, quando alguma coisa desapareça, é mais provável que o fato seja devido a descuido vosso do que à ação dos Espíritos.”
+
+    16ª. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?
+    “Nos dias que correm, abundam fatos dessa ordem, fatos que não percebeis, porque neles não pensais, mas que, com um pouco de reflexão, se vos tornariam patentes.”
+
+    Nota de Erasto – “Não atribuais aos Espíritos o que é obra do homem, mas crede na influência deles, oculta, constante, a criar em torno de vós mil circunstâncias, mil incidentes necessários ao cumprimento dos vossos atos, da vossa existência.”
+
+    17ª. Entre os objetos que os Espíritos costumam trazer, não haverá alguns que eles próprios possam fabricar, isto é, produzidos espontaneamente pelas modificações que os Espíritos possam operar no fluido, ou no elemento universal?
+    “Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”
+
+    18ª. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?
+    “Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”
+
+    19ª. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?
+    “Tirei a matéria que os envolvia.”
+
+    Nota de Erasto – “O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.”
+
+    20ª. (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?
+    “É complexa esta questão. O Espírito pode tornar invisíveis, porém não penetráveis, os objetos que ele transporte; não pode quebrar a agregação da matéria, porque seria a destruição do objeto. Tornando este invisível, o Espírito o pode transportar quando queira e não o libertar senão no momento oportuno, para fazê-lo aparecer. De modo diverso se passam as coisas, com relação aos que compomos. Como nestes só introduzimos os elementos da matéria, como esses elementos são essencialmente penetráveis e, ainda, como nós mesmos penetramos e atravessamos os corpos mais condensados, com a mesma facilidade com que os raios solares atravessam uma placa de vidro, podemos perfeitamente dizer que introduzimos o objeto num lugar que esteja hermeticamente fechado, mas isso somente neste caso.”
+
+    Nota – Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.
 
 ### `ldm.2.06` 📑 6. Das manifestações visuais
 
