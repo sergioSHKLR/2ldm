@@ -941,7 +941,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
     19ª. Está bem, Jeannet! oraremos por ti. Dize-nos, a nossa evocação te deu prazer ou te contrariou?
     >“Antes prazer, pois que sois bons rapazes, viventes alegres, embora um pouco austeros. Não importa: ouvistes-me, estou contente.”
 
-### Fenômeno de transporte
+#### Fenômeno de transporte
 
 #### `ldm.p96` #️⃣ 96
 96. Este fenômeno não difere do de que vimos de falar, senão pela intenção benévola do Espírito que o produz, pela natureza dos objetos, quase sempre graciosos, de que ele se serve e pela maneira suave, delicada mesmo, por que são trazidos. Consiste no trazimento espontâneo de objetos inexistentes no lugar onde estão os observadores. São quase sempre flores, não raro frutos, confeitos, joias etc.
@@ -1222,9 +1222,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### `ldm.p113` #️⃣ 113
 
-
-
-### `ldm.2.06` 📑 6. Das manifestações visuais
 
 ### `ldm.2.07` 📑 7. Da bicorporeidade e da transfiguração
 
