@@ -21,17 +21,25 @@ O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
 [working-copy.md](./testing/working-copy.md)
 
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
+
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ## 2. Análise
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
+
 ## 3. Formato de arquivo
 
 Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ## 4. Obra original
 
@@ -51,11 +59,15 @@ Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
+
 ## 5. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
 Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `ldm.1` 🗂️ Parte 1 - título como `ldm.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `ldm.2` 🗂️ Parte 2 - Manifestações espíritas, decidimos por dar-lhes o nome de `ldm.3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ## 6. Padronização
 
@@ -67,6 +79,8 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 - trechos originalmente realçados em *itálico* foram mudados para **negrito**; 
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ### 6.1. Formatação de texto (1lde)
 
@@ -163,15 +177,21 @@ ldm.X.X
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens.
 
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
+
 ## 7. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
+
 ## 8. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ## 9. Agradecimentos
 
@@ -185,6 +205,8 @@ Deus abençoa, sempre!
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1ldm) |
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
 
 ## 10. Notas
 
@@ -205,3 +227,5 @@ Deus abençoa, sempre!
        - III – a citação em livros, jornais, revistas ou qualquer outro meio de comunicação, de passagens de qualquer obra, para fins de estudo, crítica ou polêmica, na medida justificada para o fim a atingir, indicando-se o nome do autor e a origem da obra.
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
+
+[topo ⤴️](#%EF%B8%8F-o-livro-dos-m%C3%A9diuns)
