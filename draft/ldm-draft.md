@@ -1317,7 +1317,7 @@ Allan Kardec encontrou, nos princípios da Doutrina Espírita, explicações que
 
 Essa compreensão das Leis Divinas permite a Allan Kardec afirmar que:
 
-> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. ([👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md), item 207)
+> O corpo deriva do corpo, mas o Espírito não procede do Espírito. Entre os descendentes das raças apenas há consanguinidade. ([👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md), [**lde.q207**](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq207-%EF%B8%8F%E2%83%A3-207))
 >
 > [...] o Espiritismo, restituindo ao Espírito o seu verdadeiro papel na Criação, constatando a superioridade da inteligência sobre a matéria, faz com que desapareçam, naturalmente, todas as distinções estabelecidas entre os homens, conforme as vantagens corporais e mundanas, sobre as quais só o orgulho fundou as castas e os estúpidos preconceitos de cor. (📓 *Revista Espírita*, 1861)
 >
