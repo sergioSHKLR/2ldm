@@ -9,7 +9,7 @@ Espiritismo Experimental
 
 **✒️ O Livro dos Médiuns**
 
-Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de 👻 *O Livro dos Espíritos*.
+Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de [👻 *O Livro dos Espíritos*](../1lde/blob/main/releases/1lde-2023-06-10b1.md).
 
 Por Allan Kardec
 
