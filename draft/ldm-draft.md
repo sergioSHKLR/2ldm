@@ -1,5 +1,5 @@
 
-# `ldm` ✒️ O LIVRO DOS MEDIUNS (working copy)
+# `ldm` ✒️ O LIVRO DOS MEDIUNS (draft)
 
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
 
