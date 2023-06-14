@@ -1,7 +1,11 @@
 
 # `ldm` ✒️ O LIVRO DOS MEDIUNS (draft)
 
+---
+
 ## `ldm.0` 🗂️ Parte 0 - Pré-textual
+
+---
 
 ### `ldm.0.01` 📃 Folha de rosto
 
@@ -54,6 +58,8 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 ---
 
 ## `ldm.1` 🗂️ Parte 1 - Noções Preliminares
+
+---
 
 ### `ldm.1.01` 📑 1. Há Espíritos?
 
@@ -239,6 +245,8 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 [^3]: Rafael Sanzio (1483–1520), pintor, escultor e arquiteto italiano. O seu gênio reunia todas as qualidades: perfeição do desenho, vivacidade dos movimentos, harmonia das linhas, delicadeza do colorido. Deixou grande número de obras-primas. É considerado o poeta da Pintura, como Ovídio foi considerado o músico da Poesia e como Chopin é considerado o poeta da Música.
 
+---
+
 ### `ldm.1.03` 📑 3. Do método
 
 ---
@@ -359,6 +367,8 @@ Há mesmo qualquer coisa de ilógico em supor-se que Espíritos venham exibir-se
     Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermos, de nenhum modo, influenciar a opinião que dela se possa formar. Trazendo nossa pedra ao edifício, colocamo-nos nas fileiras. Não nos cabe ser juiz e parte e não alimentamos a ridícula pretensão de ser o único distribuidor da luz. Toca ao leitor separar o bom do mau, o verdadeiro do falso.
 
 [^5]: N.E.: De Kardec são ainda as obras: *O Evangelho segundo o Espiritismo*; *O Céu e o Inferno*; *A Gênese* e *Obras Póstumas*.
+
+---
 
 ### `ldm.1.04` 📑 4. Dos sistemas
 
@@ -528,9 +538,15 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram sondar a natureza da alma. Como poderíamos nós fazê-lo? É, portanto, perder tempo querer perscrutar o princípio das coisas que, como foi dito em [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md) ([`lde.q17`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq17-%EF%B8%8F%E2%83%A3-17) e [`lde.q49`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq49-%EF%B8%8F%E2%83%A3-49)), está nos segredos de Deus. Pretender esquadrinhar, com o auxílio do Espiritismo, o que escapa à alçada da Humanidade é desviá-lo do seu verdadeiro objetivo, é fazer como a criança que quisesse saber tanto quanto o velho. Aplique o homem o Espiritismo em aperfeiçoar-se moralmente, eis o essencial. O mais não passa de curiosidade estéril e muitas vezes orgulhosa, cuja satisfação não o faria adiantar um passo. O único meio de nos adiantarmos consiste em nos tornarmos melhores. Os Espíritos que ditaram o livro que lhes traz o nome demonstraram a sua sabedoria, mantendo-se, pelo que concerne ao princípio das coisas, dentro dos limites que Deus não permite sejam ultrapassados e deixando aos Espíritos sistemáticos e presunçosos a responsabilidade das teorias prematuras e errôneas, mais sedutoras do que sólidas, e que um dia virão a cair, ante a razão, como tantas outras surgidas dos cérebros humanos. Eles, ao justo, só disseram o que era preciso para que o homem compreendesse o futuro que o aguarda e para, por essa maneira, animá-lo à prática do bem. (**ldm.2.01**)
 
-## `ldm.2` 🗂️ Parte 2 - Das Manifestações espíritas
+---
+
+## `ldm.2` 🗂️ Parte 2 - Das manifestações espíritas
+
+---
 
 ### `ldm.2.01` 📑 1. Da ação dos Espíritos sobre a matéria
+
+---
 
 #### `ldm.p52` #️⃣ 52
 52. Posta de lado a opinião materialista, porque condenada pela razão e pelos fatos, tudo se resume em saber se a alma, depois da morte, pode manifestar-se aos vivos. Reduzida assim à sua expressão mais singela, a questão fica extraordinariamente desembaraçada. Caberia, antes de tudo, perguntar por que não poderiam seres inteligentes, que de certo modo vivem no nosso meio, se bem que invisíveis por natureza, atestar-nos de qualquer forma sua presença. A simples razão diz que nisto nada absolutamente há de impossível, o que já é alguma coisa. Demais, esta crença tem a seu favor o assentimento de todos os povos, porquanto com ela deparamos em toda parte e em todas as épocas. Ora, nenhuma intuição pode mostrar-se tão generalizada, nem sobreviver ao tempo, se não tiver algum fundamento. Acresce que se acha sancionada pelo testemunho dos livros sagrados e pelo dos Pais da Igreja, tendo sido preciso o ceticismo e o materialismo do nosso século para que fosse lançada ao rol das ideias supersticiosas. Se estamos em erro, aquelas autoridades o estão igualmente.
@@ -582,7 +598,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p59` #️⃣ 59
 59. Perguntar-se-á, talvez, como pode o Espírito, com o auxílio de matéria tão sutil, atuar sobre corpos pesados e compactos, suspender mesas etc. Semelhante objeção certo que não será formulada por um homem de ciência, visto que, sem falar das propriedades desconhecidas que esse novo agente pode possuir, não temos exemplos análogos sob as vistas? Não é nos gases mais rarefeitos, nos fluidos imponderáveis que a indústria encontra os seus mais possantes motores? Quando vemos o ar abater edifícios, o vapor deslocar enormes massas, a pólvora gaseificada levantar rochedos, a eletricidade lascar árvores e fender paredes, que dificuldades acharemos em admitir que o Espírito, com o auxílio do seu perispírito, possa levantar uma mesa, sobretudo sabendo que esse perispírito pode tornar-se visível, tangível e comportar-se como um corpo sólido?
 
+---
+
 ### `ldm.2.02` 📑 2. Das manifestações físicas. Das mesas girantes
+
+---
 
 #### `ldm.p60` #️⃣ 60
 60. Dá-se o nome de manifestações físicas às que se traduzem por efeitos sensíveis, tais como ruídos, movimentos e deslocação de corpos sólidos. Umas são espontâneas, isto é, independentes da vontade de quem quer que seja; outras podem ser provocadas. Primeiramente, só falaremos destas últimas.
@@ -615,7 +635,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p64` #️⃣ 64
 64. Outro fenômeno que se produz com frequência, de acordo com a natureza do médium, é o das pancadas no próprio tecido da madeira, sem que a mesa faça qualquer movimento. Essas pancadas, às vezes muito fracas, outras vezes muito fortes, se fazem também ouvir nos outros móveis do compartimento, nas paredes e no forro. Dentro em pouco voltaremos a esta questão. Quando as pancadas se dão na mesa, produzem nesta uma vibração muito apreciável por meio dos dedos e que se distingue perfeitamente, aplicando-se-lhe o ouvido.
 
+---
+
 ### `ldm.2.03` 📑 3. Das manifestações inteligentes
+
+---
 
 #### `ldm.p65` #️⃣ 65
 65. No que acabamos de ver, nada certamente revela a intervenção de uma potência oculta e os efeitos que passamos em revista poderiam explicar-se perfeitamente pela ação de uma corrente magnética, ou elétrica, ou, ainda, pela de um fluido qualquer. Tal foi, precisamente, a primeira solução dada a tais fenômenos e que, com razão, podia passar por muito lógica. Teria, não há dúvida, prevalecido, se outros fatos não tivessem vindo demonstrá-la insuficiente. Estes fatos são as provas de inteligência que eles deram. Ora, como todo efeito inteligente há de por força derivar de uma causa inteligente, ficou evidenciado que, mesmo admitindo-se, em tais casos, a intervenção da eletricidade, ou de qualquer outro fluido, outra causa a essa se achava associada. Qual era ela? Qual a inteligência? Foi o que o seguimento das observações mostrou.
@@ -941,7 +965,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
     19ª. Está bem, Jeannet! oraremos por ti. Dize-nos, a nossa evocação te deu prazer ou te contrariou?
     >“Antes prazer, pois que sois bons rapazes, viventes alegres, embora um pouco austeros. Não importa: ouvistes-me, estou contente.”
 
+---
+
 #### Fenômeno de transporte
+
+---
 
 #### `ldm.p96` #️⃣ 96
 96. Este fenômeno não difere do de que vimos de falar, senão pela intenção benévola do Espírito que o produz, pela natureza dos objetos, quase sempre graciosos, de que ele se serve e pela maneira suave, delicada mesmo, por que são trazidos. Consiste no trazimento espontâneo de objetos inexistentes no lugar onde estão os observadores. São quase sempre flores, não raro frutos, confeitos, joias etc.
@@ -1060,7 +1088,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Nota – Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.
 
+---
+
 ### `ldm.2.06` 📑 6. Das manifestações visuais
+
+---
 
 #### `ldm.p100` #️⃣ 100
 100. De todas as manifestações espíritas, as mais interessantes, sem contestação possível, são aquelas por meio das quais os Espíritos se tornam visíveis. Pela explicação deste fenômeno se verá que ele não é mais sobrenatural do que os outros. Vamos apresentar primeiramente as respostas que os Espíritos deram acerca do assunto:
