@@ -806,7 +806,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Só por uma causa semelhante se pode explicar o singular fenômeno, tantas vezes observado, de uma pessoa fraca e delicada levantar com dois dedos, sem esforço e como se se tratasse de uma pena, um homem forte e robusto com a cadeira em que está assentado. As intermitências da faculdade provam que a causa é estranha à pessoa que produz o fenômeno.
 
+---
+
 ### `ldm.2.05` 📑 5. Das manifestações físicas espontâneas
+
+---
 
 #### `ldm.p82` #️⃣ 82
 82. São provocados os fenômenos de que acabamos de falar. Sucede, porém, às vezes, produzirem-se espontaneamente, sem intervenção da vontade, até mesmo contra a vontade, pois que frequentemente se tornam muito importunos. Além disso, para excluir a suposição de que possam ser efeito de imaginação sobre-excitada pelas ideias espíritas, há a circunstância de que se produzem entre pessoas que nunca ouviram falar disso e exatamente quando menos por semelhante coisa esperavam.
@@ -1216,11 +1220,25 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 [^12]: A.K.: Ver, para mais particularidades sobre o estado do Espírito durante o sono, [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md), [`lde.q409`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq409-%EF%B8%8F%E2%83%A3-409).
 
-#### `ldm.p101` #️⃣ 101
+---
 
+#### Ensaio teórico sobre as aparições
+
+---
+
+#### `ldm.p101` #️⃣ 101
+101. As manifestações aparentes mais comuns se dão durante o sono, por meio dos sonhos: são as visões. Os limites deste estudo não comportam o exame de todas as particularidades que os sonhos podem apresentar. Resumiremos tudo, dizendo que eles podem ser: uma visão atual das coisas presentes, ou ausentes; uma visão retrospectiva do passado e, em alguns casos excepcionais, um pressentimento do futuro. Também muitas vezes são quadros alegóricos que os Espíritos nos põem sob as vistas para dar-nos úteis avisos e salutares conselhos, se se trata de Espíritos bons; para induzir-nos em erro e nos lisonjear as paixões, se são Espíritos imperfeitos os que no-lo apresentam. A teoria que se segue aplica-se aos sonhos, como a todos os outros casos de aparições. (Veja-se: O livro dos espíritos, questões 400 e seguintes.)
+
+       Temos para nós que faríamos uma injúria aos nossos leitores se nos propuséssemos a demonstrar o que há de absurdo e ridículo no que vulgarmente se chama a interpretação dos sonhos.
 
 #### `ldm.p102` #️⃣ 102
+102. As aparições propriamente ditas se dão quando o vidente se acha em estado de vigília e no gozo da plena e inteira liberdade das suas faculdades. Apresentam-se, em geral, sob uma forma vaporosa e diáfana, às vezes vaga e imprecisa. A princípio é, quase sempre, uma claridade esbranquiçada, cujos contornos pouco a pouco se vão desenhando. Doutras vezes, as formas se mostram nitidamente acentuadas, distinguindo-se os menores traços da fisionomia, a ponto de se tornar possível fazer-se da aparição uma descrição completa. Os ademanes, o aspecto, são semelhantes aos que tinha o Espírito quando vivo.
 
+    Podendo tomar todas as aparências, o Espírito se apresenta sob a que melhor o faça reconhecível, se tal é o seu desejo. Assim, embora como Espírito nenhum defeito corpóreo tenha, ele se mostrará estropiado, coxo, corcunda, ferido, com cicatrizes, se isso for necessário à prova da sua identidade. Esopo, por exemplo, como Espírito, não é disforme; porém, se o evocarem como Esopo, ainda que muitas existências tenha tido depois da em que assim se chamou, ele aparecerá feio e corcunda, com os seus trajes tradicionais.
+
+    Coisa interessante é que, salvo em circunstâncias especiais, as partes menos acentuadas são os membros inferiores, enquanto a cabeça, o tronco, os braços e as mãos são sempre claramente desenhados. Daí vem que quase nunca são vistos a andar, mas a deslizar como sombras. Quanto às vestes, compõem-se ordinariamente de um amontoado de pano, terminando em longo pregueado flutuante. Com uma cabeleira ondulante e graciosa se apresentam os Espíritos que nada conservam das coisas terrenas. Os Espíritos vulgares, porém, os que aqui conhecemos, aparecem com os trajos que usavam no último período de sua existência.
+
+    Frequentemente, mostram atributos característicos da elevação que alcançaram, como uma auréola, ou asas, os que possam ser tidos por anjos, ao passo que outros trazem os sinais indicativos de suas ocupações terrenas. Assim, um guerreiro aparecerá com a sua armadura; um sábio, com livros; um assassino, com um punhal etc. Os Espíritos superiores têm uma figura bela, nobre e serena; os mais inferiores denotam alguma coisa de feroz e bestial, não sendo raro revelarem ainda os vestígios dos crimes que praticaram ou dos suplícios que padeceram. A questão do traje e dos objetos acessórios com que os Espíritos aparecem é talvez a que mais espanto causa. Voltaremos a essa questão em capítulo especial, porque ela se liga a outros fatos muito importantes.
 
 #### `ldm.p103` #️⃣ 103
 
