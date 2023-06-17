@@ -685,64 +685,64 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p74` #️⃣ 74
 74. As respostas seguintes nos foram dadas pelo Espírito São Luís. Muitos outros, depois, as confirmaram.
 
-    1ª. Será o fluido universal uma emanação da divindade?
+    1<sup>a</sup>. Será o fluido universal uma emanação da divindade?
     >“Não.”
 
-    2ª. Será uma criação da divindade?
+    2<sup>a</sup>. Será uma criação da divindade?
     >“Tudo é criado, exceto Deus.”
 
-    3ª. O fluido universal será ao mesmo tempo o elemento universal?
+    3<sup>a</sup>. O fluido universal será ao mesmo tempo o elemento universal?
     >“Sim, é o princípio elementar de todas as coisas.”
 
-    4ª. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?
+    4<sup>a</sup>. Alguma relação tem ele com o fluido elétrico, cujos efeitos conhecemos?
     >“É o seu elemento.”
 
-    5ª. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?
+    5<sup>a</sup>. Em que estado o fluido universal se nos apresenta na sua maior simplicidade?
     >“Para o encontrarmos na sua simplicidade absoluta, precisamos ascender aos Espíritos puros. No vosso mundo, ele sempre se acha mais ou menos modificado, para formar a matéria compacta que vos cerca. Entretanto, podeis dizer que o estado em que se encontra mais próximo daquela simplicidade é o do fluido a que chamais **fluido magnético animal**.”
 
-    6ª. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?
+    6<sup>a</sup>. Já disseram que o fluido universal é a fonte da vida. Será ao mesmo tempo a fonte da inteligência?
     >“Não, esse fluido apenas anima a matéria.”
 
-    7ª. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?
+    7<sup>a</sup>. Pois que é desse fluido que se compõe o perispírito, parece que, neste, ele se acha como num estado de condensação, que o aproxima, até certo ponto, da matéria propriamente dita?
     >“Até certo ponto, como dizes, porquanto não tem todas as propriedades da matéria. É mais ou menos condensado, conforme os mundos.”
 
-    8ª. Como pode um Espírito produzir o movimento de um corpo sólido?
+    8<sup>a</sup>. Como pode um Espírito produzir o movimento de um corpo sólido?
     >“Combinando uma parte do fluido universal com o fluido que o médium emite, próprio àquele efeito.”
 
-    9ª. Será com os seus próprios membros, de certo modo solidificados, que os Espíritos levantam a mesa?
+    9<sup>a</sup>. Será com os seus próprios membros, de certo modo solidificados, que os Espíritos levantam a mesa?
     >“Esta resposta ainda não te levará até onde desejas. Quando, sob as vossas mãos, uma mesa se move, o Espírito haure no fluido universal o que é necessário para lhe dar uma vida factícia. Assim preparada a mesa, o Espírito a atrai e move sob a influência do fluido que de si mesmo desprende, por efeito da sua vontade. Quando quer pôr em movimento uma massa por demais pesada para suas forças, chama em seu auxílio outros Espíritos, cujas condições sejam idênticas às suas. Em virtude da sua natureza etérea, o Espírito propriamente dito não pode atuar sobre a matéria grosseira sem intermediário, isto é, sem o elemento que o liga à matéria. Esse elemento, que constitui o que chamais perispírito, vos faculta a chave de todos os fenômenos espíritas de ordem material. Julgo ter-me explicado muito claramente, para ser compreendido.”
 
     Nota. Chamamos a atenção para a seguinte frase, primeira da resposta acima: Esta resposta AINDA não te levará até onde desejas. O Espírito compreendera perfeitamente que todas as questões precedentes só haviam sido formuladas para chegarmos a esta última e alude ao nosso pensamento que, com efeito, esperava por outra resposta muito diversa, isto é, pela confirmação da ideia que tínhamos sobre a maneira por que o Espírito obtém o movimento da mesa.
 
-    10ª. Os Espíritos que aquele que deseja mover um objeto chama em seu auxílio são-lhe inferiores? Estão-lhe sob as ordens?
+    10<sup>a</sup>. Os Espíritos que aquele que deseja mover um objeto chama em seu auxílio são-lhe inferiores? Estão-lhe sob as ordens?
     >“São-lhe iguais, quase sempre. Muitas vezes acodem espontaneamente.”
 
-    11ª. São aptos, todos os Espíritos, a produzir fenômenos deste gênero?
+    11<sup>a</sup>. São aptos, todos os Espíritos, a produzir fenômenos deste gênero?
     >“Os que produzem efeitos desta espécie são sempre Espíritos inferiores, que ainda se não desprenderam inteiramente de toda a influência material.”
 
-    12ª. Compreendemos que os Espíritos Superiores não se ocupam com coisas que estão muito abaixo deles. Mas perguntamos se, uma vez que estão mais desmaterializados, teriam o poder de fazê-lo, dado que o quisessem?
+    12<sup>a</sup>. Compreendemos que os Espíritos Superiores não se ocupam com coisas que estão muito abaixo deles. Mas perguntamos se, uma vez que estão mais desmaterializados, teriam o poder de fazê-lo, dado que o quisessem?
     >“Os Espíritos Superiores têm a força moral, como os outros têm a força física. Quando precisam desta força, servem-se dos que a possuem. Já não se vos disse que eles se servem dos Espíritos inferiores, como vós vos servis dos carregadores?”
 
     Nota. Já foi explicado que a densidade do perispírito, se assim se pode dizer, varia de acordo com o estado dos mundos. Parece que também varia, em um mesmo mundo, de indivíduo para indivíduo. Nos Espíritos **moralmente adiantados**, é mais sutil e se aproxima da dos Espíritos elevados; nos Espíritos inferiores, ao contrário, aproxima-se da matéria e é o que faz que os Espíritos de baixa condição conservem por muito tempo as ilusões da vida terrestre. Esses pensam e obram como se ainda fossem vivos; experimentam os mesmos desejos e quase que se poderia dizer a mesma sensualidade. Esta grosseria do perispírito, dando-lhe mais **afinidade** com a matéria, torna os Espíritos inferiores mais aptos às manifestações físicas. Pela mesma razão é que um homem de sociedade, habituado aos trabalhos da inteligência, franzino e delicado de corpo, não pode suspender fardos pesados, como o faz um carregador. Nele, a matéria é, de certa maneira, menos compacta, menos resistentes os órgãos; há menos fluido nervoso. Sendo o perispírito, para o Espírito, o que o corpo é para o homem e como à sua maior densidade corresponde menor superioridade espiritual, essa densidade substitui no Espírito a força muscular, isto é, dá-lhe, sobre os fluidos necessários às manifestações, um poder maior do que o de que dispõem aqueles cuja natureza é mais etérea. Querendo um Espírito elevado produzir tais efeitos, faz o que entre nós fazem as pessoas delicadas: chama para executá-los um **Espírito do ofício**.
 
-    13ª. Se compreendemos bem o que disseste, o princípio vital reside no fluido universal; o Espírito tira deste fluido o envoltório semimaterial que constitui o seu perispírito e é ainda por meio deste fluido que ele atua sobre a matéria inerte. É assim?
+    13<sup>a</sup>. Se compreendemos bem o que disseste, o princípio vital reside no fluido universal; o Espírito tira deste fluido o envoltório semimaterial que constitui o seu perispírito e é ainda por meio deste fluido que ele atua sobre a matéria inerte. É assim?
     >“É. Quer dizer: ele empresta à matéria uma espécie de vida factícia; a matéria se anima da vida animal. A mesa, que se move debaixo das vossas mãos, vive como animal; obedece por si mesma ao ser inteligente. Não é este quem a impele, como faz o homem com um fardo. Quando ela se eleva, não é o Espírito quem a levanta com o esforço do seu braço: é a própria mesa que, animada, obedece à impulsão que lhe dá o Espírito.”
 
-    14ª. Que papel desempenha o médium nesse fenômeno?
+    14<sup>a</sup>. Que papel desempenha o médium nesse fenômeno?
     >“Já eu disse que o fluido próprio do médium se combina com o fluido universal que o Espírito acumula. É necessária a união desses dois fluidos, isto é, do fluido animalizado e do fluido universal para dar vida à mesa. Mas nota bem que essa vida é apenas momentânea, que se extingue com a ação e, às vezes, antes que esta termine, logo que a quantidade de fluido deixa de ser bastante para a animar.”
 
-    15ª. Pode o Espírito atuar sem o concurso de um médium?
+    15<sup>a</sup>. Pode o Espírito atuar sem o concurso de um médium?
     >“Pode atuar à revelia do médium. Quer isto dizer que muitas pessoas, sem que o suspeitem, servem de auxiliares aos Espíritos. Delas haurem os Espíritos, como de uma fonte, o fluido animalizado de que necessitem. Assim é que o concurso de um médium, tal como o entendeis, nem sempre é preciso, o que se verifica principalmente nos fenômenos espontâneos.”
 
-    16ª. Animada, atua a mesa com inteligência? Pensa?
+    16<sup>a</sup>. Animada, atua a mesa com inteligência? Pensa?
     >“Pensa tanto quanto a bengala com que fazes um sinal inteligente, mas a vitalidade de que se acha animada lhe permite obedecer à impulsão de uma inteligência. Fica, pois, sabendo que a mesa que se move não se torna Espírito e que não tem, em si mesma, capacidade de pensar, nem de querer.”
 
     Nota. Muito amiúde, na linguagem usual, servimo-nos de uma expressão análoga. Diz-se, de uma roda que gira velozmente, que está animada de um movimento rápido.
 
-    17ª. Qual a causa preponderante na produção desse fenômeno: o Espírito ou o fluido?
+    17<sup>a</sup>. Qual a causa preponderante na produção desse fenômeno: o Espírito ou o fluido?
     >“O Espírito é a causa, o fluido, o instrumento; ambos são necessários.”
 
-    18ª. Que papel, nesse caso, desempenha a vontade do médium?
+    18<sup>a</sup>. Que papel, nesse caso, desempenha a vontade do médium?
     >“O de atrair os Espíritos e secundá-los no impulso que dão ao fluido.”
 
     a) É sempre indispensável a ação da vontade?
@@ -750,31 +750,31 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Nota. Nem sempre o contato das mãos é necessário para que um objeto se mova. As mais das vezes, esse contato só se faz preciso para dar o primeiro impulso; porém, desde que o objeto está animado, pode obedecer à vontade do Espírito, sem contato material. Depende isto, ou da potencialidade do médium, ou da natureza do Espírito. Nem sempre mesmo é indispensável um primeiro contato, do que são provas os movimentos e deslocamentos espontâneos que ninguém cogitou de provocar.
 
-    19ª. Por que é que nem toda gente pode produzir o mesmo efeito e não têm todos os médiuns o mesmo poder?
+    19<sup>a</sup>. Por que é que nem toda gente pode produzir o mesmo efeito e não têm todos os médiuns o mesmo poder?
     >“Isto depende da organização e da maior ou menor facilidade com que se pode operar a combinação dos fluidos. Influi também a maior ou menor simpatia do médium para com os Espíritos que encontram nele a força fluídica necessária. Dá-se com esta força o que se verifica com a dos magnetizadores, que não é igual em todos. A esse respeito, há mesmo pessoas que são de todo refratárias; outras com as quais a combinação só se opera por um esforço de vontade da parte delas; outras, finalmente, com quem a combinação dos fluidos se efetua tão natural e facilmente que elas nem dão por isso e servem de instrumento a seu mau grado, como atrás dissemos.” (Vede aqui adiante o capítulo sobre as **manifestações espontâneas**.)
 
     Nota. Estes fenômenos têm, sem dúvida, por princípio o magnetismo, porém não como geralmente o entendem. A prova está na existência de poderosos magnetizadores que não conseguiram fazer que uma pequenina mesa se movesse e na de pessoas que não logram magnetizar ninguém, nem mesmo uma criança, às quais, no entanto, basta que ponham os dedos sobre uma mesa pesada para que esta se agite. Assim, desde que a força mediúnica não guarda proporção com a força magnética, é que outra causa existe.
 
-    20ª. As pessoas qualificadas de elétricas podem ser consideradas médiuns?
+    20<sup>a</sup>. As pessoas qualificadas de elétricas podem ser consideradas médiuns?
     >“Essas pessoas tiram de si mesmas o fluido necessário à produção do fenômeno e podem operar sem o concurso de outros Espíritos. Não são, portanto, médiuns, no sentido que se atribui a esta palavra. Mas também pode dar-se que um Espírito as assista e se aproveite de suas disposições naturais.”
 
     Nota. Sucede com essas pessoas o que ocorre com os sonâmbulos, que podem operar com ou sem o concurso de Espíritos estranhos. (Veja-se, no capítulo Dos médiuns, o artigo relativo aos médiuns sonambúlicos.)
 
-    21ª. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?
+    21<sup>a</sup>. O Espírito que atua sobre os corpos sólidos, para movê-los, se coloca na substância mesma dos corpos ou fora dela?
     >“Dá-se uma e outra coisa. Já dissemos que a matéria não constitui obstáculos para os Espíritos. Em tudo eles penetram. Uma porção do perispírito se identifica, por assim dizer, com o objeto em que penetra.”
 
-    22ª. Como faz o Espírito para bater? Serve-se de algum objeto material?
+    22<sup>a</sup>. Como faz o Espírito para bater? Serve-se de algum objeto material?
     >“Tanto quanto dos braços para levantar a mesa. Sabes perfeitamente que nenhum martelo tem o Espírito à sua disposição. Seu martelo é o fluido que, combinado, ele põe em ação, pela sua vontade, para mover ou bater. Quando move um objeto, a luz vos dá a percepção do movimento; quando bate, o ar vos traz o som.”
 
-    23ª. Concebemos que seja assim quando o Espírito bate num corpo duro; mas como pode fazer que se ouçam ruídos ou sons articulados na massa instável do ar?
+    23<sup>a</sup>. Concebemos que seja assim quando o Espírito bate num corpo duro; mas como pode fazer que se ouçam ruídos ou sons articulados na massa instável do ar?
     >“Pois que é possível atuar sobre a matéria, tanto pode ele atuar sobre uma mesa, como sobre o ar. Quanto aos sons articulados, pode imitá-los, como o pode fazer com quaisquer outros ruídos.”
 
-    24ª. Dizes que o Espírito não se serve de suas mãos para deslocar a mesa. Entretanto, já se tem visto, em certas manifestações visuais, aparecerem mãos a dedilhar um teclado, a percutir as teclas e a tirar dali sons. Neste caso, o movimento das teclas não será devido, como parece, à pressão dos dedos? E não é também direta e real essa pressão, quando se faz sentir sobre nós, quando as mãos que a exercem deixam marcas na pele?
+    24<sup>a</sup>. Dizes que o Espírito não se serve de suas mãos para deslocar a mesa. Entretanto, já se tem visto, em certas manifestações visuais, aparecerem mãos a dedilhar um teclado, a percutir as teclas e a tirar dali sons. Neste caso, o movimento das teclas não será devido, como parece, à pressão dos dedos? E não é também direta e real essa pressão, quando se faz sentir sobre nós, quando as mãos que a exercem deixam marcas na pele?
     >“Não podeis compreender a natureza dos Espíritos nem a maneira por que atuam senão mediante comparações, que de uma e outra coisa apenas vos dão ideia incompleta, e errareis sempre que quiserdes assimilar aos vossos os processos de que eles usam. Estes, necessariamente, hão de corresponder à organização que lhes é própria. Já te não disse eu que o fluido do perispírito penetra a matéria e com ela se identifica, que a anima de uma vida factícia? Pois bem! Quando o Espírito põe os dedos sobre as teclas, realmente os põe e de fato as movimenta. Porém, não é por meio da força muscular que exerce a pressão. Ele as anima, como o faz com a mesa, e as teclas, obedecendo-lhe a vontade, se abaixam e tangem as cordas do piano. Em tudo isto uma coisa ainda se dá, que difícil vos será compreender: é que alguns Espíritos tão pouco adiantados se encontram e, em comparação com os Espíritos elevados, tão materiais se conservam que guardam as ilusões da vida terrena e julgam obrar como quando tinham o corpo de carne. Não percebem a verdadeira causa dos efeitos que produzem, mais do que um camponês compreende a teoria dos sons que articula. Perguntai-lhes como é que tocam piano e vos responderão que batendo com os dedos nas teclas, porque julgam ser assim que o fazem. O efeito se produz instintivamente neles, sem que saibam como, se bem lhes resulte da ação da vontade. O mesmo ocorre quando se exprimem por palavras.”
 
     Nota. Destas explicações decorre que os Espíritos podem produzir todos os efeitos que nós outros homens produzimos, mas por meios apropriados à sua organização. Algumas forças, que lhes são próprias, substituem os músculos de que precisamos para atuar, da mesma maneira que, para um mudo, o gesto substitui a palavra que lhe falta.
 
-    25ª. Entre os fenômenos que se apontam como probantes da ação de uma potência oculta, alguns há evidentemente contrários a todas as conhecidas Leis da Natureza. Nesses casos, não será legítima a dúvida?
+    25<sup>a</sup>. Entre os fenômenos que se apontam como probantes da ação de uma potência oculta, alguns há evidentemente contrários a todas as conhecidas Leis da Natureza. Nesses casos, não será legítima a dúvida?
     >“É que o homem está longe de conhecer todas as Leis da Natureza. Se as conhecesse todas, seria Espírito Superior. Cada dia que se passa desmente os que, supondo tudo saberem, pretendem impor limites à Natureza, sem que por isso, entretanto, se tornem menos orgulhosos. Desvendando-lhe, incessantemente, novos mistérios, Deus adverte o homem de que deve desconfiar de suas próprias luzes, porquanto dia virá em que **a ciência do mais sábio será confundida**. Não tendes todos os dias, sob os olhos, exemplos de corpos animados de um movimento que domina a força da gravitação? Uma pedra, atirada para o ar, não sobrepuja momentaneamente aquela força? Pobres homens, que vos considerais muito sábios e cuja tola vaidade a todos os momentos está sendo desbancada, ficai sabendo que ainda sois muito pequeninos.”
 
 #### `ldm.p75` #️⃣ 75
@@ -881,92 +881,92 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p94` #️⃣ 94
 94. A este respeito, apenas citaremos o diálogo provocado a propósito dos fatos ocorridos em junho de 1860, na rua des Noyers, em Paris. Encontrar-se-ão os pormenores do caso na *Revista Espírita*, número de agosto de 1860.
 
-    1ª. (A São Luís) Quererias ter a bondade de nos dizer se são reais os fatos que se dizem passados na rua des Noyers? Quanto à possibilidade deles se darem, disso não duvidamos.
+    1<sup>a</sup>. (A São Luís) Quererias ter a bondade de nos dizer se são reais os fatos que se dizem passados na rua des Noyers? Quanto à possibilidade deles se darem, disso não duvidamos.
     >“São reais esses fatos; simplesmente, a imaginação dos homens os exagerará, seja por medo, seja por ironia. Mas, repito, são reais. Produz essas manifestações um Espírito que se diverte um pouco à custa dos habitantes do lugar.”
 
-    2ª. Haverá na casa alguma pessoa que dê causa a tais manifestações?
+    2<sup>a</sup>. Haverá na casa alguma pessoa que dê causa a tais manifestações?
     >“Elas são sempre causadas pela presença da pessoa visada. É que o Espírito perturbador não gosta do habitante do lugar onde ele se acha; trata então de fazer-lhe maldades, ou mesmo procura obrigá-lo a mudar-se.”
 
-    3ª. Perguntamos se, entre os moradores da casa, alguém há que seja causador desses fenômenos, por efeito de uma influência mediúnica espontânea e involuntária?
+    3<sup>a</sup>. Perguntamos se, entre os moradores da casa, alguém há que seja causador desses fenômenos, por efeito de uma influência mediúnica espontânea e involuntária?
     >“Necessariamente assim é, **pois, sem isso**, o fato **não poderia dar-se**. Um Espírito vive num lugar que lhe é predileto; conserva-se inativo, enquanto nesse lugar não se apresenta uma pessoa que lhe convenha. Desde que essa pessoa surge, começa ele a divertir-se quanto pode.”
 
-    4ª. Será indispensável a presença dessa pessoa no próprio lugar?
+    4<sup>a</sup>. Será indispensável a presença dessa pessoa no próprio lugar?
     >“Esse o caso mais comum e é o que se verifica no de que tratas. Por isso foi que eu disse que, a não ser assim, o fato não teria podido produzir-se. Mas não pretendi generalizar. Há casos em que a presença imediata não é necessária.”
 
-    5ª. Sendo sempre de ordem inferior esses Espíritos, constituirá presunção desfavorável a uma pessoa a aptidão que revele para lhes servir de auxiliar? Isto não denuncia uma simpatia para com os seres dessa natureza?
+    5<sup>a</sup>. Sendo sempre de ordem inferior esses Espíritos, constituirá presunção desfavorável a uma pessoa a aptidão que revele para lhes servir de auxiliar? Isto não denuncia uma simpatia para com os seres dessa natureza?
     >“Não é precisamente assim, porquanto essa aptidão se acha ligada a uma disposição física. Contudo, denuncia frequentemente uma tendência material, que seria preferível não existisse, visto que, quanto mais elevado moralmente é o homem, tanto mais atrai a si os bons Espíritos que, necessariamente, afastam os maus.”
 
-    6ª. Onde vai o Espírito buscar os projetis de que se serve?
+    6<sup>a</sup>. Onde vai o Espírito buscar os projetis de que se serve?
     >“Os diversos objetos que lhe servem de projetis são, as mais das vezes, apanhados nos próprios lugares dos fenômenos, ou nas proximidades. Uma força provinda do Espírito os lança no espaço e eles vão cair no ponto que o mesmo Espírito indica.”
 
-    7ª. Pois que as manifestações espontâneas são muitas vezes permitidas e até provocadas para convencer os homens, parece-nos que, se fossem pessoalmente atingidos por elas, alguns incrédulos se veriam forçados a render-se à evidência. Eles costumam queixar-se de não serem testemunhas de fatos concludentes. Não está no poder dos Espíritos dar-lhes uma prova sensível?
+    7<sup>a</sup>. Pois que as manifestações espontâneas são muitas vezes permitidas e até provocadas para convencer os homens, parece-nos que, se fossem pessoalmente atingidos por elas, alguns incrédulos se veriam forçados a render-se à evidência. Eles costumam queixar-se de não serem testemunhas de fatos concludentes. Não está no poder dos Espíritos dar-lhes uma prova sensível?
     >“Os ateus e os materialistas não são a todo instante testemunhas dos efeitos do poder de Deus e do pensamento? Isso não impede que neguem Deus e a alma. Os milagres de Jesus converteram todos os seus contemporâneos? Aos fariseus, que lhe diziam: ‘Mestre, faze-nos ver algum prodígio’, não se assemelham os que hoje vos pedem lhes façais presenciar algumas manifestações? Se não se converteram pelas maravilhas da Criação, também não se converterão, ainda quando os Espíritos lhes aparecessem do modo mais inequívoco, porquanto o orgulho os torna quais alimárias empacadoras. Se procurassem de boa-fé, não lhes faltaria ocasião de ver; por isso, não julga Deus conveniente fazer por eles mais do que faz pelos que sinceramente buscam instruir-se, pois que o Pai só concede recompensa aos homens de boa vontade. A incredulidade deles não obstará a que a vontade de Deus se cumpra. Bem vedes que não obstou a que a Doutrina se difundisse. Deixai, portanto, de inquietar-vos com a oposição que vos movem. Essa oposição é, para a Doutrina, o que a sombra é para o quadro: maior relevo lhe dá. Que mérito teriam eles, se fossem convencidos à força? Deus lhes deixa toda a responsabilidade da teimosia em que se conservam e essa responsabilidade é mais terrível do que podeis supor. Felizes os que creem sem ter visto, disse Jesus, porque esses não duvidam do poder de Deus.”
 
-    8ª. Achas que convém evoquemos o Espírito a que nos temos referido, para lhe pedirmos algumas explicações?
+    8<sup>a</sup>. Achas que convém evoquemos o Espírito a que nos temos referido, para lhe pedirmos algumas explicações?
     >“Evoca-o, se quiseres, mas é um Espírito inferior, que só te dará respostas muito insignificantes.”
 
 #### `ldm.p95` #️⃣ 95
 95. Diálogo com o Espírito perturbador da rua des Noyers:
 
-    1ª. Evocação.
+    1<sup>a</sup>. Evocação.
     >“Que tinhas de me chamar? Queres umas pedradas? Então é que se havia de ver um bonito salve-se quem puder, não obstante o teu ar de valentia.”
 
-    2ª. Quando mesmo nos atirasses pedras aqui, isso não nos amedrontaria; até te pedimos positivamente que, se puderes, nos atires algumas.
+    2<sup>a</sup>. Quando mesmo nos atirasses pedras aqui, isso não nos amedrontaria; até te pedimos positivamente que, se puderes, nos atires algumas.
     >“Aqui talvez eu não pudesse, porque tens um guarda a velar por ti.”
 
-    3ª. Havia, na rua des Noyers, alguém que, como auxiliar, te facilitava as partidas que pregavas aos moradores da casa?
+    3<sup>a</sup>. Havia, na rua des Noyers, alguém que, como auxiliar, te facilitava as partidas que pregavas aos moradores da casa?
     >“Certamente; achei um bom instrumento e não havia nenhum Espírito douto, sábio e virtuoso para me embaraçar. Porque sou alegre, gosto às vezes de me divertir.”
 
-    4ª. Qual a pessoa que te serviu de instrumento?
+    4<sup>a</sup>. Qual a pessoa que te serviu de instrumento?
     >“Uma criada.”
 
-    5ª. Era mau grado seu que ela te auxiliava?
+    5<sup>a</sup>. Era mau grado seu que ela te auxiliava?
     >“Ah! sim, pobre! Era a que mais medo tinha!”
 
-    6ª. Procedias assim com algum propósito hostil?
+    6<sup>a</sup>. Procedias assim com algum propósito hostil?
     >“Eu, não. Nenhum propósito hostil me animava. Mas os homens, que de tudo se apoderam, farão que os fatos redundem em seu proveito.”
 
-    7ª. Que queres dizer com isso? Não te compreendemos.
+    7<sup>a</sup>. Que queres dizer com isso? Não te compreendemos.
     >“Eu só cuidava de me divertir; vós outros, porém, estudareis a coisa e tereis mais um fato a mostrar que nós existimos.”
 
-    8ª. Dizes que não alimentavas nenhum propósito hostil; entretanto, quebraste todo o ladrilho da casa. Causaste assim um prejuízo real.
+    8<sup>a</sup>. Dizes que não alimentavas nenhum propósito hostil; entretanto, quebraste todo o ladrilho da casa. Causaste assim um prejuízo real.
     >“É um acidente.”
 
-    9ª. Onde foste buscar os objetos que atiraste?
+    9<sup>a</sup>. Onde foste buscar os objetos que atiraste?
     >“São objetos muito comuns. Achei-os no pátio e nos jardins próximos.”
 
-    10ª. Achaste-os todos ou fabricaste algum? (Ver adiante o cap. VIII.)
+    10<sup>a</sup>. Achaste-os todos ou fabricaste algum? (Ver adiante o cap. VIII.)
     >“Não criei nem compus coisa alguma.”
 
-    11ª. E, se os não houvesse encontrado, terias podido fabricá-los?
+    11<sup>a</sup>. E, se os não houvesse encontrado, terias podido fabricá-los?
     >“Fora mais difícil. Porém, a rigor, misturam-se matérias e isso faz um todo qualquer.”
 
-    12ª. Agora, dize-nos; como os atiraste?
+    12<sup>a</sup>. Agora, dize-nos; como os atiraste?
     >“Ah! isto é mais difícil de explicar. Busquei auxílio na natureza elétrica daquela rapariga, juntando-a à minha, que é menos material. Pudemos assim os dois transportar os diversos objetos.”
 
-    13ª. Vais dar-nos de boa vontade, assim o esperamos, algumas informações acerca da tua pessoa. Dize-nos, primeiramente, se já morreste há muito tempo.
+    13<sup>a</sup>. Vais dar-nos de boa vontade, assim o esperamos, algumas informações acerca da tua pessoa. Dize-nos, primeiramente, se já morreste há muito tempo.
     >“Há muito tempo; há bem cinquenta anos.”
 
-    14ª. Que eras quando vivo?
+    14<sup>a</sup>. Que eras quando vivo?
     >“Não era lá grande coisa; simples trapeiro naquele quarteirão; às vezes me diziam tolices, porque eu gostava muito do licor vermelho do bom velho Noé. Por isso mesmo, queria pô-los todos dali para fora.”
 
-    15ª. Foi por ti mesmo e de bom grado que respondeste às nossas perguntas?
+    15<sup>a</sup>. Foi por ti mesmo e de bom grado que respondeste às nossas perguntas?
     >“Eu tinha um mestre.”
 
-    16ª. Quem é esse mestre?
+    16<sup>a</sup>. Quem é esse mestre?
     >“O vosso bom rei Luís.”
 
     Nota. Motivou esta pergunta a natureza de algumas respostas dadas, que nos pareceram acima da capacidade desse Espírito, pela substância das ideias e mesmo pela forma da linguagem. Nada, pois, de admirar é que ele tenha sido ajudado por um Espírito mais esclarecido, que quis aproveitar a ocasião para nos instruir. É este um fato muito comum, mas o que nesta circunstância constitui notável particularidade é que a influência do outro Espírito se fez sentir na própria caligrafia. A das respostas em que ele interveio é mais regular e mais corrente; a do trapeiro é angulosa, grossa, irregular, às vezes pouco legível, denotando caráter muito diferente.
 
-    17ª. Que fazes agora? Ocupas-te com o teu futuro?
+    17<sup>a</sup>. Que fazes agora? Ocupas-te com o teu futuro?
     >“Ainda não; vagueio. Pensam tão pouco em mim na Terra, que ninguém roga por mim. Ora, não tendo quem me ajude, não trabalho.”
 
     Nota. Ver-se-á, mais tarde, quanto se pode contribuir para o progresso e o alívio dos Espíritos inferiores, por meio da prece e dos conselhos.
 
-    18ª. Como te chamavas quando vivo?
+    18<sup>a</sup>. Como te chamavas quando vivo?
     >“Jeannet.”
 
-    19ª. Está bem, Jeannet! oraremos por ti. Dize-nos, a nossa evocação te deu prazer ou te contrariou?
+    19<sup>a</sup>. Está bem, Jeannet! oraremos por ti. Dize-nos, a nossa evocação te deu prazer ou te contrariou?
     >“Antes prazer, pois que sois bons rapazes, viventes alegres, embora um pouco austeros. Não importa: ouvistes-me, estou contente.”
 
 ---
@@ -1004,90 +1004,90 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     As perguntas que se seguem foram dirigidas ao Espírito que os operara, mas as respostas se ressentem por vezes da deficiência dos seus conhecimentos. Submetemo-las ao Espírito Erasto, muito mais instruído do ponto de vista teórico, e ele as completou, aditando-lhes notas muito judiciosas. Um é o artista; o outro, o sábio, constituindo a própria comparação dessas inteligências um estudo instrutivo, porquanto prova que não basta ser Espírito para tudo saber.
 
-    1ª. Dize-nos, peço, por que os transportes que acabaste de executar só se produzem estando o médium em estado sonambúlico?
+    1<sup>a</sup>. Dize-nos, peço, por que os transportes que acabaste de executar só se produzem estando o médium em estado sonambúlico?
     >“Isto se prende à natureza do médium. Os fatos que produzo, quando o meu está adormecido, poderia produzi-los igualmente com outro médium em estado de vigília.”
 
-    2ª. Por que fazes demorar tanto a trazida dos objetos e por que é que avivas a cobiça do médium, excitando-lhe o desejo de obter o objeto prometido?
+    2<sup>a</sup>. Por que fazes demorar tanto a trazida dos objetos e por que é que avivas a cobiça do médium, excitando-lhe o desejo de obter o objeto prometido?
     >“O tempo me é necessário a preparar os fluidos que servem para o transporte. Quanto à excitação, essa só tem por fim, as mais das vezes, divertir as pessoas presentes e o sonâmbulo.”
 
     Nota de Erasto
     >“O Espírito que responde não sabe mais do que isso; não percebe o motivo dessa cobiça, que ele instintivamente aguça, sem lhe compreender o efeito. Julga proporcionar um divertimento, enquanto, na realidade, provoca, sem o suspeitar, uma emissão maior de fluido. É uma consequência da dificuldade que o fenômeno apresenta, dificuldade sempre maior quando ele não é espontâneo, sobretudo com certos médiuns.”
 
-    3ª. Depende da natureza especial do médium a produção do fenômeno e poderia produzir-se por outros médiuns com mais facilidade e presteza?
+    3<sup>a</sup>. Depende da natureza especial do médium a produção do fenômeno e poderia produzir-se por outros médiuns com mais facilidade e presteza?
     >“A produção depende da natureza do médium e o fenômeno não se pode produzir senão por meio de naturezas correspondentes. Pelo que toca à presteza, o hábito que adquirimos, comunicando-nos frequentemente com o mesmo médium, nos é de grande vantagem.”
 
-    4ª. As pessoas presentes influem alguma coisa no fenômeno?
+    4<sup>a</sup>. As pessoas presentes influem alguma coisa no fenômeno?
     >“Quando há da parte delas incredulidade, oposição, muito nos podem embaraçar. Preferimos apresentar nossas provas aos crentes e a pessoas versadas no Espiritismo. Não quero, porém, dizer com isso que a má vontade consiga paralisar-nos inteiramente.”
 
-    5ª. Onde foste buscar as flores e os confeitos que trouxeste para aqui?
+    5<sup>a</sup>. Onde foste buscar as flores e os confeitos que trouxeste para aqui?
     >“As flores, tomo-as aos jardins, onde bem me parece.”
 
-    6ª. E os confeitos? Devem ter feito falta ao respectivo negociante.
+    6<sup>a</sup>. E os confeitos? Devem ter feito falta ao respectivo negociante.
     >“Tomo-os onde me apraz. O negociante nada absolutamente percebeu, porque pus outros no lugar dos que tirei.”
 
-    7ª. Mas os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?
+    7<sup>a</sup>. Mas os anéis têm valor. Onde os foste buscar? Não terás com isso causado prejuízo àquele de quem os tiraste?
     >“Tirei-os de lugares que todos desconhecem e fi-lo por maneira que daí não resultará prejuízo para ninguém.”
 
     Nota de Erasto
     >“Creio que o fato foi explicado de modo incompleto, em virtude da deficiência da capacidade do Espírito que respondeu. Sim, de fato, pode resultar prejuízo real, mas o Espírito não quis passar por haver desviado o que quer que fosse. Um objeto só pode ser substituído por outro objeto idêntico, da mesma forma, do mesmo valor. Conseguintemente, se um Espírito tivesse a faculdade de substituir, por outro objeto igual, um de que se apodera, já não teria razão para se apossar deste, visto que poderia dar o de que se iria servir para substituir o objeto retirado.”
 
-    8ª. Será possível trazer flores de outro planeta?
+    8<sup>a</sup>. Será possível trazer flores de outro planeta?
     >“Não; a mim não me é possível.”
 
     (A Erasto) Teriam outros Espíritos esse poder?
     >“Não, isso não é possível, em virtude da diferença dos meios ambientes.”
 
-    9ª. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?
+    9<sup>a</sup>. Poderias trazer-nos flores de outro hemisfério; dos trópicos, por exemplo?
     >“Desde que seja da Terra, posso.”
 
-    10ª. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?
+    10<sup>a</sup>. Poderias fazer que os objetos trazidos nos desaparecessem da vista e levá-los novamente?
     >“Assim como os trouxe aqui, posso levá-los, à minha vontade.”
 
-    11ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
+    11<sup>a</sup>. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
     >“Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados.”
 
     Nota de Erasto – “Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.
 
-    12ª. Quais são as dificuldades que encontras?”
+    12<sup>a</sup>. Quais são as dificuldades que encontras?”
     >“Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias.”
 
-    13ª. Como trazes o objeto? Será segurando-o com as mãos?
+    13<sup>a</sup>. Como trazes o objeto? Será segurando-o com as mãos?
     >“Não; envolvo-o em mim mesmo.”
 
     Nota de Erasto
     >“A resposta não explica de modo claro a operação. Ele não envolve o objeto com a sua própria personalidade, mas, como o seu fluido pessoal é dilatável, combina uma parte desse fluido com o fluido animalizado do médium e é nesta combinação que oculta e transporta o objeto que escolheu para transportar. Ele, pois, não exprime com justeza o fato, dizendo que envolve em si o objeto.”
 
-    14ª. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos por exemplo?
+    14<sup>a</sup>. Trazes com a mesma facilidade um objeto de peso considerável, de 50 quilos por exemplo?
     >“O peso nada é para nós. Trazemos flores, porque agrada mais do que um volume pesado.”
 
     Nota de Erasto
     >“É exato. Pode trazer objetos de 100 ou 200 quilos, por isso que a gravidade, existente para vós, é anulada para os Espíritos. Mas, ainda aqui, ele não percebe bem o que se passa. A massa dos fluidos combinados é proporcional à dos objetos. Numa palavra, a força deve estar em proporção com a resistência; donde se segue que, se o Espírito apenas traz uma flor ou um objeto leve, é muitas vezes porque não encontra no médium, ou em si mesmo, os elementos necessários para um esforço mais considerável.”
 
-    15ª. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?
+    15<sup>a</sup>. Poder-se-ão imputar aos Espíritos certas desaparições de objetos, cuja causa permanece ignorada?
     >“Isso se dá com frequência; com mais frequência do que supondes, mas isso se pode remediar, pedindo ao Espírito que traga de novo o objeto desaparecido.”
 
     Nota de Erasto
     >“É certo, mas, às vezes, o que é subtraído fica muito bem subtraído, pois que para muito longe são levados os objetos que desaparecem de uma casa e que o dono não mais consegue achar. Entretanto, como a subtração dos objetos exige quase que as mesmas condições fluídicas que o trazimento deles reclama, ela só se pode dar com o concurso de médiuns dotados de faculdades especiais. Por isso, quando alguma coisa desapareça, é mais provável que o fato seja devido a descuido vosso do que à ação dos Espíritos.”
 
-    16ª. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?
+    16<sup>a</sup>. Serão devidos à ação de certos Espíritos alguns efeitos que se consideram como fenômenos naturais?
     >“Nos dias que correm, abundam fatos dessa ordem, fatos que não percebeis, porque neles não pensais, mas que, com um pouco de reflexão, se vos tornariam patentes.”
 
     Nota de Erasto
     >“Não atribuais aos Espíritos o que é obra do homem, mas crede na influência deles, oculta, constante, a criar em torno de vós mil circunstâncias, mil incidentes necessários ao cumprimento dos vossos atos, da vossa existência.”
 
-    17ª. Entre os objetos que os Espíritos costumam trazer, não haverá alguns que eles próprios possam fabricar, isto é, produzidos espontaneamente pelas modificações que os Espíritos possam operar no fluido, ou no elemento universal?
+    17<sup>a</sup>. Entre os objetos que os Espíritos costumam trazer, não haverá alguns que eles próprios possam fabricar, isto é, produzidos espontaneamente pelas modificações que os Espíritos possam operar no fluido, ou no elemento universal?
     >“Por mim, não, que não tenho permissão para isso. Só um Espírito elevado o pode fazer.”
 
-    18ª. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?
+    18<sup>a</sup>. Como conseguiste outro dia introduzir aqueles objetos, estando fechado o aposento?
     >“Fi-los entrar comigo, envoltos, por assim dizer, na minha substância. Nada mais posso dizer, por não ser explicável o fato.”
 
-    19ª. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?
+    19<sup>a</sup>. Como fizeste para tornar visíveis estes objetos que, um momento antes, eram invisíveis?
     >“Tirei a matéria que os envolvia.”
 
     Nota de Erasto
     >“O que os envolve não é matéria propriamente dita, mas um fluido tirado, metade, do perispírito do médium e, metade, do Espírito que opera.”
 
-    20ª. (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?
+    20<sup>a</sup>. (A Erasto) Pode um objeto ser trazido a um lugar inteiramente fechado? Numa palavra: pode o Espírito espiritualizar um objeto material, de maneira que se torne capaz de penetrar a matéria?
     >“É complexa esta questão. O Espírito pode tornar invisíveis, porém não penetráveis, os objetos que ele transporte; não pode quebrar a agregação da matéria, porque seria a destruição do objeto. Tornando este invisível, o Espírito o pode transportar quando queira e não o libertar senão no momento oportuno, para fazê-lo aparecer. De modo diverso se passam as coisas, com relação aos que compomos. Como nestes só introduzimos os elementos da matéria, como esses elementos são essencialmente penetráveis e, ainda, como nós mesmos penetramos e atravessamos os corpos mais condensados, com a mesma facilidade com que os raios solares atravessam uma placa de vidro, podemos perfeitamente dizer que introduzimos o objeto num lugar que esteja hermeticamente fechado, mas isso somente neste caso.”
 
     Nota – Quanto à teoria da formação espontânea dos objetos, veja-se adiante o capítulo intitulado: Do laboratório do Mundo Invisível.
@@ -1101,119 +1101,119 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p100` #️⃣ 100
 100. De todas as manifestações espíritas, as mais interessantes, sem contestação possível, são aquelas por meio das quais os Espíritos se tornam visíveis. Pela explicação deste fenômeno se verá que ele não é mais sobrenatural do que os outros. Vamos apresentar primeiramente as respostas que os Espíritos deram acerca do assunto:
 
-        1ª Podem os Espíritos tornar-se visíveis?
+        1<sup>a</sup> Podem os Espíritos tornar-se visíveis?
         >“Podem, sobretudo, durante o sono. Entretanto, algumas pessoas os veem quando acordadas, porém isso é mais raro.”
 
         Nota – Enquanto o corpo repousa, o Espírito se desprende dos laços materiais; fica mais livre e pode mais facilmente ver os outros Espíritos, entrando com eles em comunicação. O sonho não é senão a recordação desse estado. Quando de nada nos lembramos, diz-se que não sonhamos, mas nem por isso a alma deixou de ver e de gozar da sua liberdade. Aqui nos ocupamos especialmente com as aparições no estado de vigília. [^12]
 
-        2ª. Pertencem mais a uma categoria do que a outra os Espíritos que se manifestam fazendo-se visíveis?
+        2<sup>a</sup>. Pertencem mais a uma categoria do que a outra os Espíritos que se manifestam fazendo-se visíveis?
         >“Não; podem pertencer a todas as classes, assim às mais elevadas, como às mais inferiores.”
 
-        3ª. A todos os Espíritos é dado manifestarem-se visivelmente?
+        3<sup>a</sup>. A todos os Espíritos é dado manifestarem-se visivelmente?
         >“Todos o podem, mas nem sempre têm permissão para fazê-lo, ou o querem.”
 
-        4ª. Que fim objetivam os Espíritos que se manifestam visivelmente?
+        4<sup>a</sup>. Que fim objetivam os Espíritos que se manifestam visivelmente?
         >“Isso depende; de acordo com as suas naturezas, o fim pode ser bom ou mau.”
 
-        5ª. Como lhes pode ser permitido manifestar-se, quando para mau fim?
+        5<sup>a</sup>. Como lhes pode ser permitido manifestar-se, quando para mau fim?
         >“Nesse caso é para experimentar os a quem eles aparecem. Pode ser má a intenção do Espírito e bom o resultado.”
 
-        6ª. Qual pode ser o fim que tem em vista o Espírito que se torna visível com má intenção?
+        6<sup>a</sup>. Qual pode ser o fim que tem em vista o Espírito que se torna visível com má intenção?
         >“Amedrontar e muitas vezes vingar-se.”
 
         a) Que visam os que vêm com boa intenção?
         >“Consolar as pessoas que deles guardam saudades, provar-lhes que existem e que estão perto delas; dar conselhos e, algumas vezes, pedir para si mesmos assistência.”
 
-        7ª. Que inconveniente haveria em ser permanente e geral entre os homens a possibilidade de verem os Espíritos? Não seria esse um meio de tirar a dúvida aos mais incrédulos?
+        7<sup>a</sup>. Que inconveniente haveria em ser permanente e geral entre os homens a possibilidade de verem os Espíritos? Não seria esse um meio de tirar a dúvida aos mais incrédulos?
         >“Estando o homem constantemente cercado de Espíritos, vê-los a todos os instantes o perturbaria, embaraçar-lhe-ia os atos e tirar-lhe-ia a iniciativa na maioria dos casos, ao passo que, julgando-se só, ele age mais livremente. Quanto aos incrédulos, de muitos meios dispõem para se convencerem, se desses meios quiserem aproveitar-se e não estiverem cegos pelo orgulho. Sabes muito bem existirem pessoas que hão visto e que nem por isso creem, pois dizem que são ilusões. Com esses não te preocupes; deles se encarrega Deus.”
 
         Nota – Tantos inconvenientes haveria em vermos constantemente os Espíritos, como em vermos o ar que nos cerca e as miríades de animais microscópicos que sobre nós e em torno de nós pululam. Donde devemos concluir que o que Deus faz é benfeito e que Ele sabe melhor do que nós o que nos convém.
 
-        8ª. Uma vez que há inconveniente em vermos os Espíritos, por que, em certos casos, é isso permitido?
+        8<sup>a</sup>. Uma vez que há inconveniente em vermos os Espíritos, por que, em certos casos, é isso permitido?
         >“Para dar ao homem uma prova de que nem tudo morre com o corpo, que a alma conserva a sua individualidade após a morte. A visão passageira basta para essa prova e para atestar a presença de amigos ao vosso lado e não oferece os inconvenientes da visão constante.”
 
-        9ª. Nos mundos mais adiantados que o nosso, os Espíritos são vistos com mais frequência do que entre nós?
+        9<sup>a</sup>. Nos mundos mais adiantados que o nosso, os Espíritos são vistos com mais frequência do que entre nós?
         >“Quanto mais o homem se aproxima da natureza espiritual, tanto mais facilmente se põe em comunicação com os Espíritos. A grosseria do vosso envoltório é que dificulta e torna rara a percepção dos seres etéreos.”
 
-        10ª. Será racional assustarmo-nos com a aparição de um Espírito?
+        10<sup>a</sup>. Será racional assustarmo-nos com a aparição de um Espírito?
         >“Quem refletir deverá compreender que um Espírito, qualquer que seja, é menos perigoso do que um vivo. Demais, podendo os Espíritos, como podem, ir a toda parte, não se faz preciso que uma pessoa os veja para saber que alguns estão a seu lado. O Espírito que queira causar dano pode fazê-lo, e até com mais segurança, sem se dar a ver. Ele não é perigoso pelo fato de ser Espírito, mas sim pela influência que pode exercer sobre o homem, desviando-o do bem e impelindo-o ao mal.”
 
         Nota – As pessoas que, quando se acham na solidão ou na obscuridade, se enchem de medo raramente se apercebem da causa de seus pavores. Não seriam capazes de dizer de que é que têm medo. Muito mais deveriam temer o encontro com homens do que com Espíritos, porquanto um malfeitor é bem mais perigoso quando vivo do que depois de morto. Uma senhora do nosso conhecimento teve uma noite, em seu quarto, uma aparição tão bem caracterizada que ela julgou estar em sua presença uma pessoa e a sua primeira sensação foi de terror. Certificada de que não havia pessoa alguma, disse: “Parece que é apenas um Espírito; posso dormir tranquila.”
 
-        11ª. Poderá aquele a quem um Espírito apareça travar com ele conversação?
+        11<sup>a</sup>. Poderá aquele a quem um Espírito apareça travar com ele conversação?
         >“Perfeitamente e é mesmo o que se deve fazer em tal caso, perguntando ao Espírito quem ele é, o que deseja e em que se lhe pode ser útil. Se se tratar de um Espírito infeliz e sofredor, a comiseração que se lhe testemunhar o aliviará. Se for um Espírito bondoso, pode acontecer que traga a intenção de dar bons conselhos.”
 
         a) Como pode o Espírito, nesse caso, responder?
         >“Algumas vezes o faz por meio de sons articulados, como o faria uma pessoa viva. Na maioria dos casos, porém, pela transmissão dos pensamentos.”
 
-        12ª. Os Espíritos que aparecem com asas têm-nas realmente ou essas asas são apenas uma aparência simbólica?
+        12<sup>a</sup>. Os Espíritos que aparecem com asas têm-nas realmente ou essas asas são apenas uma aparência simbólica?
         >“Os Espíritos não têm asas, nem de tal coisa precisam, visto que podem ir a toda parte como Espíritos. Aparecem da maneira por que precisam impressionar a pessoa a quem se mostram. Assim é que uns aparecerão em trajes comuns, outros envoltos em amplas roupagens, alguns com asas, como atributo da categoria espiritual a que pertencem.”
 
-        13ª. As pessoas que vemos em sonho são sempre as que parecem ser pelo seu aspecto?
+        13<sup>a</sup>. As pessoas que vemos em sonho são sempre as que parecem ser pelo seu aspecto?
         >“Quase sempre são mesmo as que os vossos Espíritos buscam, ou que vêm ao encontro deles.”
 
-        14ª. Não poderiam os Espíritos zombeteiros tomar as aparências das pessoas que nos são caras, para nos induzirem em erro?
+        14<sup>a</sup>. Não poderiam os Espíritos zombeteiros tomar as aparências das pessoas que nos são caras, para nos induzirem em erro?
         >“Somente para se divertirem à vossa custa tomam eles aparências fantásticas. Há coisas, porém, com que não lhes é lícito brincar.”
 
-        15ª. Compreende-se que, sendo uma espécie de evocação, o pensamento faça com que se apresente o Espírito em quem se pensa. Como é, entretanto, que muitas vezes as pessoas em quem mais pensamos, que ardentemente desejamos tornar a ver, jamais se nos apresentam em sonho, ao passo que vemos outras que nos são indiferentes e nas quais nunca pensamos?
+        15<sup>a</sup>. Compreende-se que, sendo uma espécie de evocação, o pensamento faça com que se apresente o Espírito em quem se pensa. Como é, entretanto, que muitas vezes as pessoas em quem mais pensamos, que ardentemente desejamos tornar a ver, jamais se nos apresentam em sonho, ao passo que vemos outras que nos são indiferentes e nas quais nunca pensamos?
         >“Os Espíritos nem sempre podem manifestar-se visivelmente, mesmo em sonho e malgrado o desejo que tenhais de vê-los. Pode dar-se que obstem a isso causas independentes da vontade deles. Frequentemente, é também uma prova de que não consegue triunfar o mais ardente desejo. Quanto às pessoas que vos são indiferentes, se é certo que nelas não pensais, bem pode acontecer que elas em vós pensem. Aliás, não podeis formar ideia das relações no mundo dos Espíritos. Lá tendes uma multidão de conhecimentos íntimos, antigos ou recentes, de que não suspeitais quando despertos.”
 
         Nota – Quando nenhum meio tenhamos de verificar a realidade das visões ou aparições, podemos sem dúvida lançá-las à conta da alucinação. Quando, porém, os sucessos as confirmam, ninguém tem o direito de atribuí-las à imaginação. Tais, por exemplo, as aparições, que temos em sonho ou em estado de vigília, de pessoas em quem absolutamente não pensávamos e que, produzindo-as no momento em que morrem, vêm, por meio de sinais diversos, revelar as circunstâncias totalmente ignoradas em que faleceram. Têm-se visto cavalos empinarem e recusarem caminhar para a frente, por motivo de aparições que assustam os cavaleiros que os montam. Embora se admita que a imaginação desempenhe aí algum papel, quando o fato se passa com os homens, ninguém, certamente, negará que ela nada tem que ver com o caso, quando este se dá com os animais. Acresce que, se fosse exato que as imagens que vemos em sonho são sempre efeito das nossas preocupações quando acordados, não haveria como explicar que nunca sonhemos, conforme se verifica frequentemente, com aquilo em que mais pensamos.
 
-        16ª. Por que razão certas visões ocorrem com mais frequência quando se está doente?
+        16<sup>a</sup>. Por que razão certas visões ocorrem com mais frequência quando se está doente?
         >“Elas ocorrem do mesmo modo quando estais de perfeita saúde. Simplesmente, no estado de doença, os laços materiais se afrouxam; a fraqueza do corpo permite maior liberdade ao Espírito, que, então, se põe mais facilmente em comunicação com os outros Espíritos.”
 
-        17ª. As aparições espontâneas parecem mais frequentes em certos países. Será que alguns povos estão mais bem-dotados do que outros para receberem esta espécie de manifestações?
+        17<sup>a</sup>. As aparições espontâneas parecem mais frequentes em certos países. Será que alguns povos estão mais bem-dotados do que outros para receberem esta espécie de manifestações?
         >“Dar-se-á tenhais um registro histórico de cada aparição? As aparições, como os ruídos e todas as manifestações, produzem-se igualmente em todos os pontos da Terra; apresentam, porém, caracteres distintos, de conformidade com o povo em cujo seio se verificam. Nuns, por exemplo, onde o uso da escrita está pouco espalhado, não há médiuns escreventes; noutros, abundam os médiuns desta natureza; entre outros, observam-se mais os ruídos e os movimentos do que as manifestações inteligentes, por serem estas menos apreciadas e procuradas.”
 
-        18ª. Por que é que as aparições se dão de preferência à noite? Não indica isso que elas são efeito do silêncio e da obscuridade sobre a imaginação?
+        18<sup>a</sup>. Por que é que as aparições se dão de preferência à noite? Não indica isso que elas são efeito do silêncio e da obscuridade sobre a imaginação?
         >“Pela mesma razão por que vedes, durante a noite, as estrelas e não as divisais em pleno dia. A grande claridade pode apagar uma aparição ligeira, mas errôneo é supor-se que a noite tenha qualquer coisa com isso. Inquiri os que têm tido visões e verificareis que são em maior número os que as tiveram de dia.”
 
         Nota – Muito mais frequentes e gerais do que se julga são as aparições; porém, muitas pessoas deixam de torná-las conhecidas, por medo do ridículo, e outras as atribuem à ilusão. Se parecem mais numerosas entre alguns povos, é isso devido a que aí se conservam com mais cuidado as tradições verdadeiras, ou falsas, quase sempre ampliadas pelo poder de sedução do maravilhoso a que mais ou menos se preste o aspecto das localidades. A credulidade então faz que se vejam efeitos sobrenaturais nos mais vulgares fenômenos: o silêncio da solidão, o escarpamento das quebradas, o mugido da floresta, as rajadas da tempestade, o eco das montanhas, a forma fantástica das nuvens, as sombras, as miragens, tudo, enfim, se presta à ilusão, para imaginações simples e ingênuas, que de boa-fé narram o que viram, ou julgaram ver. Porém, ao lado da ficção, há a realidade. O estudo sério do Espiritismo leva precisamente o homem a se desembaraçar de todas as superstições ridículas.
         
-        19ª. A visão dos Espíritos se produz no estado normal ou só estando o vidente num estado extático?
+        19<sup>a</sup>. A visão dos Espíritos se produz no estado normal ou só estando o vidente num estado extático?
         >“Pode produzir-se achando-se este em condições perfeitamente normais. Entretanto, as pessoas que os veem se encontram muito amiúde num estado próximo do de êxtase, estado que lhes faculta uma espécie de dupla vista.” ([👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md), [`lde.q447`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq447-%EF%B8%8F%E2%83%A3-447))
 
-        20ª. Os que veem os Espíritos veem-nos com os olhos?
+        20<sup>a</sup>. Os que veem os Espíritos veem-nos com os olhos?
         >“Assim o julgam, mas, na realidade, é a alma quem vê, e o que o prova é que os podem ver com os olhos fechados.”
 
-        21ª. Como pode o Espírito fazer-se visível?
+        21<sup>a</sup>. Como pode o Espírito fazer-se visível?
         >“O princípio é o mesmo de todas as manifestações, reside nas propriedades do perispírito, que pode sofrer diversas modificações ao sabor do Espírito.”
 
-        22ª. Pode o Espírito propriamente dito fazer-se visível ou só o pode com o auxílio do perispírito?
+        22<sup>a</sup>. Pode o Espírito propriamente dito fazer-se visível ou só o pode com o auxílio do perispírito?
         >“No estado material em que vos achais, só com o auxílio de seus invólucros semimateriais podem os Espíritos manifestar-se. Esse invólucro é o intermediário por meio do qual eles atuam sobre os vossos sentidos. Sob esse envoltório é que aparecem, às vezes, com uma forma humana, ou com outra qualquer, seja nos sonhos, seja no estado de vigília, assim em plena luz, como na obscuridade.”
 
-        23ª. Poder-se-á dizer que é pela condensação do fluido do perispírito que o Espírito se torna visível?
+        23<sup>a</sup>. Poder-se-á dizer que é pela condensação do fluido do perispírito que o Espírito se torna visível?
         >“Condensação não é o termo. Essa palavra apenas pode ser usada para estabelecer uma comparação, que vos faculte compreender o fenômeno, porquanto não há realmente condensação. Pela combinação dos fluidos, o perispírito toma uma disposição especial, sem analogia para vós outros, disposição que o torna perceptível.”
 
-        24ª. Os Espíritos que aparecem são sempre inapreensíveis e imperceptíveis ao tato?
+        24<sup>a</sup>. Os Espíritos que aparecem são sempre inapreensíveis e imperceptíveis ao tato?
         >“Em seu estado normal, são inapreensíveis, como num sonho. Entretanto, podem tornar-se capazes de produzir impressão ao tato, de deixar vestígios de sua presença e até, em certos casos, de tornar-se momentaneamente tangíveis, o que prova haver matéria entre vós e eles.”
 
-        25ª. Toda gente tem aptidão para ver os Espíritos?
+        25<sup>a</sup>. Toda gente tem aptidão para ver os Espíritos?
         >“Durante o sono, todos têm; em estado de vigília, não. Durante o sono, a alma vê sem intermediário; no estado de vigília, acha-se sempre mais ou menos influenciada pelos órgãos. Daí vem não serem totalmente idênticas as condições nos dois casos.”
 
-        26ª. De que depende, para o homem, a faculdade de ver os Espíritos, em estado de vigília?
+        26<sup>a</sup>. De que depende, para o homem, a faculdade de ver os Espíritos, em estado de vigília?
         >“Depende da organização física. Reside na maior ou menor facilidade que tem o fluido do vidente para se combinar com o do Espírito. Assim, não basta que o Espírito queira mostrar-se, é preciso também que encontre a necessária aptidão na pessoa a quem deseje fazer-se visível.”
 
         a) Pode essa faculdade desenvolver-se pelo exercício?
         >“Pode, como todas as outras faculdades, mas pertence ao número daquelas com relação às quais é melhor que se espere o desenvolvimento natural do que provocá-lo, para não sobre-excitar a imaginação. A de ver os Espíritos, em geral e permanentemente, constitui uma faculdade excepcional e não está nas condições normais do homem.”
 
-        27ª. Pode-se provocar a aparição dos Espíritos?
+        27<sup>a</sup>. Pode-se provocar a aparição dos Espíritos?
         >“Isso algumas vezes é possível, porém muito raramente. A aparição é quase sempre espontânea. Para que alguém veja os Espíritos, precisa ser dotado de uma faculdade especial.”
 
-        28ª. Podem os Espíritos tornar-se visíveis sob outra aparência que não a da forma humana?
+        28<sup>a</sup>. Podem os Espíritos tornar-se visíveis sob outra aparência que não a da forma humana?
         >“A humana é a forma normal. O Espírito pode variar-lhe a aparência, mas sempre com o tipo humano.”
 
         a) Não podem manifestar-se sob a forma de chama?
         >“Podem produzir chamas, clarões, como todos os outros efeitos, para atestar sua presença, mas não são os próprios Espíritos que assim aparecem. A chama não passa muitas vezes de uma miragem ou de uma emanação do perispírito. Em todo caso, nunca é mais do que uma parcela deste. O perispírito não se mostra integralmente nas visões.”
 
-        29ª. Que se deve pensar da crença que atribui os fogos-fátuos à presença de almas ou Espíritos?
+        29<sup>a</sup>. Que se deve pensar da crença que atribui os fogos-fátuos à presença de almas ou Espíritos?
         >“Superstição produzida pela ignorância. Bem conhecida é a causa física dos fogos-fátuos.”
 
         a) A chama azul que, segundo dizem, apareceu sobre a cabeça de Sérvius Túlius, quando menino, é uma fábula ou foi real?
         >“Era real e produzida por um Espírito familiar, que desse modo dava um aviso à mãe do menino. Médium vidente, essa mãe percebeu uma irradiação do Espírito protetor de seu filho. Assim como os médiuns escreventes não escrevem todos a mesma coisa, também, nos médiuns videntes, não é em todos do mesmo grau a vidência. Ao passo que aquela mãe viu apenas uma chama, outro médium teria podido ver o próprio corpo do Espírito.”
 
-        30ª. Poderiam os Espíritos apresentar-se sob a forma de animais?
+        30<sup>a</sup>. Poderiam os Espíritos apresentar-se sob a forma de animais?
         >“Isso pode dar-se, mas somente Espíritos muito inferiores tomam essas aparências. Em caso algum, porém, será mais do que uma aparência momentânea. Fora absurdo acreditar-se que um qualquer animal verdadeiro pudesse ser a encarnação de um Espírito. Os animais são sempre animais e nada mais do que isto.”
 
         Nota – Somente a superstição pode fazer crer que certos animais são animados por Espíritos. É preciso uma imaginação muito complacente, ou muito impressionada, para ver qualquer coisa de sobrenatural nas circunstâncias um pouco extravagantes em que eles algumas vezes se apresentam. O medo faz que amiúde se veja o que não existe. Mas não só no medo tem sua origem essa ideia. Conhecemos uma senhora, muito inteligente aliás, que consagrava desmedida afeição a um gato preto, porque acreditava ser ele de natureza sobreanimal. Entretanto, essa senhora jamais ouvira falar do Espiritismo. Se o houvesse conhecido, ele lhe teria feito compreender o ridículo da causa de sua predileção pelo animal, provando-lhe a impossibilidade de tal metamorfose.
@@ -1338,6 +1338,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### `ldm.p115` #️⃣ 115
 115. A mulher de um dos nossos amigos viu repetidas vezes entrar no seu quarto, durante a noite, houvesse ou não luz, uma vendedora de frutas que ela conhecia de vista, residente nas cercanias, mas com quem jamais falara. Grande terror lhe causou essa aparição não só porque, na época em que se deu, ela ainda nada conhecia do Espiritismo, como também porque se produzia com muita frequência. Ora, a vendedora de frutas estava perfeitamente viva e, àquelas horas, provavelmente dormia. Assim, enquanto, na sua casa, seu corpo material repousava, seu Espírito, com o respectivo corpo fluídico, ia à casa da senhora em questão. Por que motivo? É o que se não sabe. Diante de fato de tal natureza, um espírita, iniciado nessa espécie de fenômenos, ter-lho-ia perguntado; disso, porém, nenhuma ideia teve a senhora. De todas as vezes, a aparição se eclipsava, sem que ela soubesse como, e, de todas igualmente, após a desaparição, cuidou de se certificar de que as portas estavam bem fechadas, de modo a não poder ninguém penetrar-lhe no aposento. Esta precaução lhe deu a prova de estar sempre completamente acordada na ocasião e de não haver sido joguete de um sonho.
+
      De outras vezes, viu, da mesma maneira, um homem que lhe era desconhecido e, certo dia, viu seu próprio irmão, que se achava na ­Califórnia. Este se lhe apresentou com a aparência tão perfeita de uma pessoa real, que, no primeiro momento, acreditou que ele houvesse regressado e quis dirigir-lhe a palavra. Logo, entretanto, o vulto desapareceu, sem lhe dar tempo a isso. Uma carta, que posteriormente lhe chegou, trouxe-lhe a prova de que o irmão, que ela vira, não morrera. Essa senhora era o que se pode chamar um médium vidente natural. Mas, então, como acima dissemos, ainda nunca ouvira falar em médiuns.
 
 #### `ldm.p116` #️⃣ 116
@@ -1362,14 +1363,14 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
      Por nós evocado e interrogado acerca do fato acima, Santo Afonso respondeu do seguinte modo: 
      
-     1a Poderias explicar-nos esse fenômeno? 
+     1<sup>a</sup>. Poderias explicar-nos esse fenômeno? ^(a)
      “Perfeitamente. Quando o homem, por suas virtudes, chegou a desmaterializar-se completamente; quando conseguiu elevar sua alma para Deus, pode aparecer em dois lugares ao mesmo tempo. Eis como: o Espírito encarnado, ao sentir que lhe vem o sono, pode pedir a Deus lhe seja permitido transportar-se a um lugar qualquer. Seu Espírito, ou sua alma, como quiseres, abandona então o corpo, acompanhado de uma parte do seu perispírito, e deixa a matéria imunda num estado próximo do da morte. Digo próximo do da morte, porque no corpo ficou um laço que liga o perispírito e a alma à matéria, laço este que não pode ser definido. O corpo aparece, então, no lugar desejado. Creio ser isto o que queres saber.” 
      
-     2a Isso não nos dá a explicação da visibilidade e da tangibilidade do perispírito. “Achando-se desprendido da matéria, conformemente ao grau de sua elevação, pode o Espírito tornar-se tangível à matéria.” 
+     2<sup>a</sup>. Isso não nos dá a explicação da visibilidade e da tangibilidade do perispírito. “Achando-se desprendido da matéria, conformemente ao grau de sua elevação, pode o Espírito tornar-se tangível à matéria.” 
      
-     3a Será indispensável o sono do corpo, para que o Espírito apareça noutros lugares? “A alma pode dividir-se quando se sinta atraída para lugar diferente daquele onde se acha seu corpo. Pode acontecer que o corpo não se ache adormecido, se bem seja isto muito raro, mas, em todo caso, não se encontrará num estado perfeitamente normal; será sempre um estado mais ou menos extático.” Nota. A alma não se divide, no sentido literal do termo: irradia-se para diversos lados e pode assim manifestar-se em muitos pontos, sem se haver fracionado. Dá-se o que se dá com a luz, que pode refletir-se simultaneamente em muitos espelhos. 
+     3<sup>a</sup>. Será indispensável o sono do corpo, para que o Espírito apareça noutros lugares? “A alma pode dividir-se quando se sinta atraída para lugar diferente daquele onde se acha seu corpo. Pode acontecer que o corpo não se ache adormecido, se bem seja isto muito raro, mas, em todo caso, não se encontrará num estado perfeitamente normal; será sempre um estado mais ou menos extático.” Nota. A alma não se divide, no sentido literal do termo: irradia-se para diversos lados e pode assim manifestar-se em muitos pontos, sem se haver fracionado. Dá-se o que se dá com a luz, que pode refletir-se simultaneamente em muitos espelhos. 
      
-     4a Que sucederia se, estando o homem a dormir, enquanto seu Espírito se mostra noutra parte, alguém de súbito o despertasse? “Isso não se verificaria, porque, se alguém tivesse a intenção de o despertar, o Espírito retornaria ao corpo, prevendo a intenção, porquanto o Espírito lê os pensamentos.” Nota. Explicação inteiramente idêntica nos deram, muitas vezes, Espíritos de pessoas mortas, ou vivas. Santo Afonso explica o fato da dupla presença, mas não a teoria da visibilidade e da tangibilidade. 
+     4<sup>a</sup>. Que sucederia se, estando o homem a dormir, enquanto seu Espírito se mostra noutra parte, alguém de súbito o despertasse? “Isso não se verificaria, porque, se alguém tivesse a intenção de o despertar, o Espírito retornaria ao corpo, prevendo a intenção, porquanto o Espírito lê os pensamentos.” Nota. Explicação inteiramente idêntica nos deram, muitas vezes, Espíritos de pessoas mortas, ou vivas. Santo Afonso explica o fato da dupla presença, mas não a teoria da visibilidade e da tangibilidade. 
      
 #### `ldm.p120` #️⃣ 120
 120. Tácito refere um fato análogo: Durante os meses que Vespasiano passou em Alexandria, aguardando a volta dos ventos estivais e da estação em que o mar oferece segurança, muitos prodígios ocorreram, pelos quais se manifestaram a proteção do céu e o interesse que os deuses tomavam por aquele príncipe...
@@ -1392,7 +1393,7 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 
      Está, em princípio, admitido que o Espírito pode dar ao seu perispírito todas as aparências; que, mediante uma modificação na disposição molecular, pode dar-lhe a visibilidade, a tangibilidade e, conseguintemente, a opacidade; que o perispírito de uma pessoa viva, isolado do corpo, é passível das mesmas transformações; que essa mudança de estado se opera pela combinação dos fluidos. Figuremos agora o perispírito de uma pessoa viva, não isolado, mas irradiando-se em volta do corpo, de maneira a envolvê-lo numa espécie de vapor. Nesse estado, passível se torna das mesmas modificações de que o seria se o corpo estivesse separado. Perdendo ele a sua transparência, o corpo pode desaparecer, tornar-se invisível, ficar velado, como se mergulhado numa bruma. Poderá então o perispírito mudar de aspecto, fazer-se brilhante, se tal for a vontade do Espírito e se este dispuser de poder para tanto. Um outro Espírito, combinando seus fluidos com os do primeiro, poderá, a essa combinação de fluidos, imprimir a aparência que lhe é própria, de tal sorte que o corpo real desapareça sob um envoltório fluídico exterior, cuja aparência pode variar à vontade do Espírito. Esta parece ser a verdadeira causa do estranho fenômeno e raro, cumpra se diga, da transfiguração.
 
-     Quanto à diferença de peso, explica-se da mesma maneira por que se explica com relação aos corpos inertes. O peso intrínseco do corpo não variou, pois que não aumentou nele a quantidade de matéria. Sofreu, porém, a influência de um agente exterior, que lhe pode aumentar ou diminuir o peso relativo, conforme explicamos acima, nos 78 e seguintes. Provável é, portanto, que, se a transformação se produzir, tomando a pessoa o aspecto de uma criança, o peso diminua proporcionalmente.
+     Quanto à diferença de peso, explica-se da mesma maneira por que se explica com relação aos corpos inertes. O peso intrínseco do corpo não variou, pois que não aumentou nele a quantidade de matéria. Sofreu, porém, a influência de um agente exterior, que lhe pode aumentar ou diminuir o peso relativo, conforme explicamos acima, n<sup>os</sup> 78 e seguintes. Provável é, portanto, que, se a transformação se produzir, tomando a pessoa o aspecto de uma criança, o peso diminua proporcionalmente.
 
 #### `ldm.p124` #️⃣ 124
 124. Concebe-se que o corpo possa tomar outra aparência de dimensão igual ou maior do que a que lhe é própria. Como, porém, lhe será possível tomar uma de dimensão menor, a de uma criança, conforme acabamos de dizer? Neste caso, não será de prever que o corpo real ultrapasse os limites do corpo aparente?
@@ -1424,41 +1425,41 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 #### `ldm.p128` #️⃣ 128
 128. Foi o Espírito São Luís quem nos deu essa solução, mediante as respostas seguintes:
 
-     1ª Citamos um caso de aparição do Espírito de uma pessoa viva. Esse Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava ele a sensação que experimenta um indivíduo que faz o mesmo?
+     1<sup>a</sup> Citamos um caso de aparição do Espírito de uma pessoa viva. Esse Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava ele a sensação que experimenta um indivíduo que faz o mesmo?
      “Não.”
      
-     2ª Aquela caixa de rapé tinha a forma da de que ele se servia habitualmente e que se achava guardada em sua casa. Que era a dita caixa nas mãos da aparição?
+     2<sup>a</sup> Aquela caixa de rapé tinha a forma da de que ele se servia habitualmente e que se achava guardada em sua casa. Que era a dita caixa nas mãos da aparição?
      “Uma aparência. Era para que a circunstância fosse notada, como realmente foi, e não tomassem a aparição por uma alucinação devida ao estado de saúde da vidente. O Espírito queria que a senhora em questão acreditasse na realidade da sua presença e, para isso, tomou todas as aparências da realidade.”
      
-     3ª Dizes que era uma aparência, mas uma aparência nada tem de real, é como uma ilusão de ótica. Desejáramos saber se aquela caixa de rapé era apenas uma imagem sem realidade ou se nela havia alguma coisa de material?
+     3<sup>a</sup> Dizes que era uma aparência, mas uma aparência nada tem de real, é como uma ilusão de ótica. Desejáramos saber se aquela caixa de rapé era apenas uma imagem sem realidade ou se nela havia alguma coisa de material?
      “Certamente. É com o auxílio deste princípio material que o perispírito toma a aparência de vestuários semelhantes aos que o Espírito usava quando vivo.”
      
      Nota. É evidente que a palavra aparência deve ser aqui tomada no sentido de aspecto, imitação. A caixa de rapé real não estava lá; a que o Espírito deixava ver era apenas a representação daquela: era, pois, com relação ao original, uma simples aparência, embora formada de um princípio material.
      
      A experiência ensina que nem sempre se deve dar significação literal a certas expressões de que usam os Espíritos. Interpretando-as de acordo com as nossas ideias, expomo-nos a grandes equívocos. Daí a necessidade de aprofundar-se o sentido de suas palavras, todas as vezes que apresentem a menor ambiguidade. É esta uma recomendação que os próprios Espíritos constantemente fazem. Sem a explicação que provocamos, o termo aparência, que de contínuo se reproduz nos casos análogos, poderia prestar-se a uma interpretação falsa.
      
-     4ª Dar-se-á que a matéria inerte se desdobre? Ou que haja no mundo invisível uma matéria essencial, capaz de tomar a forma dos objetos que vemos? Numa palavra, terão estes um duplo etéreo no mundo invisível como os homens são nele representados pelos Espíritos?
+     4<sup>a</sup> Dar-se-á que a matéria inerte se desdobre? Ou que haja no mundo invisível uma matéria essencial, capaz de tomar a forma dos objetos que vemos? Numa palavra, terão estes um duplo etéreo no mundo invisível como os homens são nele representados pelos Espíritos?
      “Não é assim que as coisas se passam. Sobre os elementos materiais disseminados por todos os pontos do espaço, na vossa atmosfera, têm os Espíritos um poder que estais longe de suspeitar. Podem, pois, eles concentrar à sua vontade esses elementos e dar-lhes a forma aparente que corresponda à dos objetos materiais.”
      
      Nota. Esta pergunta, como se pode ver, era a tradução do nosso pensamento, isto é, da ideia que formávamos da natureza de tais objetos. Se as respostas, conforme alguns o pretendem, fossem o reflexo do pensamento, houvéramos obtido a confirmação da nossa teoria, e não uma teoria contrária.
      
-     5ª Formulo novamente a questão, de modo categórico, a fim de evitar todo e qualquer equívoco: 
+     5<sup>a</sup> Formulo novamente a questão, de modo categórico, a fim de evitar todo e qualquer equívoco: 
      São alguma coisa as vestes de que os Espíritos se cobrem? 
      “Parece-me que a minha resposta precedente resolve a questão. Não sabes que o próprio perispírito é alguma coisa?” 
      
-     6ª Resulta, desta explicação, que os Espíritos fazem passar a matéria etérea pelas transformações que queiram e que, portanto, com relação à caixa de rapé, o Espírito não a encontrou completamente feita, fê-la ele próprio, no momento em que teve necessidade dela, por ato de sua vontade. E, do mesmo modo que a fez, pôde desfazê-la. Outro tanto naturalmente se dá com todos os demais objetos, como vestuários, joias etc. Será assim?
+     6<sup>a</sup> Resulta, desta explicação, que os Espíritos fazem passar a matéria etérea pelas transformações que queiram e que, portanto, com relação à caixa de rapé, o Espírito não a encontrou completamente feita, fê-la ele próprio, no momento em que teve necessidade dela, por ato de sua vontade. E, do mesmo modo que a fez, pôde desfazê-la. Outro tanto naturalmente se dá com todos os demais objetos, como vestuários, joias etc. Será assim?
      “Mas evidentemente.” 
      
-     7ª A caixa de rapé se tornou tão visível para a senhora de que se trata, que lhe produziu a ilusão de uma tabaqueira material. Teria o Espírito podido torná-la tangível para a mesma senhora?
+     7<sup>a</sup> A caixa de rapé se tornou tão visível para a senhora de que se trata, que lhe produziu a ilusão de uma tabaqueira material. Teria o Espírito podido torná-la tangível para a mesma senhora?
      “Teria.”
      
-     8ª Tê-la-ia a senhora podido tomar nas mãos, crente de estar segurando uma caixa de rapé verdadeira?
+     8<sup>a</sup> Tê-la-ia a senhora podido tomar nas mãos, crente de estar segurando uma caixa de rapé verdadeira?
      “Sim.”
      
-     9ª Se a abrisse, teria achado nela rapé? E, se aspirasse esse rapé, ele a faria espirrar?
+     9<sup>a</sup> Se a abrisse, teria achado nela rapé? E, se aspirasse esse rapé, ele a faria espirrar?
      “Sem dúvida.”
      
-     10ª Pode então o Espírito dar a um objeto não só a forma, mas também propriedades especiais?
+     10<sup>a</sup> Pode então o Espírito dar a um objeto não só a forma, mas também propriedades especiais?
      “Se o quiser. Baseado neste princípio foi que respondi afirmativamente às perguntas anteriores. Tereis provas da poderosa ação que os Espíritos exercem sobre a matéria, ação que estais longe de suspeitar, como eu disse há pouco.”
      
      11a Suponhamos, então, que quisesse fazer uma substância venenosa. Se uma pessoa a ingerisse, ficaria envenenada?
@@ -1472,18 +1473,18 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
      
      Nota. A questão da saciedade é aqui muito importante. Como pode produzir a saciedade uma substância cuja existência e propriedades são meramente temporárias e, de certo modo, convencionais? O que se dá é que essa substância, pelo seu contato com o estômago, produz a sensação da saciedade, mas não a saciedade que resulta da plenitude. Desde que uma substância dessa natureza pode atuar sobre a economia e modificar um estado mórbido, também pode, perfeitamente, atuar sobre o estômago e produzir aí a impressão da saciedade. Rogamos, todavia, aos senhores farmacêuticos e inventores de reconstituintes que não se encham de zelos, nem creiam que os Espíritos lhes venham fazer concorrência. Esses casos são raros, excepcionais e nunca dependem da vontade. Doutro modo, toda a gente se alimentaria e curaria a preço baratíssimo.
      
-     14ª Os objetos que, pela vontade do Espírito, se tornam tangíveis poderiam permanecer com esse caráter e tornarem-se de uso? “Isso poderia dar-se, mas não se faz. Está fora das leis.”
+     14<sup>a</sup> Os objetos que, pela vontade do Espírito, se tornam tangíveis poderiam permanecer com esse caráter e tornarem-se de uso? “Isso poderia dar-se, mas não se faz. Está fora das leis.”
      
-     15ª Têm todos os Espíritos, no mesmo grau, o poder de produzir objetos tangíveis?
+     15<sup>a</sup> Têm todos os Espíritos, no mesmo grau, o poder de produzir objetos tangíveis?
      “É fora de dúvida que quanto mais elevado é o Espírito, tanto mais facilmente o consegue. Porém, ainda aqui, tudo depende das circunstâncias. Desse poder também podem dispor os Espíritos inferiores.”
      
-     16ª O Espírito tem sempre o conhecimento exato do modo por que compõe suas vestes, ou os objetos cuja aparência ele faz visível?
+     16<sup>a</sup> O Espírito tem sempre o conhecimento exato do modo por que compõe suas vestes, ou os objetos cuja aparência ele faz visível?
      “Não; muitas vezes concorre para a formação de todas essas coisas, praticando um ato instintivo, que ele próprio não compreende, se já não estiver bastante esclarecido para isso.”
      
-     17ª Uma vez que o Espírito pode extrair do elemento universal os materiais que lhe são necessários à produção de todas essas coisas e dar-lhes uma realidade temporária, com as propriedades que lhes são peculiares, também poderá tirar dali o que for preciso para escrever, possibilidade que nos daria a explicação do fenômeno da escrita direta?
+     17<sup>a</sup> Uma vez que o Espírito pode extrair do elemento universal os materiais que lhe são necessários à produção de todas essas coisas e dar-lhes uma realidade temporária, com as propriedades que lhes são peculiares, também poderá tirar dali o que for preciso para escrever, possibilidade que nos daria a explicação do fenômeno da escrita direta?
      “Até que, afinal, chegaste ao ponto.” Nota. Era, com efeito, aí que queríamos chegar com todas as nossas questões preliminares. A resposta prova que o Espírito lera o nosso pensamento. 
      
-     18ª Pois que a matéria de que se serve o Espírito carece de persistência, como é que não desaparecem os traços da escrita direta?
+     18<sup>a</sup> Pois que a matéria de que se serve o Espírito carece de persistência, como é que não desaparecem os traços da escrita direta?
      “Não faças jogo de palavras. Primeiramente, não empreguei o termo — nunca. Tratava-se de um objeto material volumoso, ao passo que aqui se trata de sinais que, por ser útil conservá-los, são conservados. O que quis dizer foi que os objetos assim compostos pelos Espíritos não poderiam tornar-se objetos de uso comum por não haver neles, realmente, agregação de matéria, como nos vossos corpos sólidos.”
 
 #### `ldm.p129` #️⃣ 129
@@ -1504,16 +1505,16 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 #### `ldm.p132` #️⃣ 132
 132. As manifestações espontâneas, que em todos os tempos se hão produzido, e a persistência de alguns Espíritos em darem mostras ostensivas de sua presença em certas localidades constituem a origem da crença na existência de lugares mal-assombrados. As respostas que se seguem foram dadas a perguntas feitas sobre este assunto:
 
-     1ª Os Espíritos se apegam unicamente às pessoas, ou também às coisas?
+     1<sup>a</sup> Os Espíritos se apegam unicamente às pessoas, ou também às coisas?
      “Depende da elevação deles. Alguns Espíritos podem apegar-se aos objetos terrenos. Os avarentos, por exemplo, que esconderam seus tesouros e que ainda não estão bastante desmaterializados, muitas vezes se obstinam em vigiá-los e montar-lhes guarda.”
      
-     2ª Têm os Espíritos errantes lugares de sua predileção?
+     2<sup>a</sup> Têm os Espíritos errantes lugares de sua predileção?
      “O princípio aqui ainda é o mesmo. Os Espíritos que já se não acham apegados à Terra vão para onde se lhes oferece ensejo de praticar o amor. São atraídos mais pelas pessoas do que pelos objetos materiais. Contudo, pode dar-se que dentre eles alguns tenham, durante certo tempo, preferência por determinados lugares. Esses, porém, são sempre Espíritos inferiores.”
      
-     3ª O apego dos Espíritos a uma localidade, sendo sinal de inferioridade, constituirá igualmente prova de serem eles maus?
+     3<sup>a</sup> O apego dos Espíritos a uma localidade, sendo sinal de inferioridade, constituirá igualmente prova de serem eles maus?
      “Certamente que não. Pode um Espírito ser pouco adiantado, sem que por isso seja mau. Não se observa o mesmo entre os homens?”
      
-     4ª Tem qualquer fundamento a crença de que os Espíritos frequentam de preferência as ruínas?
+     4<sup>a</sup> Tem qualquer fundamento a crença de que os Espíritos frequentam de preferência as ruínas?
      “Nenhum. Os Espíritos vão a tais lugares, como a todos os outros. A imaginação dos homens é que, despertada pelo aspecto lúgubre de certos sítios, atribui à presença dos Espíritos o que não passa, quase sempre, de efeito muito natural. Quantas vezes o medo não tem feito que se tome por fantasma a sombra de uma árvore e por espectros o grito de um animal ou o sopro do vento? Os Espíritos gostam da presença dos homens; daí o preferirem os lugares habitados aos lugares desertos.”
      
      a) Contudo, pelo que sabemos da diversidade dos caracteres entre os Espíritos, podemos inferir a existência de Espíritos misantropos, que prefiram a solidão
@@ -1522,42 +1523,42 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
      5a Em geral, as crenças populares guardam um fundo de verdade. Qual terá sido a origem da crença em lugares mal-assombrados?
      “O fundo de verdade está na manifestação dos Espíritos, na qual o homem instintivamente acreditou desde todos os tempos. Mas, conforme disse acima, o aspecto lúgubre de certos lugares lhe fere a imaginação e esta o leva naturalmente a colocar nesses lugares os seres que ele considera sobrenaturais. Demais, a entreter essa crença supersticiosa, aí estão as narrativas poéticas e os contos fantásticos com que o acalentam na infância.”
      
-     6ª Há, para os Espíritos que costumam reunir-se, dias e horas em que prefiram fazê-lo?
+     6<sup>a</sup> Há, para os Espíritos que costumam reunir-se, dias e horas em que prefiram fazê-lo?
      “Não. Os dias e as horas são medidas de tempo para uso dos homens e para a vida corpórea, das quais os Espíritos nenhuma necessidade sentem e nenhum caso fazem.
      
-     7ª Donde nasceu a ideia de que os Espíritos vêm preferentemente durante a noit
+     7<sup>a</sup> Donde nasceu a ideia de que os Espíritos vêm preferentemente durante a noit
      “Da impressão que o silêncio e a obscuridade produzem na imaginação. Todas essas crenças são superstições que o conhecimento racional do Espiritismo destruirá. O mesmo se dá com os dias e as horas que muitos julgam lhes serem mais favoráveis. Fica certo de que a influência da meia- -noite nunca existiu senão nos contos.”
      
      a) Sendo assim, por que é então que alguns Espíritos anunciam sua vinda e suas manifestações para certos e determinados dias, como a sexta-feira, por exemp
      “Isso fazem Espíritos que aproveitam a credulidade dos homens para se divertir. Pela mesma razão, há os que se dizem o diabo, ou dão a si mesmos nomes infernais. Mostrai-lhes que não vos deixais enganar e não mais voltarão.”
      
-     8ª Preferem os Espíritos frequentar os túmulos onde repousam seus corpos?
+     8<sup>a</sup> Preferem os Espíritos frequentar os túmulos onde repousam seus corpos?
      “O corpo era uma simples vestidura. Do mesmo modo que o prisioneiro nenhuma atração sente pelas correntes que o prendem, os Espíritos nenhuma experimentam pelo envoltório que os fez sofrer. A lembrança das pessoas que lhes são caras é a única coisa que para eles tem valor.”
      
      a) São-lhes mais agradáveis, do que quaisquer outras, as preces que por eles se façam junto dos túmulos de seus corpos?
      “A prece, bem o sabes, é uma evocação que atrai os Espíritos. Tanto maior ação terá, quanto mais fervorosa e sincera for. Ora, junto de um túmulo venerado, sempre se está em maior recolhimento do que algures, e a conservação de estimadas relíquias é um testemunho de afeição dado ao Espírito e que nunca deixa de o sensibilizar. O que atua sobre o Espírito é sempre o pensamento, e não os objetos materiais. Mais influência, do que sobre o Espírito, exercem esses objetos sobre aquele que ora, porque lhe fixam a atenção.”
      
-     9ª À vista disso, parece que não se deve considerar absolutamente falsa a crença em lugares mal-assombrados?
+     9<sup>a</sup> À vista disso, parece que não se deve considerar absolutamente falsa a crença em lugares mal-assombrados?
      “Dissemos que certos Espíritos podem sentir-se atraídos por coisas materiais. Podem sê-lo por determinados lugares, onde parecem estabelecer domicílio, até que desapareçam as circunstâncias que os faziam buscar esses lugares.”
 
      a) Que circunstâncias podem induzi-los a buscar tais lugares?
      “A simpatia por algumas das pessoas que os frequentam, ou o desejo de com elas se comunicarem. Entretanto, nem sempre os animam intenções louváveis. Quando são Espíritos maus, podem pretender vingar-se de pessoas de quem guardam queixas. A permanência em determinado lugar também pode ser, para alguns, uma punição que lhes é infligida, sobretudo se ali cometeram um crime, a fim de que o tenham constantemente diante dos olhos.”[^17]
      
-     10ª Os lugares assombrados sempre o são por antigos habitantes deles?
+     10<sup>a</sup> Os lugares assombrados sempre o são por antigos habitantes deles?
      “Sempre, não — às vezes, porquanto, se o antigo habitante de um desses lugares é Espírito elevado, não se preocupará com a sua habitação terrena, tampouco com o seu corpo. Os Espíritos que assombram certos lugares muitas vezes não têm, para assim procederem, outro motivo que não simples capricho, a menos que para lá sejam atraídos pela simpatia que lhes inspirem determinadas pessoas.” a) Podem estabelecer-se num lugar desses com o fito de protegerem uma pessoa ou a própria família? “Certamente, se forem Espíritos bons; porém, neste caso, nunca manifestam sua presença por meios desagradáveis.”
      
-     11ª Haverá alguma coisa de real na história da Dama Branca? “Mero conto, extraído de mil fatos verdadeiros.”
+     11<sup>a</sup> Haverá alguma coisa de real na história da Dama Branca? “Mero conto, extraído de mil fatos verdadeiros.”
      
-     12ª Será racional temerem-se os lugares assombrados pelos Espíritos?
+     12<sup>a</sup> Será racional temerem-se os lugares assombrados pelos Espíritos?
      “Não. Os Espíritos que frequentam certos lugares, produzindo neles desordens, antes querem divertir-se à custa da credulidade e da poltronaria18 dos homens, do que lhes fazer mal. Aliás, deveis lembrar-vos de que em toda parte há Espíritos e de que, assim, onde quer que estejais, os tereis ao vosso lado, ainda mesmo nas mais tranquilas habitações. Quase sempre, eles só assombram certas casas, porque encontram ensejo de manifestarem sua presença nelas.”
      
-     13ª Haverá meios de os expulsar?
+     13<sup>a</sup> Haverá meios de os expulsar?
      “Há; porém, as mais das vezes, o que fazem para isso os atrai, em vez de os afastar. O melhor meio de expulsar os maus Espíritos consiste em atrair os bons. Atraí, pois, os bons Espíritos, praticando todo o bem que puderdes, e os maus desaparecerão, visto que o bem e o mal são incompatíveis. Sede sempre bons e somente bons Espíritos tereis junto de vós.”
      
      a) Há, no entanto, pessoas muito bondosas que vivem às voltas com as tropelias [^19] dos maus Espíritos. Por quê?
      “Se essas pessoas são realmente boas, isso acontece talvez como prova, para lhes exercitar a paciência e concitá-las a se tornarem ainda melhores. Fica certo, porém, de que não são os que continuamente falam das virtudes os que mais as possuem. Aquele que é possuidor de qualidades reais quase sempre as ignora ou delas nunca fala.”
      
-     14ª Que se deve pensar com relação à eficácia dos exorcismos, para expelir dos lugares mal-assombrados os maus Espíritos?
+     14<sup>a</sup> Que se deve pensar com relação à eficácia dos exorcismos, para expelir dos lugares mal-assombrados os maus Espíritos?
      “Já tiveste ocasião de verificar a eficácia desse processo? Não tens visto, ao contrário, as tropelias redobrarem de intensidade depois das cerimônias do exorcismo? É que os Espíritos que as causam se divertem com o serem tomados pelo diabo.
      
      “Também, os que se não apresentam com intenções malévolas podem manifestar sua presença por meio de arruídos e até tornando-se visíveis, mas nunca praticam desordens, nem incômodos. São, frequentemente, Espíritos sofredores, cujos sofrimentos podeis aliviar orando por eles. Outras vezes, são mesmo Espíritos benfazejos, que vos querem provar estarem junto de vós, ou, então, Espíritos levianos que brincam. Como quase sempre os que perturbam o repouso são Espíritos que se divertem, o que de melhor têm a fazer, os que se veem perseguidos, é rir do que lhes sucede. Os perturbadores se cansam, verificando que não conseguem meter medo, nem impacientar.” (Veja-se atrás o capítulo V: Das manifestações físicas.)
@@ -1570,15 +1571,57 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 [^18] N.E.: Covardia.
 [^19] N.E.: Travessuras, estrepolias
 
-
-
 ### `ldm.2.10` 📑 10. Da natureza das comunicações
 
+#### `ldm.p133` #️⃣ 133
+133. Dissemos que todo efeito que revela, na sua causalidade, um ato de livre vontade, ainda que insignificantíssimo, atesta, por essa circunstância, a existência de uma causa inteligente. Assim, um simples movimento de mesa, que responda ao nosso pensamento ou manifeste caráter intencional, pode ser considerado uma manifestação inteligente. Se a isso houvesse de ficar circunscrito o resultado, só muito secundário interesse nos despertaria. Contudo, já seria alguma coisa o dar-nos a prova de que, em tais fenômenos, há mais do que uma ação puramente material. Nula, ou, pelo menos, muito restrita seria a utilidade prática que daí decorreria. O caso, porém, muda inteiramente de figura, quando essa inteligência ganha um desenvolvimento tal, que permite regular e contínua troca de ideias. Já não há então simples manifestações inteligentes, mas verdadeiras comunicações. Os meios de que hoje dispomos permitem que as obtenhamos tão extensas, tão explícitas e tão rápidas, como as que mantemos com os homens.
+
+     Quem estiver bem compenetrado, segundo a escala espírita (O livro dos espíritos, questão 100), da variedade infinita que apresentam os Espíritos, sob o duplo aspecto da inteligência e da moralidade, facilmente se convencerá de que há de haver diferença entre as suas comunicações; que estas hão de refletir a elevação ou a baixeza de suas ideias, o saber e a ignorância deles, seus vícios e suas virtudes; que, numa palavra, elas não se hão de assemelhar mais do que as dos homens, desde os selvagens até o mais ilustrado europeu. Em quatro categorias principais se podem grupar os matizes que apresentam. Segundo seus caracteres mais acentuados, elas se dividem em: grosseiras, frívolas, sérias e instrutivas.
+
+#### `ldm.p134` #️⃣ 134
+134. Comunicações grosseiras são as concebidas em termos que chocam o decoro. Só podem provir de Espíritos de baixa estofa, ainda cobertos de todas as impurezas da matéria, e em nada diferem das que provenham de homens viciosos e grosseiros. Repugnam a quem quer que não seja inteiramente baldo de toda a delicadeza de sentimentos, pela razão de que, acordemente com o caráter dos Espíritos, elas serão triviais, ignóbeis, obscenas, insolentes, arrogantes, malévolas e mesmo ímpias.
+
+#### `ldm.p135` #️⃣ 135
+135. As comunicações frívolas emanam de Espíritos levianos, zombeteiros ou brincalhões, antes maliciosos do que maus, e que nenhuma importância ligam ao que dizem. Como nada de indecoroso encerram, essas comunicações agradam a certas pessoas, que com elas se divertem, porque encontram prazer nas confabulações fúteis, em que muito se fala para nada dizer. Tais Espíritos saem-se às vezes com tiradas espirituosas e mordazes e, por entre facécias vulgares, dizem não raro duras verdades, que quase sempre ferem com justeza. Em torno de nós pululam os Espíritos levianos, que de todas as ocasiões aproveitam para se intrometerem nas comunicações. A verdade é o que menos os preocupa; daí o maligno encanto que acham em mistificar os que têm a fraqueza e mesmo a presunção de neles crer sob palavra. As pessoas que se comprazem nesse gênero de comunicações naturalmente dão acesso aos Espíritos levianos e falaciosos. Delas se afastam os Espíritos sérios, do mesmo modo que na sociedade humana os homens sérios evitam a companhia dos doidivanas.
+
+#### `ldm.p136` #️⃣ 136
+136. As comunicações sérias são ponderosas quanto ao assunto e elevadas quanto à forma. Toda comunicação que, isenta de frivolidade e de grosseria, objetiva um fim útil, ainda que de caráter particular, é, por esse simples fato, uma comunicação séria. Nem todos os Espíritos sérios são igualmente esclarecidos; há muita coisa que eles ignoram e sobre que podem enganar-se de boa-fé. Por isso é que os Espíritos verdadeiramente superiores nos recomendam de contínuo que submetamos todas as comunicações ao crivo da razão e da mais rigorosa lógica.
+
+     No tocante a comunicações sérias, cumpre se distingam as verdadeiras das falsas, o que nem sempre é fácil, porquanto exatamente à sombra da elevação da linguagem é que certos Espíritos presunçosos, ou pseudossábios, procuram conseguir a prevalência das mais falsas ideias e dos mais absurdos sistemas. E, para melhor acreditados se fazerem e maior importância ostentarem, não escrupulizam de se adornarem com os mais respeitáveis nomes e até com os mais venerados. Esse um dos maiores escolhos da ciência prática; dele trataremos mais adiante, com todos os desenvolvimentos que tão importante assunto reclama, ao mesmo tempo que daremos a conhecer os meios de premonição contra o perigo das falsas comunicações.
+
+#### `ldm.p137` #️⃣ 137
+137. Instrutivas são as comunicações sérias cujo principal objeto consiste num ensinamento qualquer, dado pelos Espíritos, sobre as ciências, a moral, a filosofia etc. São mais ou menos profundas, conforme o grau de elevação e de desmaterialização do Espírito. Para se retirarem frutos reais dessas comunicações, preciso é que elas sejam regulares e continuadas com perseverança. Os Espíritos sérios se ligam aos que desejam instruir-se e lhes secundam os esforços, deixando aos Espíritos levianos a tarefa de divertirem os que em tais manifestações só veem passageira distração. Unicamente pela regularidade e frequência daquelas comunicações se pode apreciar o valor moral e intelectual dos Espíritos que as dão e a confiança que eles merecem. Se, para julgar os homens, se necessita de experiência, muito mais ainda é esta necessária para se julgarem os Espíritos.
+
+     Qualificando de instrutivas as comunicações, supomo-las verdadeiras, pois o que não for verdadeiro não pode ser instrutivo, ainda que dito na mais imponente linguagem. Nessa categoria, não podemos, conseguintemente, incluir certos ensinos que de sério apenas têm a forma, muitas vezes empolada e enfática, com que os Espíritos que os ditam, mais presunçosos do que instruídos, contam iludir os que os recebem. Mas, não podendo suprir a substância que lhes falta, são incapazes de sustentar por muito tempo o papel que procuram desempenhar. A breve trecho, traem- -se, pondo a nu a sua fraqueza, desde que alguma sequência tenham os seus ditados, ou que eles sejam levados aos seus últimos redutos.
+
+#### `ldm.p138` #️⃣ 138
+138. São variadíssimos os meios de comunicação. Atuando sobre os nossos órgãos e sobre todos os nossos sentidos, podem os Espíritos manifestar-se à nossa visão, por meio das aparições; ao nosso tato, por impressões tangíveis, visíveis ou ocultas; à audição pelos ruídos; ao olfato por meio de odores sem causa conhecida. Este último modo de manifestação, se bem muito real, é, incontestavelmente, o mais incerto, pelas múltiplas causas que podem induzir em erro. Daí o nos não demorarmos em tratar dele. O que devemos examinar com cuidado são os diversos meios de se obterem comunicações, isto é, uma permuta regular e continuada de pensamentos. Esses meios são: as pancadas, a palavra e a escrita. Estudá-los- -emos em capítulos especiais.
+
 ### `ldm.2.11` 📑 11. Da sematologia e da tiptologia
+#### `ldm.p139` #️⃣ 139
+#### `ldm.p140` #️⃣ 140
+#### `ldm.p141` #️⃣ 141
+#### `ldm.p142` #️⃣ 142
+#### `ldm.p143` #️⃣ 143
+#### `ldm.p144` #️⃣ 144
+#### `ldm.p145` #️⃣ 145
 
 ### `ldm.2.12` 📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia
+#### `ldm.p146` #️⃣ 146
+#### `ldm.p147` #️⃣ 147
+#### `ldm.p148` #️⃣ 148
+#### `ldm.p149` #️⃣ 149
+#### `ldm.p150` #️⃣ 150
+#### `ldm.p151` #️⃣ 151
 
 ### `ldm.2.13` 📑 13. Da psicografia
+#### `ldm.p152` #️⃣ 152
+#### `ldm.p153` #️⃣ 153
+#### `ldm.p154` #️⃣ 154
+#### `ldm.p155` #️⃣ 155
+#### `ldm.p156` #️⃣ 156
+#### `ldm.p157` #️⃣ 157
+#### `ldm.p158` #️⃣ 158
 
 ### `ldm.2.14` 📑 14. Dos médiuns
 
