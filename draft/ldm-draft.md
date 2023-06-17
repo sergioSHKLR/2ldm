@@ -1101,7 +1101,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p100` #️⃣ 100
 100. De todas as manifestações espíritas, as mais interessantes, sem contestação possível, são aquelas por meio das quais os Espíritos se tornam visíveis. Pela explicação deste fenômeno se verá que ele não é mais sobrenatural do que os outros. Vamos apresentar primeiramente as respostas que os Espíritos deram acerca do assunto:
 
-        1<sup>a</sup> Podem os Espíritos tornar-se visíveis?
+        1<sup>a</sup>. Podem os Espíritos tornar-se visíveis?
         >“Podem, sobretudo, durante o sono. Entretanto, algumas pessoas os veem quando acordadas, porém isso é mais raro.”
 
         Nota – Enquanto o corpo repousa, o Espírito se desprende dos laços materiais; fica mais livre e pode mais facilmente ver os outros Espíritos, entrando com eles em comunicação. O sonho não é senão a recordação desse estado. Quando de nada nos lembramos, diz-se que não sonhamos, mas nem por isso a alma deixou de ver e de gozar da sua liberdade. Aqui nos ocupamos especialmente com as aparições no estado de vigília. [^12]
@@ -1425,41 +1425,41 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 #### `ldm.p128` #️⃣ 128
 128. Foi o Espírito São Luís quem nos deu essa solução, mediante as respostas seguintes:
 
-     1<sup>a</sup> Citamos um caso de aparição do Espírito de uma pessoa viva. Esse Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava ele a sensação que experimenta um indivíduo que faz o mesmo?
+     1<sup>a</sup>. Citamos um caso de aparição do Espírito de uma pessoa viva. Esse Espírito tinha uma caixa de rapé, do qual tomava pitadas. Experimentava ele a sensação que experimenta um indivíduo que faz o mesmo?
      “Não.”
      
-     2<sup>a</sup> Aquela caixa de rapé tinha a forma da de que ele se servia habitualmente e que se achava guardada em sua casa. Que era a dita caixa nas mãos da aparição?
+     2<sup>a</sup>. Aquela caixa de rapé tinha a forma da de que ele se servia habitualmente e que se achava guardada em sua casa. Que era a dita caixa nas mãos da aparição?
      “Uma aparência. Era para que a circunstância fosse notada, como realmente foi, e não tomassem a aparição por uma alucinação devida ao estado de saúde da vidente. O Espírito queria que a senhora em questão acreditasse na realidade da sua presença e, para isso, tomou todas as aparências da realidade.”
      
-     3<sup>a</sup> Dizes que era uma aparência, mas uma aparência nada tem de real, é como uma ilusão de ótica. Desejáramos saber se aquela caixa de rapé era apenas uma imagem sem realidade ou se nela havia alguma coisa de material?
+     3<sup>a</sup>. Dizes que era uma aparência, mas uma aparência nada tem de real, é como uma ilusão de ótica. Desejáramos saber se aquela caixa de rapé era apenas uma imagem sem realidade ou se nela havia alguma coisa de material?
      “Certamente. É com o auxílio deste princípio material que o perispírito toma a aparência de vestuários semelhantes aos que o Espírito usava quando vivo.”
      
      Nota. É evidente que a palavra aparência deve ser aqui tomada no sentido de aspecto, imitação. A caixa de rapé real não estava lá; a que o Espírito deixava ver era apenas a representação daquela: era, pois, com relação ao original, uma simples aparência, embora formada de um princípio material.
      
      A experiência ensina que nem sempre se deve dar significação literal a certas expressões de que usam os Espíritos. Interpretando-as de acordo com as nossas ideias, expomo-nos a grandes equívocos. Daí a necessidade de aprofundar-se o sentido de suas palavras, todas as vezes que apresentem a menor ambiguidade. É esta uma recomendação que os próprios Espíritos constantemente fazem. Sem a explicação que provocamos, o termo aparência, que de contínuo se reproduz nos casos análogos, poderia prestar-se a uma interpretação falsa.
      
-     4<sup>a</sup> Dar-se-á que a matéria inerte se desdobre? Ou que haja no mundo invisível uma matéria essencial, capaz de tomar a forma dos objetos que vemos? Numa palavra, terão estes um duplo etéreo no mundo invisível como os homens são nele representados pelos Espíritos?
+     4<sup>a</sup>. Dar-se-á que a matéria inerte se desdobre? Ou que haja no mundo invisível uma matéria essencial, capaz de tomar a forma dos objetos que vemos? Numa palavra, terão estes um duplo etéreo no mundo invisível como os homens são nele representados pelos Espíritos?
      “Não é assim que as coisas se passam. Sobre os elementos materiais disseminados por todos os pontos do espaço, na vossa atmosfera, têm os Espíritos um poder que estais longe de suspeitar. Podem, pois, eles concentrar à sua vontade esses elementos e dar-lhes a forma aparente que corresponda à dos objetos materiais.”
      
      Nota. Esta pergunta, como se pode ver, era a tradução do nosso pensamento, isto é, da ideia que formávamos da natureza de tais objetos. Se as respostas, conforme alguns o pretendem, fossem o reflexo do pensamento, houvéramos obtido a confirmação da nossa teoria, e não uma teoria contrária.
      
-     5<sup>a</sup> Formulo novamente a questão, de modo categórico, a fim de evitar todo e qualquer equívoco: 
+     5<sup>a</sup>. Formulo novamente a questão, de modo categórico, a fim de evitar todo e qualquer equívoco: 
      São alguma coisa as vestes de que os Espíritos se cobrem? 
      “Parece-me que a minha resposta precedente resolve a questão. Não sabes que o próprio perispírito é alguma coisa?” 
      
-     6<sup>a</sup> Resulta, desta explicação, que os Espíritos fazem passar a matéria etérea pelas transformações que queiram e que, portanto, com relação à caixa de rapé, o Espírito não a encontrou completamente feita, fê-la ele próprio, no momento em que teve necessidade dela, por ato de sua vontade. E, do mesmo modo que a fez, pôde desfazê-la. Outro tanto naturalmente se dá com todos os demais objetos, como vestuários, joias etc. Será assim?
+     6<sup>a</sup>. Resulta, desta explicação, que os Espíritos fazem passar a matéria etérea pelas transformações que queiram e que, portanto, com relação à caixa de rapé, o Espírito não a encontrou completamente feita, fê-la ele próprio, no momento em que teve necessidade dela, por ato de sua vontade. E, do mesmo modo que a fez, pôde desfazê-la. Outro tanto naturalmente se dá com todos os demais objetos, como vestuários, joias etc. Será assim?
      “Mas evidentemente.” 
      
-     7<sup>a</sup> A caixa de rapé se tornou tão visível para a senhora de que se trata, que lhe produziu a ilusão de uma tabaqueira material. Teria o Espírito podido torná-la tangível para a mesma senhora?
+     7<sup>a</sup>. A caixa de rapé se tornou tão visível para a senhora de que se trata, que lhe produziu a ilusão de uma tabaqueira material. Teria o Espírito podido torná-la tangível para a mesma senhora?
      “Teria.”
      
-     8<sup>a</sup> Tê-la-ia a senhora podido tomar nas mãos, crente de estar segurando uma caixa de rapé verdadeira?
+     8<sup>a</sup>. Tê-la-ia a senhora podido tomar nas mãos, crente de estar segurando uma caixa de rapé verdadeira?
      “Sim.”
      
-     9<sup>a</sup> Se a abrisse, teria achado nela rapé? E, se aspirasse esse rapé, ele a faria espirrar?
+     9<sup>a</sup>. Se a abrisse, teria achado nela rapé? E, se aspirasse esse rapé, ele a faria espirrar?
      “Sem dúvida.”
      
-     10<sup>a</sup> Pode então o Espírito dar a um objeto não só a forma, mas também propriedades especiais?
+     10<sup>a</sup>. Pode então o Espírito dar a um objeto não só a forma, mas também propriedades especiais?
      “Se o quiser. Baseado neste princípio foi que respondi afirmativamente às perguntas anteriores. Tereis provas da poderosa ação que os Espíritos exercem sobre a matéria, ação que estais longe de suspeitar, como eu disse há pouco.”
      
      11a Suponhamos, então, que quisesse fazer uma substância venenosa. Se uma pessoa a ingerisse, ficaria envenenada?
@@ -1473,18 +1473,18 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
      
      Nota. A questão da saciedade é aqui muito importante. Como pode produzir a saciedade uma substância cuja existência e propriedades são meramente temporárias e, de certo modo, convencionais? O que se dá é que essa substância, pelo seu contato com o estômago, produz a sensação da saciedade, mas não a saciedade que resulta da plenitude. Desde que uma substância dessa natureza pode atuar sobre a economia e modificar um estado mórbido, também pode, perfeitamente, atuar sobre o estômago e produzir aí a impressão da saciedade. Rogamos, todavia, aos senhores farmacêuticos e inventores de reconstituintes que não se encham de zelos, nem creiam que os Espíritos lhes venham fazer concorrência. Esses casos são raros, excepcionais e nunca dependem da vontade. Doutro modo, toda a gente se alimentaria e curaria a preço baratíssimo.
      
-     14<sup>a</sup> Os objetos que, pela vontade do Espírito, se tornam tangíveis poderiam permanecer com esse caráter e tornarem-se de uso? “Isso poderia dar-se, mas não se faz. Está fora das leis.”
+     14<sup>a</sup>. Os objetos que, pela vontade do Espírito, se tornam tangíveis poderiam permanecer com esse caráter e tornarem-se de uso? “Isso poderia dar-se, mas não se faz. Está fora das leis.”
      
-     15<sup>a</sup> Têm todos os Espíritos, no mesmo grau, o poder de produzir objetos tangíveis?
+     15<sup>a</sup>. Têm todos os Espíritos, no mesmo grau, o poder de produzir objetos tangíveis?
      “É fora de dúvida que quanto mais elevado é o Espírito, tanto mais facilmente o consegue. Porém, ainda aqui, tudo depende das circunstâncias. Desse poder também podem dispor os Espíritos inferiores.”
      
-     16<sup>a</sup> O Espírito tem sempre o conhecimento exato do modo por que compõe suas vestes, ou os objetos cuja aparência ele faz visível?
+     16<sup>a</sup>. O Espírito tem sempre o conhecimento exato do modo por que compõe suas vestes, ou os objetos cuja aparência ele faz visível?
      “Não; muitas vezes concorre para a formação de todas essas coisas, praticando um ato instintivo, que ele próprio não compreende, se já não estiver bastante esclarecido para isso.”
      
-     17<sup>a</sup> Uma vez que o Espírito pode extrair do elemento universal os materiais que lhe são necessários à produção de todas essas coisas e dar-lhes uma realidade temporária, com as propriedades que lhes são peculiares, também poderá tirar dali o que for preciso para escrever, possibilidade que nos daria a explicação do fenômeno da escrita direta?
+     17<sup>a</sup>. Uma vez que o Espírito pode extrair do elemento universal os materiais que lhe são necessários à produção de todas essas coisas e dar-lhes uma realidade temporária, com as propriedades que lhes são peculiares, também poderá tirar dali o que for preciso para escrever, possibilidade que nos daria a explicação do fenômeno da escrita direta?
      “Até que, afinal, chegaste ao ponto.” Nota. Era, com efeito, aí que queríamos chegar com todas as nossas questões preliminares. A resposta prova que o Espírito lera o nosso pensamento. 
      
-     18<sup>a</sup> Pois que a matéria de que se serve o Espírito carece de persistência, como é que não desaparecem os traços da escrita direta?
+     18<sup>a</sup>. Pois que a matéria de que se serve o Espírito carece de persistência, como é que não desaparecem os traços da escrita direta?
      “Não faças jogo de palavras. Primeiramente, não empreguei o termo — nunca. Tratava-se de um objeto material volumoso, ao passo que aqui se trata de sinais que, por ser útil conservá-los, são conservados. O que quis dizer foi que os objetos assim compostos pelos Espíritos não poderiam tornar-se objetos de uso comum por não haver neles, realmente, agregação de matéria, como nos vossos corpos sólidos.”
 
 #### `ldm.p129` #️⃣ 129
@@ -1505,16 +1505,16 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
 #### `ldm.p132` #️⃣ 132
 132. As manifestações espontâneas, que em todos os tempos se hão produzido, e a persistência de alguns Espíritos em darem mostras ostensivas de sua presença em certas localidades constituem a origem da crença na existência de lugares mal-assombrados. As respostas que se seguem foram dadas a perguntas feitas sobre este assunto:
 
-     1<sup>a</sup> Os Espíritos se apegam unicamente às pessoas, ou também às coisas?
+     1<sup>a</sup>. Os Espíritos se apegam unicamente às pessoas, ou também às coisas?
      “Depende da elevação deles. Alguns Espíritos podem apegar-se aos objetos terrenos. Os avarentos, por exemplo, que esconderam seus tesouros e que ainda não estão bastante desmaterializados, muitas vezes se obstinam em vigiá-los e montar-lhes guarda.”
      
-     2<sup>a</sup> Têm os Espíritos errantes lugares de sua predileção?
+     2<sup>a</sup>. Têm os Espíritos errantes lugares de sua predileção?
      “O princípio aqui ainda é o mesmo. Os Espíritos que já se não acham apegados à Terra vão para onde se lhes oferece ensejo de praticar o amor. São atraídos mais pelas pessoas do que pelos objetos materiais. Contudo, pode dar-se que dentre eles alguns tenham, durante certo tempo, preferência por determinados lugares. Esses, porém, são sempre Espíritos inferiores.”
      
-     3<sup>a</sup> O apego dos Espíritos a uma localidade, sendo sinal de inferioridade, constituirá igualmente prova de serem eles maus?
+     3<sup>a</sup>. O apego dos Espíritos a uma localidade, sendo sinal de inferioridade, constituirá igualmente prova de serem eles maus?
      “Certamente que não. Pode um Espírito ser pouco adiantado, sem que por isso seja mau. Não se observa o mesmo entre os homens?”
      
-     4<sup>a</sup> Tem qualquer fundamento a crença de que os Espíritos frequentam de preferência as ruínas?
+     4<sup>a</sup>. Tem qualquer fundamento a crença de que os Espíritos frequentam de preferência as ruínas?
      “Nenhum. Os Espíritos vão a tais lugares, como a todos os outros. A imaginação dos homens é que, despertada pelo aspecto lúgubre de certos sítios, atribui à presença dos Espíritos o que não passa, quase sempre, de efeito muito natural. Quantas vezes o medo não tem feito que se tome por fantasma a sombra de uma árvore e por espectros o grito de um animal ou o sopro do vento? Os Espíritos gostam da presença dos homens; daí o preferirem os lugares habitados aos lugares desertos.”
      
      a) Contudo, pelo que sabemos da diversidade dos caracteres entre os Espíritos, podemos inferir a existência de Espíritos misantropos, que prefiram a solidão
@@ -1523,42 +1523,42 @@ Tentemos explicar esse fato, que noutro tempo teria sido qualificado de milagre 
      5a Em geral, as crenças populares guardam um fundo de verdade. Qual terá sido a origem da crença em lugares mal-assombrados?
      “O fundo de verdade está na manifestação dos Espíritos, na qual o homem instintivamente acreditou desde todos os tempos. Mas, conforme disse acima, o aspecto lúgubre de certos lugares lhe fere a imaginação e esta o leva naturalmente a colocar nesses lugares os seres que ele considera sobrenaturais. Demais, a entreter essa crença supersticiosa, aí estão as narrativas poéticas e os contos fantásticos com que o acalentam na infância.”
      
-     6<sup>a</sup> Há, para os Espíritos que costumam reunir-se, dias e horas em que prefiram fazê-lo?
+     6<sup>a</sup>. Há, para os Espíritos que costumam reunir-se, dias e horas em que prefiram fazê-lo?
      “Não. Os dias e as horas são medidas de tempo para uso dos homens e para a vida corpórea, das quais os Espíritos nenhuma necessidade sentem e nenhum caso fazem.
      
-     7<sup>a</sup> Donde nasceu a ideia de que os Espíritos vêm preferentemente durante a noit
+     7<sup>a</sup>. Donde nasceu a ideia de que os Espíritos vêm preferentemente durante a noit
      “Da impressão que o silêncio e a obscuridade produzem na imaginação. Todas essas crenças são superstições que o conhecimento racional do Espiritismo destruirá. O mesmo se dá com os dias e as horas que muitos julgam lhes serem mais favoráveis. Fica certo de que a influência da meia- -noite nunca existiu senão nos contos.”
      
      a) Sendo assim, por que é então que alguns Espíritos anunciam sua vinda e suas manifestações para certos e determinados dias, como a sexta-feira, por exemp
      “Isso fazem Espíritos que aproveitam a credulidade dos homens para se divertir. Pela mesma razão, há os que se dizem o diabo, ou dão a si mesmos nomes infernais. Mostrai-lhes que não vos deixais enganar e não mais voltarão.”
      
-     8<sup>a</sup> Preferem os Espíritos frequentar os túmulos onde repousam seus corpos?
+     8<sup>a</sup>. Preferem os Espíritos frequentar os túmulos onde repousam seus corpos?
      “O corpo era uma simples vestidura. Do mesmo modo que o prisioneiro nenhuma atração sente pelas correntes que o prendem, os Espíritos nenhuma experimentam pelo envoltório que os fez sofrer. A lembrança das pessoas que lhes são caras é a única coisa que para eles tem valor.”
      
      a) São-lhes mais agradáveis, do que quaisquer outras, as preces que por eles se façam junto dos túmulos de seus corpos?
      “A prece, bem o sabes, é uma evocação que atrai os Espíritos. Tanto maior ação terá, quanto mais fervorosa e sincera for. Ora, junto de um túmulo venerado, sempre se está em maior recolhimento do que algures, e a conservação de estimadas relíquias é um testemunho de afeição dado ao Espírito e que nunca deixa de o sensibilizar. O que atua sobre o Espírito é sempre o pensamento, e não os objetos materiais. Mais influência, do que sobre o Espírito, exercem esses objetos sobre aquele que ora, porque lhe fixam a atenção.”
      
-     9<sup>a</sup> À vista disso, parece que não se deve considerar absolutamente falsa a crença em lugares mal-assombrados?
+     9<sup>a</sup>. À vista disso, parece que não se deve considerar absolutamente falsa a crença em lugares mal-assombrados?
      “Dissemos que certos Espíritos podem sentir-se atraídos por coisas materiais. Podem sê-lo por determinados lugares, onde parecem estabelecer domicílio, até que desapareçam as circunstâncias que os faziam buscar esses lugares.”
 
      a) Que circunstâncias podem induzi-los a buscar tais lugares?
      “A simpatia por algumas das pessoas que os frequentam, ou o desejo de com elas se comunicarem. Entretanto, nem sempre os animam intenções louváveis. Quando são Espíritos maus, podem pretender vingar-se de pessoas de quem guardam queixas. A permanência em determinado lugar também pode ser, para alguns, uma punição que lhes é infligida, sobretudo se ali cometeram um crime, a fim de que o tenham constantemente diante dos olhos.”[^17]
      
-     10<sup>a</sup> Os lugares assombrados sempre o são por antigos habitantes deles?
+     10<sup>a</sup>. Os lugares assombrados sempre o são por antigos habitantes deles?
      “Sempre, não — às vezes, porquanto, se o antigo habitante de um desses lugares é Espírito elevado, não se preocupará com a sua habitação terrena, tampouco com o seu corpo. Os Espíritos que assombram certos lugares muitas vezes não têm, para assim procederem, outro motivo que não simples capricho, a menos que para lá sejam atraídos pela simpatia que lhes inspirem determinadas pessoas.” a) Podem estabelecer-se num lugar desses com o fito de protegerem uma pessoa ou a própria família? “Certamente, se forem Espíritos bons; porém, neste caso, nunca manifestam sua presença por meios desagradáveis.”
      
-     11<sup>a</sup> Haverá alguma coisa de real na história da Dama Branca? “Mero conto, extraído de mil fatos verdadeiros.”
+     11<sup>a</sup>. Haverá alguma coisa de real na história da Dama Branca? “Mero conto, extraído de mil fatos verdadeiros.”
      
-     12<sup>a</sup> Será racional temerem-se os lugares assombrados pelos Espíritos?
+     12<sup>a</sup>. Será racional temerem-se os lugares assombrados pelos Espíritos?
      “Não. Os Espíritos que frequentam certos lugares, produzindo neles desordens, antes querem divertir-se à custa da credulidade e da poltronaria18 dos homens, do que lhes fazer mal. Aliás, deveis lembrar-vos de que em toda parte há Espíritos e de que, assim, onde quer que estejais, os tereis ao vosso lado, ainda mesmo nas mais tranquilas habitações. Quase sempre, eles só assombram certas casas, porque encontram ensejo de manifestarem sua presença nelas.”
      
-     13<sup>a</sup> Haverá meios de os expulsar?
+     13<sup>a</sup>. Haverá meios de os expulsar?
      “Há; porém, as mais das vezes, o que fazem para isso os atrai, em vez de os afastar. O melhor meio de expulsar os maus Espíritos consiste em atrair os bons. Atraí, pois, os bons Espíritos, praticando todo o bem que puderdes, e os maus desaparecerão, visto que o bem e o mal são incompatíveis. Sede sempre bons e somente bons Espíritos tereis junto de vós.”
      
      a) Há, no entanto, pessoas muito bondosas que vivem às voltas com as tropelias [^19] dos maus Espíritos. Por quê?
      “Se essas pessoas são realmente boas, isso acontece talvez como prova, para lhes exercitar a paciência e concitá-las a se tornarem ainda melhores. Fica certo, porém, de que não são os que continuamente falam das virtudes os que mais as possuem. Aquele que é possuidor de qualidades reais quase sempre as ignora ou delas nunca fala.”
      
-     14<sup>a</sup> Que se deve pensar com relação à eficácia dos exorcismos, para expelir dos lugares mal-assombrados os maus Espíritos?
+     14<sup>a</sup>. Que se deve pensar com relação à eficácia dos exorcismos, para expelir dos lugares mal-assombrados os maus Espíritos?
      “Já tiveste ocasião de verificar a eficácia desse processo? Não tens visto, ao contrário, as tropelias redobrarem de intensidade depois das cerimônias do exorcismo? É que os Espíritos que as causam se divertem com o serem tomados pelo diabo.
      
      “Também, os que se não apresentam com intenções malévolas podem manifestar sua presença por meio de arruídos e até tornando-se visíveis, mas nunca praticam desordens, nem incômodos. São, frequentemente, Espíritos sofredores, cujos sofrimentos podeis aliviar orando por eles. Outras vezes, são mesmo Espíritos benfazejos, que vos querem provar estarem junto de vós, ou, então, Espíritos levianos que brincam. Como quase sempre os que perturbam o repouso são Espíritos que se divertem, o que de melhor têm a fazer, os que se veem perseguidos, é rir do que lhes sucede. Os perturbadores se cansam, verificando que não conseguem meter medo, nem impacientar.” (Veja-se atrás o capítulo V: Das manifestações físicas.)
