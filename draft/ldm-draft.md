@@ -75,9 +75,9 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 #### `ldm.p2` #️⃣ 2
 2. Desde que se admite a existência da alma e sua individualidade após a morte, forçoso é também se admita:
 
-   1º. que a sua natureza difere da do corpo, visto que, separada deste, deixa de ter as propriedades peculiares ao corpo;
+   1<sup>o</sup>. que a sua natureza difere da do corpo, visto que, separada deste, deixa de ter as propriedades peculiares ao corpo;
 
-   2º. que goza da consciência de si mesma, pois que é passível de alegria, ou de sofrimento, sem o que seria um ser inerte, caso em que possuí-la de nada nos valeria.
+   2<sup>o</sup>. que goza da consciência de si mesma, pois que é passível de alegria, ou de sofrimento, sem o que seria um ser inerte, caso em que possuí-la de nada nos valeria.
 
    Admitido isso, tem-se que admitir que essa alma vai para alguma parte. Que vem a ser feito dela e para onde vai?
 
@@ -116,23 +116,23 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 #### `ldm.p6` #️⃣ 6
 6. Abstraiamos, por instante, dos fatos que, ao nosso ver, tornam incontestável a realidade dessa comunicação; admitamo-la apenas como hipótese. Pedimos aos incrédulos que nos provem, não por simples negativas, visto que suas opiniões pessoais não podem constituir lei, mas expendendo razões peremptórias, que tal coisa não pode dar-se. Colocando-nos no terreno em que eles se colocam, uma vez que entendem de apreciar os fatos espíritas com o auxílio das leis da matéria, que tirem desse arsenal qualquer demonstração matemática, física, química, mecânica, fisiológica e provem por **a** mais **b**, partindo sempre do princípio da existência e da sobrevivência da alma:
 
-   1º. que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;
+   1<sup>o</sup>. que o ser pensante, que existe em nós durante a vida, não mais pensa depois da morte;
 
-   2º. que, se continua a pensar, está inibido de pensar naqueles a quem amou;
+   2<sup>o</sup>. que, se continua a pensar, está inibido de pensar naqueles a quem amou;
 
-   3º. que, se pensa nestes, não cogita de se comunicar com eles;
+   3<sup>o</sup>. que, se pensa nestes, não cogita de se comunicar com eles;
 
-   4º. que, podendo estar em toda parte, não pode estar ao nosso lado;
+   4<sup>o</sup>. que, podendo estar em toda parte, não pode estar ao nosso lado;
 
-   5º. que, podendo estar ao nosso lado, não pode comunicar-se conosco;
+   5<sup>o</sup>. que, podendo estar ao nosso lado, não pode comunicar-se conosco;
 
-   6º. que não pode, por meio do seu envoltório fluídico, atuar sobre a matéria inerte;
+   6<sup>o</sup>. que não pode, por meio do seu envoltório fluídico, atuar sobre a matéria inerte;
 
-   7º. que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
+   7<sup>o</sup>. que, sendo-lhe possível atuar sobre a matéria inerte, não pode atuar sobre um ser animado;
 
-   8º. que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
+   8<sup>o</sup>. que, tendo a possibilidade de atuar sobre um ser animado, não lhe pode dirigir a mão para fazê-lo escrever;
 
-   9º. que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.
+   9<sup>o</sup>. que, podendo fazê-lo escrever, não lhe pode responder às perguntas, nem lhe transmitir seus pensamentos.
 
    Quando os adversários do Espiritismo nos provarem que isto é impossível, aduzindo razões tão patentes quais as com que Galileu demonstrou que o Sol não é que gira em torno da Terra, então poderemos considerar-lhes fundadas as dúvidas. Infelizmente, até hoje, toda a argumentação a que recorrem se resume nestas palavras:
 
@@ -198,21 +198,21 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 #### `ldm.p14` #️⃣ 14
 14. Resumimos nas proposições seguintes o que havemos expendido:
 
-    1º. Todos os fenômenos espíritas têm por princípio a existência da alma, sua sobrevivência ao corpo e suas manifestações.
+    1<sup>o</sup>. Todos os fenômenos espíritas têm por princípio a existência da alma, sua sobrevivência ao corpo e suas manifestações.
 
-    2º. Fundando-se numa Lei da Natureza, esses fenômenos nada têm de **maravilhosos** nem de **sobrenaturais**, no sentido vulgar dessas palavras.
+    2<sup>o</sup>. Fundando-se numa Lei da Natureza, esses fenômenos nada têm de **maravilhosos** nem de **sobrenaturais**, no sentido vulgar dessas palavras.
 
-    3º. Muitos fatos são tidos por sobrenaturais, porque não se lhes conhece a causa; atribuindo-lhes uma causa, o Espiritismo os repõe no domínio dos fenômenos naturais.
+    3<sup>o</sup>. Muitos fatos são tidos por sobrenaturais, porque não se lhes conhece a causa; atribuindo-lhes uma causa, o Espiritismo os repõe no domínio dos fenômenos naturais.
 
-    4º. Entre os fatos qualificados de sobrenaturais, muitos há cuja impossibilidade o Espiritismo demonstra, incluindo-os em o número das crenças supersticiosas.
+    4<sup>o</sup>. Entre os fatos qualificados de sobrenaturais, muitos há cuja impossibilidade o Espiritismo demonstra, incluindo-os em o número das crenças supersticiosas.
 
-    5º. Se bem reconheça um fundo de verdade em muitas crenças populares, o Espiritismo de modo algum dá sua solidariedade a todas as histórias fantásticas que a imaginação há criado.
+    5<sup>o</sup>. Se bem reconheça um fundo de verdade em muitas crenças populares, o Espiritismo de modo algum dá sua solidariedade a todas as histórias fantásticas que a imaginação há criado.
 
-    6º. Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
+    6<sup>o</sup>. Julgar do Espiritismo pelos fatos que ele não admite é dar prova de ignorância e tirar todo valor à opinião emitida.
 
-    7º. A explicação dos fatos que o Espiritismo admite, de suas causas e consequências morais, forma toda uma ciência e toda uma filosofia, que reclamam estudo sério, perseverante e aprofundado.
+    7<sup>o</sup>. A explicação dos fatos que o Espiritismo admite, de suas causas e consequências morais, forma toda uma ciência e toda uma filosofia, que reclamam estudo sério, perseverante e aprofundado.
 
-    8º. O Espiritismo não pode considerar crítico sério senão aquele que tudo tenha visto, estudado e aprofundado com a paciência e a perseverança de um observador consciencioso; que do assunto saiba tanto quanto qualquer adepto instruído; que haja, por conseguinte, haurido seus conhecimentos algures, que não nos romances da ciência; aquele a quem não se possa opor **fato algum** que lhe seja desconhecido, nenhum argumento de que já não tenha cogitado e cuja refutação faça não por mera negação, mas por meio de outros argumentos mais peremptórios; aquele, finalmente, que possa indicar, para os fatos averiguados, causa mais lógica do que a que lhes aponta o Espiritismo. Tal crítico ainda está por aparecer.
+    8<sup>o</sup>. O Espiritismo não pode considerar crítico sério senão aquele que tudo tenha visto, estudado e aprofundado com a paciência e a perseverança de um observador consciencioso; que do assunto saiba tanto quanto qualquer adepto instruído; que haja, por conseguinte, haurido seus conhecimentos algures, que não nos romances da ciência; aquele a quem não se possa opor **fato algum** que lhe seja desconhecido, nenhum argumento de que já não tenha cogitado e cuja refutação faça não por mera negação, mas por meio de outros argumentos mais peremptórios; aquele, finalmente, que possa indicar, para os fatos averiguados, causa mais lógica do que a que lhes aponta o Espiritismo. Tal crítico ainda está por aparecer.
 
 #### `ldm.p15` #️⃣ 15
 15. Pronunciamos há pouco a palavra **milagre**; uma ligeira observação sobre isso não virá fora de propósito, neste capítulo que trata do maravilhoso.
@@ -310,15 +310,15 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 #### `ldm.p28` #️⃣ 28
 28. Entre os que se convenceram por um estudo direto, podem destacar-se:
 
-    1º. Os que creem pura e simplesmente nas manifestações. Para eles, o Espiritismo é apenas uma ciência de observação, uma série de fatos mais ou menos curiosos. Chamar-lhes-emos **espíritas experimentadores**.
+    1<sup>o</sup>. Os que creem pura e simplesmente nas manifestações. Para eles, o Espiritismo é apenas uma ciência de observação, uma série de fatos mais ou menos curiosos. Chamar-lhes-emos **espíritas experimentadores**.
 
-    2º. Os que no Espiritismo veem mais do que fatos compreendem-lhe a parte filosófica; admiram a moral daí decorrente, mas não a praticam. Insignificante ou nula é a influência que lhes exerce nos caracteres. Em nada alteram seus hábitos e não se privariam de um só gozo que fosse.
+    2<sup>o</sup>. Os que no Espiritismo veem mais do que fatos compreendem-lhe a parte filosófica; admiram a moral daí decorrente, mas não a praticam. Insignificante ou nula é a influência que lhes exerce nos caracteres. Em nada alteram seus hábitos e não se privariam de um só gozo que fosse.
 
     O avarento continua a sê-lo, o orgulhoso se conserva cheio de si, o invejoso e o cioso sempre hostis. Consideram a caridade cristã apenas uma bela máxima. São os **espíritas imperfeitos**.
 
-    3º. Os que não se contentam com admirar a moral espírita, que a praticam e lhe aceitam todas as consequências. Convencidos de que a existência terrena é uma prova passageira, tratam de aproveitar os seus breves instantes para avançar pela senda do progresso, única que os pode elevar na hierarquia do mundo dos Espíritos, esforçando-se por fazer o bem e coibir seus maus pendores. As relações com eles sempre oferecem segurança, porque a convicção que nutrem os preserva de pensarem praticar o mal. A caridade é, em tudo, a regra de proceder a que obedecem. São os **verdadeiros espíritas**, ou melhor, os **espíritas cristãos**.
+    3<sup>o</sup>. Os que não se contentam com admirar a moral espírita, que a praticam e lhe aceitam todas as consequências. Convencidos de que a existência terrena é uma prova passageira, tratam de aproveitar os seus breves instantes para avançar pela senda do progresso, única que os pode elevar na hierarquia do mundo dos Espíritos, esforçando-se por fazer o bem e coibir seus maus pendores. As relações com eles sempre oferecem segurança, porque a convicção que nutrem os preserva de pensarem praticar o mal. A caridade é, em tudo, a regra de proceder a que obedecem. São os **verdadeiros espíritas**, ou melhor, os **espíritas cristãos**.
 
-    4º. Há, finalmente, os **espíritas exaltados**. A espécie humana seria perfeita se sempre tomasse o lado bom das coisas. Em tudo, o exagero é prejudicial. Em Espiritismo, infunde confiança demasiado cega e frequentemente pueril no tocante ao Mundo Invisível, e leva a aceitar-se, com extrema facilidade e sem verificação, aquilo cujo absurdo ou impossibilidade a reflexão e o exame demonstrariam. O entusiasmo, porém, não reflete, deslumbra. Esta espécie de adeptos é mais nociva do que útil à causa do Espiritismo. São os menos aptos para convencer a quem quer que seja, porque todos, com razão, desconfiam dos julgamentos deles. Graças à sua boa-fé, são iludidos assim por Espíritos mistificadores, como por homens que procuram explorar-lhes a credulidade. Mal menor apenas haveria se só eles tivessem que sofrer as consequências. O pior é que, sem o quererem, dão armas aos incrédulos, que antes buscam ocasião de zombar do que se convencerem, e que não deixam de imputar a todos o ridículo de alguns. Sem dúvida que isto não é justo nem racional, mas, como se sabe, os adversários do Espiritismo só consideram de bom quilate a razão de que desfrutam, e conhecer a fundo aquilo sobre que discorrem é o que menos cuidado lhes dá.
+    4<sup>o</sup>. Há, finalmente, os **espíritas exaltados**. A espécie humana seria perfeita se sempre tomasse o lado bom das coisas. Em tudo, o exagero é prejudicial. Em Espiritismo, infunde confiança demasiado cega e frequentemente pueril no tocante ao Mundo Invisível, e leva a aceitar-se, com extrema facilidade e sem verificação, aquilo cujo absurdo ou impossibilidade a reflexão e o exame demonstrariam. O entusiasmo, porém, não reflete, deslumbra. Esta espécie de adeptos é mais nociva do que útil à causa do Espiritismo. São os menos aptos para convencer a quem quer que seja, porque todos, com razão, desconfiam dos julgamentos deles. Graças à sua boa-fé, são iludidos assim por Espíritos mistificadores, como por homens que procuram explorar-lhes a credulidade. Mal menor apenas haveria se só eles tivessem que sofrer as consequências. O pior é que, sem o quererem, dão armas aos incrédulos, que antes buscam ocasião de zombar do que se convencerem, e que não deixam de imputar a todos o ridículo de alguns. Sem dúvida que isto não é justo nem racional, mas, como se sabe, os adversários do Espiritismo só consideram de bom quilate a razão de que desfrutam, e conhecer a fundo aquilo sobre que discorrem é o que menos cuidado lhes dá.
 
 #### `ldm.p29` #️⃣ 29
 29. Os meios de convencer variam extremamente, conforme os indivíduos. O que persuade a uns nada produz em outros; este se convenceu observando algumas manifestações materiais, aquele por efeito de comunicações inteligentes, o maior número pelo raciocínio. Podemos até dizer que, para a maioria dos que se não preparam pelo raciocínio, os fenômenos materiais quase nenhum peso têm. Quanto mais extraordinários são esses fenômenos, quanto mais se afastam das leis conhecidas, maior oposição encontram, e isto por uma razão muito simples: é que todos somos levados naturalmente a duvidar de uma coisa que não tem sanção racional. Cada um a considera do seu ponto de vista e a explica a seu modo: o materialista a atribui a uma causa puramente física ou a embuste; o ignorante e o supersticioso, a uma causa diabólica ou sobrenatural, ao passo que uma explicação prévia produz o efeito de destruir as ideias preconcebidas e de mostrar, senão a realidade, pelo menos a possibilidade da coisa, que, assim, é compreendida antes de ser vista. Ora, desde que se reconhece a possibilidade de um fato, três quartos da convicção estão conseguidos.
@@ -354,13 +354,13 @@ Há mesmo qualquer coisa de ilógico em supor-se que Espíritos venham exibir-se
 #### `ldm.p35` #️⃣ 35
 35. Aos que quiserem adquirir essas noções preliminares pela leitura das nossas obras, aconselhamos que as leiam nesta ordem:
 
-    1º. *O que é o Espiritismo*. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
+    1<sup>o</sup>. *O que é o Espiritismo*. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
 
-    2º. [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md). Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
+    2<sup>o</sup>. [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md). Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
 
-    3º. ✒️ *O Livro dos Médiuns*. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md).
+    3<sup>o</sup>. ✒️ *O Livro dos Médiuns*. Destina-se a guiar os que queiram entregar-se à prática das manifestações, dando-lhes conhecimento dos meios próprios para se comunicarem com os Espíritos. É um guia, tanto para os médiuns como para os evocadores, e o complemento de [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md).
 
-    4º. *Revista espírita*. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md). [^5]
+    4<sup>o</sup>. *Revista espírita*. Variada coletânea de fatos, de explicações teóricas e de trechos isolados, que completam o que se encontra nas duas obras precedentes, formando-lhes, de certo modo, a aplicação. Sua leitura pode fazer-se simultaneamente com a daquelas obras, porém mais proveitosa será, e, sobretudo, mais inteligível, se for feita depois de [👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md). [^5]
 
     Isto pelo que nos diz respeito. Os que desejem tudo conhecer de uma ciência devem necessariamente ler tudo o que se ache escrito sobre a matéria, ou, pelo menos, o que haja de principal, não se limitando a um único autor. Devem mesmo ler o pró e o contra, as críticas como as apologias, inteirar-se dos diferentes sistemas, a fim de poderem julgar por comparação.
 
@@ -453,23 +453,23 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Compreende-se que a crença na comunicação exclusiva dos demônios, por muito irracional que seja, não houvesse parecido impossível, quando se consideravam os Espíritos como seres criados fora da Humanidade. Mas, desde que se sabe que os Espíritos são simplesmente as almas dos que hão vivido, ela perdeu todo o seu prestígio e, pode-se dizer, toda a verossimilhança, porquanto, admitida, o que se seguiria é que todas essas almas eram demônios, embora fossem as de um pai, de um filho ou de um amigo, e que nós mesmos, morrendo, nos tornaríamos demônios, doutrina pouco lisonjeira e nada consoladora para muita gente. Bem difícil será persuadir uma mãe de que o filho querido, que ela perdeu e que lhe vem dar, depois da morte, provas de sua afeição e de sua identidade, é um suposto satanás. Sem dúvida, entre os Espíritos, há os muito maus e que não valem mais do que os chamados **demônios**, por uma razão bem simples: a de que há homens muito maus que, pelo fato de morrerem, não se tornam bons. A questão está em saber se só eles podem comunicar-se conosco. Aos que assim pensem, dirigimos as seguintes perguntas:
 
-    1º. Há ou não Espíritos bons e maus?
+    1<sup>o</sup>. Há ou não Espíritos bons e maus?
 
-    2º. Deus é ou não mais poderoso do que os maus Espíritos, ou do que os demônios, se assim lhes quiserdes chamar?
+    2<sup>o</sup>. Deus é ou não mais poderoso do que os maus Espíritos, ou do que os demônios, se assim lhes quiserdes chamar?
 
-    3º. Afirmar que só os maus se comunicam é dizer que os bons não o podem fazer. Sendo assim, uma de duas: ou isto se dá pela vontade ou contra a vontade de Deus. Se contra a sua vontade, é que os maus Espíritos podem mais do que Ele; se, por vontade sua, por que, em sua bondade, não permitiria Ele que os bons fizessem o mesmo, para contrabalançar a influência dos outros?
+    3<sup>o</sup>. Afirmar que só os maus se comunicam é dizer que os bons não o podem fazer. Sendo assim, uma de duas: ou isto se dá pela vontade ou contra a vontade de Deus. Se contra a sua vontade, é que os maus Espíritos podem mais do que Ele; se, por vontade sua, por que, em sua bondade, não permitiria Ele que os bons fizessem o mesmo, para contrabalançar a influência dos outros?
 
-    4º. Que provas podeis apresentar da impossibilidade de os bons Espíritos se comunicarem?
+    4<sup>o</sup>. Que provas podeis apresentar da impossibilidade de os bons Espíritos se comunicarem?
 
-    5º. Quando se vos opõe a sabedoria de certas comunicações, respondeis que o demônio usa de todas as máscaras para melhor seduzir. Sabemos, com efeito, haver Espíritos hipócritas, que dão à sua linguagem um verniz de sabedoria; mas admitis que a ignorância pode falsificar o verdadeiro saber e uma natureza má imitar a verdadeira virtude, sem deixar vestígio que denuncie a fraude?
+    5<sup>o</sup>. Quando se vos opõe a sabedoria de certas comunicações, respondeis que o demônio usa de todas as máscaras para melhor seduzir. Sabemos, com efeito, haver Espíritos hipócritas, que dão à sua linguagem um verniz de sabedoria; mas admitis que a ignorância pode falsificar o verdadeiro saber e uma natureza má imitar a verdadeira virtude, sem deixar vestígio que denuncie a fraude?
 
-    6º. Se só o demônio se comunica, sendo ele o inimigo de Deus e dos homens, por que recomenda que se ore a Deus, que nos submetamos à vontade de Deus, que suportemos sem queixas as tribulações da vida, que não ambicionemos as honras, nem as riquezas, que pratiquemos a caridade e todas as máximas do Cristo, numa palavra: que façamos tudo o que é preciso para lhe destruir o império, dele, demônio? Se tais conselhos o demônio é quem os dá, forçoso será convir em que, por muito manhoso que seja, bastante inábil é ele, fornecendo armas contra si mesmo.[^8]
+    6<sup>o</sup>. Se só o demônio se comunica, sendo ele o inimigo de Deus e dos homens, por que recomenda que se ore a Deus, que nos submetamos à vontade de Deus, que suportemos sem queixas as tribulações da vida, que não ambicionemos as honras, nem as riquezas, que pratiquemos a caridade e todas as máximas do Cristo, numa palavra: que façamos tudo o que é preciso para lhe destruir o império, dele, demônio? Se tais conselhos o demônio é quem os dá, forçoso será convir em que, por muito manhoso que seja, bastante inábil é ele, fornecendo armas contra si mesmo.[^8]
 
-    7º. Pois que os Espíritos se comunicam, é que Deus o permite. Em presença das boas e das más comunicações, não será mais lógico admitir-se que umas Deus as permite para nos experimentar e as outras para nos aconselhar ao bem?
+    7<sup>o</sup>. Pois que os Espíritos se comunicam, é que Deus o permite. Em presença das boas e das más comunicações, não será mais lógico admitir-se que umas Deus as permite para nos experimentar e as outras para nos aconselhar ao bem?
 
-    8º. Que direis de um pai que deixasse o filho à mercê dos exemplos e dos conselhos perniciosos, e que o afastasse de si; que o privasse do contato com as pessoas que o pudessem desviar do mal? Ser-nos-á lícito supor que Deus procede como um bom pai não procederia, e que, sendo ele a bondade por excelência, faça menos do que faria um homem?
+    8<sup>o</sup>. Que direis de um pai que deixasse o filho à mercê dos exemplos e dos conselhos perniciosos, e que o afastasse de si; que o privasse do contato com as pessoas que o pudessem desviar do mal? Ser-nos-á lícito supor que Deus procede como um bom pai não procederia, e que, sendo ele a bondade por excelência, faça menos do que faria um homem?
 
-    9º. A Igreja reconhece como autênticas certas manifestações da Virgem e de outros santos, em aparições, visões, comunicações orais etc. Essa crença não está em contradição com a doutrina da comunicação exclusiva dos demônios?
+    9<sup>o</sup>. A Igreja reconhece como autênticas certas manifestações da Virgem e de outros santos, em aparições, visões, comunicações orais etc. Essa crença não está em contradição com a doutrina da comunicação exclusiva dos demônios?
 
     Acreditamos que algumas pessoas hajam professado de boa-fé essa teoria, mas também cremos que muitas a adotaram unicamente com o fito de fazer que outras fugissem de ocupar-se com tais coisas, pelo temor das comunicações más, a cujo recebimento todos estão sujeitos. Dizendo que só o diabo se manifesta, quiseram aterrorizar, quase como se faz com uma criança a quem se diz: não toques nisto, porque queima. A intenção pode ter sido louvável, porém o objetivo falhou, porquanto a só proibição basta para excitar a curiosidade, e bem poucos são aqueles a quem o medo do diabo tolhe a iniciativa. Todos querem vê-lo, quando mais não seja para saber como é feito, e muito espantados ficam por não o acharem tão feio como o imaginavam.
 
@@ -494,25 +494,25 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
     Eis aqui as consequências gerais deduzidas de uma observação completa e que agora formam a crença, pode-se dizer, da universalidade dos espíritas, visto que os sistemas restritivos não passam de opiniões insuladas:
 
-    1º. Os fenômenos espíritas são produzidos por inteligências extracorpóreas, às quais também se dá o nome de Espíritos;
+    1<sup>o</sup>. Os fenômenos espíritas são produzidos por inteligências extracorpóreas, às quais também se dá o nome de Espíritos;
 
-    2º. Os Espíritos constituem o Mundo Invisível; estão em toda parte; povoam infinitamente os espaços; temos muitos, de contínuo, em torno de nós, com os quais nos achamos em contato;
+    2<sup>o</sup>. Os Espíritos constituem o Mundo Invisível; estão em toda parte; povoam infinitamente os espaços; temos muitos, de contínuo, em torno de nós, com os quais nos achamos em contato;
 
-    3º. Os Espíritos reagem incessantemente sobre o mundo físico e sobre o mundo moral e são uma das potências da Natureza;
+    3<sup>o</sup>. Os Espíritos reagem incessantemente sobre o mundo físico e sobre o mundo moral e são uma das potências da Natureza;
 
-    4º. Os Espíritos não são seres à parte dentro da criação, mas as almas dos que hão vivido na Terra, ou em outros mundos, e que despiram o invólucro corpóreo; donde se segue que as almas dos homens são Espíritos encarnados e que nós, morrendo, nos tornamos Espíritos;
+    4<sup>o</sup>. Os Espíritos não são seres à parte dentro da criação, mas as almas dos que hão vivido na Terra, ou em outros mundos, e que despiram o invólucro corpóreo; donde se segue que as almas dos homens são Espíritos encarnados e que nós, morrendo, nos tornamos Espíritos;
 
-    5º. Há Espíritos de todos os graus de bondade e de malícia, de saber e de ignorância;
+    5<sup>o</sup>. Há Espíritos de todos os graus de bondade e de malícia, de saber e de ignorância;
 
-    6º. Todos estão submetidos à Lei do Progresso e podem todos chegar à perfeição, mas, como têm livre-arbítrio, lá chegam em tempo mais ou menos longo, conforme seus esforços e vontade;
+    6<sup>o</sup>. Todos estão submetidos à Lei do Progresso e podem todos chegar à perfeição, mas, como têm livre-arbítrio, lá chegam em tempo mais ou menos longo, conforme seus esforços e vontade;
 
-    7º. São felizes ou infelizes, de acordo com o bem ou o mal que praticaram durante a vida e com o grau de adiantamento que alcançaram. A felicidade perfeita e sem mescla é partilha unicamente dos Espíritos que atingiram o grau supremo da perfeição;
+    7<sup>o</sup>. São felizes ou infelizes, de acordo com o bem ou o mal que praticaram durante a vida e com o grau de adiantamento que alcançaram. A felicidade perfeita e sem mescla é partilha unicamente dos Espíritos que atingiram o grau supremo da perfeição;
 
-    8º. Todos os Espíritos, em dadas circunstâncias, podem manifestar-se aos homens; indefinido é o número dos que podem comunicar-se;
+    8<sup>o</sup>. Todos os Espíritos, em dadas circunstâncias, podem manifestar-se aos homens; indefinido é o número dos que podem comunicar-se;
 
-    9º. Os Espíritos se comunicam por médiuns, que lhes servem de instrumentos e intérpretes;
+    9<sup>o</sup>. Os Espíritos se comunicam por médiuns, que lhes servem de instrumentos e intérpretes;
 
-    10º. Reconhecem-se a superioridade ou a inferioridade dos Espíritos pela linguagem que usam; os bons só aconselham o bem e só dizem coisas proveitosas; tudo neles lhes atesta a elevação; os maus enganam e todas as suas palavras trazem o cunho da imperfeição e da ignorância.
+    10<sup>o</sup>. Reconhecem-se a superioridade ou a inferioridade dos Espíritos pela linguagem que usam; os bons só aconselham o bem e só dizem coisas proveitosas; tudo neles lhes atesta a elevação; os maus enganam e todas as suas palavras trazem o cunho da imperfeição e da ignorância.
 
     Os diferentes graus por que passam os Espíritos se acham indicados na Escala espírita ([👻 *O Livro dos Espíritos*](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md), [`lde.q100`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md#ldeq100-%EF%B8%8F%E2%83%A3-100)). O estudo dessa classificação é indispensável para se apreciar a natureza dos Espíritos que se manifestam, assim como suas boas e más qualidades.
 
@@ -563,11 +563,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 #### `ldm.p54` #️⃣ 54
 54. Numerosas observações e fatos irrecusáveis, de que mais tarde falaremos, levaram à consequência de que há no homem três componentes:
 
-    1º. a alma, ou Espírito, princípio inteligente, em que tem sua sede o senso moral; 
+    1<sup>o</sup>. a alma, ou Espírito, princípio inteligente, em que tem sua sede o senso moral; 
 
-    2º. o corpo, invólucro grosseiro, material, de que ele se revestiu temporariamente, em cumprimento de certos desígnios providenciais;
+    2<sup>o</sup>. o corpo, invólucro grosseiro, material, de que ele se revestiu temporariamente, em cumprimento de certos desígnios providenciais;
 
-    3º. o perispírito, envoltório fluídico, semimaterial, que serve de ligação entre a alma e o corpo.
+    3<sup>o</sup>. o perispírito, envoltório fluídico, semimaterial, que serve de ligação entre a alma e o corpo.
 
     A morte é a destruição, ou antes, a desagregação do envoltório grosseiro, do invólucro que a alma abandona. O outro se desliga deste e acompanha a alma que, assim, fica sempre com um envoltório. Este último, ainda que fluídico, etéreo, vaporoso, invisível, para nós, em seu estado normal, não deixa de ser matéria, embora até ao presente não tenhamos podido assenhorear-nos dela e submetê-la à análise.
 
