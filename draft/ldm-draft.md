@@ -1329,9 +1329,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 [^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre [inventor e pintor francês (1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
 
-[^15]
-[^15]: Nota
-
 ### `ldm.2.07` 📑 7. Da bicorporeidade e da transfiguração
 
 #### `ldm.p114` #️⃣ 114
