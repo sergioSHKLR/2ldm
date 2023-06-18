@@ -1362,11 +1362,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
      
      Santo Afonso de Liguori foi canonizado antes do tempo prescrito, por se haver mostrado simultaneamente em dois sítios diversos, o que passou por milagre.
 
-     Santo Antônio de Pádua estava pregando na Itália,15 quando seu pai, em Lisboa, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, Santo Antônio aparece e demonstra a inocência do acusado. Comprovou-se que, naquele instante, Santo ­Antônio pregava na Itália, na cidade de Pádua.
+     Santo Antônio de Pádua estava pregando na Itália [^15], quando seu pai, em Lisboa, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, Santo Antônio aparece e demonstra a inocência do acusado. Comprovou-se que, naquele instante, Santo ­Antônio pregava na Itália, na cidade de Pádua.
 
      Por nós evocado e interrogado acerca do fato acima, Santo Afonso respondeu do seguinte modo: 
      
-     1<sup>a</sup>. Poderias explicar-nos esse fenômeno? ^(a)
+     1<sup>a</sup>. Poderias explicar-nos esse fenômeno?
      “Perfeitamente. Quando o homem, por suas virtudes, chegou a desmaterializar-se completamente; quando conseguiu elevar sua alma para Deus, pode aparecer em dois lugares ao mesmo tempo. Eis como: o Espírito encarnado, ao sentir que lhe vem o sono, pode pedir a Deus lhe seja permitido transportar-se a um lugar qualquer. Seu Espírito, ou sua alma, como quiseres, abandona então o corpo, acompanhado de uma parte do seu perispírito, e deixa a matéria imunda num estado próximo do da morte. Digo próximo do da morte, porque no corpo ficou um laço que liga o perispírito e a alma à matéria, laço este que não pode ser definido. O corpo aparece, então, no lugar desejado. Creio ser isto o que queres saber.” 
      
      2<sup>a</sup>. Isso não nos dá a explicação da visibilidade e da tangibilidade do perispírito. “Achando-se desprendido da matéria, conformemente ao grau de sua elevação, pode o Espírito tornar-se tangível à matéria.” 
@@ -1408,6 +1408,8 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 #### `ldm.p125` #️⃣ 125
 125. Resta-nos falar do singular fenômeno dos agêneres, que, por muito extraordinário que pareça à primeira vista, não é mais sobrenatural do que os outros. Porém, como o explicamos na `📓 Revista Espírita` (fevereiro de 1859), julgamos inútil tratar dele aqui pormenorizadamente. Diremos tão somente que é uma variedade da aparição tangível. É o estado de certos Espíritos que podem revestir momentaneamente as formas de uma pessoa viva, ao ponto de causar completa ilusão. (Do grego a privativo, e geine, geinomaï, gerar: que não foi gerado.)
+
+[^15]: N.E.: O fato histórico ocorreu exatamente como relatamos acima, embora no original francês Allan Kardec o tenha narrado sob a seguinte versão: “Santo Antônio de Pádua estava na Espanha e no instante em que ali pregava, seu pai, que se encontrava em Pádua, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, o santo aparece e demonstra a inocência de seu pai, dando a conhecer o verdadeiro criminoso, que mais tarde sofreu o castigo. Comprovou-se que nesse momento Santo Antônio não havia deixado a Espanha.”
 
 ### `ldm.2.08` 📑 8. Do laboratório do mundo invisível
 
@@ -1860,7 +1862,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ## `ldm.3` 🗂️ Parte 3 - Pós-textual
 
-### `ldm.3.01` 📃 1. Nota explicativa [^27]
+### `ldm.3.01` 📃 1. Nota explicativa [^26]
 
 > Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. `📓 Revista Espírita` de 1868)
 
@@ -1930,4 +1932,4 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 📑 Notas de rodapé
 
-[^27]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
+[^26]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
