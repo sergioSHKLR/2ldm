@@ -1548,7 +1548,8 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
      10<sup>a</sup>. Os lugares assombrados sempre o são por antigos habitantes deles?
      >“Sempre, não — às vezes, porquanto, se o antigo habitante de um desses lugares é Espírito elevado, não se preocupará com a sua habitação terrena, tampouco com o seu corpo. Os Espíritos que assombram certos lugares muitas vezes não têm, para assim procederem, outro motivo que não simples capricho, a menos que para lá sejam atraídos pela simpatia que lhes inspirem determinadas pessoas.” a) Podem estabelecer-se num lugar desses com o fito de protegerem uma pessoa ou a própria família? “Certamente, se forem Espíritos bons; porém, neste caso, nunca manifestam sua presença por meios desagradáveis.”
      
-     11<sup>a</sup>. Haverá alguma coisa de real na história da Dama Branca? “Mero conto, extraído de mil fatos verdadeiros.”
+     11<sup>a</sup>. Haverá alguma coisa de real na história da Dama Branca?
+     >“Mero conto, extraído de mil fatos verdadeiros.”
      
      12<sup>a</sup>. Será racional temerem-se os lugares assombrados pelos Espíritos?
      >“Não. Os Espíritos que frequentam certos lugares, produzindo neles desordens, antes querem divertir-se à custa da credulidade e da poltronaria18 dos homens, do que lhes fazer mal. Aliás, deveis lembrar-vos de que em toda parte há Espíritos e de que, assim, onde quer que estejais, os tereis ao vosso lado, ainda mesmo nas mais tranquilas habitações. Quase sempre, eles só assombram certas casas, porque encontram ensejo de manifestarem sua presença nelas.”
