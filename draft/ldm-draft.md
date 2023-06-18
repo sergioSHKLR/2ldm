@@ -148,10 +148,10 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 7. Se a crença nos Espíritos e nas suas manifestações representasse uma concepção singular, fosse produto de um sistema, poderia, com visos de razão, merecer a suspeita de ilusória. Digam-nos, porém, por que com ela deparamos tão vivaz entre todos os povos, antigos e modernos, e nos livros santos de todas as religiões conhecidas? É, respondem os críticos, porque, desde todos os tempos, o homem teve o gosto do maravilhoso.
 
      Mas que entendeis por maravilhoso?
-     O que é sobrenatural.
+     "O que é sobrenatural."
 
      Que entendeis por sobrenatural?
-     O que é contrário às Leis da Natureza.
+     "O que é contrário às Leis da Natureza."
 
      Conheceis, porventura, tão bem essas leis, que possais marcar limite ao poder de Deus? Pois bem! Provai então que a existência dos Espíritos e suas manifestações são contrárias às Leis da Natureza; que não é, nem pode ser, uma destas leis. Acompanhai a Doutrina Espírita e vede se todos os elos, ligados uniformemente à cadeia, não apresentam todos os caracteres de uma lei admirável, que resolve tudo o que as filosofias até agora não puderam resolver.
 
@@ -352,7 +352,7 @@ Há mesmo qualquer coisa de ilógico em supor-se que Espíritos venham exibir-se
 #### `ldm.p35` #️⃣ 35
 35. Aos que quiserem adquirir essas noções preliminares pela leitura das nossas obras, aconselhamos que as leiam nesta ordem:
 
-     1<sup>o</sup>. 🔍 *O que é o Espiritismo*. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
+     1<sup>o</sup>. `🔍 O que é o Espiritismo`. Esta brochura, de uma centena de páginas somente, contém sumária exposição dos princípios da Doutrina Espírita, um apanhado geral desta, permitindo ao leitor apreender-lhe o conjunto dentro de um quadro restrito. Em poucas palavras ele lhe percebe o objetivo e pode julgar do seu alcance. Aí se encontram, além disso, respostas às principais questões ou objeções que os novatos se sentem naturalmente propensos a fazer. Esta primeira leitura, que muito pouco tempo consome, é uma introdução que facilita um estudo mais aprofundado.
 
      2<sup>o</sup>. [`👻 O Livro dos Espíritos`](https://github.com/sergioSHKLR/1lde/blob/main/releases/1lde-2023-06-10-b1.md). Contém a doutrina completa, como a ditaram os próprios Espíritos, com toda a sua filosofia e todas as suas consequências morais. É a revelação do destino do homem, a iniciação no conhecimento da natureza dos Espíritos e nos mistérios da vida de Além-Túmulo. Quem o lê compreende que o Espiritismo objetiva um fim sério, que não constitui frívolo passatempo.
 
@@ -1329,6 +1329,9 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 [^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre [inventor e pintor francês (1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
 
+[^15]
+[^15]: Nota
+
 ### `ldm.2.07` 📑 7. Da bicorporeidade e da transfiguração
 
 #### `ldm.p114` #️⃣ 114
@@ -1569,9 +1572,9 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
      
      Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-[^17] A.K.: Veja-se a `📓 Revista Espírita`, de fevereiro de 1860: “História de um danado”
-[^18] N.E.: Covardia.
-[^19] N.E.: Travessuras, estrepolias
+[^17]: A.K.: Veja-se a `📓 Revista Espírita`, de fevereiro de 1860: “História de um danado”
+[^18]: N.E.: Covardia. cadê o link?
+[^19]: N.E.: Travessuras, estrepolias
 
 ### `ldm.2.10` 📑 10. Da natureza das comunicações
 
