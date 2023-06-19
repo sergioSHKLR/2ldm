@@ -2448,7 +2448,7 @@ médium.
      >
      >“Conforme acima dissemos, os Espíritos não precisam vestir seus pensamentos; eles os percebem e transmitem, reciprocamente, pelo só fato de os pensamentos existirem neles. Os seres corpóreos, ao contrário, só podem perceber os pensamentos, quando revestidos. Enquanto a letra, a palavra, o substantivo, o verbo, a frase, em suma, vos são necessários para perceberdes, mesmo mentalmente, as ideias, nenhuma forma visível ou tangível nos é necessária.” 
      >
-     >**Erasto e Timóteo**
+     >**Erasto** e **Timóteo**
 
      Nota. Esta análise do papel dos médiuns e dos processos pelos quais os Espíritos se comunicam é tão clara quanto lógica. Dela decorre, como princípio, que o Espírito haure não as suas ideias, porém os materiais de que necessita para exprimi-las no cérebro do médium e que, quanto mais rico em materiais for esse cérebro, tanto mais fácil será a comunicação. Quando o Espírito se exprime num idioma familiar ao médium, encontra neste, inteiramente formadas, as palavras necessárias ao revestimento da ideia; se o faz numa língua estranha ao médium, não encontra neste as palavras, mas apenas as letras. Por isso é que o Espírito se vê obrigado a ditar, por assim dizer, letra a letra, tal qual como quem quisesse fazer que escrevesse alemão uma pessoa que desse idioma não conhecesse uma só palavra. Se o médium é analfabeto, nem mesmo as letras fornece ao Espírito. Preciso se torna a este conduzir-lhe a mão, como se faz a uma criança que começa a aprender. Ainda maior dificuldade a vencer encontra aí o Espírito. Estes fenômenos, pois, são possíveis e há deles numerosos exemplos; compreende-se, no entanto, que semelhante maneira de proceder pouco apropriada se mostra para comunicações extensas e rápidas e que os Espíritos hão de preferir os instrumentos de manejo mais fácil, ou, como eles dizem, os médiuns bem aparelhados do ponto de vista deles.
 
@@ -2524,7 +2524,7 @@ médium.
      >
      >“O Espiritismo já está bastante espalhado entre os homens e já moralizou suficientemente os adeptos sinceros da sua santa doutrina, para que os Espíritos já não se vejam constrangidos a usar de maus instrumentos, de médiuns imperfeitos. Se, pois, agora, um médium, qualquer que ele seja, se tornar objeto de legítima suspeição, pelo seu proceder, pelos seus costumes, pelo seu orgulho, pela sua falta de amor e de caridade, repeli, repeli suas comunicações, porquanto aí estará uma serpente oculta entre as ervas. É esta a conclusão a que chego sobre a influência moral dos médiuns.” 
      >
-     >Erasto
+     >**Erasto**
 
 ### `ldm.2.21` 📑 21. Da influência do meio
 
