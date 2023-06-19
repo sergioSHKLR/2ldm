@@ -1684,53 +1684,375 @@ médium.
 [^20]: A.K.: A realidade dos espíritos e de suas manifestações demonstrada mediante o fenômeno da escrita direta pelo barão de Guldenstubbé, 1 vol. in-oitavo, com 15 estampas e 93 fac-símiles.
 
 ### `ldm.2.13` 📑 13. Da psicografia
+
 #### `ldm.p152` #️⃣ 152
+152. A ciência espírita há progredido como todas as outras e mais rapidamente do que estas. Alguns anos apenas nos separam da época em que se empregavam esses meios primitivos e incompletos, a que trivialmente se dava o nome de “mesas falantes”, e já nos achamos em condições de nos comunicar com os Espíritos tão fácil e rapidamente, como o fazem os homens entre si e pelos mesmos meios: a escrita e a palavra. A escrita, sobretudo, tem a vantagem de assinalar, de modo mais material, a intervenção de uma força oculta e de deixar traços que se podem conservar, como fazemos com a nossa correspondência. O primeiro meio de que se usou foi o das pranchas e cestas munidas de lápis, com a disposição que passamos a descrever.
+
 #### `ldm.p153` #️⃣ 153
+153. Já dissemos que uma pessoa dotada de aptidão especial pode imprimir movimento de rotação a uma mesa ou a outro objeto qualquer. Tomemos, em vez de uma mesa, uma cestinha de 15 a 20 centímetros de diâmetro (de madeira ou de vime, a substância pouco importa). Se fizermos passar pelo fundo dessa cesta um lápis e o prendermos bem, com a ponta de fora e para baixo; se mantivermos o aparelho assim formado em equilíbrio sobre a ponta do lápis, apoiado este sobre uma folha de papel, e apoiarmos os dedos nas bordas da cesta, ela se porá em movimento; mas, em vez de girar, fará que o lápis percorra, em diversos sentidos, o papel, traçando riscos sem significação ou letras. Se se evocar um Espírito que queira comunicar-se, ele responderá não mais por meio de pancadas, como na tiptologia, porém escrevendo palavras. O movimento da cesta já não é automático, como no caso das mesas girantes; torna-se inteligente. Com esse dispositivo, o lápis, ao chegar à extremidade da linha, não volta ao ponto de partida para começar outra; continua a mover-se circularmente, de sorte que a linha escrita forma uma espiral, tornando necessário voltear muitas vezes o papel para se ler o que está grafado. Nem sempre é muito legível a escrita assim feita, por não ficarem separadas as palavras. Entretanto, o médium, por uma espécie de intuição, facilmente a decifra. Por economia, o papel e o lápis comum podem ser substituídos por uma lousa com o respectivo lápis. Designaremos este gênero de cesta pelo nome de cesta-pião. Às vezes, em lugar da cesta, emprega-se um papelão muito semelhante às caixas de pastilhas, formando-lhe o lápis o eixo, como no brinquedo chamado carrapeta.
+
 #### `ldm.p154` #️⃣ 154
+154. Muitos outros dispositivos se têm imaginado para a obtenção do mesmo resultado. O mais cômodo é o a que chamaremos cesta de bico e que consiste em adaptar-se à cesta uma haste inclinada, de madeira, prolongando-se 10 a 15 centímetros para o lado de fora, na posição do gurupés [^21] numa embarcação. Por um buraco aberto na extremidade dessa haste, ou bico, passa-se um lápis bastante comprido para que sua ponta assente no papel. Pondo o médium os dedos na borda da cesta, o aparelho todo se agita e o lápis escreve, como no caso anterior, com a diferença, porém, de que, em geral, a escrita é mais legível, com as palavras separadas e as linhas sucedendo-se paralelas, como na escrita comum, por poder o médium levar facilmente o lápis de uma linha a outra. Obtêm-se assim dissertações de muitas páginas, tão rapidamente como se se escrevesse com a mão.
+
 #### `ldm.p155` #️⃣ 155
+155. Ainda por outros sinais inequívocos se manifesta amiúde a inteligência que atua. Chegando ao fim da página, o lápis faz espontaneamente um movimento para virar o papel. Se ele quer se reportar a uma passagem já escrita, na mesma página, ou noutra, procura-a com a ponta do lápis, como qualquer pessoa o faria com a ponta do dedo, e sublinha-a. Se, enfim, o Espírito quer dirigir-se a alguém, a extremidade da haste de madeira se dirige para esse alguém. Por abreviar, exprimem-se frequentemente as palavras sim e não, pelos sinais de afirmação e negação que fazemos com a cabeça. Se o Espírito quer exprimir cólera ou impaciência, bate repetidas pancadas com a ponta do lápis e não raro a quebra.
+
 #### `ldm.p156` #️⃣ 156
+156. Em vez de cesta, algumas pessoas se servem de uma espécie de mesa pequenina, feita de propósito, tendo de 12 a 15 centímetros de comprimento, por 5 a 6 de altura, e três pés, a um dos quais se adapta um lápis. Os dois outros são arredondados ou munidos de uma bola de marfim, para deslizar mais facilmente sobre o papel. Outros se utilizam apenas de uma prancheta de 15 a 20 centímetros quadrados, triangular, oblonga ou oval. Num dos bordos, há um furo oblíquo para introduzir-se o lápis. Colocada em posição de escrever, ela fica inclinada e se apoia por um dos lados no papel. Algumas trazem desse lado rodízios para lhe facilitarem o movimento. É de ver-se, em suma, que todos esses dispositivos nada têm de absoluto. O melhor é o que for mais cômodo.
+
+     Com qualquer desses aparelhos, quase sempre é preciso que os operadores sejam dois, mas não é necessário que ambos sejam dotados de faculdades mediúnicas. Um serve unicamente para manter o equilíbrio e poupar ao médium excesso de fadiga.
+
 #### `ldm.p157` #️⃣ 157
+157. Chamamos psicografia indireta à escrita assim obtida, em contraposição à psicografia direta ou manual, obtida pelo próprio médium. Para se compreender este último processo, é mister levar em conta o que se passa na operação. O Espírito que se comunica atua sobre o médium que, debaixo dessa influência, move maquinalmente o braço e a mão para escrever, sem ter (é pelo menos o caso mais comum) a menor consciência do que escreve; a mão atua sobre a cesta e a cesta sobre o lápis. Assim, não é a cesta que se torna inteligente; ela não passa de um instrumento manejado por uma inteligência; não passa, realmente, de uma lapiseira, de um apêndice da mão, de um intermediário entre a mão e o lápis. Suprima-se esse intermediário, coloque-se o lápis na mão e o resultado será o mesmo, com um mecanismo muito mais simples, pois que o médium escreve como o faz nas condições ordinárias. De sorte que toda pessoa que escreve com o concurso de uma cesta, prancheta, ou qualquer outro objeto, pode escrever diretamente.
+
+     De todos os meios de comunicação, a escrita manual, que alguns denominam escrita involuntária, é, sem contestação, a mais simples, a mais fácil e a mais cômoda, porque nenhum preparativo exige e se presta, como a escrita corrente, aos maiores desenvolvimentos. Dela tornaremos a falar, quando tratarmos dos médiuns.
+
 #### `ldm.p158` #️⃣ 158
+158. Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter- -se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
+
+[^21]: N.E.: Mastro que aponta para a parte da frente do navio
 
 ### `ldm.2.14` 📑 14. Dos médiuns
+
 #### `ldm.p159` #️⃣ 159
+159. Todo aquele que sente, num grau qualquer, a influência dos Espíritos é, por esse fato, médium. Essa faculdade é inerente ao homem; não constitui, portanto, um privilégio exclusivo. Por isso mesmo, raras são as pessoas que dela não possuam alguns rudimentos. Pode, pois, dizer- -se que todos são, mais ou menos, médiuns. Todavia, usualmente, assim só se qualificam aqueles em quem a faculdade mediúnica se mostra bem caracterizada e se traduz por efeitos patentes, de certa intensidade, o que então depende de uma organização mais ou menos sensitiva. É de notar- -se, além disso, que essa faculdade não se revela, da mesma maneira, em todos. Geralmente, os médiuns têm uma aptidão especial para os fenômenos desta ou daquela ordem, donde resulta que formam tantas variedades quantas são as espécies de manifestações. As principais são: a dos médiuns de efeitos físicos; a dos médiuns sensitivos, ou impressionáveis; a dos audientes; a dos videntes; a dos sonambúlicos; a dos curadores; a dos pneumatógrafos; a dos escreventes ou psicógrafos.
+
+**Médiuns de efeitos físicos**
+
 #### `ldm.p160` #️⃣ 160
+160. Os médiuns de efeitos físicos são particularmente aptos a produzir fenômenos materiais, como os movimentos dos corpos inertes, ruídos etc. Podem dividir-se em médiuns facultativos e médiuns involuntários. (Veja-se a segunda parte, caps. 2 e 4.)
+
+     Os médiuns facultativos são os que têm consciência do seu poder e que produzem fenômenos espíritas por ato da própria vontade. Conquanto inerente à espécie humana, conforme já dissemos, semelhante faculdade longe está de existir em todos no mesmo grau. Porém, se poucas pessoas há em quem ela seja absolutamente nula, mais raras ainda são as capazes de produzir os grandes efeitos, tais como a suspensão de corpos pesados, a translação aérea e, sobretudo, as aparições. Os efeitos mais simples são a rotação de um objeto, pancadas produzidas mediante o levantamento desse objeto, ou na sua própria substância. Embora não demos importância capital a esses fenômenos, recomendamos, contudo, que não sejam desprezados. Podem proporcionar ensejo a observações interessantes e contribuir para a convicção dos que os observem. Cumpre, entretanto, ponderar que a faculdade de produzir efeitos materiais raramente existe nos que dispõem de mais perfeitos meios de comunicação, quais a escrita e a palavra. Em geral, a faculdade diminui num sentido à proporção que se desenvolve em outro.
+
 #### `ldm.p161` #️⃣ 161
+161. Os médiuns involuntários ou naturais são aqueles cuja influência se exerce a seu mau grado. Nenhuma consciência têm do poder que possuem e, muitas vezes, o que de anormal se passa em torno deles não se lhes afigura de modo algum extraordinário. Isso faz parte deles, exatamente como se dá com as pessoas que, sem o suspeitarem, são dotadas de dupla vista. São muito dignos de observação esses indivíduos e ninguém deve descuidar-se de recolher e estudar os fatos deste gênero que lhe cheguem ao conhecimento. Manifestam-se em todas as idades e, frequentemente, em crianças ainda muito novas. (Veja-se, acima, o capítulo V, Das manifestações físicas espontâneas.)
+
+     Tal faculdade não constitui, em si mesma, indício de um estado patológico, porquanto não é incompatível com uma saúde perfeita. Se sofre aquele que a possui, esse sofrimento é devido a uma causa estranha, donde se segue que os meios terapêuticos são impotentes para fazê-la desaparecer. Nalguns casos, pode ser consequente de uma certa fraqueza orgânica, porém nunca é causa eficiente. Não seria, pois, razoável tirar dela um motivo de inquietação, do ponto de vista higiênico. Só poderia acarretar inconveniente, se aquele que a possui abusasse dela, depois de se haver tornado médium facultativo, porque então se verificaria nele uma emissão demasiado abundante de fluido vital e, por conseguinte, enfraquecimento dos órgãos.
+
 #### `ldm.p162` #️⃣ 162
+162. A razão se revolta à lembrança das torturas morais e corporais a que a ciência tem por vezes sujeitado criaturas fracas e delicadas, para se certificar da existência de fraude da parte delas. Tais experimentações, amiúde feitas maldosamente, são sempre prejudiciais às organizações sensitivas, podendo mesmo dar lugar a graves desordens na economia orgânica. Fazer semelhantes experiências é brincar com a vida. O observador de boa-fé não precisa lançar mão desses meios. Aquele que está familiarizado com os fenômenos desta espécie sabe, aliás, que eles são mais de ordem moral do que de ordem física e que será inútil procurar-lhes uma solução nas nossas ciências exatas.
+
+     Por isso mesmo que tais fenômenos são mais de ordem moral, deve- -se evitar com escrupuloso cuidado tudo o que possa sobre-excitar a imaginação. Sabe-se que o medo pode ocasionar acidentes e muito menos imprudências se cometeriam se se conhecessem todos os casos de loucura e de epilepsia, cuja origem se encontra nos contos de lobisomens e papões. Que não será, se se generalizar a persuasão de que o agente dos aludidos fenômenos é o diabo? Os que propagam semelhantes ideias não sabem a responsabilidade que assumem: podem matar. Ora, o perigo não existe apenas para o paciente, mas também para os que o cercam, os quais podem ficar aterrorizados ao pensarem que a casa onde moram se tornou um covil de demônios. Esta crença funesta é que foi causa de tantos atos de atrocidade nos tempos de ignorância. Entretanto, se houvesse um pouco mais de discernimento, teria ocorrido aos que os praticaram que, por queimarem o corpo que supunham possesso pelo diabo, não queimavam o diabo. Desde que do diabo é que queriam livrar-se, o diabo é que era preciso matassem. Esclarecendo-nos sobre a verdadeira causa de todos esses fenômenos, a Doutrina Espírita lhe dá o golpe de misericórdia. Longe, pois, de concorrer para que tal ideia se forme, todos devem, e este é um dever de moralidade e de humanidade, combatê-la onde exista.
+
+     O que há a fazer-se, quando uma faculdade dessa natureza se desenvolve espontaneamente num indivíduo, é deixar que o fenômeno siga o seu curso natural: a natureza é mais prudente do que os homens. Acresce que a Providência tem seus desígnios e aos maiores destes pode servir de instrumento a mais pequenina das criaturas. Porém, forçoso é convir, o fenômeno assume por vezes proporções fatigantes e importunas para toda gente [^22]. Eis, então, o que em todos os casos importa fazer-se. No capítulo V — Das manifestações físicas espontâneas, já demos alguns conselhos a este respeito, dizendo ser preciso entrar em comunicação com o Espírito para dele saber-se o que quer. O meio seguinte também se funda na observação.
+
+     Os seres invisíveis, que revelam sua presença por efeitos sensíveis, são, em geral, Espíritos de ordem inferior e que podem ser dominados pelo ascendente moral. A aquisição deste ascendente é o que se deve procurar.
+
+     Para alcançá-lo, preciso é que o indivíduo passe do estado de médium natural ao de médium voluntário. Produz-se, então, efeito análogo ao que se observa no sonambulismo. Como se sabe, o sonambulismo natural cessa, geralmente, quando substituído pelo sonambulismo magnético. Não se suprime a faculdade, que tem a alma, de emancipar-se; dá-se-lhe outra diretriz. O mesmo acontece com a faculdade mediúnica. Para isso, em vez de pôr óbices ao fenômeno, coisa que raramente se consegue e que nem sempre deixa de ser perigosa, o que se tem de fazer é concitar o médium a produzi-los à sua vontade, impondo-se ao Espírito. Por esse meio, chega o médium a sobrepujá-lo e, de um dominador às vezes tirânico, faz um ser submisso e, não raro, dócil. Fato digno de nota e que a experiência confirma é que, em tal caso, uma criança tem tanta e, por vezes, mais autoridade que um adulto: mais uma prova a favor deste ponto capital da Doutrina, que o Espírito só é criança pelo corpo; que tem por si mesmo um desenvolvimento necessariamente anterior à sua encarnação atual, desenvolvimento que lhe pode dar ascendente sobre Espíritos que lhe são inferiores.
+
+     A moralização de um Espírito, pelos conselhos de uma terceira pessoa influente e experiente, não estando o médium em estado de o fazer, constitui frequentemente meio muito eficaz. Mais tarde voltaremos a tratar dele.
+
 #### `ldm.p163` #️⃣ 163
+163. Nesta categoria parece, à primeira vista, se deviam incluir as pessoas dotadas de certa dose de eletricidade natural, verdadeiros torpedos [^23]. humanos, a produzirem, por simples contato, todos os efeitos de atração e repulsão. Errado, porém, fora considerá-las médiuns, porquanto a vera mediunidade supõe a intervenção direta de um Espírito. Ora, no caso de que falamos, concludentes experiências hão provado que a eletricidade é o agente único desses fenômenos. Esta estranha faculdade, que quase se poderia considerar uma enfermidade, pode às vezes estar aliada à mediunidade, como é fácil de verificar-se na história do Espírito batedor de Bergzabern. Porém, as mais das vezes, de todo independe de qualquer faculdade mediúnica. Conforme já dissemos, a única prova da intervenção dos Espíritos é o caráter inteligente das manifestações. Desde que este caráter não exista, fundamento há para serem atribuídas a causas puramente físicas. A questão é saber se as pessoas elétricas estarão ou não mais aptas, do que quaisquer outras, a tornar-se médiuns de efeitos físicos. Cremos que sim, mas só a experiência poderia demonstrá-lo.
+
+**Médiuns sensitivos ou impressionáveis**
+
 #### `ldm.p164` #️⃣ 164
+164. Chamam-se assim às pessoas suscetíveis de sentir a presença dos Espíritos por uma impressão vaga, por uma espécie de leve roçadura sobre todos os seus membros, sensação que elas não podem explicar. Esta variedade não apresenta caráter bem definido. Todos os médiuns são necessariamente impressionáveis, sendo assim a impressionabilidade mais uma qualidade geral do que especial. É a faculdade rudimentar indispensável ao desenvolvimento de todas as outras. Difere da impressionabilidade puramente física e nervosa, com a qual preciso é não seja confundida, porquanto pessoas há que não têm nervos delicados e que sentem mais ou menos o efeito da presença dos Espíritos, do mesmo modo que outras, muito irritáveis, absolutamente não os pressentem.
+
+     Esta faculdade se desenvolve pelo hábito e pode adquirir tal sutileza, que aquele que a possui reconhece, pela impressão que experimenta, não só a natureza, boa ou má, do Espírito que lhe está ao lado, mas até a sua individualidade, como o cego reconhece, por um certo não sei quê, a aproximação de tal ou tal pessoa. Torna-se, com relação aos Espíritos, verdadeiro sensitivo. Um bom Espírito produz sempre uma impressão suave e agradável; a de um mau Espírito, ao contrário, é penosa, angustiosa, desagradável. Há como que um cheiro de impureza.
+
+**Médiuns audientes**
+
 #### `ldm.p165` #️⃣ 165
+165. Estes ouvem a voz dos Espíritos. É, como dissemos ao falar da pneumatofonia, algumas vezes uma voz interior, que se faz ouvir no foro íntimo; doutras vezes, é uma voz exterior, clara e distinta, qual a de uma pessoa viva. Os médiuns audientes podem, assim, travar conversação com os Espíritos. Quando têm o hábito de se comunicar com determinados Espíritos, eles os reconhecem imediatamente pela natureza da voz. Quem não seja dotado desta faculdade pode, igualmente, se comunicar com um Espírito, se tiver, a auxiliá-lo, um médium audiente, que desempenhe a função de intérprete.
+
+     Esta faculdade é muito agradável quando o médium só ouve Espíritos bons, ou unicamente aqueles por quem chama. Entretanto, já não é quando um Espírito mau se lhe agarra, fazendo-lhe ouvir a cada instante as coisas mais desagradáveis e, não raro, as mais inconvenientes. Cumpre-lhe, então, procurar livrar-se desses Espíritos, pelos meios que indicaremos no capítulo Da obsessão.
+
+**Médiuns falantes**
+
 #### `ldm.p166` #️⃣ 166
+166. Os médiuns audientes, que apenas transmitem o que ouvem, não são, a bem dizer, médiuns falantes. Estes últimos, as mais das vezes, nada ouvem. Neles, o Espírito atua sobre os órgãos da palavra, como atua sobre a mão dos médiuns escreventes. Querendo comunicar-se, o Espírito se serve do órgão que se lhe depara mais flexível no médium. A um, toma da mão; a outro, da palavra; a um terceiro, do ouvido. O médium falante geralmente se exprime sem ter consciência do que diz e muitas vezes diz coisas completamente estranhas às suas ideias habituais, aos seus conhecimentos e, até, fora do alcance de sua inteligência. Embora se ache perfeitamente acordado e em estado normal, raramente guarda lembrança do que diz. Em suma, nele, a palavra é um instrumento de que se serve o Espírito, com o qual uma terceira pessoa pode comunicar-se, como pode com o auxílio de um médium audiente.
+
+     Nem sempre, porém, é tão completa a passividade do médium falante. Alguns há que têm a intuição do que dizem, no momento mesmo em que pronunciam as palavras. Voltaremos a ocupar-nos com esta espécie de médiuns, quando tratarmos dos médiuns intuitivos.
+
+**Médiuns videntes**
+
 #### `ldm.p167` #️⃣ 167
+167. Os médiuns videntes são dotados da faculdade de ver os Espíritos. Alguns gozam dessa faculdade em estado normal, quando perfeitamente acordados, e conservam lembrança precisa do que viram. Outros só a possuem em estado sonambúlico, ou próximo do sonambulismo. Raro é que esta faculdade se mostre permanente; quase sempre é efeito de uma crise passageira. Na categoria dos médiuns videntes se podem incluir todas as pessoas dotadas de dupla vista. A possibilidade de ver em sonho os Espíritos resulta, sem contestação, de uma espécie de mediunidade, mas não constitui, propriamente falando, o que se chama médium vidente. Explicamos esse fenômeno no capítulo VI — Das manifestações visuais.
+
+     O médium vidente julga ver com os olhos, como os que são dotados de dupla vista, mas, na realidade, é a alma quem vê e por isso é que eles tanto veem com os olhos fechados como com os olhos abertos; donde se conclui que um cego pode ver os Espíritos, do mesmo modo que qualquer outro que tem perfeita a vista. Sobre este último ponto caberia fazer-se interessante estudo, o de saber se a faculdade de que tratamos é mais frequente nos cegos. Espíritos que na Terra foram cegos nos disseram que, quando vivos, tinham, pela alma, a percepção de certos objetos e que não se encontravam imersos em negra escuridão.
+
 #### `ldm.p168` #️⃣ 168
+168. Cumpre distinguir as aparições acidentais e espontâneas da faculdade propriamente dita de ver os Espíritos. As primeiras são frequentes, sobretudo no momento da morte das pessoas que aquele que vê amou ou conheceu e que o vêm prevenir de que já não são deste mundo. Há inúmeros exemplos de fatos deste gênero, sem falar das visões durante o sono. Doutras vezes, são, do mesmo modo, parentes ou amigos que, conquanto mortos há mais ou menos tempo, aparecem, ou para avisar de um perigo, ou para dar um conselho, ou, ainda, para pedir um serviço. O serviço que o Espírito pode solicitar é, em geral, a execução de uma coisa que lhe não foi possível fazer em vida, ou o auxílio das preces. Estas aparições constituem fatos isolados, que apresentam sempre um caráter individual e pessoal, e não efeito de uma faculdade propriamente dita. A faculdade consiste na possibilidade, senão permanente, pelo menos muito frequente de ver qualquer Espírito que se apresente, ainda que seja absolutamente estranho ao vidente. A posse desta faculdade é o que constitui, propriamente falando, o médium vidente.
+
+     Entre esses médiuns, alguns há que só veem os Espíritos evocados e cuja descrição podem fazer com exatidão minuciosa. Descrevem-lhes, com as menores particularidades, os gestos, a expressão da fisionomia, os traços do semblante, as vestes e até os sentimentos de que parecem animados. Outros há em quem a faculdade da vidência é ainda mais ampla: veem toda a população espírita ambiente, a se mover em todos os sentidos, cuidando, poder-se-ia dizer, de seus afazeres.
+
 #### `ldm.p169` #️⃣ 169
+169. Assistimos uma noite à representação da ópera Oberon, em companhia de um médium vidente muito bom. Havia na sala grande número de lugares vazios, muitos dos quais, no entanto, estavam ocupados por Espíritos, que pareciam interessar-se pelo espetáculo. Alguns se colocavam junto de certos espectadores, como que a lhes escutar a conversação. Cena diversa se desenrolava no palco: por detrás dos atores, muitos Espíritos, de humor jovial, se divertiam em arremedá-los, imitando-lhes os gestos de modo grotesco; outros, mais sérios, pareciam inspirar os cantores e fazer esforços por lhes dar energia. Um deles se conservava sempre junto de uma das principais cantoras. Julgando-o animado de intenções um tanto levianas e tendo-o evocado após a terminação do ato, ele acudiu ao nosso chamado e nos reprochou, com severidade, o temerário juízo: “Não sou o que julgas”, disse; “sou o seu guia e seu Espírito protetor; sou encarregado de dirigi-la.” Depois de alguns minutos de uma palestra muito séria, deixou-nos, dizendo: “Adeus; ela está em seu camarim; é preciso que vá vigiá-la.” Em seguida, evocamos o Espírito Weber, autor da ópera, e lhe perguntamos o que pensava da execução da sua obra. “Não de todo má; porém, frouxa; os atores cantam, eis tudo. Não há inspiração. Espera”, acrescentou, “vou tentar dar-lhes um pouco do fogo sagrado.” Foi visto, daí a nada, no palco, pairando acima dos atores. Partindo dele, um como eflúvio se derramava sobre os intérpretes. Houve, então, nestes, visível recrudescência de energia.
+
 #### `ldm.p170` #️⃣ 170
+170. Outro fato que prova a influência que os Espíritos exercem sobre os homens, à revelia destes: Assistíamos, como nessa noite, a uma representação teatral, com outro médium vidente. Travando conversação com um Espírito espectador, disse-nos ele: “Vês aquelas duas damas sós, naquele camarote da primeira ordem? Pois bem, estou esforçando-me por fazer que deixem a sala.” Dizendo isso, o médium o viu ir colocar-se no camarote em questão e falar às duas. De súbito, estas, que se mostravam muito atentas ao espetáculo, se entreolharam, parecendo consultar-se mutuamente. Depois, vão-se e não mais voltam. O Espírito nos fez então um gesto cômico, querendo significar que cumprira o que dissera. Não o tornamos a ver, para pedir-lhe explicações mais amplas. É assim que muitas vezes fomos testemunhas do papel que os Espíritos desempenham entre os vivos. Observamo-los em diversos lugares de reunião, em bailes, concertos, sermões, funerais, casamentos etc., e por toda parte os encontramos atiçando paixões más, soprando discórdias, provocando rixas e rejubilando-se com suas proezas. Outros, ao contrário, combatiam essas influências perniciosas, porém raramente eram atendidos.
+
 #### `ldm.p171` #️⃣ 171
+171. A faculdade de ver os Espíritos pode, sem dúvida, desenvolver- -se, mas é uma das de que convém esperar o desenvolvimento natural, sem o provocar, não se querendo ser joguete da própria imaginação. Quando o gérmen de uma faculdade existe, ela se manifesta de si mesma. Em princípio, devemos contentar-nos com as que Deus nos outorgou, sem procurarmos o impossível, por isso que, pretendendo ter muito, corremos o risco de perder o que possuímos.
+
+     Quando dissemos serem frequentes os casos de aparições espontâneas (item 107), não quisemos dizer que são muito comuns. Quanto aos médiuns videntes propriamente ditos, ainda são mais raros e há muito que desconfiar dos que se inculcam possuidores dessa faculdade. É prudente não se lhes dar crédito senão diante de provas positivas. Não aludimos sequer aos que se dão à ilusão ridícula de ver os Espíritos glóbulos, que descrevemos no item 108; falamos apenas dos que dizem ver os Espíritos de modo racional. É fora de dúvida que algumas pessoas podem enganar- -se de boa-fé, porém outras podem também simular esta faculdade por amor-próprio ou por interesse. Neste caso, é preciso, muito especialmente, levar em conta o caráter, a moralidade e a sinceridade habituais; todavia, nas particularidades, sobretudo, é que se encontram meios de mais segura verificação, porquanto algumas há que não podem deixar suspeita, como, por exemplo, a exatidão no retratar Espíritos que o médium jamais conheceu quando encarnados. Pertence a esta categoria o fato seguinte:
+
+     Uma senhora, viúva, cujo marido se comunica frequentemente com ela, estava certa vez em companhia de um médium vidente, que não a conhecia, como não lhe conhecia a família. Disse-lhe o médium em dado momento: “Vejo um Espírito perto da senhora.” “Ah!” — disse esta por sua vez. “É com certeza meu marido, que quase nunca me deixa.” “Não”, respondeu o médium, “é uma mulher de certa idade; está penteada de modo singular; traz um bandó branco sobre a fronte.”
+
+     Por essa particularidade e outros detalhes descritos, a senhora reconheceu, sem haver possibilidade de engano, sua avó, em quem naquele instante absolutamente não pensava. Se o médium houvesse querido simular a faculdade, fácil lhe fora acompanhar o pensamento da dama. Entretanto, em vez do marido, com quem ela se achava preocupada, ele vê uma mulher, com uma particularidade no penteado, da qual coisa alguma lhe podia dar ideia. Este fato prova também que a vidência, no médium, não era reflexo de qualquer pensamento estranho. (Veja-se o item 102.)
+
+**Médiuns sonambúlicos**
+
 #### `ldm.p172` #️⃣ 172
+172. Pode considerar-se o sonambulismo uma variedade da faculdade mediúnica, ou melhor, são duas ordens de fenômenos que frequentemente se acham reunidos. O sonâmbulo age sob a influência do seu próprio Espírito; é sua alma que, nos momentos de emancipação, vê, ouve e percebe, fora dos limites dos sentidos. O que ele externa tira-o de si mesmo; suas ideias são, em geral, mais justas do que no estado normal, seus conhecimentos mais dilatados, porque tem livre a alma. Numa palavra, ele vive antecipadamente a vida dos Espíritos. O médium, ao contrário, é instrumento de uma inteligência estranha; é passivo e o que diz não vem de si. Em resumo, o sonâmbulo exprime o seu próprio pensamento, enquanto o médium exprime o de outrem. Mas o Espírito que se comunica com um médium comum também o pode fazer com um sonâmbulo; dá-se mesmo que, muitas vezes, o estado de emancipação da alma facilita essa comunicação. Muitos sonâmbulos veem perfeitamente os Espíritos e os descrevem com tanta precisão, como os médiuns videntes. Podem confabular com eles e transmitir-nos seus pensamentos. O que dizem, fora do âmbito de seus conhecimentos pessoais, lhes é com frequência sugerido por outros Espíritos. Aqui está um exemplo notável, em que a dupla ação do Espírito do sonâmbulo e de outro Espírito se revela e de modo inequívoco.
+
 #### `ldm.p173` #️⃣ 173
+173. Um de nossos amigos tinha como sonâmbulo um rapaz de 14 a 15 anos, de inteligência muito vulgar e instrução extremamente escassa. Entretanto, no estado de sonambulismo, deu provas de lucidez extraordinária e de grande perspicácia. Excelia, sobretudo, no tratamento das enfermidades e operou grande número de curas consideradas impossíveis. Certo dia, dando consulta a um doente, descreveu a enfermidade com absoluta exatidão. “Não basta”, disseram-lhe, “agora é preciso que indiques o remédio.” “Não posso”, respondeu, “meu anjo doutor não está aqui.” “Quem é esse anjo doutor de quem falas?” “O que dita os remédios.” “Não és tu, então, que vês os remédios?” “Oh! não; estou a dizer que é o meu anjo doutor quem mos dita.”
+
+     Assim, nesse sonâmbulo, a ação de ver o mal era do seu próprio Espírito que, para isso, não precisava de assistência alguma; a indicação, porém, dos remédios lhe era dada por outro. Não estando presente esse outro, ele nada podia dizer. Quando só, era apenas sonâmbulo; assistido por aquele a quem chamava seu anjo doutor, era sonâmbulo-médium.
+
 #### `ldm.p174` #️⃣ 174
+174. A lucidez sonambúlica é uma faculdade que se radica no organismo e que independe, em absoluto, da elevação, do adiantamento e mesmo do estado moral do indivíduo. Pode, pois, um sonâmbulo ser muito lúcido e ao mesmo tempo incapaz de resolver certas questões, desde que seu Espírito seja pouco adiantado. O que fala por si próprio pode, portanto, dizer coisas boas ou más, exatas ou falsas, demonstrar mais ou menos delicadeza e escrúpulo nos processos de que use, conforme o grau de elevação ou de inferioridade do seu próprio Espírito. A assistência então de outro Espírito pode suprir-lhe as deficiências. Mas um sonâmbulo, tanto como os médiuns, pode ser assistido por um Espírito mentiroso, leviano, ou mesmo mau. Aí, sobretudo, é que as qualidades morais exercem grande influência, para atraírem os bons Espíritos. (Veja-se: O livro dos espíritos, “Sonambulismo”, questão 425, e, aqui, adiante, o capítulo sobre a influência moral do médium.)
+
+**Médiuns curadores**
+
 #### `ldm.p175` #️⃣ 175
+175. Unicamente para não deixar de mencioná-la, falaremos aqui desta espécie de médiuns, porquanto o assunto exigiria desenvolvimento excessivo para os limites em que precisamos ater-nos. Sabemos, ademais, que um de nossos amigos, médico, se propõe a tratá-lo em obra especial sobre a medicina intuitiva. Diremos apenas que este gênero de mediunidade consiste, principalmente, no dom que possuem certas pessoas de curar pelo simples toque, pelo olhar, mesmo por um gesto, sem o concurso de qualquer medicação. Dir-se-á, sem dúvida, que isso mais não é do que magnetismo. Evidentemente, o fluido magnético desempenha aí importante papel; porém, quem examina cuidadosamente o fenômeno sem dificuldade reconhece que há mais alguma coisa. A magnetização ordinária é um verdadeiro tratamento seguido, regular e metódico; no caso que apreciamos, as coisas se passam de modo inteiramente diverso. Todos os magnetizadores são mais ou menos aptos a curar, desde que saibam conduzir-se convenientemente, ao passo que nos médiuns curadores a faculdade é espontânea e alguns até a possuem sem jamais terem ouvido falar de magnetismo. A intervenção de uma potência oculta, que é o que constitui a mediunidade, se faz manifesta, em certas circunstâncias, sobretudo se considerarmos que a maioria das pessoas que podem, com razão, ser qualificadas de médiuns curadores recorre à prece, que é uma verdadeira evocação. (Veja-se atrás o item 131.)
+
 #### `ldm.p176` #️⃣ 176
+176. Eis aqui as respostas que nos deram os Espíritos às perguntas que lhes dirigimos sobre este assunto: 
+
+1<sup>a</sup>. Podem considerar-se as pessoas dotadas de força magnética como formando uma variedade de médiuns?
+>“Não há que duvidar.”
+
+2<sup>a</sup>. Entretanto, o médium é um intermediário entre os Espíritos e o homem; ora, o magnetizador, haurindo em si mesmo a força de que se utiliza, não parece que seja intermediário de nenhuma potência estranha.
+>“É um erro; a força magnética reside, sem dúvida, no homem, mas é aumentada pela ação dos Espíritos que ele chama em seu auxílio. Se magnetizas com o propósito de curar, por exemplo, e invocas um bom Espírito que se interessa por ti e pelo teu doente, ele aumenta a tua força e a tua vontade, dirige o teu fluido e lhe dá as qualidades necessárias.”
+
+3<sup>a</sup>. Há, entretanto, bons magnetizadores que não creem nos Espíritos? >“Pensas então que os Espíritos só atuam nos que creem neles? Os que magnetizam para o bem são auxiliados por bons Espíritos. Todo homem que nutre o desejo do bem os chama, sem dar por isso, do mesmo modo que, pelo desejo do mal e pelas más intenções, chama os maus.”
+
+4<sup>a</sup>. Agiria com maior eficácia aquele que, tendo a força magnética, acreditasse na intervenção dos Espíritos?
+>“Faria coisas que consideraríeis milagre.”
+
+5<sup>a</sup>. Há pessoas que verdadeiramente possuem o dom de curar pelo simples contato, sem o emprego dos passes magnéticos?
+>“Certamente; não tens disso múltiplos exemplos?”
+
+6<sup>a</sup>. Nesse caso, há também ação magnética, ou apenas influência dos Espíritos?
+>“Uma e outra coisa. Essas pessoas são verdadeiros médiuns, pois que atuam sob a influência dos Espíritos; isso, porém, não quer dizer que sejam quais médiuns curadores, conforme o entendes.”
+
+7<sup>a</sup>. Pode transmitir-se esse poder?
+>“O poder, não, mas o conhecimento de que necessita para exercê-lo, quem o possua. Não falta quem não suspeite sequer de que tem esse poder, se não acreditar que lhe foi transmitido.”
+
+8<sup>a</sup>. Podem obter-se curas unicamente por meio da prece?
+>“Sim, desde que Deus o permita; pode dar-se, no entanto, que o bem do doente esteja em sofrer por mais tempo e então julgais que a vossa prece não foi ouvida.”
+
+9<sup>a</sup>. Haverá para isso algumas fórmulas de prece mais eficazes do que outras?
+>“Somente a superstição pode emprestar virtudes quaisquer a certas palavras e somente Espíritos ignorantes ou mentirosos podem alimentar semelhantes ideias, prescrevendo fórmulas. Pode, entretanto, acontecer que, tratando-se de pessoas pouco esclarecidas e incapazes de compreender as coisas puramente espirituais, o uso de determinada fórmula contribua para lhes infundir confiança. Neste caso, porém, não é na fórmula que está a eficácia, mas na fé, que aumenta por efeito da ideia ligada ao uso da fórmula.”
+
+**Médiuns pneumatógrafos**
+
 #### `ldm.p177` #️⃣ 177
 
+177. Dá-se este nome aos médiuns que têm aptidão para obter a escrita direta, o que não é possível a todos os médiuns escreventes. Esta faculdade, até agora, se mostra muito rara. Desenvolve-se, provavelmente, pelo exercício, mas, como dissemos, sua utilidade prática se limita a uma comprovação patente da intervenção de uma força oculta nas manifestações. Só a experiência é capaz de dar a ver a qualquer pessoa se a possui. Pode-se, portanto, experimentar, como também se pode inquirir a respeito um Espírito protetor, pelos outros meios de comunicação. Conforme seja maior ou menor o poder do médium, obtêm-se simples traços, sinais, letras, palavras, frases e mesmo páginas inteiras. Basta de ordinário colocar uma folha de papel dobrada num lugar qualquer, ou indicado pelo Espírito, durante dez minutos, ou um quarto de hora, às vezes mais. A prece e o recolhimento são condições essenciais; é por isso que se pode considerar impossível a obtenção de coisa alguma numa reunião de pessoas pouco sérias, ou não animadas de sentimentos de simpatia e benevolência. (Veja-se a teoria da escrita direta, capítulo VIII, Do laboratório do mundo invisível, item 127 e seguintes, e capítulo XII, Da pneumatografia ou escrita direta. Da pneumatofonia.)
+
+     Trataremos de modo especial dos médiuns escreventes nos capítulos que se seguem.
+
+[^22]: A.K.: Um dos fatos mais extraordinários desta natureza, pela variedade e singularidade dos fenômenos, é, sem contestação, o que ocorreu em 1852, no Palatinado (Baviera renana), em Bergzabern, perto de Wissemburg. É tanto mais notável quanto denota, reunidos no mesmo indivíduo, quase todos os gêneros de manifestações espontâneas: estrondos de abalar a casa, derribamento dos móveis, arremesso de objetos ao longe por mãos invisíveis, visões e aparições, sonambulismo, êxtase, catalepsia, atração elétrica, gritos e sons aéreos, instrumentos tocando sem contato, comunicações inteligentes etc. e, o que não é de somenos importância, a comprovação destes fatos, durante quase dois anos, por inúmeras testemunhas oculares, dignas de crédito pelo saber e pelas posições sociais que ocupavam. A narração autêntica dos aludidos fenômenos foi publicada, naquela época, em muitos jornais alemães e, especialmente, numa brochura hoje esgotada e raríssima. Na Revista espírita de 1858 se encontra a tradução completa dessa brochura, com os comentários e explicações indispensáveis. Essa, que saibamos, é a única publicação feita em francês do folheto a que nos referimos. Além do empolgante interesse que tais fenômenos despertam, eles são eminentemente instrutivos, do ponto de vista do estudo prático do Espiritismo.
+
+[^23]: N.E.: No original francês está no grifo. “Torpilles humaines”. Torpille é um peixe semelhante à raia, ou arraia, que tem órgãos capazes de emitir descargas elétricas. É o peixe-torpedo, à semelhança das denominações que damos, de “enguia-elétrica” ou “peixe-elétrico”, ao peixe poraquê amazônico.
+
 ### `ldm.2.15` 📑 15. Dos médiuns escreventes ou psicógrafos
+
 #### `ldm.p178` #️⃣ 178
+178. De todos os meios de comunicação, a escrita manual é o mais simples, mais cômodo e, sobretudo, mais completo. Para ele devem tender todos os esforços, porquanto permite se estabeleçam, com os Espíritos, relações tão continuadas e regulares como as que existem entre nós. Com tanto mais afinco deve ser empregado, quanto é por ele que os Espíritos revelam melhor sua natureza e o grau do seu aperfeiçoamento ou da sua inferioridade. Pela facilidade que encontram em exprimir-se por esse meio, eles nos revelam seus mais íntimos pensamentos e nos facultam julgá-los e apreciar-lhes o valor. Para o médium, a faculdade de escrever é, além disso, a mais suscetível de desenvolver-se pelo exercício.
+
+**Médiuns mecânicos**
+
 #### `ldm.p179` #️⃣ 179
+179. Quem examinar certos efeitos que se produzem nos movimentos da mesa, da cesta ou da prancheta que escreve não poderá duvidar de uma ação diretamente exercida pelo Espírito sobre esses objetos. A cesta se agita por vezes com tanta violência que escapa das mãos do médium e não raro se dirige a certas pessoas da assistência para nelas bater. Outras vezes, seus movimentos dão mostra de um sentimento afetuoso. O mesmo ocorre quando o lápis está colocado na mão do médium; frequentemente é atirado longe com força, ou, então, a mão, bem como a cesta, se agitam convulsivamente e batem na mesa de modo colérico, ainda quando o médium está possuído da maior calma e se admira de não ser senhor de si. Digamos, de passagem, que tais efeitos demonstram sempre a presença de Espíritos imperfeitos; os Espíritos superiores são constantemente calmos, dignos e benévolos; se não são escutados convenientemente, retiram-se e outros lhes tomam o lugar. Pode, pois, o Espírito exprimir diretamente suas ideias, quer movimentando um objeto a que a mão do médium serve de simples ponto de apoio, quer acionando a própria mão.
+
+     Quando atua diretamente sobre a mão, o Espírito lhe dá uma impulsão de todo independente da vontade deste último. Ela se move sem interrupção e sem embargo do médium, enquanto o Espírito tem alguma coisa que dizer, e para, assim ele acaba.
+
+     Nesta circunstância, o que caracteriza o fenômeno é que o médium não tem a menor consciência do que escreve. Quando se dá, no caso, a inconsciência absoluta, têm-se os médiuns chamados passivos ou mecânicos. É preciosa esta faculdade, por não permitir dúvida alguma sobre a independência do pensamento daquele que escreve.
+
+**Médiuns intuitivos**
+
 #### `ldm.p180` #️⃣ 180
+180. A transmissão do pensamento também se dá por meio do Espírito do médium, ou melhor, de sua alma, pois que por este nome designamos o Espírito encarnado. O Espírito livre, neste caso, não atua sobre a mão para fazê-la escrever; não a toma, não a guia. Atua sobre a alma, com a qual se identifica. A alma, sob esse impulso, dirige a mão e esta dirige o lápis. Notemos aqui uma coisa importante: é que o Espírito livre não se substitui à alma, visto que não a pode deslocar. Domina-a, mau grado seu, e lhe imprime a sua vontade. Em tal circunstância, o papel da alma não é o de inteira passividade; ela recebe o pensamento do Espírito livre e o transmite. Nessa situação, o médium tem consciência do que escreve, embora não exprima o seu próprio pensamento. É o que se chama médium intuitivo.
+
+     Mas, sendo assim, dir-se-á, nada prova seja um Espírito estranho quem escreve, e não o do médium. Efetivamente, a distinção é às vezes difícil de fazer-se; porém, pode acontecer que isso pouca importância apresente. Todavia, é possível reconhecer-se o pensamento sugerido, por não ser nunca preconcebido; nasce à medida que a escrita vai sendo traçada e, amiúde, é contrário à ideia que antecipadamente se formara. Pode mesmo estar fora dos limites dos conhecimentos e capacidades do médium.
+
+     O papel do médium mecânico é o de uma máquina; o médium intuitivo age como o faria um intérprete. Este, de fato, para transmitir o pensamento, precisa compreendê-lo, apropriar-se dele, de certo modo, para traduzi-lo fielmente e, no entanto, esse pensamento não é seu, apenas lhe atravessa o cérebro. Tal precisamente o papel do médium intuitivo.
+
+**Médiuns semimecânicos**
+
 #### `ldm.p181` #️⃣ 181
+181. No médium puramente mecânico, o movimento da mão independe da vontade; no médium intuitivo, o movimento é voluntário e facultativo. O médium semimecânico participa de ambos esses gêneros. Sente que à sua mão uma impulsão é dada, mau grado seu, mas, ao mesmo tempo, tem consciência do que escreve, à medida que as palavras se formam. No primeiro, o pensamento vem depois do ato da escrita; no segundo, precede-o; no terceiro, acompanha-o. Estes últimos médiuns são os mais numerosos.
+
+**Médiuns inspirados ou involuntários**
+
 #### `ldm.p182` #️⃣ 182
+182. Todo aquele que, tanto no estado normal, como no de êxtase, recebe, pelo pensamento, comunicações estranhas às suas ideias preconcebidas pode ser incluído na categoria dos médiuns inspirados. Estes, como se vê, formam uma variedade da mediunidade intuitiva, com a diferença de que a intervenção de uma força oculta é aí muito menos sensível, por isso que, ao inspirado, ainda é mais difícil distinguir o pensamento próprio do que lhe é sugerido. A espontaneidade é o que, sobretudo, caracteriza o pensamento deste último gênero. A inspiração nos vem dos Espíritos que nos influenciam para o bem ou para o mal, porém procede, principalmente, dos que querem o nosso bem e cujos conselhos muito amiúde cometemos o erro de não seguir. Ela se aplica, em todas as circunstâncias da vida, às resoluções que devamos tomar. Sob esse aspecto, pode dizer-se que todos são médiuns, porquanto não há quem não tenha seus Espíritos protetores e familiares, a se esforçarem por sugerir aos protegidos salutares ideias. Se todos estivessem bem compenetrados desta verdade, ninguém deixaria de recorrer com frequência à inspiração do seu anjo de guarda, nos momentos em que se não sabe o que dizer ou fazer. Que cada um, pois, o invoque com fervor e confiança, em caso de necessidade, e muito frequentemente se admirará das ideias que lhe surgem como por encanto, quer se trate de uma resolução a tomar, quer de alguma coisa a compor. Se nenhuma ideia surge, é que é preciso esperar. A prova de que a ideia que sobrevém é estranha à pessoa de quem se trate está em que, se tal ideia lhe existira na mente, essa pessoa seria senhora de, a qualquer momento, utilizá-la e não haveria razão para que ela se não manifestasse à vontade. Quem não é cego nada mais precisa fazer do que abrir os olhos, para ver quando quiser. Do mesmo modo, aquele que possui ideias próprias tem-nas sempre à disposição. Se elas não lhes vêm quando quer, é que está obrigado a buscá-las algures, que não no seu íntimo.
+
+     Também se podem incluir nesta categoria as pessoas que, sem serem dotadas de inteligência fora do comum e sem saírem do estado normal, têm relâmpagos de uma lucidez intelectual que lhes dá momentaneamente não habitual facilidade de concepção e de elocução e, em certos casos, o pressentimento de coisas futuras. Nesses momentos, que com acerto se chamam de inspiração, as ideias abundam, sob um impulso involuntário e quase febril. Parece que uma inteligência superior nos vem ajudar e que o nosso espírito se desembaraçou de um fardo.
+
 #### `ldm.p183` #️⃣ 183
+183. Os homens de gênio, de todas as espécies, artistas, sábios, literatos, são sem dúvida Espíritos adiantados, capazes de compreender por si mesmos e de conceber grandes coisas. Ora, precisamente porque os julgam capazes é que os Espíritos, quando querem executar certos trabalhos, lhes sugerem as ideias necessárias, e assim é que eles, as mais das vezes, são médiuns sem o saberem. Têm, no entanto, vaga intuição de uma assistência estranha, visto que todo aquele que apela para a inspiração não faz mais do que uma evocação. Se não esperasse ser atendido, por que exclamaria, tão frequentemente: meu bom gênio, vem em meu auxílio?
+
+     As respostas seguintes confirmam esta asserção: 
+     
+     a) Qual a causa primária da inspiração?
+     >“O Espírito que se comunica pelo pensamento.” 
+     
+     b) A revelação das grandes coisas não é que constitui o objeto único da inspiração?
+     >“Não, a inspiração se verifica, muitas vezes, com relação às mais comuns circunstâncias da vida. Por exemplo, queres ir a alguma parte: uma voz secreta te diz que não o faças, porque correrás perigo; ou, então, te diz que faças uma coisa em que não pensavas. É a inspiração. Poucas pessoas há que não tenham sido mais ou menos inspiradas em certos momentos.” 
+     
+     c) Um autor, um pintor, um músico, por exemplo, poderiam, nos momentos de inspiração, ser considerados médiuns? “Sim, porquanto, nesses momentos, a alma se lhes torna mais livre e como que desprendida da matéria; recobra uma parte das suas faculdades de Espírito e recebe mais facilmente as comunicações dos outros Espíritos que a inspiram.”
+
+**Médiuns de pressentimentos**
+
 #### `ldm.p184` #️⃣ 184
+184. O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
 
 ### `ldm.2.16` 📑 16. Dos médiuns especiais
+
 #### `ldm.p185` #️⃣ 185
+185. Além das categorias de médiuns que acabamos de enumerar, a mediunidade apresenta uma variedade infinita de matizes, que constituem os chamados médiuns especiais, dotados de aptidões particulares, ainda não definidas, abstração feita das qualidades e conhecimentos do Espírito que se manifesta.
+
+     A natureza das comunicações guarda sempre relação com a natureza do Espírito e traz o cunho da sua elevação ou da sua inferioridade, de seu saber ou de sua ignorância. Mas, em igualdade de merecimento, do ponto de vista hierárquico, há nele incontestavelmente uma propensão para se ocupar de uma coisa preferentemente a outra. Os Espíritos batedores, por exemplo, jamais saem das manifestações físicas e, entre os que dão comunicações inteligentes, há Espíritos poetas, músicos, desenhistas, moralistas, sábios, médicos etc. Falamos dos Espíritos de mediana categoria, por isso que, chegando eles a um certo grau, as aptidões se confundem na unidade da perfeição. Porém, de par com a aptidão do Espírito, há a do médium, que é, para o primeiro, instrumento mais ou menos cômodo, mais ou menos flexível e no qual descobre ele qualidades particulares que não podemos apreciar.
+
+     Façamos uma comparação: um músico muito hábil tem ao seu alcance diversos violinos, que todos, para o vulgo, são bons instrumentos, mas que são muito diferentes uns dos outros para o artista consumado, o qual descobre neles matizes de extrema delicadeza, que o levam a escolher uns e a rejeitar outros, matizes que ele percebe por intuição, visto que não os pode definir. O mesmo se dá com relação aos médiuns. Em igualdade de condições quanto às forças mediúnicas, o Espírito preferirá um ou outro, conforme o gênero da comunicação que queira transmitir. Assim, por exemplo, indivíduos há que, como médiuns, escrevem admiráveis poesias, sendo certo que, em condições ordinárias, jamais puderam ou souberam fazer dois versos; outros, ao contrário, que são poetas e que, como médiuns, nunca puderam escrever senão prosa, malgrado o desejo que nutrem de escrever poesias. Outro tanto sucede com o desenho, com a música etc. Alguns há que, sem possuírem de si mesmos conhecimentos científicos, demonstram especial aptidão para receber comunicações eruditas; outros, para os estudos históricos; outros servem mais facilmente de intérpretes aos Espíritos moralistas. Numa palavra, qualquer que seja a maleabilidade do médium, as comunicações que ele com mais facilidade recebe trazem geralmente um cunho especial; alguns existem mesmo que não saem de uma certa ordem de ideias e, quando destas se afastam, só obtêm comunicações incompletas, lacônicas e não raro falsas. Além das causas de aptidão, os Espíritos também se comunicam mais ou menos preferentemente por tal ou qual intermediário, de acordo com as suas simpatias. Assim, em perfeita igualdade de condições, o mesmo Espírito será muito mais explícito com certos médiuns, apenas porque estes lhe convêm mais.
+
 #### `ldm.p186` #️⃣ 186
+186. Laboraria, pois, em erro quem, simplesmente por ter ao seu alcance um bom médium, ainda mesmo com a maior facilidade para escrever, entendesse de querer obter por ele boas comunicações de todos os gêneros. A primeira condição é, não há contestar, certificar-se a pessoa da fonte donde elas promanam, isto é, das qualidades do Espírito que as transmite; porém, não é menos necessário ter em vista as qualidades do instrumento oferecido ao Espírito. Cumpre, portanto, se estude a natureza do médium, como se estuda a do Espírito, porquanto são esses os dois elementos essenciais para a obtenção de um resultado satisfatório. Um terceiro existe, que desempenha papel igualmente importante: é a intenção, o pensamento íntimo, o sentimento mais ou menos louvável de quem interroga. Isto facilmente se concebe. Para que uma comunicação seja boa, preciso é que proceda de um Espírito bom; para que esse bom Espírito a possa transmitir, indispensável lhe é um bom instrumento; para que queira transmiti-la, necessário se faz que o fim visado lhe convenha. O Espírito, que lê o pensamento, julga se a questão que lhe propõem merece resposta séria e se a pessoa que lha dirige é digna de recebê-la. A não ser assim, não perde seu tempo em lançar boas sementes em cima de pedras e é quando os Espíritos levianos e zombeteiros entram em ação, porque, pouco lhes importando a verdade, não a encaram de muito perto e se mostram geralmente pouco escrupulosos, quer quanto aos fins, quer quanto aos meios.
+
+     Vamos fazer um resumo dos principais gêneros de mediunidade, a fim de apresentarmos, por assim dizer, o quadro sinóptico de todas, compreendidas as que já descrevemos nos capítulos precedentes, indicando o número em que tratamos de cada uma com mais minúcias.
+
+     Grupamos as diferentes espécies de médiuns por analogia de causas e efeitos, sem que esta classificação algo tenha de absoluto. Algumas se encontram com facilidade; outras, ao contrário, são raras e excepcionais, o que teremos o cuidado de indicar. Estas últimas indicações foram todas feitas pelos Espíritos, que, aliás, reviram este quadro com particular cuidado e o completaram por meio de numerosas observações e novas categorias, de sorte que o dito quadro é, a bem dizer, obra deles. Mediante aspas, destacamos as suas observações textuais, sempre que nos pareceu conveniente assiná-las. São, na sua maioria, de Erasto e de Sócrates.
+
 #### `ldm.p187` #️⃣ 187
+187. Podem dividir-se os médiuns em duas grandes categorias: Médiuns de efeitos físicos, os que têm o poder de provocar efeitos materiais, ou manifestações ostensivas. (Item 160.)
+
+     Médiuns de efeitos intelectuais, os que são mais aptos a receber e a transmitir comunicações inteligentes. (Item 65 e seguintes.)
+
+     Todas as outras espécies se prendem mais ou menos diretamente a uma ou outra dessas duas categorias; algumas participam de ambas. Se analisarmos os diferentes fenômenos produzidos sob a influência mediúnica, veremos que, em todos, há um efeito físico e que aos efeitos físicos se alia quase sempre um efeito inteligente. Difícil é muitas vezes determinar o limite entre os dois, mas isso nenhuma consequência apresenta. Sob a denominação de médiuns de efeitos intelectuais abrangemos os que podem, mais particularmente, servir de intermediários para as comunicações regulares e fluentes. (Item 133.)
+
 #### `ldm.p188` #️⃣ 188
+188. Espécies comuns a todos os gêneros de mediunidade Médiuns sensitivos: pessoas suscetíveis de sentir a presença dos Espíritos, por uma impressão geral ou local, vaga ou material. A maioria dessas pessoas distingue os Espíritos bons dos maus, pela natureza da impressão. (Item 164.)
+
+     “Os médiuns delicados e muito sensitivos devem abster-se das comunicações com os Espíritos violentos, ou cuja impressão é penosa, por causa da fadiga que daí resulta.”
+
+     Médiuns naturais ou inconscientes: os que produzem espontaneamente os fenômenos, sem intervenção da própria vontade e, as mais das vezes, à sua revelia. (Item 161.)
+
+     Médiuns facultativos ou voluntários: os que têm o poder de provocar os fenômenos por ato da própria vontade. (Item 160.)
+
+     “Qualquer que seja essa vontade, eles nada podem se os Espíritos se recusam, o que prova a intervenção de uma força estranha.”
+
 #### `ldm.p189` #️⃣ 189
+189. Variedades especiais para os efeitos físicos:
+
+     Médiuns tiptólogos: aqueles pela influência dos quais se produzem os ruídos, as pancadas. Variedade muito comum, com ou sem intervenção da vontade.
+
+     Médiuns motores: os que produzem o movimento dos corpos inertes. Muito comuns. (Item 61.)
+
+     Médiuns de translações e de suspensões: os que produzem a translação aérea e a suspensão dos corpos inertes no espaço, sem ponto de apoio. Entre eles há os que podem elevar-se a si mesmos. Mais ou menos raros, conforme a amplitude do fenômeno; muito raros, no último caso. (Item 75 e seguintes; item 80.)
+
+     Médiuns de efeitos musicais: provocam a execução de composições, em certos instrumentos de música, sem contato com estes. Muito raros. (Item 74, perg. 24.)
+
+     Médiuns de aparições: os que podem provocar aparições fluídicas ou tangíveis, visíveis para os assistentes. Muito excepcionais. (Item 100, perg. 27; item 104.)
+
+     Médiuns de transporte: os que podem servir de auxiliares aos Espíritos para o transporte de objetos materiais. Variedade dos médiuns motores e de translações. Excepcionais. (Item 96.)
+
+     Médiuns noturnos: os que só na obscuridade obtêm certos efeitos físicos. É a seguinte a resposta que nos deu um Espírito à pergunta que fizemos sobre se se podem considerar esses médiuns como constituindo uma variedade:
+
+     >“Certamente se pode fazer disso uma especialidade, mas esse fenômeno é devido mais às condições ambientes do que à natureza do médium ou dos Espíritos. Devo acrescentar que alguns escapam a essa influência do meio e que os médiuns noturnos, em sua maioria, poderiam chegar, pelo exercício, a operar tão bem no claro quanto na obscuridade. É pouco numerosa esta espécie de médiuns. E, cumpre dizê-lo, graças a essa condição, que oferece plena liberdade ao emprego dos truques da ventriloquia e dos tubos acústicos, é que os charlatães hão abusado muito da credulidade, fazendo-se passar por médiuns, a fim de ganharem dinheiro. Mas que importa? Os trampolineiros de gabinete, como os da praça pública, serão cruelmente desmascarados e os Espíritos lhes provarão que andam mal, imiscuindo-se na obra deles. Repito: alguns charlatães receberão, de modo bastante rude, o castigo que os desgostará do ofício de falsos médiuns. Aliás, tudo isso pouco durará.”
+     
+     Erasto
+
+     Médiuns pneumatógrafos: os que obtêm a escrita direta. Fenômeno muito raro e, sobretudo, muito fácil de ser imitado pelos trapaceiros. (Item 177.)
+
+     Nota. Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta entre os fenômenos de ordem física, pela razão, disseram eles, de que: “Os efeitos inteligentes são aqueles para cuja produção o Espírito se serve dos materiais existentes no cérebro do médium, o que não se dá na escrita direta. A ação do médium é aqui toda material, ao passo que no médium escrevente, ainda que completamente mecânico, o cérebro desempenha sempre um papel ativo.”
+
+     Médiuns curadores: os que têm o poder de curar ou de aliviar o doente pela só imposição das mãos ou pela prece.
+
+     “Esta faculdade não é essencialmente mediúnica; possuem-na todos os verdadeiros crentes, sejam médiuns ou não. As mais das vezes, é apenas uma exaltação do poder magnético, fortalecido, se necessário, pelo concurso de bons Espíritos.” (Item 175.)
+
+     Médiuns excitadores: pessoas que têm o poder de, por sua influência, desenvolver nas outras a faculdade de escrever.
+
+     “Aí há antes um efeito magnético do que um caso de mediunidade propriamente dita, porquanto nada prova a intervenção de um Espírito. Como quer que seja, pertence à categoria dos efeitos físicos.” (Veja-se o capítulo Da formação dos médiuns.)
+
 #### `ldm.p190` #️⃣ 190
+Médiuns audientes: os que ouvem os Espíritos. Muito comuns. (Item 165.)
+
+     “Muitos há que imaginam ouvir o que apenas lhes está na
+imaginação.”
+
+     Médiuns falantes: os que falam sob a influência dos Espíritos. Muito comuns. (Item 166.)
+
+     Médiuns videntes: os que, em estado de vigília, veem os Espíritos. A visão acidental e fortuita de um Espírito, numa circunstância especial, é muito frequente, mas a visão habitual ou facultativa dos Espíritos, sem distinção, é excepcional. (Item 167.)
+
+     “É uma aptidão a que se opõe o estado atual dos órgãos visuais. Por isso é que cumpre nem sempre acreditar na palavra dos que dizem ver os Espíritos.”
+
+     Médiuns inspirados: aqueles a quem, quase sempre mau grado seu, os Espíritos sugerem ideias, quer relativas aos atos ordinários da vida, quer com relação aos grandes trabalhos da inteligência. (Item 182.)
+
+     Médiuns de pressentimentos: pessoas que, em dadas circunstâncias, têm uma intuição vaga de coisas vulgares que ocorrerão no futuro. (Item 184.)
+
+     Médiuns proféticos: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
+
+     “Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais.” (Veja-se, em O livro dos espíritos, a questão 624, sobre as características do verdadeiro profeta.)
+
+     Médiuns sonâmbulos: os que, em estado de sonambulismo, são assistidos por Espíritos. (Item 172.)
+
+     Médiuns extáticos: os que, em estado de êxtase, recebem revelações da parte dos Espíritos.
+
+     “Muitos extáticos são joguetes da própria imaginação e de Espíritos zombeteiros que se aproveitam da exaltação deles. São raríssimos os que mereçam inteira confiança.”
+
+     Médiuns pintores ou desenhistas: os que pintam ou desenham sob a influência dos Espíritos. Falamos dos que obtêm trabalhos sérios, visto não se poder dar esse nome a certos médiuns que Espíritos zombeteiros levam a fazer coisas grotescas, que desabonariam o mais atrasado estudante.
+
+     Os Espíritos levianos se comprazem em imitar. Na época em que apareceram os notáveis desenhos de Júpiter, surgiu grande número de pretensos médiuns desenhistas, que Espíritos levianos induziram a fazer as coisas mais ridículas. Um deles, entre outros, querendo eclipsar os desenhos de Júpiter, ao menos nas dimensões, quando não fosse na qualidade, fez que um médium desenhasse um monumento que ocupava muitas folhas de papel para chegar à altura de dois andares. Muitos outros se divertiram fazendo que os médiuns pintassem supostos retratos, que eram verdadeiras caricaturas. (Revista espírita, agosto de 1858.)
+
+     Médiuns músicos: os que executam, compõem ou escrevem músicas, sob a influência dos Espíritos. Há médiuns músicos mecânicos, semimecânicos, intuitivos e inspirados, como os há para as comunicações literárias. (Veja-se “Médiuns de efeitos musicais”.)
+
+**Variedades dos médiuns escreventes:**
+
 #### `ldm.p191` #️⃣ 191
+191. 1<sup>o</sup>. Segundo o modo de execução: 
+
+     Médiuns escreventes ou psicógrafos: os que têm a faculdade de escrever por si mesmos sob a influência dos Espíritos. 
+     
+     Médiuns escreventes mecânicos: aqueles cuja mão recebe um impulso involuntário e que nenhuma consciência têm do que escrevem. Muito raros. (Item 179.) 
+     
+     Médiuns semimecânicos: aqueles cuja mão se move involuntariamente, mas que têm, instantaneamente, consciência das palavras ou das frases, à medida que escrevem. São os mais comuns. (Item 181.) 
+     
+     Médiuns intuitivos: aqueles com quem os Espíritos se comunicam pelo pensamento e cuja mão é conduzida voluntariamente. Diferem dos médiuns inspirados que não precisam escrever, ao passo que o médium intuitivo escreve o pensamento que lhe é sugerido instantaneamente sobre um assunto determinado e provocado. (Item 180.)
+     >“São muito comuns, mas também muito sujeitos a erro, por não poderem, muitas vezes, discernir o que provém dos Espíritos do que deles próprios emana.” 
+     
+     Médiuns polígrafos: aqueles cuja escrita muda com o Espírito que se comunica, ou aptos a reproduzir a escrita que o Espírito tinha em vida. O primeiro caso é muito vulgar; o segundo, o da identidade da escrita, é mais raro. (Item 219.)
+     
+     Médiuns poliglotas: os que têm a faculdade de falar ou escrever em línguas que lhes são desconhecidas. Muito raros. 
+     
+     Médiuns iletrados: os que escrevem, como médiuns, sem saberem ler, nem escrever, no estado ordinário. 
+     >“Mais raros do que os precedentes; há maior dificuldade material a vencer.”
+
 #### `ldm.p192` #️⃣ 192
+192. 2<sup>o</sup>. ) Segundo o desenvolvimento da faculdade: 
+
+     Médiuns novatos: aqueles cujas faculdades ainda não estão completamente desenvolvidas e que carecem da necessária experiência. 
+     
+     Médiuns improdutivos: os que não chegam a obter mais do que coisas insignificantes, monossílabos, traços ou letras sem conexão. (Veja-se o capítulo Da formação dos médiuns.) 
+     
+     Médiuns feitos ou formados: aqueles cujas faculdades mediúnicas estão completamente desenvolvidas, que transmitem as comunicações com facilidade e presteza, sem hesitação. Concebe-se que este resultado só pelo hábito pode ser conseguido, porquanto nos médiuns novatos as comunicações são lentas e difíceis. 
+     
+     Médiuns lacônicos: aqueles cujas comunicações, embora recebidas com facilidade, são breves e sem desenvolvimento. 
+     
+     Médiuns explícitos: as comunicações que recebem têm toda a amplitude e toda a extensão que se podem esperar de um escritor consumado. 
+     >“Esta aptidão resulta da expansão e da facilidade de combinação dos fluidos. Os Espíritos os procuram para tratar de assuntos que comportam grandes desenvolvimentos.” 
+     
+     Médiuns experimentados: a facilidade de execução é uma questão de hábito e que muitas vezes se adquire em pouco tempo, enquanto a experiência resulta de um estudo sério de todas as dificuldades que se apresentam na prática do Espiritismo. A experiência dá ao médium o tato necessário para apreciar a natureza dos Espíritos que se manifestam, para lhes apreciar as qualidades boas ou más, pelos mais minuciosos sinais, para distinguir o embuste dos Espíritos zombeteiros, que se acobertam com as aparências da verdade. Facilmente se compreende a importância desta qualidade, sem a qual todas as outras ficam destituídas de real utilidade. O mal é que muitos médiuns confundem a experiência, fruto do estudo, com a aptidão, produto da organização física. Julgam-se mestres, porque escrevem com facilidade; repelem todos os conselhos e se tornam presas de Espíritos mentirosos e hipócritas, que os captam, lisonjeando-lhes o orgulho. (Veja-se, adiante, o capítulo Da obsessão.)
+     
+     Médiuns maleáveis: aqueles cuja faculdade se presta mais facilmente aos diversos gêneros de comunicações e pelos quais todos os Espíritos, ou quase todos, podem manifestar-se espontaneamente ou por evocação. 
+     >“Esta espécie de médiuns se aproxima muito da dos médiuns sensitivos.” 
+     
+     Médiuns exclusivos: aqueles pelos quais se manifesta de preferência um Espírito, até com exclusão de todos os demais, o qual responde pelos outros que são chamados.
+     >“Isto resulta sempre de falta de maleabilidade. Quando o Espírito é bom, pode ligar-se ao médium, por simpatia ou com um intento louvável; quando mau, é sempre objetivando pôr o médium na sua dependência. É mais um defeito do que uma qualidade e muito próximo da obsessão.” (Veja-se o capítulo Da obsessão.)
+     
+     Médiuns para evocação: os médiuns maleáveis são naturalmente os mais próprios para este gênero de comunicação e para as questões de minudências que se podem propor aos Espíritos. Sob este aspecto, há médiuns inteiramente especiais.
+     >“As respostas que dão não saem quase nunca de um quadro restrito, incompatível com o desenvolvimento dos assuntos gerais.” 
+     
+     Médiuns para ditados espontâneos: recebem comunicações espontâneas de Espíritos que se apresentam sem ser chamados. Quando esta faculdade é especial num médium, torna-se difícil, às vezes impossível mesmo, fazer-se por ele uma evocação.
+     >“Entretanto, são mais bem aparelhados que os da classe precedente. Atenta em que o aparelhamento de que aqui se trata é o de materiais do cérebro, pois mister se faz, frequentemente, direi mesmo — sempre, maior soma de inteligência para os ditados espontâneos do que para as evocações. Entende por ditados espontâneos os que verdadeiramente merecem essa denominação e não algumas frases incompletas ou algumas ideias corriqueiras, que se deparam em todos os escritos humanos.”
+
 #### `ldm.p193` #️⃣ 193
 #### `ldm.p194` #️⃣ 194
 #### `ldm.p195` #️⃣ 195
