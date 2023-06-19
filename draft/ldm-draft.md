@@ -1957,52 +1957,43 @@ médium.
      Médiuns noturnos: os que só na obscuridade obtêm certos efeitos físicos. É a seguinte a resposta que nos deu um Espírito à pergunta que fizemos sobre se se podem considerar esses médiuns como constituindo uma variedade:
 
      >“Certamente se pode fazer disso uma especialidade, mas esse fenômeno é devido mais às condições ambientes do que à natureza do médium ou dos Espíritos. Devo acrescentar que alguns escapam a essa influência do meio e que os médiuns noturnos, em sua maioria, poderiam chegar, pelo exercício, a operar tão bem no claro quanto na obscuridade. É pouco numerosa esta espécie de médiuns. E, cumpre dizê-lo, graças a essa condição, que oferece plena liberdade ao emprego dos truques da ventriloquia e dos tubos acústicos, é que os charlatães hão abusado muito da credulidade, fazendo-se passar por médiuns, a fim de ganharem dinheiro. Mas que importa? Os trampolineiros de gabinete, como os da praça pública, serão cruelmente desmascarados e os Espíritos lhes provarão que andam mal, imiscuindo-se na obra deles. Repito: alguns charlatães receberão, de modo bastante rude, o castigo que os desgostará do ofício de falsos médiuns. Aliás, tudo isso pouco durará.”
-     
-     Erasto
+     >
+     >**Erasto**
 
      Médiuns pneumatógrafos: os que obtêm a escrita direta. Fenômeno muito raro e, sobretudo, muito fácil de ser imitado pelos trapaceiros. (Item 177.)
 
      Nota. Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta entre os fenômenos de ordem física, pela razão, disseram eles, de que: “Os efeitos inteligentes são aqueles para cuja produção o Espírito se serve dos materiais existentes no cérebro do médium, o que não se dá na escrita direta. A ação do médium é aqui toda material, ao passo que no médium escrevente, ainda que completamente mecânico, o cérebro desempenha sempre um papel ativo.”
 
      Médiuns curadores: os que têm o poder de curar ou de aliviar o doente pela só imposição das mãos ou pela prece.
-
-     “Esta faculdade não é essencialmente mediúnica; possuem-na todos os verdadeiros crentes, sejam médiuns ou não. As mais das vezes, é apenas uma exaltação do poder magnético, fortalecido, se necessário, pelo concurso de bons Espíritos.” (Item 175.)
+     >“Esta faculdade não é essencialmente mediúnica; possuem-na todos os verdadeiros crentes, sejam médiuns ou não. As mais das vezes, é apenas uma exaltação do poder magnético, fortalecido, se necessário, pelo concurso de bons Espíritos.” (Item 175.)
 
      Médiuns excitadores: pessoas que têm o poder de, por sua influência, desenvolver nas outras a faculdade de escrever.
-
-     “Aí há antes um efeito magnético do que um caso de mediunidade propriamente dita, porquanto nada prova a intervenção de um Espírito. Como quer que seja, pertence à categoria dos efeitos físicos.” (Veja-se o capítulo Da formação dos médiuns.)
+     >“Aí há antes um efeito magnético do que um caso de mediunidade propriamente dita, porquanto nada prova a intervenção de um Espírito. Como quer que seja, pertence à categoria dos efeitos físicos.” (Veja-se o capítulo Da formação dos médiuns.)
 
 #### `ldm.p190` #️⃣ 190
-Médiuns audientes: os que ouvem os Espíritos. Muito comuns. (Item 165.)
+190. Médiuns audientes: os que ouvem os Espíritos. Muito comuns. (Item 165.)
+>“Muitos há que imaginam ouvir o que apenas lhes está na imaginação.”
 
-     “Muitos há que imaginam ouvir o que apenas lhes está na
-imaginação.”
-
-     Médiuns falantes: os que falam sob a influência dos Espíritos. Muito comuns. (Item 166.)
-
-     Médiuns videntes: os que, em estado de vigília, veem os Espíritos. A visão acidental e fortuita de um Espírito, numa circunstância especial, é muito frequente, mas a visão habitual ou facultativa dos Espíritos, sem distinção, é excepcional. (Item 167.)
-
-     “É uma aptidão a que se opõe o estado atual dos órgãos visuais. Por isso é que cumpre nem sempre acreditar na palavra dos que dizem ver os Espíritos.”
-
-     Médiuns inspirados: aqueles a quem, quase sempre mau grado seu, os Espíritos sugerem ideias, quer relativas aos atos ordinários da vida, quer com relação aos grandes trabalhos da inteligência. (Item 182.)
-
-     Médiuns de pressentimentos: pessoas que, em dadas circunstâncias, têm uma intuição vaga de coisas vulgares que ocorrerão no futuro. (Item 184.)
-
-     Médiuns proféticos: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
-
-     “Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais.” (Veja-se, em O livro dos espíritos, a questão 624, sobre as características do verdadeiro profeta.)
-
-     Médiuns sonâmbulos: os que, em estado de sonambulismo, são assistidos por Espíritos. (Item 172.)
-
-     Médiuns extáticos: os que, em estado de êxtase, recebem revelações da parte dos Espíritos.
-
-     “Muitos extáticos são joguetes da própria imaginação e de Espíritos zombeteiros que se aproveitam da exaltação deles. São raríssimos os que mereçam inteira confiança.”
-
-     Médiuns pintores ou desenhistas: os que pintam ou desenham sob a influência dos Espíritos. Falamos dos que obtêm trabalhos sérios, visto não se poder dar esse nome a certos médiuns que Espíritos zombeteiros levam a fazer coisas grotescas, que desabonariam o mais atrasado estudante.
-
-     Os Espíritos levianos se comprazem em imitar. Na época em que apareceram os notáveis desenhos de Júpiter, surgiu grande número de pretensos médiuns desenhistas, que Espíritos levianos induziram a fazer as coisas mais ridículas. Um deles, entre outros, querendo eclipsar os desenhos de Júpiter, ao menos nas dimensões, quando não fosse na qualidade, fez que um médium desenhasse um monumento que ocupava muitas folhas de papel para chegar à altura de dois andares. Muitos outros se divertiram fazendo que os médiuns pintassem supostos retratos, que eram verdadeiras caricaturas. (Revista espírita, agosto de 1858.)
-
-     Médiuns músicos: os que executam, compõem ou escrevem músicas, sob a influência dos Espíritos. Há médiuns músicos mecânicos, semimecânicos, intuitivos e inspirados, como os há para as comunicações literárias. (Veja-se “Médiuns de efeitos musicais”.)
+Médiuns falantes: os que falam sob a influência dos Espíritos. Muito comuns. (Item 166.)
+     
+Médiuns videntes: os que, em estado de vigília, veem os Espíritos. A visão acidental e fortuita de um Espírito, numa circunstância especial, é muito frequente, mas a visão habitual ou facultativa dos Espíritos, sem distinção, é excepcional. (Item 167.)
+>“É uma aptidão a que se opõe o estado atual dos órgãos visuais. Por isso é que cumpre nem sempre acreditar na palavra dos que dizem ver os Espíritos.”
+     
+Médiuns inspirados: aqueles a quem, quase sempre mau grado seu, os Espíritos sugerem ideias, quer relativas aos atos ordinários da vida, quer com relação aos grandes trabalhos da inteligência. (Item 182.)
+     
+Médiuns de pressentimentos: pessoas que, em dadas circunstâncias, têm uma intuição vaga de coisas vulgares que ocorrerão no futuro. (Item 184.)
+     
+Médiuns proféticos: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
+>“Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais.” (Veja-se, em O livro dos espíritos, a questão 624, sobre as características do verdadeiro profeta.)
+     
+Médiuns sonâmbulos: os que, em estado de sonambulismo, são assistidos por Espíritos. (Item 172.)
+     
+Médiuns extáticos: os que, em estado de êxtase, recebem revelações da parte dos Espíritos.
+>“Muitos extáticos são joguetes da própria imaginação e de Espíritos zombeteiros que se aproveitam da exaltação deles. São raríssimos os que mereçam inteira confiança.”
+     
+Médiuns pintores ou desenhistas: os que pintam ou desenham sob a influência dos Espíritos. Falamos dos que obtêm trabalhos sérios, visto não se poder dar esse nome a certos médiuns que Espíritos zombeteiros levam a fazer coisas grotescas, que desabonariam o mais atrasado estudante. Os Espíritos levianos se comprazem em imitar. Na época em que apareceram os notáveis desenhos de Júpiter, surgiu grande número de pretensos médiuns desenhistas, que Espíritos levianos induziram a fazer as coisas mais ridículas. Um deles, entre outros, querendo eclipsar os desenhos de Júpiter, ao menos nas dimensões, quando não fosse na qualidade, fez que um médium desenhasse um monumento que ocupava muitas folhas de papel para chegar à altura de dois andares. Muitos outros se divertiram fazendo que os médiuns pintassem supostos retratos, que eram verdadeiras caricaturas. (Revista espírita, agosto de 1858.)
+     
+Médiuns músicos: os que executam, compõem ou escrevem músicas, sob a influência dos Espíritos. Há médiuns músicos mecânicos, semimecânicos, intuitivos e inspirados, como os há para as comunicações literárias. (Veja-se “Médiuns de efeitos musicais”.)
 
 **Variedades dos médiuns escreventes:**
 
