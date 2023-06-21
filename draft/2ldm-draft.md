@@ -237,7 +237,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
      Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.
 
-[^1]: N.E.: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
+[^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
 [^2]: N.E.: Mau pintor.
 
@@ -334,7 +334,7 @@ Há mesmo qualquer coisa de ilógico em supor-se que Espíritos venham exibir-se
 
      Ser-nos-ia difícil dizer quantas pessoas que, desde quando começamos a ocupar-nos com o Espiritismo, hão vindo ter conosco e quantas delas vimos que se conservaram indiferentes ou incrédulas diante dos fatos mais positivos e só posteriormente se convenceram, mediante uma explicação racional; quantas outras que se predispuseram à convicção pelo raciocínio; quantas, enfim, que se persuadiram, sem nada nunca terem visto, unicamente porque haviam compreendido. Falamos, pois, por experiência e, assim, também, é por experiência que dizemos consistir o melhor método de ensino espírita em se dirigir, aquele que ensina, antes à razão do que aos olhos. Esse o método que seguimos em nossas lições e pelo qual somente temos que nos felicitar.[^4]
 
-[^4]: A.K.: O nosso ensino teórico e prático é sempre gratuito.
+[^4]: Nota de Allan Kardec (A.K.): O nosso ensino teórico e prático é sempre gratuito.
 
 #### `ldm.p32` #️⃣ 32
 32. Ainda outra vantagem apresenta o estudo prévio da teoria — a de mostrar imediatamente a grandeza do objetivo e o alcance desta ciência. Aquele que começa por ver uma mesa a girar, ou a bater, se sente mais inclinado ao gracejo, porque dificilmente imaginará que de uma mesa possa sair uma doutrina regeneradora da Humanidade. Temos notado sempre que os que creem antes de haver visto, apenas porque leram e compreenderam, longe de se conservarem superficiais, são, ao contrário, os que mais refletem. Dando maior atenção ao fundo do que à forma, veem na parte filosófica o principal, considerando como acessório os fenômenos propriamente ditos. Declaram então que, mesmo quando estes fenômenos não existissem, ainda ficava uma filosofia que só ela resolve problemas até hoje insolúveis; que só ela apresenta a teoria mais racional do passado do homem e do seu futuro. Ora, como é natural, preferem eles uma doutrina que explica às que não explicam, ou explicam mal.
