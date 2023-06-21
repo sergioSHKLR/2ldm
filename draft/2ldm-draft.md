@@ -237,9 +237,9 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
      Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.
 
-[^1]: N.E. : Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
+[^1]: N.E.: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
-[^2]: N.E. : Mau pintor.
+[^2]: N.E.: Mau pintor.
 
 [^3]: Rafael Sanzio (1483–1520), pintor, escultor e arquiteto italiano. O seu gênio reunia todas as qualidades: perfeição do desenho, vivacidade dos movimentos, harmonia das linhas, delicadeza do colorido. Deixou grande número de obras-primas. É considerado o poeta da Pintura, como Ovídio foi considerado o músico da Poesia e como Chopin é considerado o poeta da Música.
 
