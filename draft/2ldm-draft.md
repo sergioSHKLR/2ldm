@@ -1052,9 +1052,9 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
      11ª. A produção do fenômeno dos transportes não é de alguma forma penosa, não te causa qualquer embaraço?
      >“_Não nos é penosa em nada, quando temos permissão para operá-los. Poderia ser-nos grandemente penosa se quiséssemos produzir efeitos para os quais não estivéssemos autorizados._”
 
-     Nota de Erasto – “_Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material.
+     Nota de Erasto – “_Ele não quer convir em que isso lhe é penoso, embora o seja realmente, pois que se vê forçado a executar uma operação por assim dizer material._”
 
-     12ª. Quais são as dificuldades que encontras?_”
+     12ª. Quais são as dificuldades que encontras?
      >“_Nenhuma outra, além das más disposições fluídicas, que nos podem ser contrárias._”
 
      13ª. Como trazes o objeto? Será segurando-o com as mãos?
@@ -3121,7 +3121,7 @@ sem vitalidade, qual, por exemplo, uma mesa. É, entretanto, o que não se dá.
      >“_Nenhum, desde que o Espírito lhe seja igual, ou superior, em moralidade. Digo — em moralidade e não em inteligência, porque, então, nenhuma autoridade tem o evocador sobre ele. Se lhe é inferior, o evocador pode consegui-lo, desde que seja para bem do Espírito, porque, nesse caso, outros Espíritos o secundarão._” (Item 279.)
      
      11ª. Haverá inconveniente em se evocarem Espíritos inferiores e será de temer que, chamando-os, o evocador lhes fique sob o domínio?
-     >“_Eles não dominam senão os que se deixam dominar. Aquele que é assistido por bons Espíritos nada tem que temer. Impõe-se aos Espíritos inferiores e não estes a ele. Isolados, os médiuns, sobretudo os que começam, devem abster-se de tais evocações. (Item 278.)
+     >“_Eles não dominam senão os que se deixam dominar. Aquele que é assistido por bons Espíritos nada tem que temer. Impõe-se aos Espíritos inferiores e não estes a ele. Isolados, os médiuns, sobretudo os que começam, devem abster-se de tais evocações._” (Item 278.)
      
      12ª. Serão necessárias algumas disposições especiais para as evocações?
      >“_A mais essencial de todas as disposições é o recolhimento, quando se deseja entrar em comunicação com Espíritos sérios. Com fé e com o desejo do bem, tem-se mais força para evocar os Espíritos superiores. Elevando sua alma, por alguns instantes de recolhimento, quando da evocação, o evocador se identifica com os bons Espíritos e os dispõe a virem._”
