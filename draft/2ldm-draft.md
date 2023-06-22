@@ -3217,8 +3217,136 @@ sem vitalidade, qual, por exemplo, uma mesa. É, entretanto, o que não se dá.
      Nota. A influência corpórea, que se faz sentir, por mais ou menos tempo, sobre o Espírito da criança, igualmente é notada, às vezes, no Espírito dos que morreram em estado de loucura. O Espírito, em si mesmo, não é louco; sabe-se, porém, que certos Espíritos julgam, durante algum tempo, que ainda pertencem a este mundo. Não é, pois, de admirar que, no louco, o Espírito ainda se ressinta dos entraves que, durante a vida, se opunham à livre manifestação de seus pensamentos, até que se encontre completamente desprendido da matéria. Este efeito varia conforme as causas da loucura, porquanto há loucos que, logo depois da morte, recobram toda a sua lucidez.
 
 #### `ldm.p283` #️⃣ 283
+283. Evocações dos animais
+
+     36ª. Pode evocar-se o Espírito de um animal?
+
+     >“_Depois da morte do animal, o princípio inteligente que nele havia se acha em estado latente e é logo utilizado, por certos Espíritos incumbidos disso, para animar novos seres, em os quais continua ele a obra de sua elaboração. Assim, no mundo dos Espíritos, não há, errantes, Espíritos de animais, porém unicamente Espíritos humanos._”
+
+     a) Como é então que, tendo evocado animais, algumas pessoas hão obtido resposta?
+     >“_Evoca um rochedo e ele te responderá. Há sempre uma multidão de Espíritos prontos a tomar a palavra, sob qualquer pretexto._”
+     
+     Nota. Pela mesma razão, se se evocar um mito ou uma personagem alegórica, eles responderão, isto é, algum Espírito responderá por eles e lhes tomará o caráter e as maneiras. Alguém teve um dia a ideia de evocar Tartufo e Tartufo veio logo. Mais ainda: falou de Orgon, de Elmira, de Dâmide e de Valéria, de quem deu notícias. Quanto a si próprio, imitou o hipócrita com tanta arte que se diria o próprio Tartufo, se este houvera existido. Disse mais tarde ser o Espírito de um ator que desempenhara esse papel. Os Espíritos levianos se aproveitam sempre da inexperiência dos interrogantes; guardam-se, porém, de dirigir-se aos que eles sabem bastante esclarecidos para lhes descobrir as imposturas e que não lhes dariam crédito aos contos. O mesmo sucede entre os homens. Um senhor tinha em seu jardim um ninho de pintassilgos, pelos quais se interessava muito. Certo dia, desapareceu o ninho. Tendo-se certificado de que ninguém da sua casa era culpado do delito, como fosse ele médium, teve a ideia de evocar a mãe das avezinhas. Ela veio e lhe disse em muito bom francês: 
+     
+     “A ninguém acuses e tranquiliza-te quanto à sorte de meus filhinhos; foi o gato que, saltando, derribou o ninho; encontrá-lo-ás debaixo dos arbustos, assim como os passarinhos, que não foram comidos.”
+     
+     Feita a verificação, reconheceu ele exato o que lhe fora dito. Dever-se-á concluir ter sido o pássaro quem respondeu? Certamente que não, mas apenas um Espírito que conhecia a história. Isso prova quanto se deve desconfiar das aparências e quanto é preciosa a resposta acima: evoca um rochedo e ele te responderá. (Veja-se atrás o capítulo Da mediunidade nos animais, item 234.) 
+     
 #### `ldm.p284` #️⃣ 284
+284. Evocações das pessoas vivas
+     
+     37ª. A encarnação do Espírito constitui obstáculo à sua evocação?
+     >“_Não, mas é necessário que o estado do corpo permita que no momento da evocação o Espírito se desprenda. Com tanto mais facilidade vem o Espírito encarnado, quanto mais elevado for em categoria o mundo onde ele está, porque menos materiais são lá os corpos._”
+     
+     38ª. Pode evocar-se o Espírito de uma pessoa viva?
+     >“_Pode-se, visto que se pode evocar um Espírito encarnado. O Espírito de um vivo também pode, em seus momentos de liberdade, se apresentar sem ser evocado; isto depende da simpatia que tenha pelas pessoas com quem se comunica._” (Veja-se, no item 116, a história do homem da tabaqueira.)
+     
+     39ª. Em que estado se acha o corpo da pessoa cujo Espírito é evocado?
+     >“_Dorme, ou cochila; é quando o Espírito está livre._”
+     
+     a) Poderia o corpo despertar enquanto o Espírito está ausente?
+     >“_Não; o Espírito é forçado a reentrar na sua habitação; se, no momento, ele estiver confabulando convosco, deixa-vos e às vezes diz por que motivo._”
+     
+     40ª. Como, estando ausente do corpo, o Espírito é avisado da necessidade da sua presença?
+     >“_O Espírito jamais está completamente separado do corpo vivo em que habita; qualquer que seja a distância a que se transporte, a ele se conserva ligado por um laço fluídico que serve para chamá-lo, quando se torne preciso. Esse laço só a morte o rompe._”
+     
+     Nota. Esse laço fluídico há sido muitas vezes percebido por médiuns videntes. É uma espécie de cauda fosforescente que se perde no Espaço e na direção do corpo. Alguns Espíritos hão dito que por aí é que reconhecem os que ainda se acham presos ao mundo corporal.
+     
+     41ª. Que sucederia se, durante o sono e na ausência do Espírito, o corpo fosse mortalmente ferido?
+     >“_O Espírito seria avisado e voltaria antes que a morte se consumasse._”
+     
+     a) Assim, não poderá dar-se que o corpo morra na ausência do Espírito e que este, ao voltar, não possa entrar?
+     >“_Não; seria contrário à lei que rege a união da alma e do corpo._”
+     
+     b) Mas se o golpe for dado subitamente e de improviso?
+     >“_O Espírito será prevenido antes que o golpe mortal seja vibrado._”
+     
+     Nota. Interrogado sobre este fato, respondeu o Espírito de um vivo: “Se o corpo pudesse morrer na ausência do Espírito, este seria um meio muito cômodo de se cometerem suicídios hipócritas._”
+     
+     42ª. O Espírito de uma pessoa evocada durante o sono é tão livre de se comunicar como o de uma pessoa morta?
+     >“_Não; a matéria sempre o influencia mais ou menos._”
+     
+     Nota. Uma pessoa que se achava nesse estado e a quem foi feita essa pergunta respondeu: Estou sempre ligada à grilheta que arrasto comigo.
+     
+     a) Nesse estado, poderia o Espírito ser impedido de vir, por se achar em outra parte?
+     >“_Sim, pode acontecer que o Espírito esteja num lugar onde lhe apraza permanecer e então não acode à evocação, sobretudo quando feita por quem não o interesse._”
+     
+     43ª. É absolutamente impossível evocar-se o Espírito de uma pessoa acordada?
+     >“_Ainda que difícil, não é absolutamente impossível, porquanto, se a evocação produz efeito, pode dar-se que a pessoa adormeça, mas o Espírito não pode comunicar-se, como Espírito, senão nos momentos em que a sua presença não é necessária à atividade inteligente do corpo._”
+     
+     Nota. A experiência prova que a evocação feita durante o estado de vigília pode provocar o sono, ou, pelo menos, um torpor aproximado do sono, mas semelhante efeito não se pode produzir senão por ato de uma vontade muito enérgica e se existirem laços de simpatia entre as duas pessoas; de outro modo, a evocação nenhum resultado dá. Mesmo no caso de a evocação poder provocar o sono, se o momento é inoportuno, a pessoa, não querendo dormir, oporá resistência e, se sucumbir, seu Espírito ficará perturbado e dificilmente responderá. Segue-se daí que o momento mais favorável para a evocação de uma pessoa viva é o do sono natural, porque, estando livre, seu Espírito pode vir ter com aquele que o chama, do mesmo modo que poderá ir algures. Quando a evocação é feita com consentimento da pessoa e esta procura dormir para esse efeito, pode acontecer que essa preocupação retarde o sono e perturbe o Espírito. Por isso, o sono não forçado é sempre preferível.
+     
+     44ª. Evocada, uma pessoa viva conserva a lembrança da evocação, depois de despertar?
+     >“_Não; vós mesmos o sois mais frequentemente do que pensais. Só o Espírito o sabe, podendo às vezes deixar do fato uma impressão vaga, qual a de um sonho._”
+     
+     a) Quem pode evocar-nos, sendo nós, como somos, seres obscuros?
+     >“_Pode suceder que em outras existências tenhais sido pessoas conhecidas nesse mundo, ou em outros. Podem fazê-lo igualmente vossos parentes e amigos nesse mundo, ou em outros. Suponhamos que teu Espírito tenha animado o corpo do pai de outra pessoa. Pois bem, quando essa pessoa evocar seu pai, é teu Espírito que será evocado e quem responderá._”
+     
+     45ª. Evocado o Espírito de uma pessoa viva, responde ele como Espírito ou com as ideias que tem no estado de vigília?
+     >“_Isso depende da sua elevação; porém, sempre julga com mais ponderação e tem menos prejuízos, exatamente como os sonâmbulos; é um estado quase semelhante._”
+     
+     46ª. Se fosse evocado no estado de sono magnético, o Espírito de um sonâmbulo seria mais lúcido do que o de qualquer outra pessoa?
+     >“_Responderia sem dúvida mais facilmente, por estar mais desprendido; tudo decorre do grau de independência do Espírito com relação ao corpo._”
+     
+     a) Poderia o Espírito de um sonâmbulo responder a uma pessoa que o evocasse a distância, ao mesmo tempo que respondesse verbalmente a outra pessoa?
+     >“_A faculdade de se comunicar simultaneamente em dois pontos diferentes só a têm os Espíritos completamente desprendidos da matéria._”
+     
+     47ª. Poder-se-iam modificar as ideias de uma pessoa em estado de vigília, atuando-se sobre o seu Espírito durante o sono?
+     >“_Algumas vezes, será possível. Não estando o Espírito então preso à matéria por laços tão estreitos, mais acessível se acha às impressões morais e essas impressões podem influir sobre a sua maneira de ver no estado ordinário. Infelizmente, acontece com frequência que, ao despertar ele, a natureza corpórea predomina e lhe faz esquecer as boas resoluções que haja tomado._”
+     
+     48ª. É livre, o Espírito de uma pessoa viva, de dizer o que queira?
+     >“_Ele tem suas faculdades de Espírito e, por conseguinte, seu livre-arbítrio; e, como então dispõe de mais perspicácia, se mostra mais circunspecto do que no estado de vigília._”
+     
+     49ª. Poder-se-ia, evocando-a, constranger uma pessoa a dizer o que quisesse calar?
+     >“_Eu disse que o Espírito tem o seu livre-arbítrio; pode, porém, dar-se que, como Espírito, a pessoa ligue menos importância a certas coisas do que no estado ordinário, podendo então sua consciência falar mais livremente. Demais, se ela não quiser falar, poderá sempre fugir às importunações, indo-se o seu Espírito embora, porquanto ninguém pode reter um Espírito, como se lhe retém o corpo._”
+     
+     50ª. Poderia o Espírito de uma pessoa viva ser constrangido, por outro Espírito, a vir e falar, como se dá com os Espíritos errantes?
+     >“_Entre os Espíritos, sejam de mortos ou de vivos, não há supremacia senão por efeito da superioridade moral, e bem deves compreender que um Espírito Superior jamais prestaria apoio a uma covarde indiscrição._”
+     
+     Nota. Este abuso de confiança seria, efetivamente, uma ação má, mas que nenhum resultado poderia produzir, pois que não há meio de arrancar-se um segredo ao Espírito que o queira guardar, a menos que, dominado por um sentimento de justiça, confessasse o que em outras circunstâncias calaria. Uma pessoa quis saber, por esse modo, de um de seus parentes, se o testamento que por este fora feito era a seu favor. O Espírito respondeu:
+     
+     >“_Sim, minha cara sobrinha, e terás em breve a prova._”
+     
+     A coisa era, de fato, real, mas, poucos dias depois, o parente destruiu seu testamento e teve a malícia de fazer disso ciente a pessoa, sem que, entretanto, haja sabido que esta o evocara. Um sentimento instintivo o levou sem dúvida a executar a resolução que seu Espírito tomara, de acordo com a pergunta que lhe fora feita. Há covardia em perguntar-se ao Espírito de um morto ou de um vivo o que se não ousaria perguntar à sua pessoa, covardia essa que nem mesmo tem, por compensação, o resultado que se pretende.
+     
+     51ª. Pode evocar-se um Espírito cujo corpo ainda se ache no seio materno?
+     >“_Não; bem sabes que nesse momento o Espírito está em completa perturbação._”
+     
+     Nota. A encarnação não se torna definitiva senão no momento em que a criança respira; porém, desde a concepção do corpo, o Espírito designado para animá-lo é presa de uma perturbação que aumenta à medida que o nascimento se aproxima e lhe tira a consciência de si mesmo e, por conseguinte, a faculdade de responder. (Veja-se: O livro dos espíritos: Da volta do Espírito à vida corporal, “União da alma e do corpo_”, questão 344.)
+     
+     52ª. Poderia um Espírito mistificador tomar o lugar de uma pessoa viva que se evocasse?
+     >“_É fora de dúvida que sim, e isso acontece frequentemente, sobretudo quando não é pura a intenção do evocador. Em suma, a evocação das pessoas vivas só tem interesse como estudo psicológico. Convém que dela vos abstenhais sempre que não possa ter um resultado instrutivo._”
+     
+     Nota. Se a evocação dos Espíritos errantes nem sempre dá resultado, conforme expressão usada por eles, muito mais frequente é que assim aconteça com a dos que estão encarnados. Então, sobretudo, é que os Espíritos mistificadores se apresentam, em lugar dos evocados.
+     
+     53ª. Tem inconvenientes a evocação de uma pessoa viva?
+     >“_Nem sempre é sem perigo, dependendo isso das condições em que se ache a pessoa, porquanto, se estiver doente, poderá aumentar-lhe os sofrimentos._”
+     
+     54ª. Em que caso será mais inconveniente a evocação de uma pessoa viva?
+     >“_Não devem evocar-se as crianças de tenra idade, nem as pessoas gravemente doentes, nem, ainda, os velhos enfermos. Numa palavra, ela pode ter inconvenientes todas as vezes que o corpo esteja muito enfraquecido._”
+     
+     Nota. A brusca suspensão das qualidades intelectuais, durante o estado de vigília, também poderia oferecer perigo, se a pessoa nesse momento precisasse de toda a sua presença de espírito.
+     
+     55ª. Durante a evocação de uma pessoa viva, seu corpo, embora ausente, experimenta fadiga por efeito do trabalho a que se entrega seu Espírito? Uma pessoa, que se encontrava nesse estado e que pretendia que seu corpo se fatigava, respondeu assim a essa pergunta:
+     >“_Meu Espírito é como um balão cativo preso a um poste; meu corpo é o poste, que as oscilações do balão sacodem._”
+     
+     56ª. Pois que a evocação das pessoas vivas pode ter inconvenientes, quando feitas sem precaução, deixa de existir perigo quando se evoca um Espírito que não se sabe se está encarnado e que poderia não se encontrar em condições favoráveis?
+     >“_Não, as circunstâncias não são as mesmas. Ele só virá, se estiver em condições de fazê-lo. Aliás, eu já não vos disse que perguntásseis, antes de fazer uma evocação, se ela é possível?_”
+     
+     57ª. Quando, nos momentos mais inoportunos, experimentamos irresistível vontade de dormir, provirá isso de estarmos sendo evocados nalguma parte?
+     >“_Pode, sem dúvida, acontecer que assim seja; porém, as mais das vezes, não há nisso senão um efeito físico, quer porque o corpo tenha necessidade de repouso, quer porque o Espírito precise da sua liberdade._”
+     
+     Nota. Uma senhora de nosso conhecimento, médium, teve um dia a ideia de evocar o Espírito de seu neto, que dormia no mesmo quarto. A identidade foi comprovada pela linguagem, pelas expressões habituais da criança e pela narração exatíssima de muitas coisas que lhe tinham sucedido no colégio, mas ainda uma circunstância a veio confirmar. De repente, a mão da médium para em meio de uma frase, sem que seja possível obter-se mais coisa alguma. Nesse momento, a criança, meio despertada, fez diversos movimentos na sua cama. Alguns instantes depois, tendo novamente adormecido, a mão da médium começou a mover-se outra vez, continuando a conversa interrompida. A evocação das pessoas vivas, feita em boas condições, prova, da maneira menos contestável, a ação do Espírito distinta da do corpo e, por conseguinte, a existência de um princípio inteligente independente da matéria. (Veja-se, na Revista espírita de 1860, muitos exemplos notáveis de evocação de pessoas vivas.)
+     
 #### `ldm.p285` #️⃣ 285
+285. Telegrafia humana
+     
+     58ª. Evocando-se reciprocamente, poderiam duas pessoas transmitir de uma a outra seus pensamentos e corresponder-se?
+     >“_Certamente, e essa telegrafia humana será um dia um meio universal de correspondência._”
+     
+     a) Por que não será praticada desde já?
+     >“_É praticável para certas pessoas, mas não para toda gente. Preciso é que os homens se depurem, a fim de que seus Espíritos se desprendam da matéria e isso constitui uma razão a mais para que a evocação se faça em nome de Deus. Até lá, continuará circunscrita às almas de escol e desmaterializadas, o que raramente se encontra nesse mundo, dado o estado dos habitantes da Terra._”
+
 
 ### `ldm.2.26` 📑 26. Das perguntas que se podem fazer aos Espíritos
 #### `ldm.p286` #️⃣ 286
