@@ -199,8 +199,7 @@ Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar a
 
 Deus abençoa, sempre!
 
-![Sergio SHKLR](./images/sign-dark.png#gh-dark-mode-only)
-![Sergio SHKLR](./images/sign-light.png#gh-light-mode-only)
+![Sergio SHKLR](./images/sign.png)
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
