@@ -1,8 +1,8 @@
-blockquote {
-  margin-left: 2em;
-  border-left: 1px red solid;
-  background-color: lightgrey;
-}
+A simple info alert **check it out!**
+{: #myid .alert .alert-info .p-3 .mx-2 mb-3}
+
+
+{:toc}
 
 # `ldm` ✒️ O LIVRO DOS MEDIUNS (draft)
 
