@@ -19,7 +19,7 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
 
 O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
 
-📔 [rascunho](./draft/2ldm-draft.md)
+📔 [rascunho](./draft/LDM-draft.md)
 
 [topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
 
@@ -65,7 +65,7 @@ Consideramos estas escolhas de formatações demasiada sutis (não chamam a aten
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `ldm.1` 🗂️ Parte 1 - título como `ldm.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `ldm.2` 🗂️ Parte 2 - Manifestações espíritas, decidimos por dar-lhes o nome de `ldm.3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDM.1` 🗂️ Parte 1 como `LDM.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDM.2` 🗂️ Parte 2, decidimos por dar-lhes o nome de `LDM.3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
 [topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
 
@@ -82,7 +82,7 @@ Considero que estas escolhas fazem um bom uso de elementos mais apropriados para
 
 [topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
 
-### 6.1. Formatação de texto (1lde)
+### 6.1. Formatação de texto (LDM.md)
 
 #### 6.1.1 Questões
 
@@ -108,32 +108,32 @@ E disse Jesus:
 ### 6.2. Legenda
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-**emoji** | **Livro** | **Abreviação** | **GFM** |
-|---|---|---|---|
-|  👻 | O Livro dos Espíritos | LDE | ghost |
-|  ✒️ | O Livro dos Médiuns | LDM | black_nib |
-|  🕊️ | O Evangelho segundo o Espiritismo | ESE | dove |
-|  🔥 | O Céu e o Inferno | CEU | fire |
-|  🌱 | A Gênese | GEN | seedling |
+**emoji** | **Abreviação** | **Livro** |
+|---|---|---|
+|  👻 | LDE | O Livro dos Espíritos |
+|  ✒️ | LDM | O Livro dos Médiuns |
+|  🕊️ | ESE | O Evangelho segundo o Espiritismo |
+|  🔥 | CEU | O Céu e o Inferno |
+|  🌱 | GEN | A Gênese |
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
-| **emoji** | **Descrição** | **Conteúdo** | **Consiste de** | **Parte de** | **Código mestre** | **GFM** |
-|---|---|---|---|---|---|---|
-| 📔 | livro | obra completa | 🗂️ partes | 📚 Obras Básicas | `ldm` | notebook_with_decorative_cover |
-| 🗂️ | parte | subdivisão da obra | 📑 capítulos | 📔 livro | `ldm.X` | card_index_dividers |
-| 📑 | capítulo | subdivisão de partes | 📃 seções | 🗂️ partes | `ldm.X.X` | bookmark_tabs |
-| #️⃣ | parágrafo | elemento básico | - | 📃 seções | `ldm.pX` | hash |
+| **emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
+|---|---|---|---|
+| 📔 | livro | obra completa | `LDM` |
+| 🗂️ | parte | subdivisão da obra | `LDM.X` |
+| 📑 | capítulo | subdivisão de partes | `LDM.X.X` |
+| #️⃣ | parágrafo | elemento básico | `LDM.pX` |
 
 ##### 6.2.1. Adicionais
 
-| **Icone** | **Descrição** | **Conteúdo** | **GFM** |
+| **Icone** | **Descrição** | **Conteúdo** |
 |---|---|---|---|
-| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo | latin_cross |
+| ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
 <!--
-| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ | :card_file_box: |
-| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto | label |
-| ⚜️ | fim | término de um elemento | fleur_de_lis | -->
+| 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
+| 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
+| ⚜️ | fim | término de um elemento | -->
 
 ### 6.3. Hierarquia 
 
@@ -149,7 +149,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 ✝️ ─ trecho bíblico
 ```
 
-Em especial no LDM, o código para parágrafos é modificado de `ldm.X.X.X` para:
+Em especial no LDM, o código para parágrafos é modificado de `LDM.X.X.X` para:
 
 ```
 ldm.pX
