@@ -203,7 +203,7 @@ Deus abençoa, sempre!
 
 | cargo | organização | website | email |
 | --- | --- | --- | --- |
-| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=1ldm) |
+| 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDM.md) |
 
 [topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
 
