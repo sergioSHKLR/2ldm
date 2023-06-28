@@ -152,21 +152,21 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 Em especial no LDM, o código para parágrafos é modificado de `LDM.X.X.X` para:
 
 ```
-ldm.pX
+LDM.pX
  |   | 
  |   └── #️⃣ parágrafo
  |
  └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDE, usamos a letra `q`, de um a quatro dígitos, e uma letra minúscula para sub-questões de modo a designar uma pergunta específica (ex. `lde.q909a
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDM, usamos a letra `p`, de um a quatro dígitos, de modo a designar um parágrafo específico (ex. `LDM.p909)
 
 ### 6.4. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-ldm.X.X
+LDM.X.X
  |  | |
  |  | └── 📑 capítulo
  |  |
