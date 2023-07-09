@@ -23,7 +23,7 @@ Segundo sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org
 
 - 📔 [LDM-draft.md](./draft/LDM-draft.md)
 
-[🔼](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 1. Objetivo
 
