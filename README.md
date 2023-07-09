@@ -29,7 +29,7 @@ Segundo sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org
 
 Intencionamos criar versões mais dinâmicas das cinco obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-[🔼](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 2. Análise
 
