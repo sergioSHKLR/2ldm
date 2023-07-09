@@ -1,5 +1,6 @@
-# ✒️ O LIVRO DOS MÉDIUNS
-Uma das cinco obras básicas da Ciência e Filosofia Espírita.
+# ✒️ O Livro dos Médiuns
+
+Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
 
 **Sumário**
 
@@ -10,36 +11,37 @@ Uma das cinco obras básicas da Ciência e Filosofia Espírita.
   - [4. Obra original](#4-obra-original)
   - [5. Método](#5-método)
   - [6. Padronização](#6-padronização)
-  - [7. Controle de Qualidade](#7-controle-de-qualidade)
-  - [8. Autor](#8-autor)
-  - [9. Agradecimentos](#9-agradecimentos)
-  - [10. Notas](#10-notas)
+  - [7. Navegação](#7-navegação)
+  - [8. Controle de Qualidade](#8-controle-de-qualidade)
+  - [9. Autor](#9-autor)
+  - [10. Agradecimentos](#10-agradecimentos)
+  - [11. Notas](#11-notas)
 
 ## 0. Direto ao ponto                       
 
-O Livro dos Médiuns (ISBN 978-85-7328-729-5), digitalizado.
+✒️ **O Livro dos Médiuns** (ISBN 978-85-7328-729-5), digitalizado.
 
-📔 [LDM-draft.md](./draft/LDM-draft.md)
+- 📔 [LDM-draft.md](./draft/LDM-draft.md)
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 1. Objetivo
 
-Intencionamos criar versões mais dinâmicas das 5 obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
+Intencionamos criar versões mais dinâmicas das cinco obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 2. Análise
 
 Gostaríamos que nossa versão não sofresse da rigidez do PDF (páginas de tamanho fixo), fosse de mais fácil uso que um eBook (sem necessidade de um aplicativo especial), e não usasse *DRM* (como AZW do *Kindle*). Formatos de processadores de texto (como DOC, DOCX, ou ODF) foram rejeitados por não serem capazes de lidar com arquivos deste comprimento. Formatos livres e simples como TXT ou RTF são muito pobres em formatação de texto e não permitem a fidelidade desejada.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 3. Formato de arquivo
 
-Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.
+~~Decidimos então por adotar o formato *MarkDown* (.md) pela sua fácil edição e capacidade de formatação de texto. Adicionalmente, o formato permite que o mesmo sirva de fonte para conversões em arquivos diversos, tal como HTML & CSS (em SSG), JSON, etc. Isto ainda facilita a utilização por programadores que queiram usar o mesmo para servir de base ou banco de dados para seus próprios projetos, tais como *apps*.~~
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 4. Obra original
 
@@ -59,15 +61,15 @@ Como se vê, na pergunta, a palavra 'Deus' foi realçada em estilo normal, visto
 
 Consideramos estas escolhas de formatações demasiada sutis (não chamam a atenção do leitor com eficiência), além de introduzir confusão na padronização programática. Adicionalmente, as mesmas não são apropriadas para o formato *Markdown*, ou a análise e formatação automática por meio de *scripts*, sendo o método que nosso maior colaborador, **<a href="https://github.com/JhonnyBn">JhonnyBn</a>**, criou para automatizar o processo.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 5. Método
 
 Em primeiro lugar, teríamos que estabelecer padrões de formatação de texto que mantivessem a fidelidade ao original, não em forma, mas em conteúdo.
 
-Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDM.1` 🗂️ Parte 1 como `LDM.0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDM.2` 🗂️ Parte 2, decidimos por dar-lhes o nome de `LDM.3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
+Analisando a divisão do livro em partes, decidimos nomear a seção anterior à `LDM-1` 🗂️ Parte 1 como `LDM-0` 🗂️ Parte 0, e dar-lhe o título de Pré-textual. Considerando as seções que seguem a `LDM-2` 🗂️ Parte 2, decidimos por dar-lhes o nome de `LDM-3` 🗂️ Parte 3 e o título de Pós-textual. Em contraste com outras iniciativas, e inéditamente, iremos manter o Índice Geral por admirar o extenso trabalho de criá-lo e sua valiosa função.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ## 6. Padronização
 
@@ -80,18 +82,20 @@ Decidimos formatar todo o texto em estilo normal com as seguintes exceções:
 
 Considero que estas escolhas fazem um bom uso de elementos mais apropriados para o consumo digital (cores, tipografia sans-serif, emojis, código hierárquico, etc). Adicionalmente, numerais romanos foram substituídos por seus equivalentes arábicos (exceção para títulos, tais como São Luís, IX da França, e séculos).
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
 ### 6.1. Formatação de texto (LDM.md)
 
 #### 6.1.1 Questões
 
+<s>
 `lde.q3` #️⃣ 3
 
 3. Poder-se-ia dizer que **Deus** é o infinito?
 
 > “Definição incompleta. Pobreza da linguagem humana, **insuficiente** para definir o que está acima da linguagem dos homens.”
->> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira. 
+>> Deus é infinito em suas perfeições, mas o infinito é uma abstração. Dizer que Deus é o infinito é tomar o atributo de uma coisa pela coisa mesma, é definir uma coisa que não está conhecida por uma outra que não o está mais do que a primeira.
+</s>
 
 ---
 
@@ -108,7 +112,7 @@ E disse Jesus:
 ### 6.2. Legenda
 Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Individualmente, iremos identificá-los pela abreviação de três letras ou visualmente pelo seguintes emojis:
 
-**emoji** | **Abreviação** | **Livro** |
+| **Emoji** | **Abreviação** | **Livro** |
 |---|---|---|
 |  👻 | LDE | O Livro dos Espíritos |
 |  ✒️ | LDM | O Livro dos Médiuns |
@@ -118,18 +122,19 @@ Genericamente, usaremos 📔 para denotar um dos livros das obras básicas. Indi
 
 Dentro de cada livro individual, usaremos os emojis abaixo para identificar elementos ou grupamento.
 
-| **emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
+| **Emoji** | **Descrição** | **Conteúdo** | **Código mestre** |
 |---|---|---|---|
 | 📔 | livro | obra completa | `LDM` |
-| 🗂️ | parte | subdivisão da obra | `LDM.X` |
-| 📑 | capítulo | subdivisão de partes | `LDM.X.X` |
-| #️⃣ | parágrafo | elemento básico | `LDM.pX` |
+| 🗂️ | parte | subdivisão da obra | `LDM-X` |
+| 📑 | capítulo | subdivisão de partes | `LDM-X-XX` |
+| #️⃣ | parágrafo | elemento básico | `LDM-pXXX` |
 
 ##### 6.2.1. Adicionais
 
-| **Icone** | **Descrição** | **Conteúdo** |
+| **Emoji** | **Descrição** | **Conteúdo** |
 |---|---|---|
 | ✝️ | trecho bíblico | trecho, livro, capítulo, versículo |
+
 <!--
 | 🗃️ | Índice Geral | coleção de 🏷️ _tags_ |
 | 🏷️ | _tag_ | agrupa #️⃣ questões e/ou 📃 seções por assunto |
@@ -149,24 +154,24 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 ✝️ ─ trecho bíblico
 ```
 
-Em especial no LDM, o código para parágrafos é modificado de `LDM.X.X.X` para:
+Em especial no LDM, o código para parágrafos é modificado de `LDM-X-XX-XXX` para:
 
 ```
-LDM.pX
- |   | 
- |   └── #️⃣ parágrafo
+LDM-pXXX
+ |    | 
+ |    └── #️⃣ parágrafo
  |
  └── 📔 livro
 ```
 
-Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDM, usamos a letra `p`, de um a quatro dígitos, de modo a designar um parágrafo específico (ex. `LDM.p909)
+Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDM, usamos a letra `p`, de um a quatro dígitos, de modo a designar um parágrafo específico (ex. `LDM-p909)
 
 ### 6.4. Código mestre
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
 ```
-LDM.X.X
+LDM-X-XX
  |  | |
  |  | └── 📑 capítulo
  |  |
@@ -177,23 +182,30 @@ LDM.X.X
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
-## 7. Controle de Qualidade
+## 7. Navegação
+
+(Em produção)
+
+[🔼](#-o-livro-dos-médiuns)
+
+
+## 8. Controle de Qualidade
 
 Tentamos ao máximo manter a integralidade e fidelidade da obra, entretanto, no curso de adaptação do conteúdo para o consumo móvel (*tablets* e celulares) e por claridade/brevidade se achou mais apropriado a mudança do título de alguns capítulos ou sua ordem de apresentação, de modo a obedecer a um padrão de conjunto. Extremo cuidado foi tomado para que somente a forma fosse alterada, e em nenhum modo, o conteúdo do mesmo.
 
 Em caso de erros, por favor, entrem em contato conosco para assegurar que a devida correção seja feita.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
-## 8. Autor
+## 9. Autor
 
 Sou um Americano nato, criado no Brasil desde 1976, e em 1997 resolvi retornar aos EUA aonde me alistei e servi na Marinha por quase 21 anos. Aposentado desde 2018, veterano das guerras do Iraque e Afeganistão (4 estrelas de campanha), sou auto-didata em programação *front-end* (HTML e CSS). Venho estudando a Doutrina Espírita desde 2013, por ocasião do casamento com minha esposa Mai, quem inspirou este projeto e muitos outros. Estes mesmos, disponíveis em [SHKLR.org](https://shklr.org) almejam a disseminação da Filosofia e Ciência Espírita tal como codificada por Allan Kardec.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
-## 9. Agradecimentos
+## 10. Agradecimentos
 
 À Deus, e aos três anjos que colocou ao meu lado. O da guarda, minha esposa, Mai, e nossa gatinha, Nina. Aos grupos espíritas de Tampa, Jacksonville, e Palm Beach, na Flórida, e o de Washington D.C, todos nos EUA. Também à Brian Foster (*in memoriam*) e ao meu amigo e mentor, Manoel Seabra, um dos fundadores do Love and Wisdom, de Largo, Flórida, EUA. Em especial, à João Neto, de Uberlândia, Minas Gerais, Brasil, programador e quem nos economizou meses de fastidiosa digitação e revisão. Adicionalmente, ele criou *scripts* que possibilitam a conversão (duplex) do formato MD para vários outros.
 
@@ -205,11 +217,11 @@ Deus abençoa, sempre!
 | --- | --- | --- | --- |
 | 🎩 Fundador | ⭕ SHKLR | 🌐 [shklr.org](https://shklr.org) | 💌 [doutrina@shklr.org](mailto:doutrina@shklr.org?subject=LDM.md) |
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
 
-## 10. Notas
+## 11. Notas
 
-- **LDM.md** e suas variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
+- **LDM-vYYYY-MM-DD.md** e suas variantes são licenciados sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR). A licença aplica-se somente ao formato (diagramação, uso de emojis, tipografia, hierarquia, código mestre, etc) e NÃO ao conteúdo. Nosso código-fonte é disponível em https://github.com/sergioSHKLR/1lde.
 
 - Nossos projetos não tem fins lucrativos ou de subsistência. Absolutamente nenhum ganho, compensação, troca, benefício, ou doação é solicitada, oferecida, feita, aceita, ou sub-entendida.
 
@@ -227,4 +239,4 @@ Deus abençoa, sempre!
 
 - Como a formatação final de um arquivo MD depende da plataforma de visualização utilizada, não podemos garantir que seu resultado não contenha desvios do padrão GitHub. O mesmo ocorre com a visualização de emojis, que podem sofrer de desvios de formato em virtude da plataforma aonde o conteúdo é acessado.
 
-[topo ⤴️](#%EF%B8%8F-o-livro-dos-médiuns)
+[🔼](#-o-livro-dos-médiuns)
