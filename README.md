@@ -23,13 +23,13 @@ Segundo sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org
 
 - 📔 [LDM-draft.md](./draft/LDM-draft.md)
 
-[🔼](#-o-livro-dos-médiuns)
+[🔼](#%EF%B8%8F-o-livro-dos-médiuns)
 
 ## 1. Objetivo
 
 Intencionamos criar versões mais dinâmicas das cinco obras básicas (LDE, LDM, ESE, CEU, e GEN), utilizando emojis, cores, tipografia, padrões de formato, e criando um código mestre que possa ser usado para localizar e correlacionar diferentes partes destas mesmas obras.
 
-[🔼](#-o-livro-dos-médiuns)
+[🔼](#%EF%B8%8F-o-livro-dos-médiuns)
 
 ## 2. Análise
 
