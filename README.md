@@ -1,6 +1,6 @@
 # ✒️ O Livro dos Médiuns
 
-Primeiro sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
+Segundo sub *repo* de [doutrina.org](https://github.com/sergioSHKLR/doutrina.org)
 
 **Sumário**
 
