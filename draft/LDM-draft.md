@@ -4620,7 +4620,7 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 
 **Acerca do Espiritismo**
 
-<h5>1</h5>
+**1**
 
 >Confiai na bondade de Deus e sede bastante clarividentes para perceberdes os preparativos da nova vida que Ele vos destina.
 >
@@ -4635,7 +4635,7 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 >
 >**Santo Agostinho**
 
-<h5>2</h5>
+**2**
 
 >O próprio Cristo preside aos trabalhos de toda sorte que se acham em via de execução, para vos abrirem a era de renovação e de aperfeiçoamento, que os vossos guias espirituais vos predizem.
 >
@@ -4647,7 +4647,7 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 >
 >**Chateaubriand**
 
-<h5>3</h5>
+**3**
 
 >Penso que o Espiritismo é um estudo todo filosófico das causas secretas dos movimentos interiores da alma, até agora nada ou pouco definidos.
 >
@@ -4661,19 +4661,19 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 >
 >**J. J. Rousseau**
 
-<h5>4</h5>
+**4**
 
 >Se Deus envia os Espíritos a instruir os homens, é para que estes se esclareçam sobre seus deveres, é para lhes mostrarem o caminho por onde poderão abreviar suas provas e, conseguintemente apressar o seu progresso. Ora, do mesmo modo que o fruto chega à madureza, também o homem chegará à perfeição. Porém, de par com Espíritos bons, que desejam o vosso bem, há igualmente os Espíritos imperfeitos, que desejam o vosso mal. Ao passo que uns vos impelem para frente, outros vos puxam para trás. A saber distingui-los é que deve aplicar-se toda a vossa atenção. É fácil o meio: trata-se unicamente de compreenderdes que o que vem de um Espírito bom não pode prejudicar a quem quer que seja e que tudo o que seja mal só de um mau Espírito pode provir. Se não escutardes os sábios conselhos dos Espíritos que vos querem bem, se vos ofenderdes pelas verdades, que eles vos digam, evidente é que são maus os Espíritos que vos inspiram. Só o orgulho pode impedir que vos vejais quais realmente sois. Mas se vós mesmos não o vedes, outros o veem por vós. De sorte que, então, sois censurados pelos homens, que de vós se riem por detrás, e pelos Espíritos.
 >
 >**Um Espírito familiar**
 
-<h5>5</h5>
+**5**
 
 >É bela e santa a vossa Doutrina. O primeiro marco está plantado e plantado solidamente. Agora, só tendes que caminhar. A estrada que vos está aberta é grande e majestosa. Feliz daquele que chegar ao porto; quanto mais prosélitos houver feito, tanto mais lhe será contado. Para isso, cumpre não abraçar friamente a Doutrina; é preciso fazê-lo com ardor e esse ardor será duplicado, porquanto Deus está convosco, sempre que fazeis o bem. Todos os que atrairdes serão outras tantas ovelhas que voltaram ao aprisco. Pobres ovelhas meio transviadas! Crede que o mais cético, o mais ateu, o mais incrédulo, enfim, tem sempre no coração um cantinho que ele desejara poder ocultar a si mesmo. Esse cantinho é que é preciso procurar, é que é preciso achar. É o lado vulnerável que se deve atacar. É uma brechazinha que Deus intencionalmente deixa aberta, para facilitar à sua criatura o meio de lhe voltar ao seio.
 >
 >**São Bento**
 
-<h5>6</h5>
+**6**
 
 >Não vos arreceeis de certos obstáculos, de certas controvérsias.
 >
@@ -4685,19 +4685,19 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 >
 >**São Luís**
 
-<h5>7</h5>
+**7**
 
 >Qual a instituição humana, ou mesmo divina, que não encontrou obstáculos a vencer, cismas contra que lutar? Se apenas tivésseis uma existência triste e lânguida, ninguém vos atacaria, sabendo perfeitamente que havíeis de sucumbir de um momento para outro. Mas como a vossa vitalidade é forte e ativa, como a árvore espírita tem fortes raízes, admitem que ela poderá viver longo tempo e tentam golpeá-la a machado. Que conseguirão esses invejosos? Quando muito, deceparão alguns galhos, que renascerão com seiva nova e serão mais robustos do que nunca.
 >
 >**Channing**
 
-<h5>8</h5>
+**8**
 
 >Vou falar-vos da firmeza que deveis possuir nos vossos trabalhos espíritas. Uma citação sobre este ponto já vos foi feita. Aconselho-vos que a estudeis de coração e que lhe apliqueis o espírito a vós mesmos, porquanto, como Paulo, sereis perseguidos, não em carne e em osso, mas em espírito. Os incrédulos, os fariseus da época vos hão de vituperar e escarnecer. Nada temais: será uma prova que vos fortalecerá, se a souberdes entregar a Deus e mais tarde vereis coroados de êxito os vossos esforços. Será para vós um grande triunfo no dia da eternidade, sem esquecer que, neste mundo, já é um consolo, para os que hão perdido parentes e amigos. Saber que estes são ditosos, que se podem comunicar com eles é uma felicidade. Caminhai, pois, para frente; cumpri a missão que Deus vos dá e ela será contada no dia em que comparecerdes ante o Onipotente.
 >
 >**Channing**
 
-<h5>9</h5>
+**9**
 
 >Venho, Eu, vosso Salvador e vosso Juiz; venho, como outrora, aos filhos transviados de Israel; venho trazer a verdade e dissipar as trevas. Escutai-me. O Espiritismo, como outrora a minha palavra, tem que lembrar aos materialistas que acima deles reina a imutável verdade: o Deus bom, o Deus grande, que faz germinar a planta e que levanta as ondas. Revelei a Doutrina divina; como o ceifeiro, atei em feixes o bem esparso na Humanidade e disse: Vinde a mim, vós todos que sofreis!
 >
@@ -4721,7 +4721,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 
 **Sobre os médiuns
 
-<h5>10</h5>
+**10**
 
 >Todos os homens são médiuns, todos têm um Espírito que os dirige para o bem, quando sabem escutá-lo. Agora, que uns se comuniquem diretamente com ele, valendo-se de uma mediunidade especial, que outros não o escutem senão com o coração e com a inteligência, pouco importa: não deixa de ser um Espírito familiar quem os aconselha. Chamai-lhe espírito, razão, inteligência, é sempre uma voz que responde à vossa alma, pronunciando boas palavras. Apenas, nem sempre as compreendeis.
 >
@@ -4731,7 +4731,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**Channing**
 
-<h5>11</h5>
+**11**
 
 >O dom da mediunidade é tão antigo quanto o mundo. Os Profetas eram médiuns. Os mistérios de Elêusis se fundavam na mediunidade. Os Caldeus, os Assírios tinham médiuns. Sócrates era dirigido por um Espírito que lhe inspirava os admiráveis princípios da sua filosofia; ele lhe ouvia a voz. Todos os povos tiveram seus médiuns e as inspirações de Joana d’Arc não eram mais do que vozes de Espíritos benfazejos que a dirigiam.
 >
@@ -4743,7 +4743,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**Pedro Jouty, pai do médium**
 
-<h5>12</h5>
+**12**
 
 >Deus me encarregou de desempenhar uma missão junto dos crentes a quem Ele favorece com o mediumato. Quanto mais graça recebem eles do Altíssimo, mais perigos correm e tanto maiores são esses perigos, quando se originam dos favores mesmos que Deus lhes concede.
 >
@@ -4755,7 +4755,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**Joana d’Arc**
 
-<h5>13</h5>
+**13**
 
 >Quando quiserdes receber comunicações de bons Espíritos, importa vos prepareis para esse favor pelo recolhimento, por intenções puras e pelo desejo de fazer o bem, tendo em vista o progresso geral. Porque, lembrai-vos, o egoísmo é causa de retardamento a todo progresso. Lembrai-vos de que se Deus permite que alguns dentre vós recebam o sopro daqueles de seus filhos que, pela sua conduta, souberam fazer-se merecedores de lhe compreender a infinita bondade, é que Ele quer, por solicitação nossa e atendendo às vossas boas intenções, dar-vos os meios de avançardes no caminho que a Ele conduz.
 >
@@ -4765,7 +4765,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >Pascal
 
-<h5>14</h5>
+**14**
 
 >Falar-vos-ei hoje do desinteresse, que deve ser uma das qualidades essenciais dos médiuns, tanto quanto a modéstia e o devotamento
 >
@@ -4777,7 +4777,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**Delfina de Girardin**
 
-<h5>15</h5>
+**15**
 
 >Todos os médiuns são, incontestavelmente, chamados a servir à causa do Espiritismo, na medida de suas faculdades, mas bem poucos há que não se deixem prender nas armadilhas do amor-próprio. É uma pedra de toque, que raramente deixa de produzir efeito. Assim é que, sobre cem médiuns, um, se tanto, encontrareis que, por muito ínfimo que seja, não se tenha julgado, nos primeiros tempos da sua mediunidade, fadado a obter coisas superiores e predestinado a grandes missões. Os que sucumbem a essa vaidosa esperança, e grande é o número deles, se tornam inevitavelmente presas de Espíritos obsessores, que não tardam a subjugá-los, lisonjeando-lhes o orgulho e apanhando-os pelo seu fraco. Quanto mais pretenderem eles elevar-se, tanto mais ridícula lhes será a queda, quando não desastrosa.
 >
@@ -4789,7 +4789,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**O Espírito de Verdade**
 
-**Sobre as Sociedades Espíritas
+**Sobre as Sociedades Espíritas**
 
 📝 Nota Das comunicações que se seguem, algumas foram dadas na Sociedade Parisiense de Estudos Espíritas, ou em sua intenção. Outras, que nos foram transmitidas por diversos médiuns, encerram conselhos gerais sobre os grupos, sua formação e obstáculos que podem encontrar.
 
@@ -4817,7 +4817,7 @@ Redigi-a, pois, vós mesmos e submetei-ma, se quiserdes. Eu vos ajudarei.
 >
 >“Pedimos, particularmente, a..., nosso protetor especial, que assinta em nos trazer hoje o seu concurso.”
 
-<h5>17</h5>
+**17**
 
 >Meus amigos, deixai que vos dê um conselho, visto que palmilhais um terreno novo e que, se seguirdes a rota que vos indicamos, não vos transviareis.
 >
@@ -4827,7 +4827,7 @@ Redigi-a, pois, vós mesmos e submetei-ma, se quiserdes. Eu vos ajudarei.
 >
 >**São Luís**
 
-<h5>18</h5>
+**18**
 
 >Zombaram das mesas girantes, nunca zombarão da filosofia, da sabedoria e da caridade que brilham nas comunicações sérias. Aquelas foram o vestíbulo da ciência; aí, todo aquele que entra tem que deixar seus prejuízos, como deixa a capa.
 >
@@ -4841,7 +4841,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 
 >“Eu não poderia condenar as manifestações físicas, pois que se elas se produzem, é com permissão de Deus e para um fim proveitoso. Dizendo que foram o vestíbulo da ciência, assino-lhes a categoria que verdadeiramente lhes compete e lhes comprovo a utilidade. Condeno tão somente os que fazem disso objeto de divertimento e de curiosidade, sem tirarem o ensinamento que daí decorre. Elas são, para a filosofia do Espiritismo, o que a gramática é para a literatura, e quem haja chegado a certo grau de conhecimento numa ciência, já não perde o tempo em lhe repassar os elementos.”
 
-<h5>19</h5>
+**19**
 
 >Meus amigos e fiéis crentes, ditoso me sinto sempre que vos posso dirigir pela senda do bem. É uma suave missão que Deus me confia e de que me desvaneço, porque ser útil é sempre uma recompensa.
 >
@@ -4849,7 +4849,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**São Luís**
 
-<h5>20</h5>
+**20**
 
 >A união faz a força. Sede unidos, para serdes fortes.
 >
@@ -4857,7 +4857,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**São Vicente de Paulo**
 
-<h5>21</h5>
+**21**
 
 >Meus amigos, quereis formar um grupo espírita e eu o aprovo, porque os Espíritos não podem ver com satisfação que se conservem no insulamento os médiuns. Deus não lhes outorgou para seu uso exclusivo a sublime faculdade que possuem, mas para o bem de todos. Comunicando-se com outros, terão eles mil ensejos de se esclarecerem sobre o mérito das comunicações que recebem, ao passo que, isolados, estão muito melhor sob o domínio dos Espíritos mentirosos, que encantados ficam com o não sofrerem nenhuma fiscalização. Aí está para vós e, se o orgulho vos não subjuga, compreendê-lo-eis e aproveitareis. Aqui vai agora para os outros.
 >
@@ -4871,7 +4871,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**Fénelon**
 
-<h5>22</h5>
+**22**
 
 >Perguntastes se a multiplicidade dos grupos, em uma mesma localidade, não seria de molde a gerar rivalidades prejudiciais à Doutrina. Responderei que os que se acham imbuídos dos verdadeiros princípios desta Doutrina veem unicamente irmãos em todos os espíritas, e não rivais. Os que se mostrassem ciosos de outros grupos provariam existir-lhes no íntimo uma segunda intenção, ou o sentimento do amor-próprio, e que não os guia o amor da verdade. Afirmo que, se essas pessoas se achassem entre vós, logo semeariam no vosso grupo a discórdia e a desunião.
 >
@@ -4881,7 +4881,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**Fénelon**
 
-<h5>23</h5>
+**23**
 
 >O silêncio e o recolhimento são condições essenciais para todas as comunicações sérias. Nunca obtereis preencham essas condições os que somente pela curiosidade sejam conduzidos às vossas reuniões. Convidai, pois, os curiosos a procurar outros lugares, por isso que a distração deles constituiria uma causa de perturbação.
 >
@@ -4889,7 +4889,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**São Luís**
 
-<h5>24</h5>
+**24**
 
 >Falar-vos-ei da necessidade de observardes, nas vossas sessões, a maior regularidade, isto é, de evitardes toda confusão, toda divergência de ideias. A divergência favorece a substituição dos Espíritos bons pelos maus e quase sempre são estes que respondem às questões propostas.
 >
@@ -4899,7 +4899,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**Jorge, Espírito familiar.**
 
-<h5>25</h5>
+**25**
 
 >Com que fim, as mais das vezes, pedis comunicações aos Espíritos? Para terdes belos trechos de prosa, que mostrareis às pessoas das vossas relações como amostras do nosso talento? Preciosamente as conservais nas vossas pastas, porém, nos vossos corações não há lugar para elas. Julgais porventura que muito nos lisonjeia o comparecermos às vossas assembleias como a um concurso, para fazermos torneios de eloquência, a fim de que possais dizer que a sessão foi muito interessante? Que vos resta, depois de haverdes achado admirável uma comunicação? Supondes que vimos em busca dos vossos aplausos? Desenganai-vos. Não nos agrada divertir-vos mais de um modo que doutro. Ainda aí o que há, em vós, é curiosidade, que debalde procurais dissimular.
 >
@@ -4907,7 +4907,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**Massillon**
 
-<h5>26</h5>
+**26**
 
 >O Espiritismo devera ser uma égide contra o espírito de discórdia e de dissensão, mas esse espírito, desde todos os tempos, vem brandindo o seu facho sobre os humanos, porque cioso ele é da ventura que a paz e a união proporcionam. Espíritas! bem pode ele, portanto, penetrar nas vossas assembleias e, não duvideis, procurará semear entre vós a desafeição. Impotente, porém, será contra os que tenham a animá-los o sentimento da verdadeira caridade.
 >
@@ -4917,7 +4917,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**São Vicente de Paulo**
 
-<h5>27</h5>
+**27**
 
 >Repeli impiedosamente todos esses Espíritos que reclamam o exclusivismo de seus conselhos, pregando a divisão e o insulamento. São quase sempre Espíritos vaidosos e medíocres, que procuram impor-se a homens fracos e crédulos, prodigalizando-lhes louvores exagerados, a fim de os fascinar e ter sob seu domínio. São geralmente Espíritos famintos de poder que, déspotas, públicos ou privados, quando vivos, ainda se esforçam, depois de mortos, por ter vítimas para tiranizarem.
 >
@@ -4933,7 +4933,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 
 📝 Nota Um dos caracteres distintivos desses Espíritos, que procuram impor-se e fazer que sejam aceitas suas ideias extravagantes e sistemáticas, é o pretenderem (bom seria fossem eles os únicos dessa opinião) ter razão contra todo o mundo. Consiste a tática de que usam em evitar a discussão e, quando se veem vitoriosamente combatidos com as armas irresistíveis da lógica, negam-se desdenhosamente a responder e prescrevem a seus médiuns que se afastem dos centros onde suas ideias não são aceitas. Esse insulamento é o que há de mais fatal para os médiuns, porque, assim, sofrem eles o jugo dos Espíritos obsessores que os guiam como cegos, e os levam frequentemente aos maus caminhos.
 
-<h5>28</h5>
+**28**
 
 >Os falsos profetas não se encontram apenas entre os encarnados; há-os, igualmente, e em número muito maior, entre os Espíritos orgulhosos que, sob falsas aparências de amor e caridade, semeiam a desunião e retardam a obra de emancipação da Humanidade, lançando-lhe de través sistemas absurdos, que fazem sejam aceitos pelos seus médiuns. E, para melhor fascinarem os que eles hajam escolhido para serem enganados, a fim de darem maior peso às teorias, não escrupulizam em se utilizarem de nomes que só com muito respeito os homens pronunciam: os de santos com razão venerados, os de Jesus, de Maria, mesmo o de Deus.
 >
@@ -4949,7 +4949,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 
 Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os mais respeitáveis nomes, o senso comum basta para lhes tornar patente a falsidade. Outras, porém, há, em que o erro, dissimulado entre coisas aproveitáveis, chega a iludir, impedindo às vezes se possa apreendê-lo à primeira vista. Essas comunicações, no entanto, não resistem a um exame sério. Vamos, como amostra, reproduzir aqui algumas.
 
-<h5>29</h5>
+**29**
 
 >A criação perpétua e incessante dos mundos é, para Deus, um como gozo perpétuo, porque Ele vê incessantemente seus raios se tornarem cada dia mais luminosos em felicidade. Para Deus, não há número, do mesmo modo que não há tempo. Eis por que centenas ou milhares não são, para Ele, mais nem menos uns do que outros. É um Pai, cuja felicidade se forma da felicidade coletiva de seus filhos e que, a cada segundo da Criação, vê uma nova felicidade vir fundir-se na felicidade geral. Não há parada, nem suspensão, nesse movimento perpétuo, nessa grande felicidade incessante que fecunda a terra e o céu. Do mundo, não se conhece mais do que uma pequena fração e tendes irmãos que vivem em latitudes onde o homem ainda não chegou a penetrar. Que significam esses calores de torrar e esses frios mortais, que detêm os esforços dos mais ousados? Julgais, com simplicidade, haver chegado ao limite do vosso mundo, quando não podeis mais avançar com os insignificantes meios de que dispondes? Poderíeis então medir exatamente o vosso planeta? Não creiais isso. Há no vosso planeta mais lugares ignorados do que lugares conhecidos. Porém, como é inútil que se propaguem ainda mais todas as vossas instituições más, todas as vossas leis más, ações e existências, há um limite que vos detém aqui e ali e que vos deterá até que tenhais de transportar as boas sementes que o vosso livre-arbítrio fez. Oh! não, não conheceis esse mundo, a que chamais Terra. Vereis na vossa existência um grande começo de provas desta comunicação. Eis que vai soar a hora em que haverá uma outra descoberta diferente da última que foi feita; eis que se vai alargar o círculo da vossa Terra conhecida e, quando toda a imprensa cantar esse Hosana em todas as línguas, vós, pobres filhos, que amais a Deus e que procurais sua voz, o tereis sabido antes daqueles mesmos que darão nome à nova Terra.
 >
@@ -4957,7 +4957,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 📝 Nota Do ponto de vista do estilo, esta comunicação não resiste à crítica. As incorreções, os pleonasmos, os torneios viciosos saltam aos olhos de qualquer, por menos letrado que seja. Isso, porém, nada provaria contra o nome que a firma, dado que tais imperfeições poderiam decorrer da incapacidade do médium, conforme já o demonstramos. O que é do Espírito é a ideia. Ora, dizer, como ele diz, que no nosso planeta há mais lugares ignorados do que lugares conhecidos, que um novo continente vai ser descoberto é, para um Espírito que se qualifica de superior, dar prova da mais profunda ignorância. Sem dúvida, é possível que, para além das regiões glaciais, se descubram alguns cantos de terra desconhecidos, mas dizer que essas terras são povoadas e que Deus as conserva ocultas dos homens, a fim de que estes não levem para lá suas más instituições, é acreditar demasiado na confiança cega daqueles a quem semelhantes absurdos são propinados.
 
-<h5>30</h5>
+**30**
 
 >Meus filhos, o nosso mundo material e o Mundo Espiritual, que bem poucos ainda conhecem, formam como que os dois pratos da balança perpétua. Até aqui, as nossas religiões, as nossas leis, os nossos costumes e as nossas paixões têm feito de tal modo descer o prato do mal e subir o do bem, que se há visto o mal reinar soberanamente na Terra. Desde séculos, é sempre a mesma a queixa que se desprende da boca do homem e a conclusão fatal é a injustiça de Deus. Alguns há mesmo que vão até a negação da existência de Deus. Vedes tudo aqui e nada lá; vedes o supérfluo que choca a necessidade, o ouro que brilha junto da lama; todos os mais chocantes contrastes que vos deveriam provar a vossa dupla natureza. Donde vem isto? De quem a falta? Eis o que é preciso pesquisar com tranquilidade e com imparcialidade. Quando sinceramente se deseja achar um bom remédio, acha-se. Pois bem! malgrado a essa dominação do mal sobre o bem, por culpa vossa, por que não vedes o resto ir direito pela linha traçada por Deus? Vedes as estações se desarranjarem? os calores e os frios se chocarem inconsideradamente? a luz do sol esquecer-se de iluminar a Terra? a terra esquecer em seu seio as sementes que o homem aí depositou? Vedes a cessação dos mil milagres perpétuos que se produzem sob nossos olhos, desde o nascimento do arbusto até o nascimento da criança, o homem futuro? Mas tudo vai bem do lado de Deus, tudo vai mal do lado do homem. Qual o remédio para isto? É muito simples: aproximarem-se de Deus, amarem-se, unirem-se, entenderem-se e seguirem tranquilamente a estrada cujos marcos se veem com os olhos da fé e da consciência.
 >
@@ -4965,7 +4965,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 📝 Nota Esta comunicação foi obtida no mesmo círculo, mas quanto difere da precedente, não só pelas ideias, como também pelo estilo! Tudo aí é justo, profundo, sensato e certamente São Vicente de Paulo não a desdenharia, pelo que se lhe pode atribuí-la sem receio.
 
-<h5>31</h5>
+**31**
 
 >Vamos, filhos, cerrai as vossas fileiras, isto é, que a boa união faça a vossa força. Vós, que trabalhais na fundação do grande edifício, vigiai e trabalhai sempre por lhe consolidar a base; então, podereis elevá-lo bem alto, bem alto! A progressão é imensa sobre todo o nosso globo; uma quantidade inumerável de prosélitos se enfileiram sob o nosso estandarte; muitos céticos e até dos mais incrédulos também se aproximam.
 >
@@ -4979,7 +4979,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 📝 Nota Napoleão era, em vida, um homem grave e sério. Toda gente lhe conhece o estilo breve e conciso. Teria degenerado singularmente se, depois de morto, se houvesse tornado verboso e burlesco. Esta comunicação talvez seja do Espírito de algum soldado que se chamava Napoleão.
 
-<h5>32</h5>
+**32**
 
 >Não, não se pode mudar de religião, quando não se tem uma que possa, ao mesmo tempo, satisfazer ao senso comum e à inteligência que se tem e que possa, sobretudo, dar ao homem consolações presentes. Não, não se muda de religião, cai-se da inépcia e da dominação na sabedoria e na liberdade. Ide, ide, pequeno exército nosso! ide e não temais as balas inimigas; as que vos hão de matar ainda não foram feitas, se estiverdes sempre, do fundo do coração, na senda do Senhor, isto é, se quiserdes sempre combater pacificamente e vitoriosamente pelo bem-estar e pela liberdade.
 >
@@ -4987,7 +4987,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 📝 Nota Quem reconheceria São Vicente de Paulo por esta linguagem, por estes pensamentos desalinhavados e baldos de senso? Que significam estas palavras: Não, não se muda de religião, cai-se da inépcia e da dominação na sabedoria e na liberdade? Com as suas balas, que ainda não estão feitas, muito suspeitamos que este Espírito é o mesmo que acima se assinou Napoleão.
 
-<h5>33</h5>
+**33**
 
 >Filhos da minha fé, cristãos da minha doutrina esquecida pelos interesses das ondas da filosofia dos materialistas, segui-me no caminho da Judeia, segui a paixão da minha vida, contemplai meus inimigos agora, vede os meus sofrimentos, meus tormentos e meu sangue derramado.
 >
@@ -5007,7 +5007,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 📝 Nota Indubitavelmente, nada há de mau nestas duas comunicações; porém, teve o Cristo alguma vez essa linguagem pretensiosa, enfática e empolada? Faça-se a sua comparação com a que citamos acima, firmada pelo mesmo nome, e ver-se-á de que lado está o cunho da autenticidade. Todas estas comunicações foram obtidas no mesmo círculo. Nota-se, no estilo, certo tom familiar, idênticos torneios de frases, as mesmas expressões repetidas com frequência, como, por exemplo, ide, ide, filhos etc., donde se pode concluir que é o mesmo Espírito que as deu todas, sob nomes diferentes. Entretanto, nesse círculo, aliás consciencioso, se bem que um tanto crédulo demais, não se faziam evocações, nem perguntas; tudo se esperava das comunicações espontâneas, o que, como se vê, não constitui certamente uma garantia de identidade. Com algumas perguntas um pouco insistentes e forradas de lógica, teriam facilmente reposto esse Espírito no seu lugar. Ele, porém, sabia que nada tinha a temer, porquanto nada lhe perguntavam e aceitavam sem verificação e de olhos fechados tudo o que ele dizia. (**Veja-se** o **item** 269.)
 
-<h5>34</h5>
+**34**
 
 >Como é bela a Natureza! Como é prudente a Providência, na sua previdência! Mas a vossa cegueira e as vossas paixões humanas impedem que tireis paciência da prudência e da bondade de Deus. À menor nuvem, ao menor atraso nas vossas previsões, vós vos lamentais. Sabei, impacientes duvidadores, que nada acontece sem um motivo sempre previsto, sempre premeditado em proveito de todos. A razão do que precede é para reduzir a nada, homens de temores hipócritas, todas as vossas previsões de ano mau para as vossas colheitas.
 >
@@ -5163,7 +5163,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 <a href="#LDM">🔼</a>
 
-<h5>📑 Notas de rodapé</h5>
+**📑 Notas de rodapé**
 
 [^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
