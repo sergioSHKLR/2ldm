@@ -5039,7 +5039,7 @@ Tiptólogo – Gênero de médiuns aptos à tiptologia. Médium tiptólogo.
 
 <a href="#LDM">🔼</a>
 
-<a name="LDM-3-01"><code>LDM-3-01</code></a>
+<a name="LDE-6-01"><code>LDE-6-01</code></a>
 
 <h3>📃 1. Nota explicativa</h3>
 
@@ -5049,19 +5049,27 @@ A investigação rigorosamente racional e científica de fatos que revelavam a c
 
 A partir de 1854 até seu falecimento, em 1869, seu trabalho foi constituído de cinco obras básicas:
 
-. 👻 **O Livro dos Espíritos** (1857),
-. ✒️ **O Livro dos Médiuns** (1861),
-. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
-. 🔥 **O Céu e o Inferno** (1865),
-. 🌱 **A Gênese** (1868),
+1. 👻 **O Livro dos Espíritos** (1857),
+
+2. ✒️ **O Livro dos Médiuns** (1861),
+
+3. 🕊️ **O Evangelho segundo o Espiritismo** (1864),
+
+4. 🔥 **O Céu e o Inferno** (1865),
+
+5. 🌱 **A Gênese** (1868),
 
 além da obra 🔍 **O Que é o Espiritismo** (1859), de uma série de opúsculos e 136 edições da 📓 **Revista Espírita** (de janeiro de 1858 a abril de 1869). Após sua morte, foi editado o livro 🪦 **Obras Póstumas** (1890).
 
 O estudo meticuloso e isento dessas obras permite-nos extrair conclusões básicas:
-. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
-. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
-. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
-. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
+
+1. todos os seres humanos são Espíritos imortais criados por Deus em igualdade de condições, sujeitos às mesmas leis naturais de progresso que levam todos, gradativamente, à perfeição;
+
+2. o progresso ocorre através de sucessivas experiências, em inúmeras reencarnações, vivenciando necessariamente todos os segmentos sociais, única forma de o Espírito acumular o aprendizado necessário ao seu desenvolvimento;
+
+3. no período entre as reencarnações o Espírito permanece no mundo espiritual, podendo comunicar-se com os homens;
+
+4. o progresso obedece às leis morais ensinadas e vivenciadas por Jesus, nosso guia e modelo, referência para todos os homens que desejam desenvolver-se de forma consciente e voluntária.
 
 Em diversos pontos de sua obra, o Codificador se refere aos Espíritos encarnados em tribos incultas e selvagens, então existentes em algumas regiões do Planeta, e que, em contato com outros polos de civilização, vinham sofrendo inúmeras transformações, muitas com evidente benefício para os seus membros, decorrentes do progresso geral ao qual estão sujeitas todas as etnias, independentemente da coloração de sua pele.
 
