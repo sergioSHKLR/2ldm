@@ -190,9 +190,11 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 - #️⃣ 7. Se a crença nos Espíritos e nas suas manifestações representasse uma concepção singular, fosse produto de um sistema, poderia, com visos de razão, merecer a suspeita de ilusória. Digam-nos, porém, por que com ela deparamos tão vivaz entre todos os povos, antigos e modernos, e nos livros santos de todas as religiões conhecidas? É, respondem os críticos, porque, desde todos os tempos, o homem teve o gosto do maravilhoso.
 
   Mas que entendeis por maravilhoso?
+
   — O que é sobrenatural.
 
   Que entendeis por sobrenatural?
+  
   — O que é contrário às Leis da Natureza.
 
   Conheceis, porventura, tão bem essas leis, que possais marcar limite ao poder de Deus? Pois bem! Provai então que a existência dos Espíritos e suas manifestações são contrárias às Leis da Natureza; que não é, nem pode ser, uma destas leis. Acompanhai a Doutrina Espírita e vede se todos os elos, ligados uniformemente à cadeia, não apresentam todos os caracteres de uma lei admirável, que resolve tudo o que as filosofias até agora não puderam resolver.
