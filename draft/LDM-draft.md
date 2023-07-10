@@ -57,6 +57,8 @@ Copyright © 1944 by<br />
 Federação Espírita Brasileira — FEB<br />
 ISBN 978-85-7328-729-5
 
+<a href="#LDM-0">🔼</a>
+
 ---
 
 <a name="LDM-0"><code>LDM-0</code></a>
@@ -86,6 +88,8 @@ Verão, aí, os óbices com que poderão deparar e terão também um meio de evi
 Importantes alterações para melhor foram introduzidas nesta segunda edição, muito mais completa do que a primeira. Acrescentando-lhe grande número de notas e instruções do maior interesse, os Espíritos a corrigiram, com particular cuidado. Como reviram tudo, aprovando-a ou modificando-a à sua vontade, pode dizer-se que ela é, em grande parte, obra deles, porquanto a intervenção que tiveram não se limitou aos artigos que trazem assinaturas. São poucos esses artigos, porque apenas apusemos nomes quando isso nos pareceu necessário, para assinalar que algumas citações um tanto extensas provieram deles textualmente. A não ser assim, houvéramos de citá-los quase que em todas as páginas, especialmente em seguida a todas as respostas dadas às perguntas que lhes foram feitas, o que se nos afigurou de nenhuma utilidade. Os nomes, como se sabe, importam pouco em tais assuntos. O essencial é que o conjunto do trabalho corresponda ao fim que colimamos. O acolhimento dado à primeira edição, posto que imperfeita, faz-nos esperar que a presente não encontre menos receptividade.
 
 Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos alguns artigos, que ficariam em duplicata, entre outros o que tratava da **Escala espírita**, que já se encontra em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md). Suprimimos igualmente do “_Vocabulário_” o que não se ajustava bem no quadro desta obra, substituindo vantajosamente o que foi supresso por coisas mais práticas. Esse vocabulário, além do mais, não estava completo e tencionamos publicá-lo mais tarde, em separado, sob o formato de um pequeno dicionário de filosofia espírita. Conservamos nesta edição apenas as palavras novas ou especiais, pertinentes aos assuntos de que nos ocupamos.
+
+<a href="#LDM-0">🔼</a>
 
 ---
 
