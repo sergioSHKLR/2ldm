@@ -183,7 +183,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 ---
 <a name="LDM-1-02"><code>LDM-1-02</code></a>
 
-<h3>`LDM-1-02` 📑 2. Do maravilhoso e do sobrenatural</h3>
+<h3>📑 2. Do maravilhoso e do sobrenatural</h3>
 
 <a name="LDM-p7"><code>LDM-p7</code></a>
 
@@ -298,7 +298,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 <a name="LDM-1-03"><code>LDM-1-03</code></a>
 
-<h3>`LDM-1-03` 📑 3. Do método</h3>
+<h3>📑 3. Do método</h3>
 
 <a name="LDM-p18"><code>LDM-p18</code></a>
 
@@ -435,7 +435,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
 <a name="LDM-1-04"><code>LDM-1-04</code></a>
 
-<h3>`LDM-1-04` 📑 4. Dos sistemas</h3>
+<h3>📑 4. Dos sistemas</h3>
 
 <a name="LDM-p36"><code>LDM-p36</code></a>
 
@@ -730,7 +730,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 ---
 <a name="LDM-X"><code>LDM-60</code></a>
 
-<h3>`LDM-2-02` 📑 2. Das manifestações físicas. Das mesas girantes</h3>
+<h3>📑 2. Das manifestações físicas. Das mesas girantes</h3>
 
 ---
 
@@ -773,7 +773,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 ---
 <a name="LDM-2-03"><code>LDM-2-03</code></a>
 
-<h3>`LDM-2-03` 📑 3. Das manifestações inteligentes</h3>
+<h3>📑 3. Das manifestações inteligentes</h3>
 
 <a name="LDM-p65"><code>LDM-p65</code></a>
 
@@ -817,7 +817,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-04"><code>LDM-2-04</code></a>
 
-<h3>`LDM-2-04` 📑 4. Da teoria das manifestações físicas</h3>
+<h3>📑 4. Da teoria das manifestações físicas</h3>
 
 <a name="LDM-p72"><code>LDM-p72</code></a>
 
@@ -965,7 +965,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-05"><code>LDM-2-05</code></a>
 
-<h3>`LDM-2-05` 📑 5. Das manifestações físicas espontâneas</h3>
+<h3>📑 5. Das manifestações físicas espontâneas</h3>
 
 ---
 
@@ -1280,7 +1280,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-06"><code>LDM-2-06</code></a>
 
-<h3>`LDM-2-06` 📑 6. Das manifestações visuais</h3>
+<h3>📑 6. Das manifestações visuais</h3>
 
 <a name="LDM-p100"><code>LDM-p100</code></a>
 
@@ -1529,7 +1529,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-07"><code>LDM-2-07</code></a>
 
-<h3>`LDM-2-07` 📑 7. Da bicorporeidade e da transfiguração</h3>
+<h3>📑 7. Da bicorporeidade e da transfiguração</h3>
 
 <a name="LDM-p114"><code>LDM-p114</code></a>
 
@@ -1631,7 +1631,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-08"><code>LDM-2-08</code></a>
 
-<h3>`LDM-2-08` 📑 8. Do laboratório do mundo invisível</h3>
+<h3>📑 8. Do laboratório do mundo invisível</h3>
 
 <a name="LDM-p126"><code>LDM-p126</code></a>
 
@@ -1739,7 +1739,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-09"><code>LDM-2-09</code></a>
 
-<h3>`LDM-2-09` 📑 9. Dos lugares assombrados</h3>
+<h3>📑 9. Dos lugares assombrados</h3>
 
 <a name="LDM-p132"><code>LDM-p132</code></a>
 
@@ -1812,7 +1812,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-10"><code>LDM-2-10</code></a>
 
-<h3>`LDM-2-10` 📑 10. Da natureza das comunicações</h3>
+<h3>📑 10. Da natureza das comunicações</h3>
 
 <a name="LDM-p133"><code>LDM-p133</code></a>
 
@@ -1848,7 +1848,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-11"><code>LDM-2-11</code></a>
 
-<h3>`LDM-2-11` 📑 11. Da sematologia e da tiptologia</h3>
+<h3>📑 11. Da sematologia e da tiptologia</h3>
 
 <a name="LDM-p139"><code>LDM-p139</code></a>
 
@@ -1907,7 +1907,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-12"><code>LDM-2-12</code></a>
 
-<h3>`LDM-2-12` 📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia</h3>
+<h3>📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia</h3>
 
 <a name="LDM-p146"><code>LDM-p146</code></a>
 
@@ -1961,7 +1961,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-13"><code>LDM-2-13</code></a>
 
-<h3>`LDM-2-13` 📑 13. Da psicografia</h3>
+<h3>📑 13. Da psicografia</h3>
 
 <a name="LDM-p152"><code>LDM-p152</code></a>
 
@@ -1999,7 +1999,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-2-14"><code>LDM-2-14</code></a>
 
-<h3>`LDM-2-14` 📑 14. Dos médiuns</h3>
+<h3>📑 14. Dos médiuns</h3>
 
 <a name="LDM-p159"><code>LDM-pX</code></a>
 
@@ -2175,7 +2175,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Trataremos de modo especial dos médiuns escreventes nos **capítulo**s que se seguem.
 
-<h3>`LDM-2-15` 📑 15. Dos médiuns escreventes ou psicógrafos</h3>
+<h3>📑 15. Dos médiuns escreventes ou psicógrafos</h3>
 
 <a name="LDM-p178"><code>LDM-pX</code></a>
 
@@ -2238,7 +2238,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 - #️⃣ 184. O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-16` 📑 16. Dos médiuns especiais</h3>
+<h3>📑 16. Dos médiuns especiais</h3>
 
 <a name="LDM-p185"><code>LDM-pX</code></a>
 
@@ -2505,7 +2505,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Cumpre, além disso, notar que os matizes que a mediunidade apresenta, e aos quais outros mais se poderiam acrescentar, nem sempre guardam relação com o caráter do médium. Assim, por exemplo, um médium naturalmente alegre, jovial, pode obter comumente comunicações graves, mesmo severas e vice-versa. É ainda uma prova evidente de que ele age sob a impulsão de uma influência estranha. Voltaremos ao assunto no **capítulo** que trata da influência moral do médium.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-17` 📑 17. Da formação dos médiuns</h3>
+<h3>📑 17. Da formação dos médiuns</h3>
 
 <a name="LDM-p200"><code>LDM-pX</code></a>
 
@@ -2692,7 +2692,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >“_Não tem ele os livros, como tem o cristão o Evangelho? Para praticar a moral de Jesus, não é preciso que o cristão tenha ouvido as palavras ao lhe saírem da boca._”
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-18` 📑 18. Dos inconvenientes e perigos da mediunidade</h3>
+<h3>📑 18. Dos inconvenientes e perigos da mediunidade</h3>
 
 <a name="LDM-p221"><code>LDM-pX</code></a>
 
@@ -2728,7 +2728,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de O livro dos espíritos.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-19` 📑 19. Do papel dos médiuns nas comunicações espíritas</h3>
+<h3>📑 19. Do papel dos médiuns nas comunicações espíritas</h3>
 
 <a name="LDM-p223"><code>LDM-pX</code></a>
 
@@ -2856,7 +2856,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Se os que reclamam esses fenômenos, como meio de se convencerem, estudassem previamente a teoria, haviam de saber em que condições excepcionais eles se produzem.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-20` 📑 20. Da influência moral do médium</h3>
+<h3>📑 20. Da influência moral do médium</h3>
 
 <a name="LDM-p226"><code>LDM-pX</code></a>
 
@@ -2944,7 +2944,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >**Erasto**
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-21` 📑 21. Da influência do meio</h3>
+<h3>📑 21. Da influência do meio</h3>
 
 <a name="LDM-p231"><code>LDM-pX</code></a>
 
@@ -2972,7 +2972,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Em resumo: as condições do meio serão tanto melhores quanto mais homogeneidade houver para o bem, mais sentimentos puros e elevados, mais desejo sincero de instrução, sem ideias preconcebidas.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-22` 📑 22. Da mediunidade nos animais</h3>
+<h3>📑 22. Da mediunidade nos animais</h3>
 
 <a name="LDM-p234"><code>LDM-pX</code></a>
 
@@ -3028,7 +3028,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-23` 📑 23. Da obsessão</h3>
+<h3>📑 23. Da obsessão</h3>
 
 <a name="LDM-p237"><code>LDM-pX</code></a>
 
@@ -3207,7 +3207,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >“_Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo._”
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-24` 📑 24. Da identidade dos Espíritos</h3>
+<h3>📑 24. Da identidade dos Espíritos</h3>
 
 <h4>Provas possíveis de identidade</h4>
 
@@ -3432,7 +3432,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   📝 Nota Há médiuns de maior ou menor impressionabilidade nervosa, pelo que a agitação não se pode considerar como regra absoluta. Aqui, como em tudo, devem ter-se em conta as circunstâncias. O caráter penoso e desagradável da impressão é um efeito de contraste, porquanto, se o Espírito do médium simpatiza com o mau Espírito que se manifesta, nada ou muito pouco a proximidade deste o afetará. Todavia, é preciso se não confunda a rapidez da escrita, que deriva da extrema flexibilidade de certos médiuns, com a agitação convulsiva que os médiuns mais lentos podem experimentar ao contato dos Espíritos imperfeitos.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-25` 📑 25. Das evocações</h3>
+<h3>📑 25. Das evocações</h3>
 
 <a name="LDM-p269"><code>LDM-pX</code></a>
 
@@ -3799,7 +3799,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-26` 📑 26. Das perguntas que se podem fazer aos Espíritos</h3>
+<h3>📑 26. Das perguntas que se podem fazer aos Espíritos</h3>
 
 <h4>Observações preliminares</h4>
 
@@ -4007,7 +4007,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   📝 Nota. As questões sobre a constituição física e os elementos astronômicos dos mundos se compreendem no campo das pesquisas científicas, para cuja efetivação não devem os Espíritos poupar-nos os trabalhos que demandam. Se não fosse assim, muito cômodo se tornaria para um astrônomo pedir aos Espíritos que lhe fizessem os cálculos, o que, no entanto, depois, sem dúvida, esconderia. Se os Espíritos pudessem, por meio da revelação, evitar o trabalho de uma descoberta, é provável que o fizessem para um sábio que, por bastante modesto, não hesitaria em proclamar abertamente o meio pelo qual o alcançara e não para os orgulhosos que os renegam e a cujo amor-próprio, ao contrário, eles muitas vezes poupam decepções.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-27` 📑 27. Das contradições e das mistificações</h3>
+<h3>📑 27. Das contradições e das mistificações</h3>
 
 <h4>Das contradições</h4>
   
@@ -4117,7 +4117,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   📝 Nota A astúcia dos Espíritos mistificadores ultrapassa às vezes tudo o que se possa imaginar. A arte, com que dispõem as suas baterias e combinam os meios de persuadir, seria uma coisa curiosa, se eles nunca passassem dos simples gracejos; porém, as mistificações podem ter consequências desagradáveis para os que não se achem em guarda. Sentimo-nos felizes por termos podido abrir a tempo os olhos a muitas pessoas que se dignaram de pedir o nosso parecer e por lhes havermos poupado ações ridículas e comprometedoras. Entre os meios que esses Espíritos empregam, devem colocar-se na primeira linha, como os mais frequentes, os que têm por fim tentar a cobiça, como a revelação de pretendidos tesouros ocultos, o anúncio de heranças, ou outras fontes de riquezas. Devem, além disso, considerar-se suspeitas, logo à primeira vista, as predições com época determinada, assim como todas as indicações precisas, relativas a interesses materiais. Cumpre não se deem os passos prescritos ou aconselhados pelos Espíritos, quando o fim não seja eminentemente racional; que ninguém nunca se deixe deslumbrar pelos nomes que os Espíritos tomam para dar aparência de veracidade às suas palavras; desconfiar das teorias e sistemas científicos ousados; enfim, de tudo o que se afaste do objetivo moral das manifestações. Encheríamos um volume dos mais curiosos, se houvéramos de referir todas as mistificações de que temos tido conhecimento.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-28` 📑 28. Do charlatanismo e do embuste</h3>
+<h3>📑 28. Do charlatanismo e do embuste</h3>
 
 <h4>Médiuns interesseiros</h4>
 
@@ -4244,7 +4244,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   Em resumo, repetimos, a melhor garantia está na moralidade notória dos médiuns e na ausência de todas as causas de interesse material, ou de amor-próprio, capazes de estimular-lhes o exercício das faculdades mediúnicas que possuam, porquanto essas mesmas causas poderiam induzi-los a simular as de que não dispõem.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-29` 📑 29. Das reuniões e das Sociedades Espíritas</h3>
+<h3>📑 29. Das reuniões e das Sociedades Espíritas</h3>
 
 <h4>Das reuniões em geral</h4>
 
@@ -4439,7 +4439,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-30` 📑 30. Regulamento da Sociedade Parisiense de Estudos Espíritas</h3>
+<h3>📑 30. Regulamento da Sociedade Parisiense de Estudos Espíritas</h3>
 
 Fundada a 1º de abril de 1858
 
@@ -4570,7 +4570,7 @@ Art. 29º — O presente regulamento poderá ser modificado, quando for convenie
 Pode a Sociedade, sem modificar o seu regulamento nos pontos essenciais, adotar todas as medidas complementares que lhe pareçam necessárias.
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-31` 📑 31. Dissertações espíritas</h3>
+<h3>📑 31. Dissertações espíritas</h3>
 
 Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confirmam os princípios exarados nesta obra. Poderíamos inseri-los em muito maior número; limitamo-nos, porém, aos que, de modo mais particular, dizem respeito ao porvir do Espiritismo, aos médiuns e às reuniões. Damo-los também como instrução e como tipos das comunicações verdadeiramente sérias. Encerramos o **capítulo** com algumas comunicações apócrifas, seguidas de notas apropriadas a torná-las reconhecíveis.
 
@@ -4987,7 +4987,7 @@ De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo In
 
 <a name="LDM-X"><code>LDM-X</code></a>
 
-<h3>`LDM-2-32` 📑 32. Vocabulário espírita</h3>
+<h3>📑 32. Vocabulário espírita</h3>
 
 - Agênere (Do grego a, privativo, e géiné, géinomai, gerar; que não foi gerado.) – Modalidade da aparição tangível; estado de certos Espíritos, quando temporariamente revestem as formas de uma pessoa viva, ao ponto de produzirem ilusão completa.
 
