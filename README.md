@@ -150,7 +150,7 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
 
 ### 6.3. Hierarquia 
 
-```
+<pre>
 📔 livro
  |
  └── 🗂️ parte
@@ -160,17 +160,17 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
            └── #️⃣ parágrafo
 
 ✝️ ─ trecho bíblico
-```
+</pre>
 
 Em especial no LDM, o código para parágrafos é modificado de `LDM-X-XX-XXX` para:
 
-```
+<pre>
 LDM-pXXX
  |    | 
  |    └── #️⃣ parágrafo
  |
  └── 📔 livro
-```
+</pre>
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos. Em especial, no LDM, usamos a letra `p`, de um a quatro dígitos, de modo a designar um parágrafo específico (ex. `LDM-p909)
 
@@ -178,7 +178,7 @@ Como ilustrado acima, usamos três letras para o livro, um dígito para partes, 
 
 Para facilitar a organização hierárquica, localização, correlação de items, e brevidade, um código mestre foi criado. Para isso, pequenas mudanças foram feitas ─ em forma, não em conteúdo. Este código alfanúmerico é demonstrado abaixo.
 
-```
+<pre>
 LDM-X-XX
  |  | |
  |  | └── 📑 capítulo
@@ -186,7 +186,7 @@ LDM-X-XX
  |  └── 🗂️ parte
  |
  └── 📔 livro
-```
+</pre>
 
 Como ilustrado acima, usamos três letras para o livro, um dígito para partes, e dois dígitos para capítulos e itens.
 
