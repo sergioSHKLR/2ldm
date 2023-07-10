@@ -41,7 +41,7 @@
 
 Espiritismo Experimental
 
-**✒️ O Livro dos Médiuns**
+✒️ **O Livro dos Médiuns**
 
 Ensino especial dos Espíritos sobre a teoria de todos os gêneros de manifestações, os meios de comunicação com o mundo invisível, o desenvolvimento da mediunidade, as dificuldades e os tropeços que se podem encontrar na prática do Espiritismo, constituindo o seguimento de [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md).
 
