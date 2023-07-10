@@ -4572,7 +4572,7 @@ Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confir
 <h5>4</h5>
 
 >Se Deus envia os Espíritos a instruir os homens, é para que estes se esclareçam sobre seus deveres, é para lhes mostrarem o caminho por onde poderão abreviar suas provas e, conseguintemente apressar o seu progresso. Ora, do mesmo modo que o fruto chega à madureza, também o homem chegará à perfeição. Porém, de par com Espíritos bons, que desejam o vosso bem, há igualmente os Espíritos imperfeitos, que desejam o vosso mal. Ao passo que uns vos impelem para frente, outros vos puxam para trás. A saber distingui-los é que deve aplicar-se toda a vossa atenção. É fácil o meio: trata-se unicamente de compreenderdes que o que vem de um Espírito bom não pode prejudicar a quem quer que seja e que tudo o que seja mal só de um mau Espírito pode provir. Se não escutardes os sábios conselhos dos Espíritos que vos querem bem, se vos ofenderdes pelas verdades, que eles vos digam, evidente é que são maus os Espíritos que vos inspiram. Só o orgulho pode impedir que vos vejais quais realmente sois. Mas se vós mesmos não o vedes, outros o veem por vós. De sorte que, então, sois censurados pelos homens, que de vós se riem por detrás, e pelos Espíritos.
-
+>
 >**Um Espírito familiar**
 
 <h5>5</h5>
@@ -4883,7 +4883,7 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 >
 >Vós, que combateis pela liberdade dos povos e pela regeneração da grande família humana, ide, filhos, coragem e perseverança. Deus vos ajudará. Boa noite; até a vista.
 >
->Napoleão
+>**Napoleão**
 
 📝 Nota Napoleão era, em vida, um homem grave e sério. Toda gente lhe conhece o estilo breve e conciso. Teria degenerado singularmente se, depois de morto, se houvesse tornado verboso e burlesco. Esta comunicação talvez seja do Espírito de algum soldado que se chamava Napoleão.
 
