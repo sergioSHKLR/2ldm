@@ -1,12 +1,41 @@
-# `LDM` ✒️ O LIVRO DOS MEDIUNS (draft)
+
+<style>
+  code {background-color: whitesmoke; border: 1px solid lightgrey; border-radius: 5px; padding: 2px 4px; font-size: 80%;}
+  blockquote {font-family: 'Georgia'; font-style: normal; border-left: 2px solid dodgerblue; }
+  blockquote > blockquote {border-left: 2px solid grey; font-family: "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif; font-size: 90% }
+  code > a:hover {font-style: normal; font-weight: normal;}
+  .bible {border-left: 2px solid brown;}
+</style>
+
+<script src="https://hypothes.is/embed.js" async></script>
+
+<a name="LDM"><code>LDM</code></a>
+
+<h1>✒️ <b>O Livro dos Médiuns</b></h1>
+
+**DRAFT**
+
+**Sumário**
+
+- [`LDM-0` 🗂️ Parte 0. Pré-textual](#LDM-0)
+- [`LDM-1` 🗂️ Parte 1. Noções preliminares](#LDM-1)
+- [`LDM-2` 🗂️ Parte 2. Das manifestações espíritas](#LDM-2)
+- [`LDM-3` 🗂️ Parte 3. Pós-textual](#LDM-3)
 
 ---
 
-## `LDM-0` 🗂️ Parte 0 - Pré-textual
+<a name="LDM-0"><code>LDM-0</code></a>
+
+<h2>🗂️ Parte 0. Pré-textual</h2>
+
+- [`LDM-0-01` 📃 Folha de rosto](#LDM-0-01)
+- [`LDM-0-02` 📃 Introdução](#LDM-0-02)
 
 ---
 
-### `LDM-0-01` 📃 Folha de rosto
+### `LDM-0-01` 
+
+### 📃 Folha de rosto
 
 Espiritismo Experimental
 
@@ -28,7 +57,9 @@ ISBN 978-85-7328-729-5
 
 ---
 
-### `LDM-0-02` 📃 Introdução
+### `LDM-0-02` 
+
+### 📃 Introdução
 
 Todos os dias a experiência nos traz a confirmação de que as dificuldades e os desenganos com que muitos topam na prática do Espiritismo se originam da ignorância dos princípios desta ciência e feliz nos sentimos de haver podido comprovar que o nosso trabalho, feito com o objetivo de precaver os adeptos contra os escolhos de um noviciado, produziu frutos e que à leitura desta obra devem muitos o terem logrado evitá-los.
 
@@ -56,7 +87,9 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 
 ---
 
-## `LDM-1` 🗂️ Parte 1 - Noções Preliminares
+## `LDM-1` 
+
+## 🗂️ Parte 1 - Noções Preliminares
 
 ---
 
@@ -554,7 +587,9 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-## `LDM-2` 🗂️ Parte 2 - Das manifestações espíritas
+## `LDM-2` 
+
+## 🗂️ Parte 2 - Das manifestações espíritas
 
 ---
 
@@ -4607,8 +4642,12 @@ Tiptologia (Do grego tipto, eu bato, e logos, discurso.) – Linguagem por panca
 
 Tiptólogo – Gênero de médiuns aptos à tiptologia. Médium tiptólogo.
 
-## `LDM-3` 🗂️ Parte 3 - Pós-textual
-<h3>📃 1. Nota explicativa</h3>
+## `LDM-3` 
+
+## 🗂️ Parte 3 - Pós-textual
+<h3>
+
+### 📃 1. Nota explicativa</h3>
 
 >> Hoje crêem e sua fé é inabalável, porque assentada na evidência e na demonstração, e porque satisfaz à razão. [...] Tal é a fé dos espíritas, e a prova de sua força é que se esforçam por se tornarem melhores, domarem suas inclinações más e porem em prática as máximas do Cristo, olhando todos os homens como irmãos, sem acepção de raças, de castas, nem de seitas, perdoando aos seus inimigos, retribuindo o mal com o bem, a exemplo do divino modelo. (KARDEC, Allan. 📓 **Revista Espírita** de 1868)
 
