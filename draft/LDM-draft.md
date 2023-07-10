@@ -3057,13 +3057,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h3>📑 23. Da obsessão</h3>
 
-<a name="LDM-p237"><code>LDM-pX</code></a>
+<a name="LDM-p237"><code>LDM-p237</code></a>
 
 - #️⃣ 237. Entre os escolhos que apresenta a prática do Espiritismo, cumpre se coloque na primeira linha a obsessão, isto é, o domínio que alguns Espíritos logram adquirir sobre certas pessoas. Nunca é praticada senão pelos Espíritos inferiores, que procuram dominar. Os bons Espíritos nenhum constrangimento infligem. Aconselham, combatem a influência dos maus e, se não os ouvem, retiram-se. Os maus, ao contrário, se agarram àqueles de quem podem fazer suas presas. Se chegam a dominar algum, identificam-se com o Espírito deste e o conduzem como se fora verdadeira criança.
 
   A obsessão apresenta caracteres diversos, que é preciso distinguir e que resultam do grau do constrangimento e da natureza dos efeitos que produz. A palavra obsessão é, de certo modo, um termo genérico, pelo qual se designa esta espécie de fenômeno, cujas principais variedades são: a obsessão simples, a fascinação e a subjugação.
 
-<a name="LDM-p238"><code>LDM-pX</code></a>
+<a name="LDM-p238"><code>LDM-p238</code></a>
 
 - #️⃣ 238. Dá-se a obsessão simples quando um Espírito malfazejo se impõe a um médium, se imiscui, a seu mau grado, nas comunicações que ele recebe, o impede de se comunicar com outros Espíritos e se apresenta em lugar dos que são evocados.
 
@@ -3073,7 +3073,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Podem incluir-se nesta categoria os casos de obsessão física, isto é, a que consiste nas manifestações ruidosas e obstinadas de alguns Espíritos, que fazem se ouçam, espontaneamente, pancadas ou outros ruídos. Pelo que concerne a este fenômeno, consulte-se o **capítulo** Das manifestações físicas espontâneas. ([`LDM-p82`](#ldmp82-%EF%B8%8F%E2%83%A3-82))
 
-<a name="LDM-p239"><code>LDM-pX</code></a>
+<a name="LDM-p239"><code>LDM-p239</code></a>
 
 - #️⃣ 239. A fascinação tem consequências muito mais graves. É uma ilusão produzida pela ação direta do Espírito sobre o pensamento do médium e que, de certa maneira, lhe paralisa o raciocínio, relativamente às comunicações. O médium fascinado não acredita que o estejam enganando: o Espírito tem a arte de lhe inspirar confiança cega, que o impede de ver o embuste e de compreender o absurdo do que escreve, ainda quando esse absurdo salte aos olhos de toda gente. A ilusão pode mesmo ir até ao ponto de o fazer achar sublime a linguagem mais ridícula. Fora erro acreditar que a este gênero de obsessão só estão sujeitas as pessoas simples, ignorantes e baldas de senso. Dela não se acham isentos nem os homens de mais espírito, os mais instruídos e os mais inteligentes sob outros aspectos, o que prova que tal aberração é efeito de uma causa estranha, cuja influência eles sofrem.
 
@@ -3081,7 +3081,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Compreende-se facilmente toda a diferença que existe entre a obsessão simples e a fascinação; compreende-se também que os Espíritos que produzem esses dois efeitos devem diferir de caráter. Na primeira, o Espírito que se agarra à pessoa não passa de um importuno pela sua tenacidade e de quem aquela se impacienta por desembaraçar-se. Na segunda, a coisa é muito diversa. Para chegar a tais fins, preciso é que o Espírito seja destro, ardiloso e profundamente hipócrita, porquanto não pode operar a mudança e fazer-se acolhido senão por meio da máscara que toma e de um falso aspecto de virtude. Os grandes termos — caridade, humildade, amor de Deus — lhe servem como que de carta de crédito, porém, através de tudo isso, deixa passar sinais de inferioridade, que só o fascinado é incapaz de perceber. Por isso mesmo, o que o fascinador mais teme são as pessoas que veem claro. Daí o consistir a sua tática, quase sempre, em inspirar ao seu intérprete o afastamento de quem quer que lhe possa abrir os olhos. Por esse meio, evitando toda contradição, fica certo de ter razão sempre.
 
-<a name="LDM-p240"><code>LDM-pX</code></a>
+<a name="LDM-p240"><code>LDM-p240</code></a>
 
 - #️⃣ 240. A subjugação é uma constrição que paralisa a vontade daquele que a sofre e o faz agir a seu mau grado. Numa palavra: o paciente fica sob um verdadeiro jugo.
 
@@ -3089,15 +3089,15 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Vai, às vezes, mais longe a subjugação corporal; pode levar aos mais ridículos atos. Conhecemos um homem, que não era jovem, nem belo, e que, sob o império de uma obsessão dessa natureza, se via constrangido, por uma força irresistível, a pôr-se de joelhos diante de uma moça, a cujo respeito nenhuma pretensão nutria, e pedi-la em casamento. Outras vezes, sentia nas costas e nos jarretes uma pressão enérgica, que o forçava, não obstante a resistência que lhe opunha, a se ajoelhar e beijar o chão nos lugares públicos e em presença da multidão. Esse homem passava por louco entre as pessoas de suas relações; estamos, porém, convencidos de que absolutamente não o era, porquanto tinha consciência plena do ridículo do que fazia contra a sua vontade e com isso sofria horrivelmente.
 
-<a name="LDM-p241"><code>LDM-pX</code></a>
+<a name="LDM-p241"><code>LDM-p241</code></a>
 
 - #️⃣ 241. Dava-se outrora o nome de possessão ao império exercido por maus Espíritos, quando a influência deles ia até a aberração das faculdades da vítima. A possessão seria, para nós, sinônimo da subjugação. Por dois motivos deixamos de adotar esse termo: primeiro, porque implica a crença de seres criados para o mal e perpetuamente votados ao mal, enquanto não há senão seres mais ou menos imperfeitos, os quais todos podem melhorar-se; segundo, porque implica igualmente a ideia do apoderamento de um corpo por um Espírito estranho, de uma espécie de coabitação, ao passo que o que há é apenas constrangimento. A palavra subjugação exprime perfeitamente a ideia. Assim, para nós, não há possessos, no sentido vulgar do termo, há somente obsidiados, subjugados e fascinados.
 
-<a name="LDM-p242"><code>LDM-pX</code></a>
+<a name="LDM-p242"><code>LDM-p242</code></a>
 
 - #️⃣ 242. A obsessão, como dissemos, é um dos maiores escolhos da mediunidade e também um dos mais frequentes. Por isso mesmo, não serão demais todos os esforços que se empreguem para combatê-la, porquanto, além dos inconvenientes pessoais que acarreta, é um obstáculo absoluto à bondade e à veracidade das comunicações. A obsessão, de qualquer grau, sendo sempre efeito de um constrangimento e este não podendo jamais ser exercido por um bom Espírito, segue-se que toda comunicação dada por um médium obsidiado é de origem suspeita e nenhuma confiança merece. Se nelas alguma coisa de bom se encontrar, guarde-se isso e rejeite-se tudo o que for simplesmente duvidoso.
 
-<a name="LDM-p243"><code>LDM-pX</code></a>
+<a name="LDM-p243"><code>LDM-p243</code></a>
 
 - #️⃣ 243. Reconhece-se a obsessão pelas seguintes características:
 
@@ -3119,7 +3119,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   9ª. Rumores e desordens persistentes ao redor do médium, sendo ele de tudo a causa, ou o objeto.
 
-<a name="LDM-p244"><code>LDM-pX</code></a>
+<a name="LDM-p244"><code>LDM-p244</code></a>
 
 - #️⃣ 244. Diante do perigo da obsessão, ocorre perguntar se não é lastimável ser médium. Não é a faculdade mediúnica que a provoca? Numa palavra, não constitui isso uma prova de inconveniência das comunicações espíritas? Fácil se nos apresenta a resposta e pedimos que a meditem cuidadosamente.
 
@@ -3133,11 +3133,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Em resumo: o perigo não está no Espiritismo em si mesmo, pois que este pode, ao contrário, servir-nos de governo e preservar-nos do risco que corremos incessantemente, à revelia nossa. O perigo está na orgulhosa propensão de certos médiuns para, muito levianamente, se julgarem instrumentos exclusivos de Espíritos superiores e nessa espécie de fascinação que lhes não permite compreender as tolices de que são intérpretes. Mesmo os que não são médiuns podem deixar-se apanhar. Façamos uma comparação. Um homem tem um inimigo secreto, a quem não conhece e que contra ele espalha sub-repticiamente a calúnia e tudo o que a mais negra maldade possa inventar. O infeliz vê a sua fortuna perder-se, afastarem-se seus amigos, perturbada a sua ventura íntima. Não podendo descobrir a mão que o fere, impossibilitado se acha de defender-se e sucumbe. Mas, um belo dia, esse inimigo oculto lhe escreve e se trai, não obstante todos os ardis de que se vale. Eis descoberto o perseguidor do pobre homem, que desde então pode confundi-lo e se reabilitar. Tal o papel dos maus Espíritos, que o Espiritismo nos proporciona a possibilidade de conhecer e desmascarar.
 
-<a name="LDM-p245"><code>LDM-pX</code></a>
+<a name="LDM-p245"><code>LDM-p245</code></a>
 
 - #️⃣ 245. As causas da obsessão variam, de acordo com o caráter do Espírito. É, às vezes, uma vingança que este toma de um indivíduo de quem guarda queixas da sua vida presente ou do tempo de outra existência. Muitas vezes, também, não há mais do que o desejo de fazer mal: o Espírito, como sofre, entende de fazer que os outros sofram; encontra uma espécie de gozo em os atormentar, em os vexar, e a impaciência que por isso a vítima demonstra mais o exacerba, porque esse é o objetivo que colima, ao passo que a paciência o leva a cansar-se. Com o irritar-se e mostrar-se despeitado, o perseguido faz exatamente o que quer o seu perseguidor. Esses Espíritos agem, não raro, por ódio e inveja do bem; daí o lançarem suas vistas malfazejas sobre as pessoas mais honestas. Um deles se apegou como “tinha” a uma honrada família do nosso conhecimento, à qual, aliás, não teve a satisfação de enganar. Interrogado acerca do motivo por que se agarrara a pessoas distintas, em vez de o fazer a homens maus como ele, respondeu: estes não me causam inveja. Outros são guiados por um sentimento de covardia, que os induz a se aproveitarem da fraqueza moral de certos indivíduos, que eles sabem incapazes de lhes resistirem. Um destes últimos, que subjugava um rapaz de inteligência muito apoucada, interrogado sobre os motivos dessa escolha, respondeu: Tenho grandíssima necessidade de atormentar alguém; uma pessoa criteriosa me repeliria; ligo-me a um idiota, que nenhuma força me opõe.
 
-<a name="LDM-p246"><code>LDM-pX</code></a>
+<a name="LDM-p246"><code>LDM-p246</code></a>
 
 - #️⃣ 246. Há Espíritos obsessores sem maldade, que alguma coisa mesmo denotam de bom, mas dominados pelo orgulho do falso saber. Têm suas ideias, seus sistemas sobre as ciências, a economia social, a moral, a religião, a filosofia, e querem fazer que suas opiniões prevaleçam. Para esse efeito, procuram médiuns bastante crédulos para os aceitar de olhos fechados e que eles fascinam, a fim de os impedir de discernirem o verdadeiro do falso. São os mais perigosos, porque os sofismas nada lhes custam e podem tornar cridas as mais ridículas utopias. Como conhecem o prestígio dos grandes nomes, não escrupulizam em se adornarem com um daqueles diante dos quais todos se inclinam, e não recuam sequer ante o sacrilégio de se dizerem Jesus, a Virgem Maria ou um santo venerado. Procuram deslumbrar por meio de uma linguagem empolada, mais pretensiosa do que profunda, eriçada de termos técnicos e recheada das retumbantes palavras — caridade e moral. Cuidadosamente evitarão dar um mau conselho, porque bem sabem que seriam repelidos. Daí vem que os que são por eles enganados os defendem, dizendo:
 
@@ -3145,17 +3145,17 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 A moral, porém, para esses Espíritos é simples passaporte, é o que menos os preocupa. O que querem, acima de tudo, é impor suas ideias por mais disparatadas que sejam.
 
-<a name="LDM-p247"><code>LDM-pX</code></a>
+<a name="LDM-p247"><code>LDM-p247</code></a>
 
 - #️⃣ 247. Os Espíritos dados a sistemas são geralmente escrevinhadores, pelo que buscam os médiuns que escrevem com facilidade e dos quais tratam de fazer instrumentos dóceis e, sobretudo, entusiastas, fascinando-os. São quase sempre verbosos, muito prolixos, procurando compensar a qualidade pela quantidade. Comprazem-se em ditar, aos seus intérpretes, volumosos escritos indigestos e frequentemente pouco inteligíveis, que, felizmente, têm por antídoto a impossibilidade material de serem lidos pelas massas. Os Espíritos verdadeiramente superiores são sóbrios de palavras; dizem muita coisa em poucas frases. Segue-se que aquela fecundidade prodigiosa deve sempre ser suspeita.
 
   Nunca será demais toda a circunspecção, quando se trate de publicar semelhantes escritos. As utopias e as excentricidades, que neles por vezes abundam e chocam o bom senso, produzem lamentável impressão nas pessoas ainda noviças na Doutrina, dando-lhes uma ideia falsa do Espiritismo, sem mesmo se levar em conta que são armas de que se servem seus inimigos para ridiculizá-lo. Entre tais publicações, algumas há que, sem serem más e sem provirem de uma obsessão, podem considerar-se imprudentes, intempestivas ou desazadas.
 
-<a name="LDM-p248"><code>LDM-pX</code></a>
+<a name="LDM-p248"><code>LDM-p248</code></a>
 
 - #️⃣ 248. Acontece muito frequentemente que um médium só se pode comunicar com um único Espírito, que a ele se liga e responde pelos que são chamados por seu intermédio. Nem sempre há nisso uma obsessão, porquanto o fato pode derivar da falta de maleabilidade do médium, de uma afinidade especial sua com tal ou tal Espírito. Somente há obsessão propriamente dita quando o Espírito se impõe e afasta intencionalmente os outros, o que jamais é obra de um Espírito bom. Geralmente, o Espírito que se apodera do médium, tendo em vista dominá-lo, não suporta o exame crítico das suas comunicações; quando vê que não são aceitas, que as discutem, não se retira, mas inspira ao médium o pensamento de se insular, chegando mesmo, não raro, a ordenar-lho. Todo médium que se melindra com a crítica das comunicações que obtém faz-se eco do Espírito que o domina, Espírito esse que não pode ser bom, desde que lhe inspira um pensamento ilógico, qual o de se recusar ao exame. O insulamento do médium é sempre coisa deplorável para ele, porque fica sem uma verificação das comunicações que recebe. Não somente deve buscar a opinião de terceiros para esclarecer-se, como também necessário lhe é estudar todos os gêneros de comunicações, a fim de as comparar. Restringindo-se às que lhe são transmitidas, expõe-se a se iludir sobre o valor destas, sem considerar que não lhe é dado tudo saber e que elas giram quase sempre dentro do mesmo círculo. ([`LDM-p192`](#ldmp192-%EF%B8%8F%E2%83%A3-192))
 
-<a name="LDM-p249"><code>LDM-pX</code></a>
+<a name="LDM-p249"><code>LDM-p249</code></a>
 
 - #️⃣ 249. Os meios de se combater a obsessão variam, de acordo com o caráter que ela reveste. Não existe realmente perigo para o médium que se ache bem convencido de que está a haver-se com um Espírito mentiroso, como sucede na obsessão simples; esta não passa então, para ele, de fato desagradável. Mas, precisamente porque lhe é desagradável, constitui uma razão a mais para que o Espírito se encarnice em vexá-lo. Duas coisas essenciais se têm que fazer nesse caso: provar ao Espírito que não está iludido por ele e que lhe é impossível enganar; depois, cansar-lhe a paciência, mostrando-se mais paciente que ele. Desde que se convença de que está a perder o tempo, retirar-se-á, como fazem os importunos a quem não se dá ouvidos.
 
@@ -3163,7 +3163,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Convém igualmente se interrompa toda comunicação escrita, desde que se reconheça que procede de um Espírito mau, que a nenhuma razão quer atender, a fim de se lhe não dar o prazer de ser ouvido. Em certos casos, pode até convir que o médium deixe de escrever por algum tempo, regulando-se então pelas circunstâncias. Entretanto, se o médium escrevente pode evitar essas confabulações, outro tanto já não se dá com o médium audiente, que o Espírito obsessor persegue às vezes a todo instante com as suas proposições grosseiras e obscenas e que nem sequer dispõe do recurso de tapar os ouvidos. Aliás, cumpre se reconheça que algumas pessoas se divertem com a linguagem trivial dessa espécie de Espíritos, pois os animam e provocam com o rirem de suas tolices, em vez de lhes imporem silêncio e de os moralizarem. Os nossos conselhos não podem servir a esses, que desejam afogar-se.
 
-<a name="LDM-p250"><code>LDM-pX</code></a>
+<a name="LDM-p250"><code>LDM-p250</code></a>
 
 - #️⃣ 250. Apenas aborrecimento há, pois, e não perigo, para todo médium que não se deixe ludibriar, porque não poderá ser enganado. Muito diverso é o que se dá com a fascinação, porque então não tem limites o domínio que o Espírito assume sobre o encarnado de quem se apoderou. A única coisa a fazer-se com a vítima é convencê-la de que está sendo ludibriada e reconduzir-lhe a obsessão ao caso da obsessão simples. Isto, porém, nem sempre é fácil, dado que algumas vezes não seja mesmo impossível. Pode ser tal o ascendente do Espírito, que torne o fascinado surdo a toda sorte de raciocínio, podendo chegar até, quando o Espírito comete alguma grossa heresia científica, a pô-lo em dúvida sobre se não é a ciência que se acha em erro. Como já dissemos, o fascinado, geralmente, acolhe mal os conselhos; a crítica o aborrece, irrita e o faz tomar quizila dos que não partilham da sua admiração. Suspeitar do Espírito que o acompanha é quase, aos seus olhos, uma profanação, e outra coisa não quer o dito Espírito, pois tudo a que aspira é que todos se curvem diante da sua palavra.
 
@@ -3173,13 +3173,13 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Como não há cego pior do que aquele que não quer ver, reconhecida a inutilidade de toda tentativa para abrir os olhos ao fascinado, o que se tem de melhor a fazer é deixá-lo com as suas ilusões. Ninguém pode curar um doente que se obstina em conservar o seu mal e nele se compraz.
 
-<a name="LDM-p251"><code>LDM-pX</code></a>
+<a name="LDM-p251"><code>LDM-p251</code></a>
 
 - #️⃣ 251. A subjugação corporal tira muitas vezes ao obsidiado a energia necessária para dominar o mau Espírito. Daí o tornar-se precisa a intervenção de um terceiro, que atue pelo magnetismo ou pelo império da sua vontade. Em falta do concurso do obsidiado, essa terceira pessoa deve tomar ascendente sobre o Espírito; porém, como este ascendente só pode ser moral, só a um ser moralmente superior ao Espírito é dado assumi-lo e seu poder será tanto maior quanto maior for a sua superioridade moral, porque, então, se impõe àquele, que se vê forçado a inclinar-se diante dele. Por isso é que Jesus tinha tão grande poder para expulsar aqueles a que, naquela época, se chamava demônio, isto é, os maus Espíritos obsessores.
 
   Aqui, não podemos oferecer mais do que conselhos gerais, porquanto nenhum processo material existe, como, sobretudo, nenhuma fórmula, nenhuma palavra sacramental, com o poder de expelir os Espíritos obsessores. Às vezes, o que falta ao obsidiado é força fluídica suficiente; nesse caso, a ação magnética de um bom magnetizador lhe pode ser de grande proveito. Contudo, é sempre conveniente procurar, por um médium de confiança, os conselhos de um Espírito superior ou do anjo guardião.
 
-<a name="LDM-p252"><code>LDM-pX</code></a>
+<a name="LDM-p252"><code>LDM-p252</code></a>
 
 - #️⃣ 252. As imperfeições morais do obsidiado constituem, frequentemente, um obstáculo à sua libertação. Aqui vai um exemplo notável, que pode servir para instrução de todos.
 
@@ -3195,13 +3195,13 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Ressalta do que fica dito um ensinamento de grande alcance: que as imperfeições morais dão azo à ação dos Espíritos obsessores e que o mais seguro meio de a pessoa se livrar deles é atrair os bons pela prática do bem. Sem dúvida, os bons Espíritos têm mais poder do que os maus, e a vontade deles basta para afastar estes últimos; eles, porém, só assistem os que os secundam pelos esforços que fazem por melhorar-se, sem o que se afastam e deixam o campo livre aos maus, que se tornam assim, em certos casos, instrumentos de punição, visto que os bons permitem que ajam para esse fim.
 
-<a name="LDM-p253"><code>LDM-pX</code></a>
+<a name="LDM-p253"><code>LDM-p253</code></a>
 
 - #️⃣ 253. Cumpre, todavia, se não atribuam à ação direta dos Espíritos todas as contrariedades que se possam experimentar, as quais, não raro, decorrem da incúria ou da imprevidência. Um agricultor nos escreveu certo dia que, havia 12 anos, toda sorte de infelicidades lhe acontecia, relativamente ao seu gado; ora eram as vacas que morriam, ou deixavam de dar leite, ora eram os cavalos, os carneiros ou os porcos que sucumbiam. Fez muitas novenas, que em nada remediaram o mal, do mesmo modo que nada obteve com as missas que mandou celebrar, nem com os exorcismos que mandou praticar. Persuadiu-se, então, de acordo com o preconceito dos campos, de que lhe haviam enfeitiçado os animais. Supondo-nos, sem dúvida, dotados de um poder esconjurador maior do que o do cura da sua aldeia, pediu o nosso parecer. Foi a seguinte a resposta que obtivemos:
 
   >“_A mortalidade ou as enfermidades do gado desse homem provêm de que seus currais estão infetados e ele não os repara, porque custa dinheiro._”
 
-<a name="LDM-p254"><code>LDM-pX</code></a>
+<a name="LDM-p254"><code>LDM-p254</code></a>
 
 - #️⃣ 254. Terminaremos este capítulo inserindo as respostas que os Espíritos deram a algumas perguntas e que vêm em apoio do que dissemos.
 
@@ -3232,13 +3232,16 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   7ª. Que se deve pensar dos que, vendo um perigo qualquer no Espiritismo, julgam que o meio de preveni-lo seria proibir as comunicações espíritas?
   >“_Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo._”
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-24"><code>LDM-2-24</code></a>
 
 <h3>📑 24. Da identidade dos Espíritos</h3>
 
 <h4>Provas possíveis de identidade</h4>
 
-<a name="LDM-p255"><code>LDM-pX</code></a>
+<a name="LDM-p255"><code>LDM-p255</code></a>
 
 - #️⃣ 255. A questão da identidade dos Espíritos é uma das mais controvertidas, mesmo entre os adeptos do Espiritismo. É que, com efeito, os Espíritos não nos trazem um ato de notoriedade e sabe-se com que facilidade alguns dentre eles tomam nomes que nunca lhes pertenceram. Esta, por isso mesmo, é, depois da obsessão, uma das maiores dificuldades do Espiritismo prático. Todavia, em muitos casos, a identidade absoluta não passa de questão secundária e sem importância real.
 
@@ -3246,7 +3249,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Objetar-se-á, sem dúvida, que o Espírito que tome um nome suposto, ainda que só para o bem, não deixa de cometer uma fraude: não pode, portanto, ser um Espírito bom. Aqui, há delicadezas de matizes muito difíceis de apanhar e que vamos tentar desenvolver.
 
-<a name="LDM-p256"><code>LDM-pX</code></a>
+<a name="LDM-p256"><code>LDM-p256</code></a>
 
 - #️⃣ 256. À medida que os Espíritos se purificam e elevam na hierarquia, os caracteres distintivos de suas personalidades se apagam, de certo modo, na uniformidade da perfeição; nem por isso, entretanto, conservam eles menos suas individualidades. É o que se dá com os Espíritos superiores e os Espíritos puros. Nessa culminância, o nome que tiveram na Terra, em uma das mil existências corporais efêmeras por que passaram, é coisa absolutamente insignificante. Notemos mais que os Espíritos são atraídos uns para os outros pela semelhança de suas qualidades e formam assim grupos, ou famílias, por simpatia. De outro lado, se considerarmos o número imenso de Espíritos que, desde a origem dos tempos, devem ter galgado as fileiras mais altas e se o compararmos ao número tão restrito dos homens que hão deixado um grande nome na Terra, compreenderemos que, entre os Espíritos superiores que podem comunicar-se, a maioria deve carecer de nomes para nós. Porém, como de nomes precisamos para fixarmos as nossas ideias, podem eles tomar o de uma personagem conhecida, cuja natureza mais identificada seja com a deles. É assim que os nossos anjos guardiães se fazem as mais das vezes conhecer pelo nome de um dos santos que veneramos e, geralmente, pelo daquele que nos inspira mais simpatia. Segue-se daí que, se o anjo guardião de uma pessoa se dá como São Pedro, por exemplo, ela nenhuma prova material pode ter de que seja exatamente o apóstolo desse nome. Tanto pode ser ele, como um Espírito desconhecido inteiramente, mas pertencente à família de Espíritos de que faz parte São Pedro. Segue-se ainda que, seja qual for o nome sob que alguém invoque o seu anjo guardião, este acudirá ao apelo que lhe é dirigido, porque o que o atrai é o pensamento, sendo-lhe indiferente o nome.
 
@@ -3256,49 +3259,49 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   A questão da identidade é, pois, como dissemos, quase indiferente, quando se trata de instruções gerais, uma vez que os melhores Espíritos podem substituir-se mutuamente, sem maiores consequências. Os Espíritos superiores formam, por assim dizer, um todo coletivo, cujas individualidades nos são, com exceções raras, desconhecidas. Não é a pessoa deles o que nos interessa, mas o ensino que nos proporcionam. Ora, desde que esse ensino é bom, pouco importa que aquele que o deu se chame Pedro ou Paulo. Deve ele ser julgado pela sua qualidade, e não pelas suas insígnias. Se um vinho é mau, não será a etiqueta que o tornará melhor. Outro tanto já não sucede com as comunicações íntimas, porque aí é o indivíduo, a sua pessoa mesma que nos interessa; muito razoável, portanto, é que, nessas circunstâncias, procuremos certificar-nos de que o Espírito que atende ao nosso chamado é realmente aquele que desejamos.
 
-<a name="LDM-p257"><code>LDM-pX</code></a>
+<a name="LDM-p257"><code>LDM-p257</code></a>
 
 - #️⃣ 257. Muito mais fácil de se comprovar é a identidade quando se trata de Espíritos contemporâneos, cujos caracteres e hábitos se conhecem, porque, precisamente, esses hábitos, de que eles ainda não tiveram tempo de despojar-se, são que os fazem reconhecíveis e desde logo dizemos que isso constitui um dos sinais mais seguros de identidade. Pode, sem dúvida, o Espírito dar provas desta, atendendo ao pedido que se lhe faça, mas assim só procede quando lhe convenha. Geralmente, semelhante pedido o magoa, pelo que deve ser evitado. Com o deixar o seu corpo, o Espírito não se despojou da sua suscetibilidade; agasta-o toda questão que tenha por fim pô-lo à prova. Perguntas há que ninguém ousaria dirigir-lhe, se ele se apresentasse vivo, pelo receio de faltar às conveniências; por que se lhe há de dispensar menos consideração, depois da sua morte? A um homem que se apresente num salão, declinando o seu nome, irá alguém pedir-lhe, à queima-roupa, sob o pretexto de haver impostores, que prove ser quem diz que é? Certamente, esse homem teria o direito de lembrar ao interrogante as regras de civilidade. É o que fazem os Espíritos, não respondendo ou retirando-se. Façamos, para exemplo, uma comparação. Suponhamos que o astrônomo Arago, quando vivo, se apresentasse numa casa onde ninguém o conhecesse e que o apostrofassem deste modo: Dizeis que sois Arago, mas não vos conhecemos; dignai-vos de prová-lo, respondendo às nossas perguntas. Resolvei tal problema de Astronomia; dizei-nos o vosso nome, prenome, os de vossos filhos, o que fazíeis em tal dia, a tal hora etc. Que responderia ele? Pois bem: como Espírito, fará o que teria feito em vida, e os outros Espíritos procedem da mesma maneira.
 
-<a name="LDM-p258"><code>LDM-pX</code></a>
+<a name="LDM-p258"><code>LDM-p258</code></a>
 
 - #️⃣ 258. Ao passo que se recusam a responder a perguntas pueris e extravagantes, que toda gente teria escrúpulo em lhes dirigir, se vivos fossem, os Espíritos dão espontaneamente provas irrecusáveis de sua identidade, por seus caracteres, que se revelam na linguagem de que usam, pelo emprego das palavras que lhes eram familiares, pela citação de certos fatos, de particularidades de suas vidas, às vezes desconhecidas dos assistentes e cuja exatidão se pode verificar. As provas de identidade ressaltam, além disso, de um sem-número de circunstâncias imprevistas, que nem sempre se apresentam na primeira ocasião, mas que surgem com a continuação das manifestações. Convém, pois, esperá-las, sem as provocar, observando-se cuidadosamente todas as que possam decorrer da natureza das comunicações. (**Veja-se** o fato referido no **item** 70`)
 
-<a name="LDM-p259"><code>LDM-pX</code></a>
+<a name="LDM-p259"><code>LDM-p259</code></a>
 
 - #️⃣ 259. Um meio empregado, às vezes com êxito, para se conseguir identificar um Espírito que se comunica, quando ele se torna suspeito, consiste em fazê-lo afirmar, em nome de Deus todo-poderoso, que é realmente quem diz ser. Sucede frequentemente que o que se apresentou com um nome usurpado recua diante do sacrilégio e que, tendo começado a dizer: Afirmo, em nome de... para e traça, colérico, riscos sem valor no papel, ou quebra o lápis. Se é mais hipócrita, ladeia a questão, mediante uma restrição mental, escrevendo, por exemplo: Certifico-vos que digo a verdade, ou então: Atesto, em nome de Deus, que sou mesmo eu quem vos fala etc. Alguns há, entretanto, nada escrupulosos, que juram tudo o que se lhes exigir. Um desses se comunicou a um médium, dizendo-se Deus, e o médium, honrado com tão alta distinção, não hesitou em acreditá-lo. Evocado por nós, não ousou sustentar a sua impostura e disse: Não sou Deus, mas sou seu filho. — És então Jesus? Isto não é provável, porquanto Jesus está muito altamente colocado para empregar um subterfúgio. Ousas, não obstante, afirmar que és o Cristo? — Não digo que sou Jesus; digo que sou filho de Deus, porque sou uma de suas criaturas.
 
   Deve-se concluir daí que o recusar um Espírito afirmar a sua identidade, em nome de Deus, é sempre uma prova manifesta de que o nome que ele tomou é uma impostura, mas também que, se ele o afirma, essa afirmação não passa de uma presunção, não constituindo prova certa.
 
-<a name="LDM-p260"><code>LDM-pX</code></a>
+<a name="LDM-p260"><code>LDM-p260</code></a>
 
 - #️⃣ 260. Igualmente se pode incluir entre as provas de identidade a semelhança da caligrafia e da assinatura, mas, além de que nem a todos os médiuns é dado obter esse resultado, ele não representa, invariavelmente, uma garantia bastante. Há falsários no mundo dos Espíritos, como os há neste. Aí não se tem, pois, mais do que uma presunção de identidade, que só adquire valor pelas circunstâncias que a acompanhem. O mesmo ocorre com todos os sinais materiais, que algumas pessoas têm como talismãs inimitáveis para os Espíritos mentirosos. Para os que ousam perjurar ao nome de Deus, ou falsificar uma assinatura, nenhum sinal material pode oferecer obstáculo maior. A melhor de todas as provas de identidade está na linguagem e nas circunstâncias fortuitas.
 
-<a name="LDM-p261"><code>LDM-pX</code></a>
+<a name="LDM-p261"><code>LDM-p261</code></a>
 
 - #️⃣ 261. Dir-se-á, sem dúvida, que, se um Espírito pode imitar uma assinatura, também pode perfeitamente imitar a linguagem. É exato; alguns temos visto tomar atrevidamente o nome do Cristo e, para impingirem a mistificação, simulavam o estilo evangélico e pronunciavam a torto e a direito estas bem conhecidas palavras: Em verdade, em verdade vos digo. Estudando, porém, sem prevenção, o ditado, em seu conjunto, perscrutado o fundo das ideias, o alcance das expressões, quando, a par de belas máximas de caridade, se veem recomendações pueris e ridículas, fora preciso estar fascinado para que alguém se equivocasse. Sim, certas partes da forma material da linguagem podem ser imitadas, mas não o pensamento. Jamais a ignorância imitará o verdadeiro saber e jamais o vício imitará a verdadeira virtude. Em qualquer ponto, sempre aparecerá a pontinha da orelha. É então que o médium, assim como o evocador, precisam de toda a perspicácia e de toda a ponderação para destrinçar a verdade da impostura. Devem persuadir-se de que os Espíritos perversos são capazes de todos os ardis e de que, quanto mais venerável for o nome com que um Espírito se apresente, tanto maior desconfiança deve inspirar. Quantos médiuns têm tido comunicações apócrifas assinadas por Jesus, Maria ou um santo venerado!
 
 <h4>Modo de se distinguirem os bons dos maus Espíritos</h4>
 
-<a name="LDM-p262"><code>LDM-pX</code></a>
+<a name="LDM-p262"><code>LDM-p262</code></a>
 
 - #️⃣ 262. Se a identidade absoluta dos Espíritos é, em muitos casos, uma questão acessória e sem importância, o mesmo já não se dá com a distinção a ser feita entre bons e maus Espíritos. Pode ser-nos indiferente a individualidade deles; suas qualidades, nunca. Em todas as comunicações instrutivas, é sobre este ponto, conseguintemente, que se deve fixar a atenção, porque só ele nos pode dar a medida da confiança que devemos ter no Espírito que se manifesta, seja qual for o nome sob que o faça. É bom ou mau o Espírito que se comunica? Em que grau da escala espírita se encontra? Eis as questões capitais. (**Veja-se**: “_Escala espírita_”, em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md), [`LDE.q100`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md#ldeq100-%EF%B8%8F%E2%83%A3-100))
 
-<a name="LDM-p263"><code>LDM-pX</code></a>
+<a name="LDM-p263"><code>LDM-p263</code></a>
 
 - #️⃣ 263. Já dissemos que os Espíritos devem ser julgados, como os homens, pela linguagem de que usam. Suponhamos que um homem receba vinte cartas de pessoas que lhe são desconhecidas; pelo estilo, pelas ideias, por uma imensidade de indícios, enfim, verificará se aquelas pessoas são instruídas ou ignorantes, polidas ou mal-educadas, superficiais, profundas, frívolas, orgulhosas, sérias, levianas, sentimentais etc. Assim, também, com os Espíritos. Devemos considerá-los correspondentes que nunca vimos e procurar conhecer o que pensaríamos do saber e do caráter de um homem que dissesse ou escrevesse tais coisas. Pode estabelecer-se como regra invariável e sem exceção que — a linguagem dos Espíritos está sempre em relação com o grau de elevação a que já tenham chegado. Os Espíritos realmente superiores não só dizem unicamente coisas boas, como também as dizem em termos isentos, de modo absoluto, de toda trivialidade. Por melhores que sejam essas coisas, se uma única expressão denotando baixeza as macula, isto constitui um sinal indubitável de inferioridade; com mais forte razão, se o conjunto do ditado fere as conveniências pela sua grosseria. A linguagem revela sempre a sua procedência, quer pelos pensamentos que exprime, quer pela forma, e, ainda mesmo que algum Espírito queira iludir-nos sobre a sua pretensa superioridade, bastará conversemos algum tempo com ele para a apreciarmos.
 
-<a name="LDM-p264"><code>LDM-pX</code></a>
+<a name="LDM-p264"><code>LDM-p264</code></a>
 
 - #️⃣ 264. A bondade e a afabilidade são atributos essenciais dos Espíritos depurados. Não têm ódio, nem aos homens, nem aos outros Espíritos. Lamentam as fraquezas, criticam os erros, mas sempre com moderação, sem fel e sem animosidade. Admita-se que os Espíritos verdadeiramente bons não podem querer senão o bem e dizer senão coisas boas e se concluirá que tudo o que denote, na linguagem dos Espíritos, falta de bondade e de benignidade não pode provir de um bom Espírito.
 
-<a name="LDM-p265"><code>LDM-pX</code></a>
+<a name="LDM-p265"><code>LDM-p265</code></a>
 
 - #️⃣ 265. A inteligência longe está de constituir um indício certo de superioridade, porquanto a inteligência e a moral nem sempre andam emparelhadas. Pode um Espírito ser bom, afável, e ter conhecimentos limitados, ao passo que outro, inteligente e instruído, pode ser muito inferior em moralidade.
 
   É crença bastante generalizada que, interrogando-se o Espírito de um homem que, na Terra, foi sábio em certa especialidade, com mais segurança se obterá a verdade. Isto é lógico; entretanto, nem sempre é o que se dá. A experiência demonstra que os sábios, tanto quanto os demais homens, sobretudo os desencarnados de pouco tempo, ainda se acham sob o império dos preconceitos da vida corpórea; eles não se despojam imediatamente do espírito de sistema. Pode, pois, acontecer que, sob a influência das ideias que esposaram em vida e das quais fizeram para si um título de glória, vejam com menos clareza do que supomos. Não apresentamos este princípio como regra; longe disso. Dizemos apenas que o fato se dá e que, por conseguinte, a ciência humana que eles possuem não constitui sempre uma prova da sua infalibilidade, como Espíritos.
 
-<a name="LDM-p266"><code>LDM-pX</code></a>
+<a name="LDM-p266"><code>LDM-p266</code></a>
 
 - #️⃣ 266. Submetendo-se todas as comunicações a um exame escrupuloso, perscrutando-se-lhes e analisando o pensamento e as expressões, como é de uso fazer-se quando se trata de julgar uma obra literária, rejeitando-se, sem hesitação, tudo o que peque contra a lógica e o bom senso, tudo o que desminta o caráter do Espírito que se supõe ser o que se está manifestando, leva-se o desânimo aos Espíritos mentirosos, que acabam por se retirar, uma vez fiquem bem convencidos de que não lograrão iludir. Repetimos: este meio é único, mas é infalível, porque não há comunicação má que resista a uma crítica rigorosa. Os bons Espíritos nunca se ofendem com esta, pois que eles próprios a aconselham e porque nada têm que temer do exame. Apenas os maus se formalizam e procuram evitá-lo, porque tudo têm a perder. Só com isso provam o que são.
 
@@ -3306,7 +3309,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   >“_Qualquer que seja a confiança legítima que vos inspirem os Espíritos que presidem aos vossos trabalhos, uma recomendação há que nunca será demais repetir e que deveríeis ter presente sempre na vossa lembrança, quando vos entregais aos vossos estudos: é a de pesar e meditar, é a de submeter ao cadinho da razão mais severa todas as comunicações que receberdes; é a de não deixardes de pedir as explicações necessárias a formardes opinião segura, desde que um ponto vos pareça suspeito, duvidoso ou obscuro._”
 
-<a name="LDM-p267"><code>LDM-pX</code></a>
+<a name="LDM-p267"><code>LDM-p267</code></a>
 
 - #️⃣ 267. Podem resumir-se nos princípios seguintes os meios de se reconhecer a qualidade dos Espíritos:
 
@@ -3362,7 +3365,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   26º. Para julgar os Espíritos, como para julgar os homens, é preciso, primeiro, que cada um saiba julgar-se a si mesmo. Muita gente há, infelizmente, que toma suas próprias opiniões pessoais como paradigma exclusivo do bom e do mau, do verdadeiro e do falso; tudo o que lhes contradiga à maneira de ver, às suas ideias e ao sistema que conceberam, ou adotaram, lhes parece mau. A semelhante gente evidentemente falta a qualidade primacial para uma apreciação sã: a retidão do juízo. Disso, porém, nem suspeitam. É o defeito sobre que mais se iludem os homens. Todas estas instruções decorrem da experiência e dos ensinos dos Espíritos. Vamos completá-las com as próprias respostas que eles deram sobre os pontos mais importantes.
 
-<a name="LDM-p268"><code>LDM-pX</code></a>
+<a name="LDM-p268"><code>LDM-p268</code></a>
 
 - #️⃣ 268. Questões sobre a natureza e a identidade dos Espíritos
 
@@ -3457,23 +3460,26 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >“_O médium experimenta as sensações do estado em que se encontra o Espírito que dele se aproxima. Quando ditoso, o Espírito é tranquilo, leve, refletido; quando infeliz, é agitado, febril, e essa agitação se transmite naturalmente ao sistema nervoso do médium. Em suma, dá-se o que se dá com o homem na Terra: o bom é calmo, tranquilo; o mau está constantemente agitado._”
   
   📝 Nota Há médiuns de maior ou menor impressionabilidade nervosa, pelo que a agitação não se pode considerar como regra absoluta. Aqui, como em tudo, devem ter-se em conta as circunstâncias. O caráter penoso e desagradável da impressão é um efeito de contraste, porquanto, se o Espírito do médium simpatiza com o mau Espírito que se manifesta, nada ou muito pouco a proximidade deste o afetará. Todavia, é preciso se não confunda a rapidez da escrita, que deriva da extrema flexibilidade de certos médiuns, com a agitação convulsiva que os médiuns mais lentos podem experimentar ao contato dos Espíritos imperfeitos.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-25"><code>LDM-2-25</code></a>
 
 <h3>📑 25. Das evocações</h3>
 
-<a name="LDM-p269"><code>LDM-pX</code></a>
+<a name="LDM-p269"><code>LDM-p269</code></a>
 
 - #️⃣ 269. Os Espíritos podem comunicar-se espontaneamente ou acudir ao nosso chamado, isto é, vir por evocação. Pensam algumas pessoas que todos devem abster-se de evocar tal ou tal Espírito e ser preferível que se espere aquele que queira comunicar-se. Fundam-se em que, chamando determinado Espírito, não podemos ter a certeza de ser ele quem se apresente, ao passo que aquele que vem espontaneamente, de seu moto próprio, melhor prova a sua identidade, pois que manifesta assim o desejo que tem de se entreter conosco. Em nossa opinião, isso é um erro: primeiramente, porque há sempre em torno de nós Espíritos, as mais das vezes de condição inferior, que outra coisa não querem senão comunicar-se; em segundo lugar e mesmo por esta última razão, não chamar a nenhum em particular é abrir a porta a todos os que queiram entrar. Numa assembleia, não dar a palavra a ninguém é deixá-la livre a toda a gente e sabe-se o que daí resulta. A chamada direta de determinado Espírito constitui um laço entre ele e nós; chamamo-lo pelo nosso desejo e opomos assim uma espécie de barreira aos intrusos. Sem uma chamada direta, um Espírito nenhum motivo terá muitas vezes para vir confabular conosco, a menos que seja o nosso Espírito familiar.
 
   Cada uma destas duas maneiras de operar tem suas vantagens, e nenhuma desvantagem haveria senão na exclusão absoluta de uma delas. As comunicações espontâneas inconveniente nenhum apresentam, quando se está senhor dos Espíritos e certo de não deixar que os maus tomem a dianteira. Então, é quase sempre bom aguardar a boa vontade dos que se disponham a comunicar-se, porque nenhum constrangimento sofre o pensamento deles e dessa maneira se podem obter coisas admiráveis; entretanto, pode suceder que o Espírito por quem se chama não esteja disposto a falar ou não seja capaz de fazê-lo no sentido desejado. O exame escrupuloso, que temos aconselhado, é, aliás, uma garantia contra as comunicações más. Nas reuniões regulares, naquelas, sobretudo, em que se faz um trabalho continuado, há sempre Espíritos habituais que a elas comparecem, sem que sejam chamados, por estarem prevenidos, em virtude mesmo da regularidade das sessões. Tomam, então, frequentemente a palavra, de modo espontâneo, para tratar de um assunto qualquer, desenvolver uma proposição ou prescrever o que se deva fazer, caso em que são facilmente reconhecíveis, quer pela forma da linguagem, que é sempre idêntica, quer pela escrita, quer por certos hábitos que lhes são peculiares.
 
-<a name="LDM-p270"><code>LDM-pX</code></a>
+<a name="LDM-p270"><code>LDM-p270</code></a>
 
 - #️⃣ 270. Quando se deseja comunicar com determinado Espírito, é de toda necessidade evocá-lo. ([`LDM-p203`](#ldmp203-%EF%B8%8F%E2%83%A3-203)) Se ele pode vir, a resposta é geralmente: Sim, ou Estou aqui, ou ainda, Que quereis de mim? Às vezes, entra diretamente em matéria, respondendo de antemão às perguntas que se lhe queria dirigir.
 
   Quando um Espírito é evocado pela primeira vez, convém designá-lo com alguma precisão. Nas perguntas que se lhe façam, devem evitar-se as fórmulas secas e imperativas, que constituiriam para ele um motivo de afastamento. As fórmulas devem ser afetuosas ou respeitosas, conforme o Espírito, e, em todos os casos, cumpre que o evocador lhe dê prova da sua benevolência.
 
-<a name="LDM-p271"><code>LDM-pX</code></a>
+<a name="LDM-p271"><code>LDM-p271</code></a>
 
 - #️⃣ 271. Surpreende, não raro, a prontidão com que um Espírito evocado se apresenta, mesmo da primeira vez. Dir-se-ia que estava prevenido. É, com efeito, o que se dá, quando com a sua evocação se preocupa de antemão aquele que o evoca. Essa preocupação é uma espécie de evocação antecipada e, como temos sempre conosco os nossos Espíritos familiares, que se identificam com o nosso pensamento, eles preparam o caminho de tal sorte que, se nenhum obstáculo surge, o Espírito que desejamos chamar já se acha presente ao ser evocado. Quando assim não acontece, é o Espírito familiar do médium, ou o do interrogante, ou ainda um dos que costumam frequentar as reuniões que o vai buscar, para o que não precisa de muito tempo. Se o Espírito evocado não pode vir de pronto, o mensageiro (os pagãos diriam Mercúrio) marca um prazo, às vezes de cinco minutos, um quarto de hora e até muitos dias. Logo que ele chega, diz: Aqui estou. Podem então começar a ser feitas as perguntas que se lhe quer dirigir
 
@@ -3481,11 +3487,11 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Quando dizemos que se faça a evocação em nome de Deus, queremos que a nossa recomendação seja tomada a sério, e não levianamente. Os que nisso vejam o emprego de uma fórmula sem consequências farão melhor abstendo-se.
 
-<a name="LDM-p272"><code>LDM-pX</code></a>
+<a name="LDM-p272"><code>LDM-p272</code></a>
 
 - #️⃣ 272. Frequentemente, as evocações oferecem mais dificuldades aos médiuns do que os ditados espontâneos, sobretudo quando se trata de obter respostas precisas a questões circunstanciadas. Para isto, são necessários médiuns especiais, ao mesmo tempo flexíveis e positivos, e já no **item** 193 vimos que estes últimos são bastante raros, por isso que, conforme dissemos, as relações fluídicas nem sempre se estabelecem instantaneamente com o primeiro Espírito que se apresente. Daí convir que os médiuns não se entreguem às evocações pormenorizadas, senão depois de estarem certos do desenvolvimento de suas faculdades e da natureza dos Espíritos que os assistem, visto que com os mal assistidos as evocações nenhum caráter podem ter de autenticidade.
 
-<a name="LDM-p273"><code>LDM-pX</code></a>
+<a name="LDM-p273"><code>LDM-p273</code></a>
 
 - #️⃣ 273. Os médiuns são geralmente muito mais procurados para as evocações de interesse particular do que para comunicações de interesse geral; isto se explica pelo desejo muito natural que todos têm de confabular com os entes que lhes são caros. Julgamos dever fazer a este propósito algumas recomendações importantes aos médiuns. Primeiramente que não acedam a esse desejo senão com muita reserva, se se trata de pessoas de cuja sinceridade não estejam completamente seguros e que se acautelem das armadilhas que lhes possam preparar pessoas malfazejas. Em segundo lugar, que a tais evocações não se prestem, sob fundamento algum, se perceberem um fim de simples curiosidade, ou de interesse, e não uma intenção séria da parte do evocador; que se recusem a fazer qualquer pergunta ociosa ou que sai do âmbito das que racionalmente se podem dirigir aos Espíritos. As perguntas devem ser formuladas com clareza, precisão e sem ideia preconcebida, querendo-se respostas categóricas. Cumpre, pois, se repilam todas as que tenham caráter insidioso, porquanto é sabido que os Espíritos não gostam das que têm por objetivo pô-los à prova. Insistir em questões desta natureza é querer ser enganado. O evocador deve ferir franca e abertamente o ponto visado, sem subterfúgios e sem circunlóquios. Se receia explicar-se, melhor será que se abstenha.
 
@@ -3493,11 +3499,11 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Espíritos que se podem evocar</h4>
 
-<a name="LDM-p274"><code>LDM-pX</code></a>
+<a name="LDM-p274"><code>LDM-p274</code></a>
 
 - #️⃣ 274. Todos os Espíritos, qualquer que seja o grau em que se encontrem na escala espiritual, podem ser evocados: assim os bons, como os maus, tanto os que deixaram a vida de pouco, como os que viveram nas épocas mais remotas, os que foram homens ilustres, como os mais obscuros, os nossos parentes e amigos, como os que nos são indiferentes. Isto, porém, não quer dizer que eles sempre queiram ou possam responder ao nosso chamado. Independente da própria vontade, ou da permissão, que lhes pode ser recusada por uma potência superior, é possível se achem impedidos de o fazer, por motivos que nem sempre nos é dado conhecer. Queremos dizer que não há impedimento absoluto que se oponha às comunicações, salvo o que dentro em pouco diremos. Os obstáculos capazes de impedir que um Espírito se manifeste são quase sempre individuais e derivam das circunstâncias.
 
-<a name="LDM-p275"><code>LDM-pX</code></a>
+<a name="LDM-p275"><code>LDM-p275</code></a>
 
 - #️⃣ 275. Entre as causas que podem impedir a manifestação de um Espírito, umas lhe são pessoais e outras, estranhas. Entre as primeiras, devem colocar-se as ocupações ou as missões que esteja desempenhando e das quais não pode afastar-se, para ceder aos nossos desejos. Neste caso, sua visita apenas fica adiada.
 
@@ -3505,21 +3511,21 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   As causas estranhas residem principalmente na natureza do médium, na da pessoa que evoca, no meio em que se faz a evocação, enfim, no objetivo que se tem em vista. Alguns médiuns recebem mais particularmente comunicações de seus Espíritos familiares, que podem ser mais ou menos elevados; outros se mostram aptos a servir de intermediários a todos os Espíritos, dependendo isto da simpatia ou da antipatia, da atração ou da repulsão que o Espírito pessoal do médium exerce sobre o Espírito chamado, o qual pode tomá-lo por intérprete, com prazer ou com repugnância. Isto também depende, abstração feita das qualidades íntimas do médium, do desenvolvimento da faculdade mediúnica. Os Espíritos vêm de melhor vontade e, sobretudo, são mais explícitos com um médium que lhes não oferece nenhum obstáculo material. Aliás, em igualdade de condições morais, quanto mais facilidade tenha o médium para escrever ou para se exprimir, tanto mais se generalizam suas relações com o mundo espírita.
 
-<a name="LDM-p276"><code>LDM-pX</code></a>
+<a name="LDM-p276"><code>LDM-p276</code></a>
 
 - #️⃣ 276. Cumpre ainda levar em conta a facilidade que deve resultar do hábito da comunicação com tal ou qual Espírito. Com o tempo, o Espírito estranho se identifica com o do médium e também com aquele que o chama. Posta de parte a questão da simpatia, entre eles se estabelecem relações fluídicas que tornam mais prontas as comunicações. Por isso é que uma primeira confabulação nem sempre é tão satisfatória quanto fora de desejar e que os próprios Espíritos pedem frequentemente que os chamem de novo. O Espírito que vem habitualmente está como em sua casa: fica familiarizado com seus ouvintes e intérpretes, fala e age livremente.
 
-<a name="LDM-p277"><code>LDM-pX</code></a>
+<a name="LDM-p277"><code>LDM-p277</code></a>
 
 - #️⃣ 277. Em resumo, do que acabamos de dizer resulta: que a faculdade de evocar todo e qualquer Espírito não implica para este a obrigação de estar à nossa disposição; que ele pode vir em certa ocasião e não vir noutra, com um médium ou um evocador que lhe agrade e não com outro; dizer o que quer, sem poder ser constrangido a dizer o que não queira; ir-se quando lhe aprouver; enfim, que por causas dependentes ou não da sua vontade, depois de se haver mostrado assíduo durante algum tempo, pode de repente deixar de vir.
 
   Por todos estes motivos é que, quando se deseja chamar um Espírito que ainda não se apresentou, é necessário perguntar ao seu guia protetor se a evocação é possível; caso não o seja, ele geralmente dá as razões e então é inútil insistir.
 
-<a name="LDM-p278"><code>LDM-pX</code></a>
+<a name="LDM-p278"><code>LDM-p278</code></a>
 
 - #️⃣ 278. Uma questão importante se apresenta aqui, a de saber se há ou não inconveniente em evocar maus Espíritos. Isto depende do fim que se tenha em vista e do ascendente que se possa exercer sobre eles. O inconveniente é nulo, quando são chamados com um fim sério, qual o de os instruir e melhorar; é, ao contrário, muito grande, quando chamados por mera curiosidade ou por divertimento, ou, ainda, quando quem os chama se põe na dependência deles, pedindo-lhes um serviço qualquer. Os bons Espíritos, neste caso, podem muito bem dar-lhes o poder de fazerem o que se lhes pede, o que não exclui seja severamente punido mais tarde o temerário que ousou solicitar-lhe o auxílio e supô-los mais poderosos do que Deus. Será em vão que prometa a si mesmo, quem assim proceda, fazer dali em diante bom uso do auxílio pedido e despedir o servidor, uma vez prestado o serviço. Esse mesmo serviço que se solicitou, por mínimo que seja, constitui um verdadeiro pacto firmado com o mau Espírito, e este não larga facilmente a sua presa. (**Veja-se** o **item** 212`)
 
-<a name="LDM-p279"><code>LDM-pX</code></a>
+<a name="LDM-p279"><code>LDM-p279</code></a>
 
 - #️⃣ 279. Ninguém exerce ascendente sobre os Espíritos inferiores, senão pela superioridade moral. Os Espíritos perversos sentem que os homens de bem os dominam. Contra quem só lhes oponha a energia da vontade, espécie de força bruta, eles lutam e muitas vezes são os mais fortes. A alguém que procurava domar um Espírito rebelde, unicamente pela ação da sua vontade, respondeu àquele: Deixa-me em paz, com teus ares de matamouros, que não vales mais do que eu; dir-se-ia um ladrão a pregar moral a outro ladrão.
 
@@ -3529,7 +3535,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Linguagem de que se deve usar com os Espíritos</h4>
 
-<a name="LDM-p280"><code>LDM-pX</code></a>
+<a name="LDM-p280"><code>LDM-p280</code></a>
 
 - #️⃣ 280. O grau de superioridade ou inferioridade dos Espíritos indica naturalmente em que tom convém se lhes fale. É evidente que, quanto mais elevados eles sejam, tanto mais direito têm ao nosso respeito, às nossas atenções e à nossa submissão. Não lhes devemos demonstrar menos deferência do que lhes demonstraríamos, embora por outros motivos, se estivessem vivos. Na Terra, levaríamos em consideração a categoria e a posição social deles; no mundo dos Espíritos, o nosso respeito tem que ser motivado pela superioridade moral de que desfrutam. A própria elevação que possuem os coloca acima das puerilidades das nossas fórmulas bajulatórias. Não é com palavras que se lhes pode captar a benevolência, mas pela sinceridade dos sentimentos. Seria, pois, ridículo estarmos a dar-lhes os títulos que os nossos usos consagram, para distinção das categorias, e que porventura lhes lisonjeariam a vaidade, quando vivos. Se são realmente superiores, não somente nenhuma importância dão a esses títulos, como até lhes desagrada que os empreguemos. Um bom pensamento lhes é mais agradável do que os mais elogiosos epítetos; se assim não fosse, eles não estariam acima da humanidade.
 
@@ -3545,7 +3551,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Utilidade das evocações particulares</h4>
 
-<a name="LDM-p281"><code>LDM-pX</code></a>
+<a name="LDM-p281"><code>LDM-p281</code></a>
 
 - #️⃣ 281. As comunicações que se obtêm dos Espíritos muito elevados, ou dos que animaram grandes personagens da Antiguidade, são preciosas, pelos altos ensinamentos que encerram. Esses Espíritos conquistaram um grau de perfeição que lhes permite abranger muito mais extenso campo de ideias, penetrar mistérios que escapam ao alcance vulgar da humanidade e, por conseguinte, iniciar-nos melhor do que outros em certas coisas. Não se segue daí sejam inúteis as comunicações dos Espíritos de ordem menos elevada. Delas muita instrução colhe o observador. Para se conhecerem os costumes de um povo, mister se faz estudá-lo em todos os graus da escala. Mal o conhece quem não o tenha visto senão por uma face. A história de um povo não é a dos seus reis, nem a das suas sumidades sociais; para julgá-lo, é preciso vê-lo na vida íntima, nos hábitos particulares.
 
@@ -3553,7 +3559,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   A evocação dos Espíritos vulgares tem, além disso, a vantagem de nos pôr em contato com Espíritos sofredores, que podemos aliviar e cujo adiantamento podemos facilitar, por meio de bons conselhos. Todos, pois, nos podemos tornar úteis, ao mesmo tempo que nos instruímos. Há egoísmo naquele que somente a sua própria satisfação procura nas manifestações dos Espíritos, e dá prova de orgulho aquele que deixa de estender a mão em socorro dos desgraçados. De que lhe serve obter belas comunicações de Espíritos de escol, se isso não o faz melhor para consigo mesmo, nem mais caridoso e benévolo para com seus irmãos deste mundo e do outro? Que seria dos pobres doentes, se os médicos se recusassem a lhes tocar as chagas?
 
-<a name="LDM-p282"><code>LDM-pX</code></a>
+<a name="LDM-p282"><code>LDM-p282</code></a>
 
 - #️⃣ 282. Questões sobre as evocações
 
@@ -3690,7 +3696,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 Nota A influência corpórea, que se faz sentir, por mais ou menos tempo, sobre o Espírito da criança, igualmente é notada, às vezes, no Espírito dos que morreram em estado de loucura. O Espírito, em si mesmo, não é louco; sabe-se, porém, que certos Espíritos julgam, durante algum tempo, que ainda pertencem a este mundo. Não é, pois, de admirar que, no louco, o Espírito ainda se ressinta dos entraves que, durante a vida, se opunham à livre manifestação de seus pensamentos, até que se encontre completamente desprendido da matéria. Este efeito varia conforme as causas da loucura, porquanto há loucos que, logo depois da morte, recobram toda a sua lucidez.
 
-<a name="LDM-p283"><code>LDM-pX</code></a>
+<a name="LDM-p283"><code>LDM-p283</code></a>
 
 - #️⃣ 283. Evocações dos animais
 
@@ -3707,7 +3713,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Feita a verificação, reconheceu ele exato o que lhe fora dito. Dever-se-á concluir ter sido o pássaro quem respondeu? Certamente que não, mas apenas um Espírito que conhecia a história. Isso prova quanto se deve desconfiar das aparências e quanto é preciosa a resposta acima: evoca um rochedo e ele te responderá. (**Veja-se** atrás o **capítulo** Da mediunidade nos animais, **item** 234`) 
   
-<a name="LDM-p284"><code>LDM-pX</code></a>
+<a name="LDM-p284"><code>LDM-p284</code></a>
 
 - #️⃣ 284. Evocações das pessoas vivas
   
@@ -3814,7 +3820,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 Nota Uma senhora de nosso conhecimento, médium, teve um dia a ideia de evocar o Espírito de seu neto, que dormia no mesmo quarto. A identidade foi comprovada pela linguagem, pelas expressões habituais da criança e pela narração exatíssima de muitas coisas que lhe tinham sucedido no colégio, mas ainda uma circunstância a veio confirmar. De repente, a mão da médium para em meio de uma frase, sem que seja possível obter-se mais coisa alguma. Nesse momento, a criança, meio despertada, fez diversos movimentos na sua cama. Alguns instantes depois, tendo novamente adormecido, a mão da médium começou a mover-se outra vez, continuando a conversa interrompida. A evocação das pessoas vivas, feita em boas condições, prova, da maneira menos contestável, a ação do Espírito distinta da do corpo e, por conseguinte, a existência de um princípio inteligente independente da matéria. (**Veja-se**, na Revista espírita de 1860, muitos exemplos notáveis de evocação de pessoas vivas.)
   
-<a name="LDM-p285"><code>LDM-pX</code></a>
+<a name="LDM-p285"><code>LDM-p285</code></a>
 
 - #️⃣ 285. Telegrafia humana
   
@@ -3824,13 +3830,15 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   a) Por que não será praticada desde já?
   >“_É praticável para certas pessoas, mas não para toda gente. Preciso é que os homens se depurem, a fim de que seus Espíritos se desprendam da matéria e isso constitui uma razão a mais para que a evocação se faça em nome de Deus. Até lá, continuará circunscrita às almas de escol e desmaterializadas, o que raramente se encontra nesse mundo, dado o estado dos habitantes da Terra._”
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-26"><code>LDM-2-26</code></a>
 
 <h3>📑 26. Das perguntas que se podem fazer aos Espíritos</h3>
 
 <h4>Observações preliminares</h4>
 
-<a name="LDM-p286"><code>LDM-pX</code></a>
+<a name="LDM-p286"><code>LDM-p286</code></a>
 
 - #️⃣ 286. Nunca será excessiva a importância que se dê à maneira de formular as perguntas e, ainda mais, à natureza das perguntas. Duas coisas se devem considerar nas que se dirigem aos Espíritos: a forma e o fundo. Pelo que toca à forma, devem ser redigidas com clareza e precisão, evitando as questões complexas. Mas outro ponto há, não menos importante: a ordem que deve presidir à disposição das perguntas. Quando um assunto reclama uma série delas, é essencial que se encadeiem com método, de modo a decorrerem naturalmente umas das outras. Os Espíritos, nesse caso, respondem muito mais facilmente e mais claramente do que quando elas se sucedem ao acaso, passando, sem transição, de um assunto para outro. Esta a razão por que é sempre muito conveniente prepará-las de antemão, salvo o direito de, durante a sessão, intercalar as que as circunstâncias tornem necessárias. Além de que a redação será melhor, quando feita prévia e descansadamente, esse trabalho preparatório constitui, como já o dissemos, uma espécie de evocação antecipada, a que pode o Espírito ter assistido e que o dispõe a responder. É de notar-se que muito frequentemente o Espírito responde por antecipação a algumas perguntas, o que prova que já as conhecia.
 
@@ -3840,7 +3848,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Não se segue daí que dos Espíritos não se possam obter úteis esclarecimentos e, sobretudo, bons conselhos; eles, porém, respondem mais ou menos bem, conforme os conhecimentos que possuem, o interesse que nos têm, a afeição que nos dedicam e, finalmente, o fim a que nos propomos e a utilidade que vejam no que lhes pedimos. Se, entretanto, os inquirimos unicamente porque os julgamos mais capazes do que outros de nos esclarecerem melhor sobre as coisas deste mundo, claro é que não nos poderão dispensar grande simpatia. Nesse caso, curtas serão suas aparições e, muitas vezes, conforme o grau da imperfeição de que ainda se ressintam, manifestarão mau humor, por terem sido inutilmente incomodados.
 
-<a name="LDM-p287"><code>LDM-pX</code></a>
+<a name="LDM-p287"><code>LDM-p287</code></a>
 
 - #️⃣ 287. Pensam algumas pessoas ser preferível que todos se abstenham de formular perguntas e que convém esperar o ensino dos Espíritos, sem o provocar. É um erro. Os Espíritos dão, não há dúvida, instruções espontâneas de alto alcance e que errôneo seria desprezar-se. Mas explicações há que frequentemente se teriam de esperar longo tempo, se não fossem solicitadas. Sem as questões que propusemos, O livro dos espíritos e O livro dos médiuns ainda estariam por fazer-se, ou, pelo menos, muito incompletos e sem solução uma imensidade de problemas de grande importância. As questões, longe de terem qualquer inconveniente, são de grandíssima utilidade, do ponto de vista da instrução, quando quem as propõe sabe encerrá-las nos devidos limites.
 
@@ -3848,7 +3856,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Quem haja compreendido bem o que até aqui temos dito nesta obra, já pode fazer ideia do círculo em que convém se encerrem as perguntas a serem dirigidas aos Espíritos. Todavia, para maior segurança, inserimos abaixo as respostas que eles nos deram acerca dos assuntos principais sobre que as pessoas pouco experientes se mostram em geral dispostas a interrogá-los.
 
-<a name="LDM-p288"><code>LDM-pX</code></a>
+<a name="LDM-p288"><code>LDM-p288</code></a>
 
 - #️⃣ 288. Perguntas simpáticas ou antipáticas aos Espíritos
 
@@ -3881,7 +3889,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 Nota Nalguns casos e quando seja conveniente, sucede com frequência que um Espírito esclarecido vem em auxílio do Espírito ignorante e lhe sopra o que deva dizer. Isso se reconhece facilmente pelo contraste de certas respostas e, além do mais, porque o próprio Espírito quase sempre o diz. O fato, entretanto, só ocorre com os Espíritos ignorantes, mas de boa-fé; nunca com os que fazem alarde de falso saber.
 
-<a name="LDM-p289"><code>LDM-pX</code></a>
+<a name="LDM-p289"><code>LDM-p289</code></a>
 
 - #️⃣ 289. Perguntas sobre o futuro
 
@@ -3919,7 +3927,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   14ª. Como é então que certas pessoas são avisadas, por pressentimento, da época em que morrerão?
   >“As mais das vezes, é o próprio Espírito delas que vem a saber disso em seus momentos de liberdade e guardam, ao despertar, a intuição do que entrevia. Essas pessoas, por estarem preparadas para isso, não se amedrontam, nem se emocionam. Não veem nessa separação da alma e do corpo mais do que uma mudança de situação, ou, se o preferirdes e para usarmos de uma linguagem mais vulgar, a troca de uma veste de pano grosseiro por uma de seda. O temor da morte irá diminuindo à medida que as crenças espíritas se forem dilatando.” 
   
-<a name="LDM-p290"><code>LDM-pX</code></a>
+<a name="LDM-p290"><code>LDM-p290</code></a>
 
 - #️⃣ 290
 . Sobre as existências passadas e vindouras
@@ -3937,7 +3945,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   >“Não; tudo o que a tal respeito vos disserem alguns Espíritos não passará de gracejo, e isso se compreende: a vossa existência futura não pode ser de antemão determinada, pois que será conforme a preparardes pelo vosso proceder na Terra e pelas resoluções que tomardes quando fordes Espíritos. Quanto menos tiverdes que expiar tanto mais ditosa será ela. Saber, porém, onde e como transcorrerá essa existência, repetimo-lo, é impossível, salvo o caso especial e raro dos Espíritos que só estão na Terra para desempenhar uma missão importante, porque então o caminho se lhes acha, de certo modo, traçado previamente.”
 
-<a name="LDM-p291"><code>LDM-pX</code></a>
+<a name="LDM-p291"><code>LDM-p291</code></a>
 
 - #️⃣ 291. Sobre interesses morais e materiais
 
@@ -3957,7 +3965,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 Nota A resposta acima desapontará sem dúvida os que imaginam que os Espíritos nada de melhor têm a fazer do que nos servirem de auxiliares clarividentes e nos ajudarem não a subirmos para o Céu, mas a nos prendermos à Terra. Outra consideração vem em apoio dessa resposta. Se um homem, por incúria durante a vida, deixou seus negócios em desordem, não é de crer que, depois da morte, tenha com eles mais cuidados, porquanto feliz deve sentir-se de estar livre dos aborrecimentos que tais negócios lhe causavam e, por pouco elevado que seja, ainda menos importância lhes ligará como Espírito do que como homem. Quanto aos bens desconhecidos que haja podido deixar, nenhum motivo lhe dão para que se interesse por herdeiros ávidos, que provavelmente já não pensariam nele, se alguma coisa não esperassem colher. Se estiver ainda imbuído das paixões humanas, poderá mesmo encontrar malicioso prazer no desapontamento dos que lhe cobiçavam a herança. Se, no interesse da justiça e das pessoas que lhe são caras, um Espírito julgar conveniente fazer revelações deste gênero, fá-las-á espontaneamente e, para obtê-las, ninguém precisa ser médium nem recorrer a um médium. O próprio Espírito dará conhecimento das coisas, por meio de circunstâncias fortuitas, não, todavia, por efeito de pedidos que se lhe façam, visto que semelhantes pedidos de modo algum podem mudar a natureza das provas que os encarnados devam sofrer. Eles constituiriam antes uma maneira de as agravar, porque são quase sempre indício de cupidez e dão a ver ao Espírito que os que os formulam só se ocupam com ele por interesse. (**Veja-se** o **item** 295.) compreendidas nos decretos de Deus.”
 
-<a name="LDM-p292"><code>LDM-pX</code></a>
+<a name="LDM-p292"><code>LDM-p292</code></a>
 
 - #️⃣ 292. Sobre a sorte dos Espíritos:
 
@@ -3977,7 +3985,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   📝 Nota A experiência demonstra que, nesse caso, o Espírito de nenhum modo se acha empolgado pelos motivos do interesse que possam ter os vivos de conhecerem as circunstâncias em que se deu a sua morte. Se ele tiver empenho em as revelar, fá-lo-á por si mesmo, quer mediunicamente, quer por meio de visões ou aparições. No caso contrário, pode perfeitamente um Espírito mistificador enganar os inquiridores e divertir-se com os induzir a procederem a pesquisas inúteis. Acontece frequentemente que o desaparecimento de uma pessoa, cuja morte não pode ser oficialmente comprovada, traz embaraços aos negócios da família. Só excepcionalmente, em casos muito raros, temos visto os Espíritos indicarem a pista da verdade, nesse terreno, atendendo a pedidos que lhes são feitos. Se o quisessem, é fora de dúvida que o poderiam; porém, as mais das vezes, isso não lhes é permitido, desde que tais embaraços representem provas para os que anseiam por vê-los removidos. É, pois, embalar-se em quimérica esperança o pretender alguém conseguir, por esse meio, entrar na posse de heranças, das quais o único traço positivo que lhes fica é o dinheiro despedindo para tal fim. Não faltam Espíritos dispostos a alimentar semelhantes esperanças e que nenhum escrúpulo têm em induzir, os que lhes dão crédito, a pesquisas, com as quais os que a elas se entregam devem dar-se por muito felizes, quando daí lhes resulte apenas um pouco de ridículo.
 
-<a name="LDM-p293"><code>LDM-pX</code></a>
+<a name="LDM-p293"><code>LDM-p293</code></a>
 
 - #️⃣ 293. Sobre a saúde
 
@@ -3993,72 +4001,75 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   27ª. Poderia um médico, evocando os Espíritos de seus clientes que morreram, obter esclarecimentos sobre o que lhes determinou a morte, sobre as faltas que haja porventura cometido no tratamento deles e adquirir assim um acréscimo de experiência?
   >“Pode, e isso lhe seria muito útil, sobretudo se conseguisse a assistência de Espíritos esclarecidos, que supririam a falta de conhecimentos de certos doentes. Mas, para tal, fora mister que ele fizesse esse estudo de modo sério, assíduo, com um fim humanitário, e não como meio de adquirir, sem trabalho, saber e riqueza.”
 
-<a name="LDM-p294"><code>LDM-pX</code></a>
+<a name="LDM-p294"><code>LDM-p294</code></a>
 
 - #️⃣ 294. Sobre as invenções e descobertas:
 
-  ❓ 28ª. Podem os Espíritos guiar os homens nas pesquisas científicas e nas descobertas
+  28ª. Podem os Espíritos guiar os homens nas pesquisas científicas e nas descobertas
   >“A ciência é obra do gênio; só pelo trabalho deve ser adquirida, pois só pelo trabalho é que o homem se adianta no seu caminho. Que mérito teria ele, se não lhe fosse preciso mais do que interrogar os Espíritos para saber tudo? A esse preço, qualquer imbecil poderia tornar-se sábio. O mesmo se dá com as invenções e descobertas que interessam à indústria. Há ainda uma outra consideração e é que cada coisa tem que vir a seu tempo e quando as ideias estão maduras para a receber. Se o homem dispusesse desse poder, subverteria a ordem das coisas, fazendo que os frutos brotassem antes da estação própria.”
   >
   >“Disse Deus ao homem: **tirarás da terra o teu alimento, com o suor do teu rosto.** Admirável figura, que pinta a condição em que ele se encontra nesse mundo. Tem que progredir em tudo, pelo esforço no trabalho. Se lhe dessem as coisas inteiramente prontas, de que lhe serviria a inteligência? Seria como o estudante cujos deveres um outro faça.”
   
-  ❓ 29ª. O sábio e o inventor nunca são assistidos, em suas pesquisas, pelos Espíritos?
+  29ª. O sábio e o inventor nunca são assistidos, em suas pesquisas, pelos Espíritos?
   >“Oh! isto é muito diferente. Quando há chegado o tempo de uma descoberta, os Espíritos encarregados de lhe dirigirem a marcha procuram o homem capaz de a levar a efeito e lhe inspiram as ideias necessárias, mas de maneira a lhe deixarem todo o mérito da obra, porquanto essas ideias preciso é que ele as elabore e ponha em execução. O mesmo se dá com todos os grandes trabalhos da inteligência humana. Os Espíritos deixam cada homem na sua esfera. Daquele que só é apto a cavar a terra, não farão depositário dos segredos de Deus; mas sabem tirar da obscuridade aquele que seja capaz de lhes secundar os desígnios. Não deixeis, pois, que a curiosidade ou a ambição vos arrastem por um caminho que não corresponde aos fins do Espiritismo e que vos conduziria às mais ridículas mistificações.”
   
   📝 Nota. O conhecimento mais aprofundado do Espiritismo acalmou a febre das descobertas que, no princípio, toda gente imaginava poder fazer por meio dele. Houve até quem chegasse a pedir aos Espíritos receitas para tingir e fazer nascer os cabelos, curar os calos dos pés etc. Conhecemos muitas pessoas que, convencidas de que assim fariam fortuna, nada conseguiram senão processos mais ou menos ridículos. O mesmo acontece quando se pretende, com a ajuda dos Espíritos, penetrar os mistérios da origem das coisas. Alguns deles têm, sobre essas matérias, seus sistemas, que não valem mais do que os dos homens e aos quais é prudente não dar acolhida, senão com a maior reserva.
 
-<a name="LDM-p295"><code>LDM-pX</code></a>
+<a name="LDM-p295"><code>LDM-p295</code></a>
 
 - #️⃣ 295. Sobre os tesouros ocultos:
 
-  ❓ 30ª. Podem os Espíritos fazer que se descubram tesouros?
+  30ª. Podem os Espíritos fazer que se descubram tesouros?
   >“Os Espíritos Superiores não se ocupam com essas coisas, mas os zombeteiros frequentemente indicam tesouros que não existem, ou se comprazem em apontá-los num lugar, quando se acham em lugar oposto. Isso tem a sua utilidade, para mostrar que a verdadeira riqueza está no trabalho. Se a Providência destina tesouros ocultos a alguém, esse os achará naturalmente; de outra forma, não.”
   
-  ❓ 31ª. Que se deve pensar da crença nos Espíritos guardiães de tesouros ocultos?
+  31ª. Que se deve pensar da crença nos Espíritos guardiães de tesouros ocultos?
   >“Os Espíritos que ainda não estão desmaterializados se apegam às coisas. Avarentos, que ocultaram seus tesouros, podem, depois de mortos, vigiá-los e guardá-los; e o temor em que vivem, de que alguém os venha arrebatar, constitui um de seus castigos, até que compreendam a inutilidade dessa atitude. Também há os Espíritos da Terra, incumbidos de lhe dirigirem as transformações interiores, dos quais, por alegoria, hão feito guardas das riquezas naturais.”
   
   📝 Nota. A questão dos tesouros ocultos está na mesma categoria da das heranças desconhecidas. Bem louco seria aquele que conteste com as pretendidas revelações, que lhe possam fazer os gaiatos do Mundo Invisível. Já tivemos ocasião de dizer que, quando os Espíritos querem ou podem fazer semelhantes revelações, eles as fazem espontaneamente, sem precisarem de médiuns para isso. Aqui está um exemplo: 
   
   Uma senhora acabava de perder o marido, depois de trinta anos de vida conjugal, e se encontrava prestes a ser despejada do seu domicílio, sem nenhum recurso, pelos enteados, para com os quais desempenhara o papel de mãe. Chegara ao cúmulo o seu desespero, quando, uma noite, o marido lhe apareceu e disse que ela o acompanhasse ao seu gabinete. Lá lhe mostrou a secretária, que ainda estava selada com os selos judiciais, e, por um efeito de dupla vista, lhe fez ver o interior, indicando-lhe uma gaveta secreta que ela não conhecia e cujo mecanismo lhe explicou, acrescentando: Previ o que está acontecendo e quis assegurar a tua sorte; nessa gaveta estão as minhas últimas disposições. Deixei-te o usufruto desta casa e uma renda de... Depois, desapareceu. No dia em que foram levantados os selos, ninguém pôde abrir a gaveta. A senhora, então, narrou o que lhe sucedera. Abriu-a, de acordo com as indicações de seu marido, e lá estava o testamento, conforme ao que ele lhe anunciara.
 
-<a name="LDM-p296"><code>LDM-pX</code></a>
+<a name="LDM-p296"><code>LDM-p296</code></a>
 
 - #️⃣ 296. Sobre outros mundos:
 
-  ❓ 32ª. Que confiança se pode depositar nas descrições que os Espíritos fazem dos diferentes mundos?
+  32ª. Que confiança se pode depositar nas descrições que os Espíritos fazem dos diferentes mundos?
   >“Depende do grau de adiantamento real dos Espíritos que dão essas descrições, pois bem deveis compreender que Espíritos vulgares são tão incapazes de vos informarem a esse respeito, quanto o é, entre vós, um ignorante, de descrever todos os países da Terra. Formulais muitas vezes, sobre esses mundos, questões científicas que tais Espíritos não podem resolver. Se eles estiverem de boa-fé, falarão disso de acordo com suas ideias pessoais; se forem Espíritos levianos, divertir-se-ão em dar-vos descrições estranhas e fantásticas, tanto mais facilmente quanto esses Espíritos, que na erraticidade não são menos providos de imaginação do que na Terra, tiram dessa faculdade a narração de muitas coisas que nada têm de real. Entretanto, não julgueis absolutamente impossível obterdes, sobre os ou- tros mundos, alguns esclarecimentos. Os bons Espíritos se comprazem mesmo em descrever-vos os que eles habitam, como ensino tendente a vos melhorar, induzindo-vos a seguir o caminho que vos conduzirá a esses mundos. É um meio de vos fixarem as ideias sobre o futuro e não vos deixarem na incerteza.”
   
   a) Como se pode verificar a exatidão dessas descrições?
   >“A melhor verificação reside na concordância que haja entre elas. Porém, lembrai-vos de que semelhantes descrições têm por fim o vosso melhoramento moral e que, por conseguinte, é sobre o estado moral dos habitantes dos outros mundos que podeis ser mais bem informados, e não sobre o estado físico ou geológico de tais esferas. Com os vossos conhecimentos atuais, não poderíeis mesmo compreendê-lo; semelhante estudo de nada serviria para o vosso progresso na Terra e toda a possibilidade tereis de fazê-lo, quando nelas estiverdes.” 
   
   📝 Nota. As questões sobre a constituição física e os elementos astronômicos dos mundos se compreendem no campo das pesquisas científicas, para cuja efetivação não devem os Espíritos poupar-nos os trabalhos que demandam. Se não fosse assim, muito cômodo se tornaria para um astrônomo pedir aos Espíritos que lhe fizessem os cálculos, o que, no entanto, depois, sem dúvida, esconderia. Se os Espíritos pudessem, por meio da revelação, evitar o trabalho de uma descoberta, é provável que o fizessem para um sábio que, por bastante modesto, não hesitaria em proclamar abertamente o meio pelo qual o alcançara e não para os orgulhosos que os renegam e a cujo amor-próprio, ao contrário, eles muitas vezes poupam decepções.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-27"><code>LDM-2-27</code></a>
 
 <h3>📑 27. Das contradições e das mistificações</h3>
 
 <h4>Das contradições</h4>
   
-<a name="LDM-p297"><code>LDM-pX</code></a>
+<a name="LDM-p297"><code>LDM-p297</code></a>
 
 - #️⃣ 297. Os adversários do Espiritismo não deixam de objetar que seus adeptos não se acham entre si de acordo; que nem todos partilham das mesmas crenças; numa palavra: que se contradizem. Ponderam eles: se o ensino vos é dado pelos Espíritos, como não se apresenta idêntico? Só um estudo sério e aprofundado da ciência pode reduzir estes argumentos ao seu justo valor.
 
   Apressemo-nos em dizer desde logo que essas contradições, de que algumas pessoas fazem grande cabedal, são, em regra, mais aparentes que reais; que elas quase sempre existem mais na superfície do que no fundo mesmo das coisas e que, por consequência, carecem de importância. De duas fontes provêm: dos homens e dos Espíritos.
 
-<a name="LDM-p298"><code>LDM-pX</code></a>
+<a name="LDM-p298"><code>LDM-p298</code></a>
 
 - #️⃣ 298. As contradições de origem humana já foram suficientemente explicadas no **capítulo** Dos sistemas, **item** 36, ao qual nos reportamos. Todos compreenderão que, no princípio, quando as observações ainda eram incompletas, hajam surgido opiniões divergentes sobre as causas e as consequências dos fenômenos espíritas, opiniões cujos três quartos já caíram diante de um estudo mais sério e mais aprofundado. Com poucas exceções e postas de lado, certas pessoas que não se desprendem facilmente das ideias que hão acariciado ou engendrado, pode dizer-se que hoje há unidade de vistas na imensa maioria dos espíritas, ao menos quanto aos princípios gerais, salvo pequenos detalhes insignificantes.
 
-<a name="LDM-p299"><code>LDM-pX</code></a>
+<a name="LDM-p299"><code>LDM-p299</code></a>
 
 - #️⃣ 299. Para se compreenderem a causa e o valor das contradições de origem espírita, é preciso estar-se identificado com a natureza do Mundo Invisível e tê-lo estudado por todas as suas faces. À primeira vista, parecerá talvez estranho que os Espíritos não pensem todos da mesma maneira, mas isso não pode surpreender a quem quer que se haja compenetrado de que infinitos são os degraus que eles têm de percorrer antes de chegarem ao alto da escada. Supor-lhes igual apreciação das coisas fora imaginá-los todos no mesmo nível; pensar que todos devam ver com justeza fora admitir que todos já chegaram à perfeição, o que não é exato e não o pode ser, desde que se considere que eles não são mais do que a Humanidade despida do envoltório corporal. Podendo manifestar-se Espíritos de todas as categorias, resulta que suas comunicações trazem o cunho da ignorância ou do saber que lhes seja peculiar no momento, o da inferioridade, ou da superioridade moral que alcançaram. A distinguir o verdadeiro do falso, o bom do mau, é a que devem conduzir as instruções que temos dado.
 
   Cumpre não esqueçamos que, entre os Espíritos, há, como entre os homens, falsos sábios e semissábios, orgulhosos, presunçosos e sistemáticos. Como só aos Espíritos perfeitos é dado conhecerem tudo, para os outros há, do mesmo modo que para nós, mistérios que eles explicam à sua maneira, segundo suas ideias, e a cujo respeito podem formar opiniões mais ou menos exatas, que se empenham, levados pelo amor-próprio, por que prevaleçam e que gostam de reproduzir em suas comunicações. O erro está em terem alguns de seus intérpretes esposado muito levianamente opiniões contrárias ao bom senso e se haverem feito os editores responsáveis delas. Assim, as contradições de origem espírita não derivam de outra causa, senão da diversidade, quanto à inteligência, aos conhecimentos, ao juízo e à moralidade, de alguns Espíritos que ainda não estão aptos a tudo conhecerem e a tudo compreenderem. (**Veja-se**: O livro dos espíritos — Introdução, § 8; Conclusão, § 9.)
 
-<a name="LDM-p300"><code>LDM-pX</code></a>
+<a name="LDM-p300"><code>LDM-p300</code></a>
 
 - #️⃣ 300. De que serve o ensino dos Espíritos, dirão alguns, se não nos oferece mais certeza do que o ensino humano? Fácil é a resposta. Não aceitamos com igual confiança o ensino de todos os homens e, entre duas doutrinas, preferimos aquela cujo autor nos parece mais esclarecido, mais capaz, mais judicioso, menos acessível às paixões. Do mesmo modo se deve proceder com os Espíritos. Se entre eles há os que não estão acima da Humanidade, muitos há que a ultrapassaram e estes nos podem dar ensinamentos que em vão buscaríamos com os homens mais instruídos. De distingui-los é do que deve tratar com cuidado quem queira esclarecer-se e a fazer essa distinção é o a que conduz o Espiritismo. Porém, mesmo esses ensinamentos têm um limite e, se aos Espíritos não é dado saberem tudo, com mais forte razão isso se verifica relativamente aos homens. Há coisas, portanto, sobre as quais será inútil interrogar os Espíritos, ou porque lhes seja defeso revelá-las, ou porque eles próprios as ignoram e a cujo respeito apenas podem expender suas opiniões pessoais. Ora, são essas opiniões pessoais que os Espíritos orgulhosos apresentam como verdades absolutas. Sobretudo, acerca do que deva permanecer oculto, como o futuro e o princípio das coisas, é que eles mais insistem, a fim de insinuarem que se acham de posse dos segredos de Deus. Por isso mesmo, sobre esses pontos é que mais contradições se observam. (**Veja-se** o **capítulo** precedente.)
 
-<a name="LDM-p301"><code>LDM-pX</code></a>
+<a name="LDM-p301"><code>LDM-p301</code></a>
 
 - #️⃣ 301. Eis as respostas que os Espíritos deram a perguntas feitas acerca das contradições:
 
@@ -4109,7 +4120,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   a) Os que adotam o erro não retardam o seu adiantamento?
   >“Se adotam o erro, é que não estão bastante adiantados para compreender a verdade.”
 
-<a name="LDM-p302"><code>LDM-pX</code></a>
+<a name="LDM-p302"><code>LDM-p302</code></a>
 
 - #️⃣ 302. À espera de que a unidade se faça, cada um julga ter consigo a verdade e sustenta que o verdadeiro é só o que ele sabe, ilusão que os Espíritos enganadores não se descuidam de entreter. Assim sendo, em que pode o homem imparcial e desinteressado basear-se, para formar juízo?
 >“Nenhuma nuvem obscurece a luz mais pura; o diamante sem mácula é o que tem mais valor; julgai, pois, os Espíritos pela pureza de seus ensinos. A unidade se fará do lado onde ao bem jamais se haja misturado o mal; desse lado é que os homens se ligarão, pela força mesma das coisas, porquanto considerarão que aí está a verdade. Notai, ademais, que os princípios fundamentais são por toda parte os mesmos e têm que vos unir numa ideia comum: o amor de Deus e a prática do bem. Qualquer que seja, conseguintemente, o modo de progressão que se imagine para as almas, o objetivo final é um só e um só o meio de alcançá-lo: fazer o bem. Ora, não há duas maneiras de fazê-lo. Se dissidências capitais se levantam, quanto ao princípio mesmo da Doutrina, de uma regra certa dispondes para as apreciar, esta: a melhor doutrina é a que melhor satisfaz ao coração e à razão e a que mais elementos encerra para levar os homens ao bem. Essa, eu vo-lo afirmo, a que prevalecerá.”
@@ -4118,7 +4129,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 📝 Nota Das causas seguintes podem derivar as contradições que se notam nas comunicações espíritas: da ignorância de certos Espíritos; do embuste dos Espíritos inferiores que, por malícia ou maldade, dizem o contrário do que disse algures o Espírito cujo nome eles usurpam; da vontade do próprio Espírito, que fala segundo os tempos, os lugares e as pessoas, e que pode julgar conveniente não dizer tudo a toda gente; da insuficiência da linguagem humana, para exprimir as coisas do mundo incorpóreo; da insuficiência dos meios de comunicação, que nem sempre permitem ao Espírito expressar todo o seu pensamento; enfim, da interpretação que cada um pode dar a uma palavra ou a uma explicação, segundo suas ideias, seus preconceitos, ou o ponto de vista donde considere o assunto. Só o estudo, a observação, a experiência e a isenção de todo sentimento de amor-próprio podem ensinar a distinguir estes diversos matizes.
 
-<a name="LDM-p303"><code>LDM-pX</code></a>
+<a name="LDM-p303"><code>LDM-p303</code></a>
 
 - #️⃣ 303
 
@@ -4142,41 +4153,44 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >“Se isso lhes abalasse a crença, é que não tinham muito sólida a fé. Os que renunciassem ao Espiritismo, por um simples desapontamento, provariam não o haverem compreendido e não lhe terem atentado na parte séria. Deus permite as mistificações, para experimentar a perseverança dos verdadeiros adeptos e punir os que do Espiritismo fazem objeto de divertimento.”
   
   📝 Nota A astúcia dos Espíritos mistificadores ultrapassa às vezes tudo o que se possa imaginar. A arte, com que dispõem as suas baterias e combinam os meios de persuadir, seria uma coisa curiosa, se eles nunca passassem dos simples gracejos; porém, as mistificações podem ter consequências desagradáveis para os que não se achem em guarda. Sentimo-nos felizes por termos podido abrir a tempo os olhos a muitas pessoas que se dignaram de pedir o nosso parecer e por lhes havermos poupado ações ridículas e comprometedoras. Entre os meios que esses Espíritos empregam, devem colocar-se na primeira linha, como os mais frequentes, os que têm por fim tentar a cobiça, como a revelação de pretendidos tesouros ocultos, o anúncio de heranças, ou outras fontes de riquezas. Devem, além disso, considerar-se suspeitas, logo à primeira vista, as predições com época determinada, assim como todas as indicações precisas, relativas a interesses materiais. Cumpre não se deem os passos prescritos ou aconselhados pelos Espíritos, quando o fim não seja eminentemente racional; que ninguém nunca se deixe deslumbrar pelos nomes que os Espíritos tomam para dar aparência de veracidade às suas palavras; desconfiar das teorias e sistemas científicos ousados; enfim, de tudo o que se afaste do objetivo moral das manifestações. Encheríamos um volume dos mais curiosos, se houvéramos de referir todas as mistificações de que temos tido conhecimento.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-28"><code>LDM-2-28</code></a>
 
 <h3>📑 28. Do charlatanismo e do embuste</h3>
 
 <h4>Médiuns interesseiros</h4>
 
-<a name="LDM-p304"><code>LDM-pX</code></a>
+<a name="LDM-p304"><code>LDM-p304</code></a>
 
 - #️⃣ 304. Como tudo pode tornar-se objeto de exploração, nada de surpreendente haveria em que também quisessem explorar os Espíritos. Resta saber como receberiam eles a coisa, dado que tal especulação viesse a ser tentada. Diremos desde logo que nada se prestaria melhor ao charlatanismo e à trapaça do que semelhante ofício. Muito mais numerosos do que os falsos sonâmbulos, que já se conhecem, seriam os falsos médiuns e este simples fato constituiria fundado motivo de desconfiança. O desinteresse, ao contrário, é a mais peremptória resposta que se pode dar aos que nos fenômenos só veem trampolinices. Não há charlatanismo desinteressado. Qual, pois, o fim que objetivariam os que usassem de embuste sem proveito, sobretudo quando a honorabilidade os colocasse acima de toda suspeita?
 
   Se é de constituir motivo de suspeição o ganho que um médium possa tirar da sua faculdade, jamais essa circunstância constituirá uma prova de que tal suspeição seja fundada. Quem quer, pois, que seja poderia ter real aptidão e agir de muito boa-fé, fazendo-se retribuir. Vejamos se, neste caso, é razoavelmente possível esperar-se algum resultado satisfatório.
 
-<a name="LDM-p305"><code>LDM-pX</code></a>
+<a name="LDM-p305"><code>LDM-p305</code></a>
 
 - #️⃣ 305. Quem haja compreendido bem o que dissemos das condições necessárias para que uma pessoa sirva de intérprete dos bons Espíritos, das múltiplas causas que os podem afastar, das circunstâncias que, independentemente da vontade deles, lhes sejam obstáculos à vinda, enfim de todas as condições morais capazes de exercer influências sobre a natureza das comunicações, como poderia supor que um Espírito, por menos elevado que fosse, estivesse, a todas as horas do dia, às ordens de um empresário de sessão e submisso às suas exigências, para satisfazer à curiosidade do primeiro que aparecesse? Sabe-se que aversão infunde aos Espíritos tudo o que cheira a cobiça e a egoísmo, o pouco caso que fazem das coisas materiais; como, então, admitir-se que se prestem a ajudar quem queira traficar com a presença deles? Repugna pensar isso e seria preciso conhecer muito pouco a natureza do mundo espírita, para acreditar-se que tal coisa seja possível. Mas como os Espíritos levianos são menos escrupulosos e só procuram ocasião de se divertirem à nossa custa, segue-se que, quando não se seja mistificado por um falso médium, tem-se toda a probabilidade de o ser por alguns de tais Espíritos. Estas sós reflexões dão a ver o grau de confiança que se deve dispensar às comunicações deste gênero. Ademais, para que serviriam hoje médiuns pagos, desde que qualquer pessoa, se não possui faculdade mediúnica, pode tê-la nalgum membro da sua família, entre seus amigos, ou no círculo de suas relações?
 
-<a name="LDM-p306"><code>LDM-pX</code></a>
+<a name="LDM-p306"><code>LDM-p306</code></a>
 
 - #️⃣ 306. Médiuns interesseiros não são apenas os que porventura exijam uma retribuição fixa; o interesse nem sempre se traduz pela esperança de um ganho material, mas também pelas ambições de toda sorte, sobre as quais se fundem esperanças pessoais. É esse um dos defeitos de que os Espíritos zombeteiros sabem muito bem tirar partido e de que se aproveitam com uma habilidade, uma astúcia verdadeiramente notáveis, embalando com falaciosas ilusões os que desse modo se lhes colocam sob a dependência. Em resumo, a mediunidade é uma faculdade concedida para o bem e os bons Espíritos se afastam de quem pretenda fazer dela um degrau para chegar ao que quer que seja, que não corresponda às vistas da Providência. O egoísmo é a chaga da sociedade; os bons Espíritos a combatem; a ninguém, portanto, assiste o direito de supor que eles o venham servir. Isto é tão racional, que inútil fora insistir mais sobre este ponto.
 
-<a name="LDM-p307"><code>LDM-pX</code></a>
+<a name="LDM-p307"><code>LDM-p307</code></a>
 
 - #️⃣ 307. Não estão na mesma categoria os médiuns de efeitos físicos, pois que estes geralmente são produzidos por Espíritos inferiores, menos escrupulosos. Não dizemos que tais Espíritos sejam por isso necessariamente maus. Pode-se ser um simples carregador e ao mesmo tempo homem muito honesto. Um médium, pois, desta categoria, que quisesse explorar a sua faculdade, muitos Espíritos talvez encontraria, que sem grande repugnância o assistissem. Mas ainda aí outro inconveniente se apresenta. O médium de efeitos físicos, do mesmo modo que o de comunicações inteligentes, não recebeu para seu gozo a faculdade que possui. Teve-a sob a condição de fazer dela bom uso; se, portanto, abusa, pode dar-se que lhe seja retirada, ou que redunde em detrimento seu, por que, afinal, os Espíritos inferiores estão subordinados aos Espíritos Superiores.
 
   Aqueles gostam muito de mistificar, porém, não de ser mistificados; se se prestam de boa vontade ao gracejo, às coisas de mera curiosidade, porque lhes apraz divertirem-se, também é certo que, como aos outros, lhes repugna ser explorados, ou servir de comparsas, para que a receita aumente, e a todo instante provam que têm vontade própria, que agem quando e como bem lhes parece, donde resulta que o médium de efeitos físicos ainda menos certeza pode ter da regularidade das manifestações, do que o médium escrevente. Pretender produzi-los em dias e horas determinados, fora dar prova da mais profunda ignorância. Que há de ele então fazer para ganhar seu dinheiro? Simular os fenômenos. É o a que naturalmente recorrerão, não só os que disso façam um ofício declarado, como igualmente pessoas aparentemente simples, que acham mais fácil e mais cômodo esse meio de ganhar a vida, do que trabalhando. Desde que o Espírito não dá coisa alguma, supre-se a falta: a imaginação é tão fecunda, quando se trata de ganhar dinheiro! Constituindo um motivo legítimo de suspeita, o interesse dá direito a rigoroso exame, com o qual ninguém poderá ofender-se, sem justificar as suspeitas. Mas tanto estas são legítimas neste caso, como ofensivas em se tratando de pessoas honradas e desinteressadas.
 
-<a name="LDM-p308"><code>LDM-pX</code></a>
+<a name="LDM-p308"><code>LDM-p308</code></a>
 
 - #️⃣ 308. A faculdade mediúnica, mesmo restrita às manifestações físicas, não foi dada ao homem para ostentá-la nos teatros de feira e quem quer que pretenda ter às suas ordens os Espíritos, para exibir em público, está no caso de ser, com justiça, suspeitado de charlatanismo, ou de mais ou menos hábil prestidigitação. Assim se entenda todas as vezes que apareçam anúncios de pretendidas sessões de Espiritismo, ou de Espiritualismo, a tanto por cabeça. Lembrem-se todos do direito que compram ao entrar. De tudo o que precede, concluímos que o mais absoluto desinteresse é a melhor garantia contra o charlatanismo. Se ele nem sempre assegura a excelência das comunicações inteligentes, priva, contudo, os maus Espíritos de um poderoso meio de ação e fecha a boca a certos detratores.
 
-<a name="LDM-p309"><code>LDM-pX</code></a>
+<a name="LDM-p309"><code>LDM-p309</code></a>
 
 - #️⃣ 309. Resta o que se poderia chamar as tramoias do amador, isto é, as fraudes inocentes de alguns gracejadores de mau gosto. Podem sem dúvida ser praticadas, à guisa de passatempo, em reuniões levianas e frívolas, porém, jamais, em assembleias sérias, onde só se admitam pessoas sérias. Aliás, a quem quer que seja é possível dar-se a si mesmo o prazer de uma mistificação momentânea: mas seria preciso que uma pessoa fosse dotada de singular paciência, para representar esse papel por meses e anos e, de cada vez durante horas consecutivas. Só um interesse qualquer facultaria essa perseverança, mas o interesse, repetimo-lo, dá lugar a que se suspeite de tudo.
 
-<a name="LDM-p310"><code>LDM-pX</code></a>
+<a name="LDM-p310"><code>LDM-p310</code></a>
 
 - #️⃣ 310. Dir-se-á, talvez, que um médium, que consagra todo o seu tempo ao público, no interesse da causa, não o pode fazer de graça, porque tem que viver. Mas é no interesse da causa, ou no seu próprio, que ele o emprega? Não será, antes, porque vê nisso um ofício lucrativo? A tal preço, sempre haverá gente dedicada. Não tem então ao seu dispor senão essa indústria? Não esqueçamos que os Espíritos, seja qual for a sua superioridade, ou inferioridade, são as almas dos mortos e que, quando a moral e a religião prescrevem como um dever que se lhes respeitem os restos mortais, ainda maior é a obrigação, para todos, de lhes respeitarem o Espírito.
 
@@ -4184,23 +4198,23 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Cumpre não olvidar que as manifestações físicas, tanto quanto as inteligentes, Deus só as permite para nossa instrução.
 
-<a name="LDM-p311"><code>LDM-pX</code></a>
+<a name="LDM-p311"><code>LDM-p311</code></a>
 
 - #️⃣ 311. Postas de parte estas considerações morais, de nenhum modo contestamos a possibilidade de haver médiuns interesseiros, se bem que honrados e conscienciosos, porquanto há gente honesta em todos os ofícios. Apenas falamos do abuso. Mas é preciso convir, pelos motivos que expusemos, em que mais razão há para o abuso entre os médiuns retribuídos do que entre os que, considerando uma graça a faculdade mediúnica, não a utilizam, senão para prestar serviço.
 
   O grau da confiança ou desconfiança que se deve dispensar a um médium retribuído depende, antes de tudo, da estima que infundam seu caráter e sua moralidade, além das circunstâncias. O médium que, com um fim eminentemente sério e útil, se achasse impedido de empregar o seu tempo de outra maneira e, em consequência, se visse exonerado, não deve ser confundido com o médium especulador, com aquele que, premeditadamente, faça da sua mediunidade uma indústria. Conforme o motivo e o fim, podem, pois, os Espíritos condenar, absolver e, até, auxiliar. Eles julgam mais a intenção do que o fato material.
 
-<a name="LDM-p312"><code>LDM-pX</code></a>
+<a name="LDM-p312"><code>LDM-p312</code></a>
 
 - #️⃣ 312. Não estão no mesmo caso os sonâmbulos que empregam sua faculdade de modo lucrativo. Conquanto essa exploração esteja sujeita a abusos e o desinteresse constitua a maior garantia de sinceridade, a posição é diferente, tendo-se em vista que são seus próprios Espíritos que agem. Estes, por conseguinte, lhes estão sempre à disposição e, em realidade, eles só exploram a si mesmos, porque lhes assiste o direito de disporem de suas pessoas como o entenderem, ao passo que os médiuns especuladores exploram as almas dos mortos. (**Veja-se** o **item** 172, Médiuns sonambúlicos.)
 
-<a name="LDM-p313"><code>LDM-pX</code></a>
+<a name="LDM-p313"><code>LDM-p313</code></a>
 
 - #️⃣ 313. Não ignoramos que a nossa severidade para com os médiuns interesseiros levanta contra nós todos os que exploram, ou se veem tentados a explorar essa nova indústria, fazendo-os, bem como de seus amigos, que naturalmente lhes esposam a opinião, encarniçados inimigos nossos. Consolamo-nos com o nos lembrarmos de que os mercadores expulsos do templo por Jesus também não o viam com bons olhos. Temos igualmente contra nós os que não consideram a coisa com a mesma gravidade. Entretanto, julgamo-nos no direito de ter uma opinião e de a emitir. A ninguém obrigamos que a adote. Se uma imensa maioria a esposou, é que aparentemente a acharam justa; porquanto, não vemos, com efeito, como se provaria que não há mais facilidade de se encontrarem a fraude e os abusos na especulação do que no desinteresse. Quanto a nós, se os nossos escritos hão contribuído para desacreditar, assim na França, como em outros países, a mediunidade interesseira, entendemos que esse não será dos menores serviços que tenhamos prestado ao Espiritismo sério.
 
 <h4>Fraudes espíritas</h4>
 
-<a name="LDM-p314"><code>LDM-pX</code></a>
+<a name="LDM-p314"><code>LDM-p314</code></a>
 
 - #️⃣ 314. Os que não admitem a realidade das manifestações físicas geralmente atribuem à fraude os efeitos produzidos. Fundam-se em que os prestidigitadores hábeis fazem coisas que parecem prodígios, para quem não lhes conhece os segredos; donde concluem que os médiuns não passam de escamoteadores. Já refutamos este argumento, ou antes, esta opinião, notadamente nos nossos artigos sobre o Sr. Home e nos números da Revista espírita de janeiro e fevereiro de 1858. Aqui, pois, não diremos mais do que algumas palavras, antes de falarmos de coisa mais séria.
 
@@ -4208,17 +4222,17 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Do fato de haver charlatães que preconizam drogas nas praças públicas, mesmo de haver médicos que, sem irem à praça pública, iludem a confiança dos seus clientes, seguir-se-á que todos os médicos são charlatães e que a classe médica haja perdido a consideração que merece? De haver indivíduos que vendem tintura por vinho, segue-se que todos os negociantes de vinho são falsificadores e que não há vinho puro? De tudo se abusa, mesmo das coisas mais respeitáveis e bem se pode dizer que também a fraude tem o seu gênio. Mas a fraude sempre visa a um fim, a um interesse material qualquer; onde nada haja a ganhar, nenhum interesse há em enganar. Por isso foi que dissemos, falando dos médiuns mercenários, que a melhor de todas as garantias é o desinteresse absoluto.
 
-<a name="LDM-p315"><code>LDM-pX</code></a>
+<a name="LDM-p315"><code>LDM-p315</code></a>
 
 - #️⃣ 315. De todos os fenômenos espíritas, os que mais se prestam à fraude são os fenômenos físicos, por motivos que convém considerar. Primeiramente, porque impressionam mais a vista do que a inteligência, são, para prestidigitação, os mais facilmente imitáveis. Em segundo lugar, porque, despertando, mais do que os outros, a curiosidade, são mais apropriados a atrair as multidões; são, por conseguinte, os mais produtivos. Desse duplo ponto de vista, portanto, os charlatães têm todo interesse em simular as manifestações desta espécie; os espectadores, na sua maioria estranhos à ciência, acorrem, geralmente, em busca muito mais de uma distração do que de instrução séria e é sabido que se paga melhor o que diverte do que o que instrui. Porém, posto isto de lado, outro motivo há, não menos peremptório. Se a prestidigitação pode imitar efeitos materiais, para o que só de destreza se há mister, não lhe conhecemos, todavia, até o presente, o dom de improvisação, que exige uma dose pouco vulgar de inteligência, nem o produzir esses belos e sublimes ditados, frequentemente tão cheios de a propósitos, com que os Espíritos matizam suas comunicações. Isto nos faz lembrar o fato seguinte:
 
   Certo dia, um homem de letras bastante conhecido veio ter conosco e nos disse que era muito bom médium escrevente intuitivo e que se punha à disposição da Sociedade Espírita. Como temos por hábito não admitir na Sociedade senão médiuns cujas faculdades nos são conhecidas, pedimos ao nosso visitante assentisse em dar antes provas de sua faculdade numa reunião particular. Ele, efetivamente, compareceu a esta, na qual muitos médiuns experimentados deram ou dissertações, ou respostas de notável precisão, sobre questões propostas e assuntos que lhes eram desconhecidos. Quando chegou a vez daquele senhor, ele escreveu algumas palavras insignificantes, disse que nesse dia estava indisposto e nunca mais o vimos. Achou sem dúvida que o papel de médium de efeitos inteligentes é mais difícil de representar do que o supusera.
 
-<a name="LDM-p316"><code>LDM-pX</code></a>
+<a name="LDM-p316"><code>LDM-p316</code></a>
 
 - #️⃣ 316. Em tudo, as pessoas mais facilmente enganáveis são as que não pertencem ao ofício. O mesmo se dá com o Espiritismo. As que não o conhecem se deixam facilmente iludir pelas aparências, ao passo que um prévio estudo atento as inicia, não só nas causas dos fenômenos, como também nas condições normais em que eles costumam produzir-se e lhes ministra, assim, os meios de descobrirem a fraude, se existir.
 
-<a name="LDM-p317"><code>LDM-pX</code></a>
+<a name="LDM-p317"><code>LDM-p317</code></a>
 
 - #️⃣ 317. Os médiuns trapaceiros são estigmatizados, como merecem, na seguinte carta que publicamos em a Revista espírita do mês de agosto de 1861:
 
@@ -4240,60 +4254,63 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >
   > **Mateus**
 
-<a name="LDM-p318"><code>LDM-pX</code></a>
+<a name="LDM-p318"><code>LDM-p318</code></a>
 
 - #️⃣ 318. A imitação de todos os fenômenos espíritas não é igualmente fácil. Alguns há que evidentemente desafiam a habilidade da prestidigitação: tais, notadamente, o movimento dos objetos sem contato, a suspensão dos corpos pesados no ar, as pancadas de diferentes lados, as aparições etc., salvo o emprego das tramoias e do compadrio. Por isso dizemos que o que necessário se faz em tal caso é observar atentamente as circunstâncias e, sobretudo, ter muito em conta o caráter e a posição das pessoas, o objetivo e o interesse que possam ter em enganar. Essa a melhor de todas as fiscalizações, porquanto circunstâncias há que fazem desaparecer todos os motivos de suspeita. Julgamos, pois, em princípio, que se deve desconfiar de quem quer que faça desses fenômenos um espetáculo, ou objeto de curiosidade e de divertimento, e que pretenda produzi-los à sua vontade e da maneira exigida, conforme já explicamos. Nunca será demais repetir que as inteligências ocultas que se nos manifestam têm suas suscetibilidades e fazem questão de nos provar que também gozam de livre-arbítrio e não se submetem aos nossos caprichos. (`LDM-p38.)
 
   Será suficiente assinalemos alguns subterfúgios, que costumam empregar-se, ou que o podem ser em certos casos, para premunirmos contra a fraude os observadores de boa-fé. Quanto aos que se obstinam em julgar, sem aprofundarem as coisas, fora tempo perdido procurar desiludi-los.
 
-<a name="LDM-p319"><code>LDM-pX</code></a>
+<a name="LDM-p319"><code>LDM-p319</code></a>
 
 - #️⃣ 319. Um dos fenômenos mais comuns é o das pancadas no interior mesmo da substância da madeira, com ou sem movimento da mesa, ou do objeto de que se faça uso. Esse efeito é um dos mais fáceis de ser imitado, quer pelo contato dos pés, quer provocando-se pequenos estalidos no móvel. Há, porém, uma artimanhazinha especial, que convém desvendar. Basta que uma pessoa coloque as duas mãos espalmadas sobre a mesa e tão aproximadas que as unhas dos polegares se apoiem fortemente uma contra a outra; então, por meio de um movimento muscular inteiramente imperceptível, produz-se nelas um atrito que dá um ruído seco, apresentando grande analogia com o da tiptologia íntima. Esse ruído repercute na madeira e produz completa ilusão. Nada mais fácil do que fazer que se ouçam tantas pancadas quantas se queiram, o rufo do tambor etc., do que responder a certas perguntas, por um sim, ou um não, por números, ou mesmo pela indicação das letras do alfabeto.
 
   Estando-se prevenido, é muito simples o modo de descobrir a fraude. Ela se torna impossível, desde que as mãos sejam afastadas uma da outra e desde que se tenha a certeza de que nenhum outro contato poderá produzir o ruído. Além disso, as pancadas reais apresentam esta característica: mudam de lugar e de timbre, à vontade, o que não pode dar-se quando devidas à causa que assinalamos, ou a qualquer outra análoga. Assim é que deixam a mesa, para se fazerem ouvir noutro móvel qualquer, com o qual ninguém se acha em contato, nas paredes, no forro etc., e respondem a questões não previstas. (**Veja-se** o **item** 41.)
 
-<a name="LDM-p320"><code>LDM-pX</code></a>
+<a name="LDM-p320"><code>LDM-p320</code></a>
 
 - #️⃣ 320. A escrita direta ainda é mais facilmente imitável. Sem falar dos agentes químicos bem conhecidos, para fazerem que em dado tempo a escrita apareça no papel branco, o que se consegue impedir com as mais vulgares precauções, pode acontecer que, por meio de hábil escamoteação, se substitua um papel por outro. Pode dar-se também que aquele que queira fraudar tenha a arte de desviar as atenções, enquanto escreva com destreza algumas palavras. Alguém nos disse ter visto uma pessoa escrever assim com um pedaço de ponta de lápis escondido debaixo da unha.
 
-<a name="LDM-p321"><code>LDM-pX</code></a>
+<a name="LDM-p321"><code>LDM-p321</code></a>
 
 - #️⃣ 321. O fenômeno do trazimento de objetos, de fora para o lugar onde se efetua a reunião, não se presta menos à trapaça e facilmente se pode ser enganado por um escamoteador mais ou menos destro, sem que haja mister se trate de um prestidigitador profissional. No parágrafo especial que acima inserimos (**item** 96), os próprios Espíritos determinaram as condições excepcionais em que ele se produz, donde lícito é concluir-se que a sua obtenção facultativa e fácil deve, quando nada, ser tida por suspeita. A escrita direta está no mesmo caso.
 
-<a name="LDM-p322"><code>LDM-pX</code></a>
+<a name="LDM-p322"><code>LDM-p322</code></a>
 
 - #️⃣ 322. No **capítulo** Dos médiuns especiais, mencionamos, segundo os Espíritos, as aptidões mediúnicas comuns e as que são raras. Cumpre, pois, desconfiar dos médiuns que pretendam possuir estas últimas com muita facilidade, ou que ambicionem dispor de múltiplas faculdades, pretensão que só muito raramente se justifica.
 
-<a name="LDM-p323"><code>LDM-pX</code></a>
+<a name="LDM-p323"><code>LDM-p323</code></a>
 
 - #️⃣ 323. As manifestações inteligentes são, conforme as circunstâncias, as que oferecem mais garantias; entretanto, nem mesmo essas escapam à imitação, pelo menos no que toca às comunicações banais e vulgares. Pensam alguns que, com os médiuns mecânicos, estão mais seguros, não só pelo que respeita à independência das ideias, como também contra os embustes; daí o preferirem os intermediários materiais. Pois bem! é um erro. A fraude se insinua por toda parte e sabemos que, com habilidade, até mesmo uma cesta, ou uma prancheta que escreve pode ser dirigida à vontade, com todas as aparências dos movimentos espontâneos. Só os pensamentos expressos, quer venham de um médium mecânico, quer de um intuitivo, audiente, falante ou vidente, afastam todas as dúvidas. Há comunicações, tão fora das ideias, dos conhecimentos e mesmo do alcance intelectual do médium, que só por efeito de estranha obliteração se poderia atribuí-las a este último. Reconhecemos que o charlatanismo dispõe de grande habilidade e vastos recursos, mas ainda lhe não descobrimos o dom de dar saber a um ignorante, nem espírito a quem não o tenha.
 
   Em resumo, repetimos, a melhor garantia está na moralidade notória dos médiuns e na ausência de todas as causas de interesse material, ou de amor-próprio, capazes de estimular-lhes o exercício das faculdades mediúnicas que possuam, porquanto essas mesmas causas poderiam induzi-los a simular as de que não dispõem.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-29"><code>LDM-2-29</code></a>
 
 <h3>📑 29. Das reuniões e das Sociedades Espíritas</h3>
 
 <h4>Das reuniões em geral</h4>
 
-<a name="LDM-p324"><code>LDM-pX</code></a>
+<a name="LDM-p324"><code>LDM-p324</code></a>
 
 - #️⃣ 324. As reuniões espíritas oferecem grandíssimas vantagens, por permitirem que os que nelas tomam parte se esclareçam, mediante a permuta das ideias, pelas questões e observações que se façam, das quais todos aproveitam. Mas, para que produzam todos os frutos desejáveis, requerem condições especiais, que vamos examinar, porquanto erraria quem as comparasse às reuniões ordinárias. Todavia, sendo, afinal, cada reunião um todo coletivo, o que lhes diz respeito decorre naturalmente das precedentes instruções. Cabe-lhes tomarem as mesmas precauções e preservarem-se dos mesmos escolhos que os indivíduos. Essa a razão por que colocamos em último lugar esse **capítulo**.
 
   Elas apresentam caracteres muito diferentes, conforme o fim com que se realizam; por isso mesmo, suas condições intrínsecas também devem diferir. Segundo o gênero a que pertençam, podem ser frívolas, experimentais ou instrutivas.
 
-<a name="LDM-p325"><code>LDM-pX</code></a>
+<a name="LDM-p325"><code>LDM-p325</code></a>
 
 - #️⃣ 325. As reuniões frívolas se compõem de pessoas que só veem o lado divertido das manifestações, que se divertem com as facécias dos Espíritos levianos, aos quais muito agrada essa espécie de assembleia, a que não faltam por gozarem nelas de toda a liberdade para se exibirem. É nessas reuniões que se perguntam banalidades de toda sorte, que se pede aos Espíritos a predição do futuro, que se lhes põe à prova a perspicácia em adivinhar as idades, ou o que cada um tem no bolso, em revelar segredinhos e mil outras coisas de igual importância.
 
   Tais reuniões são sem consequência, mas, como às vezes os Espíritos levianos são muito inteligentes e, em geral, de bom humor e bastante jovialidade, dão-se frequentemente nelas fatos muito curiosos, de que o observador pode tirar proveito. Aquele que só isso tenha visto e julgue o mundo dos Espíritos por essa amostra, ideia tão falsa fará deste, como quem julgasse toda a sociedade de uma grande capital pela de alguns de seus quarteirões. O simples bom senso diz que os Espíritos elevados não comparecem às reuniões deste gênero, em que os espectadores não são mais sérios do que os atores. Quem queira ocupar-se com coisas fúteis deve francamente chamar Espíritos levianos, do mesmo modo que para divertir uma sociedade chamaria truões; porém, cometeria uma profanação aquele que convidasse para semelhantes meios individualidades veneradas, porque seria misturar o sagrado com o profano.
 
-<a name="LDM-p326"><code>LDM-pX</code></a>
+<a name="LDM-p326"><code>LDM-p326</code></a>
 
 - #️⃣ 326. As reuniões experimentais têm particularmente por objeto a produção das manifestações físicas. Para muitas pessoas, são um espetáculo mais curioso que instrutivo. Os incrédulos saem delas mais admirados do que convencidos, quando ainda outra coisa não viram, e se voltam inteiramente para a pesquisa dos artifícios, porquanto, nada percebendo de tudo aquilo, de boa mente imaginam a existência de subterfúgios. Já outro tanto não se dá com os que hão estudado; esses compreendem de antemão a possibilidade dos fenômenos, e a observação dos fatos positivos lhes determina ou completa a convicção. Se houver subterfúgios, eles se acharão em condições de descobri-los.
 
   Nada obstante, as experiências desta ordem trazem uma utilidade, que ninguém ousaria negar, visto terem sido elas que levaram à descoberta das leis que regem o Mundo Invisível e, para muita gente, constituem poderoso meio de convicção. Sustentamos, porém, que só por só não logram iniciar a quem quer que seja na ciência espírita, do mesmo modo que a simples inspeção de um engenhoso mecanismo não torna conhecida a mecânica de quem não lhe saiba as leis. Contudo, se fossem dirigidas com método e prudência, dariam resultados muito melhores. Voltaremos em breve a este ponto.
 
-<a name="LDM-p327"><code>LDM-pX</code></a>
+<a name="LDM-p327"><code>LDM-p327</code></a>
 
 - #️⃣ 327. As reuniões instrutivas apresentam caráter muito diverso e, como são as em que se pode haurir o verdadeiro ensino, insistiremos mais sobre as condições a que devem satisfazer.
 
@@ -4301,11 +4318,11 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Uma reunião só é verdadeiramente séria, quando cogita de coisas úteis, com exclusão de todas as demais. Se os que a formam aspiram a obter fenômenos extraordinários, por mera curiosidade, ou passatempo, talvez compareçam Espíritos que os produzam, mas os outros daí se afastarão. Numa palavra, qualquer que seja o caráter de uma reunião, haverá sempre Espíritos dispostos a secundar as tendências dos que a componham. Assim, pois, afasta-se do seu objetivo toda reunião séria em que o ensino é substituído pelo divertimento. As manifestações físicas, como dissemos, têm sua utilidade; vão às sessões experimentais os que queiram ver; vão às reuniões de estudos os que queiram compreender; é desse modo que uns e outros lograrão completar sua instrução espírita, tal qual fazem os que estudam Medicina, os quais vão, uns aos cursos, outros às clínicas.
 
-<a name="LDM-p328"><code>LDM-pX</code></a>
+<a name="LDM-p328"><code>LDM-p328</code></a>
 
 - #️⃣ 328. A instrução espírita não abrange apenas o ensinamento moral que os Espíritos dão, mas também o estudo dos fatos. Incumbe-lhe a teoria de todos os fenômenos, a pesquisa das causas, a comprovação do que é possível e do que não o é; em suma, a observação de tudo o que possa contribuir para o avanço da ciência. Ora, fora erro acreditar-se que os fatos se limitam aos fenômenos extraordinários; que só são dignos de atenção os que mais fortemente impressionam os sentidos. A cada passo, eles ressaltam das comunicações inteligentes e de forma a não merecerem serem desprezados por homens que se reúnem para estudar. Esses fatos, que seria impossível enumerar, surgem de um sem-número de circunstâncias fortuitas. Embora de menor relevo, nem por isso menos dignos são do mais alto interesse para o observador, que neles vai encontrar ou a confirmação de um princípio conhecido, ou a revelação de um princípio novo, que o faz penetrar um pouco mais nos mistérios do Mundo Invisível. Isso também é filosofia.
 
-<a name="LDM-p329"><code>LDM-pX</code></a>
+<a name="LDM-p329"><code>LDM-p329</code></a>
 
 - #️⃣ 329. As reuniões de estudo são, além disso, de imensa utilidade para os médiuns de manifestações inteligentes, para aqueles, sobretudo, que seriamente desejam aperfeiçoar-se e que a elas não comparecem dominados por tola presunção de infalibilidade. Constituem um dos grandes tropeços da mediunidade, como já tivemos ocasião de dizer, a obsessão e a fascinação. Eles, pois, podem iludir-se de muito boa-fé, com relação ao mérito do que alcançam e facilmente se concebe que os Espíritos enganadores têm o caminho aberto, quando apenas lidam com um cego. Por essa razão é que afastam o seu médium de toda fiscalização; que chegam mesmo, se for preciso, a fazê-lo tomar aversão a quem quer que o possa esclarecer. Graças ao insulamento e à fascinação, conseguem sem dificuldade levá-lo a aceitar tudo o que eles queiram.
 
@@ -4317,13 +4334,13 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Insistimos nesse ponto, porque, assim como esse é um escolho para os médiuns, também o é para as reuniões, nas quais importa não se confie levianamente em todos os intérpretes dos Espíritos. O concurso de qualquer médium obsidiado, ou fascinado, lhes seria mais nocivo do que útil; não devem elas, pois, aceitá-lo. Julgamos já ter expendido observações suficientes, de modo a lhes tornar impossível equivocarem-se acerca dos caracteres da obsessão, se o médium não a puder reconhecer por si mesmo. Um dos mais evidentes é, da parte deste, a pretensão de ter sempre razão contra toda gente. Os médiuns obsidiados, que se recusam a reconhecer que o são, se assemelham a esses doentes que se iludem sobre a própria enfermidade e se perdem, por se não submeterem a um regime salutar.
 
-<a name="LDM-p330"><code>LDM-pX</code></a>
+<a name="LDM-p330"><code>LDM-p330</code></a>
 
 - #️⃣ 330. O objetivo de uma reunião séria deve consistir em afastar os Espíritos mentirosos. Incorreria em erro, se se supusesse ao abrigo deles, pelos seus fins e pela qualidade de seus médiuns. Não o estará, enquanto não se achar em condições favoráveis.
 
   A fim de que bem compreenda o que se passa em tais circunstâncias, rogamos ao leitor se reporte ao que dissemos acima, no **item** 231, no **capítulo** Da influência do meio. Imagine-se que cada indivíduo está cercado de certo número de acólitos invisíveis, que se lhe identificam com o caráter, com os gostos e com os pendores. Assim sendo, todo aquele que entra numa reunião traz consigo Espíritos que lhe são simpáticos. Conforme o número e a natureza deles, podem esses acólitos exercer sobre a assembleia e sobre as comunicações influência boa ou má. Perfeita seria a reunião em que todos os assistentes, possuídos de igual amor ao bem, consigo só trouxessem bons Espíritos. Em falta da perfeição, a melhor será aquela em que o bem suplante o mal. Muito lógica é esta proposição, para que precisemos insistir.
 
-<a name="LDM-p331"><code>LDM-pX</code></a>
+<a name="LDM-p331"><code>LDM-p331</code></a>
 
 - #️⃣ 331. Uma reunião é um ser coletivo, cujas qualidades e propriedades são a resultante das de seus membros e formam como que um feixe. Ora, este feixe tanto mais força terá, quanto mais homogêneo for. Se se houver compreendido bem o que foi dito (**item** 282, questão 5), sobre a maneira por que os Espíritos são avisados do nosso chamado, facilmente se compreenderá o poder da associação dos pensamentos dos assistentes. Desde que o Espírito é de certo modo atingido pelo pensamento, como nós somos pela voz, vinte pessoas, unindo-se com a mesma intenção, terão necessariamente mais força do que uma só, mas, a fim de que todos esses pensamentos concorram para o mesmo fim, preciso é que vibrem em uníssono; que se confundam, por assim dizer, em um só, o que não pode dar-se sem a concentração.
 
@@ -4331,11 +4348,11 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Toda reunião espírita deve, pois, tender para a maior homogeneidade possível. Está entendido que falamos das em que se deseja chegar a resultados sérios e verdadeiramente úteis. Se o que se quer é apenas obter comunicações, sejam estas quais forem, sem nenhuma atenção à qualidade dos que as deem, evidentemente desnecessárias se tornam todas essas precauções, mas, então, ninguém tem que se queixar da qualidade do produto.
 
-<a name="LDM-p332"><code>LDM-pX</code></a>
+<a name="LDM-p332"><code>LDM-p332</code></a>
 
 - #️⃣ 332. Sendo o recolhimento e a comunhão dos pensamentos as condições essenciais a toda reunião séria, fácil é de compreender-se que o número excessivo dos assistentes constitui uma das causas mais contrárias à homogeneidade. Não há, é certo, nenhum limite absoluto para esse número e bem se concebe que cem pessoas, suficientemente concentradas e atentas, estarão em melhores condições do que estariam dez, se distraídas e bulhentas. Mas também é evidente que, quanto maior for o número, tanto mais difícil será o preenchimento dessas condições. Aliás, é fato provado pela experiência que os círculos íntimos, de poucas pessoas, são sempre mais favoráveis às belas comunicações, pelos motivos que vimos de expender.
 
-<a name="LDM-p333"><code>LDM-pX</code></a>
+<a name="LDM-p333"><code>LDM-p333</code></a>
 
 - #️⃣ 333. Há ainda outro ponto não menos importante: o da regularidade das reuniões. Em todas, sempre estão presentes Espíritos a que poderíamos chamar frequentadores habituais, sem que com isso pretendamos referir-nos aos que se encontram em toda parte e em tudo se metem. Aqueles são, ou Espíritos protetores, ou os que mais assiduamente se veem interrogados.
 
@@ -4345,7 +4362,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Das Sociedades propriamente ditas</h4>
 
-<a name="LDM-p334"><code>LDM-pX</code></a>
+<a name="LDM-p334"><code>LDM-p334</code></a>
 
 - #️⃣ 334. Tudo o que dissemos das reuniões em geral se aplica naturalmente às Sociedades regularmente constituídas, as quais, entretanto, têm que lutar com algumas dificuldades especiais, oriundas dos próprios laços existentes entre os seus membros. Frequentes sendo os pedidos, que se nos dirigem, de esclarecimentos sobre a maneira de se formarem as Sociedades, resumi-los-emos aqui nalgumas palavras.
 
@@ -4353,31 +4370,31 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Uma Sociedade, onde aqueles sentimentos se achassem partilhados por todos, onde os seus componentes se reunissem com o propósito de se instruírem pelos ensinos dos Espíritos, e não na expectativa de presenciarem coisas mais ou menos interessantes, ou para fazer cada um que a sua opinião prevaleça, seria não só viável, mas também indissolúvel. A dificuldade, ainda grande, de reunir crescido número de elementos homogêneos deste ponto de vista, nos leva a dizer que, no interesse dos estudos e por bem da causa mesma, as reuniões espíritas devem tender antes à multiplicação de pequenos grupos do que à constituição de grandes aglomerações. Esses grupos, correspondendo-se entre si, visitando-se, permutando observações, podem, desde já, formar o núcleo da grande família espírita, que um dia consorciará todas as opiniões e unirá os homens por um único sentimento: o da fraternidade, trazendo o cunho da caridade cristã.
 
-<a name="LDM-p335"><code>LDM-pX</code></a>
+<a name="LDM-p335"><code>LDM-p335</code></a>
 
 - #️⃣ 335. Já vimos de quanta importância é a uniformidade de sentimentos, para a obtenção de bons resultados. Necessariamente, tanto mais difícil é obter-se essa uniformidade, quanto maior for o número. Nos agregados pouco numerosos, todos se conhecem melhor e há mais segurança quanto à eficácia dos elementos que para eles entram. O silêncio e o recolhimento são mais fáceis e tudo se passa como em família. As grandes assembleias excluem a intimidade, pela variedade dos elementos de que se compõem; exigem sedes especiais, recursos pecuniários e um aparelho administrativo desnecessário nos pequenos grupos. A divergência dos caracteres, das ideias, das opiniões, aí se desenha melhor e oferece aos Espíritos perturbadores mais facilidade para semearem a discórdia. Quanto mais numerosa é a reunião, tanto mais difícil é conterem-se todos os presentes. Cada um quererá que os trabalhos sejam dirigidos segundo o seu modo de entender; que sejam tratados preferentemente os assuntos que mais lhe interessam. Alguns julgam que o título de sócio lhes dá o direito de impor suas maneiras de ver. Daí, opugnações, uma causa de mal-estar que acarreta, cedo ou tarde, a desunião e, depois, a dissolução, sorte de todas as Sociedades, quaisquer que sejam seus objetivos. Os grupos pequenos jamais se encontram sujeitos às mesmas flutuações. A queda de uma grande Associação seria um insucesso aparente para a causa do Espiritismo, do qual seus inimigos não deixariam de prevalecer-se. A dissolução de um grupo pequeno passa despercebida e, ademais, se um se dispersa, vinte outros se formam ao lado. Ora, vinte grupos, de quinze a vinte pessoas, obterão mais e muito mais farão pela propaganda, do que uma assembleia de trezentos ou de quatrocentos indivíduos.
 
   Dir-se-á, provavelmente, que os membros de uma Sociedade, que agissem da maneira que vimos de esboçar, não seriam verdadeiros espíritas, pois que a caridade e a tolerância são o dever primário que a Doutrina impõe a seus adeptos. É perfeitamente exato e, por isso mesmo, os que procedam assim são espíritas mais de nome que de fato. Certo não pertencem à terceira categoria. (**Veja-se** o **item** 28.) Mas quem diz que eles sequer mereçam o simples qualificativo de espíritas? Uma consideração aqui se apresenta, não destituída de gravidade.
 
-<a name="LDM-p336"><code>LDM-pX</code></a>
+<a name="LDM-p336"><code>LDM-p336</code></a>
 
 - #️⃣ 336. Não esqueçamos que o Espiritismo tem inimigos interessados em obstar-lhe à marcha, aos quais seus triunfos causam despeito, não sendo os mais perigosos os que o atacam abertamente, porém os que agem na sombra, os que o acariciam com uma das mãos e o dilaceram com a outra. Esses seres malfazejos se insinuam onde quer que contem poder fazer mal. Como sabem que a união é uma força, tratam de a destruir, agitando brandões de discórdia. Quem, desde então, pode afirmar que os que, nas reuniões, semeiam a perturbação e a cizânia não sejam agentes provocadores, interessados na desordem? Sem dúvida alguma, não são espíritas verdadeiros, nem bons; jamais farão o bem, e podem fazer muito mal. Ora, compreende-se que infinitamente mais facilidade encontram eles de se insinuarem nas reuniões numerosas do que nos núcleos pequenos, onde todos se conhecem. Graças a surdos manejos, que passam despercebidos, espalham a dúvida, a desconfiança e a desafeição; sob a aparência de interesse hipócrita pela causa, tudo criticam, formam conciliábulos e corrilhos que presto rompem a harmonia do conjunto; é o que querem. Tratando-se de gente dessa espécie, apelar para os sentimentos de caridade e fraternidade é falar a surdos voluntários, porquanto o objetivo de tais criaturas é precisamente aniquilar esses sentimentos, que constituem os maiores obstáculos opostos a seus manejos. Semelhante estado de coisas, desagradável em todas as Sociedades, ainda mais o é nas associações espíritas, porque, se não ocasiona um rompimento gera uma preocupação incompatível com o recolhimento e a atenção.
 
-<a name="LDM-p337"><code>LDM-pX</code></a>
+<a name="LDM-p337"><code>LDM-p337</code></a>
 
 - #️⃣ 337. Se mau rumo a reunião tomar, dir-se-á, não terão as pessoas sensatas e bem-intencionadas, a ela presentes, o direito de crítica; deverão deixar que o mal passe, sem dizerem palavra, e aprovar tudo pelo silêncio? Sem nenhuma dúvida, esse direito lhes assiste: é mesmo um dever que lhes corre. Mas, se boa intenção os anima, eles emitirão suas opiniões, guardando todas as conveniências e com cordialidade, francamente, e não com subterfúgios. Se ninguém os acompanha, retiram-se, porquanto não se concebe que quem não esteja procedendo com segundas intenções se obstine em permanecer numa sociedade onde se façam coisas que considere inconvenientes.
 
   Pode-se, pois, estatuir como princípio que todo aquele que numa reunião espírita provoca desordem, ou desunião, ostensiva ou sub-repticiamente, por quaisquer meios, é, ou um agente provocador, ou, pelo menos, um mau espírita, do qual cumpre que os outros se livrem o mais depressa possível. Porém, a isso obstam muitas vezes os próprios compromissos que ligam os componentes da reunião, razão por que convém se evitem os compromissos indissolúveis. Os homens de bem sempre se acham suficientemente comprometidos: os mal-intencionados sempre o estão demais.
 
-<a name="LDM-p338"><code>LDM-pX</code></a>
+<a name="LDM-p338"><code>LDM-p338</code></a>
 
 - #️⃣ 338. Além dos notoriamente malignos, que se insinuam nas reuniões, há os que, pelo próprio caráter, levam consigo a perturbação a toda parte aonde vão: nunca, portanto, será demasiada toda a circunspeção, na admissão de elementos novos. Os mais prejudiciais, nesse caso, não são os ignorantes da matéria, nem mesmo os que não creem: a convicção só se adquire pela experiência e pessoas há que desejam esclarecer-se de boa-fé. Aqueles, sobretudo, contra os quais maiores precauções devem ser tomadas, são os de sistemas preconcebidos, os incrédulos obstinados, que duvidam de tudo, até da evidência; os orgulhosos que, pretendendo ter o privilégio da luz infusa, procuram em toda parte impor suas opiniões e olham com desdém para os que não pensam como eles. Não vos deixeis iludir pelo pretenso desejo que manifestam de se instruírem. Mais de um encontrareis, que muito aborrecido ficará se for constrangido a convir em que se enganou. Guardai-vos, principalmente, desses peroradores insípidos, que querem sempre dizer a última palavra, e dos que só se comprazem na contradição. Uns e outros fazem perder tempo, sem nenhum proveito, nem mesmo para si próprios. Os Espíritos não gostam de palavras inúteis.
 
-<a name="LDM-p339"><code>LDM-pX</code></a>
+<a name="LDM-p339"><code>LDM-p339</code></a>
 
 - #️⃣ 339. Visto ser necessário evitar toda causa de perturbação e de distração, uma Sociedade espírita deve, ao organizar-se, dar toda a atenção às medidas apropriadas a tirar aos promotores de desordem os meios de se tornarem prejudiciais e a lhes facilitar por todos os modos o afastamento. As pequenas reuniões apenas precisam de um regulamento disciplinar, muito simples, para a boa ordem das sessões. As Sociedades regularmente constituídas exigem organização mais completa. A melhor será a que tenha menos complicada a entrosagem. Umas e outras poderão haurir o que lhes for aplicável, ou o que julgarem útil, no regulamento da Sociedade Parisiense de Estudos Espíritas, que adiante inserimos.
 
-<a name="LDM-p340"><code>LDM-pX</code></a>
+<a name="LDM-p340"><code>LDM-p340</code></a>
 
 - #️⃣ 340. Contra outro escolho têm que lutar as Sociedades, pequenas ou grandes, e todas as reuniões, qualquer que seja a importância de que se revistam. Os ocasionadores de perturbações não se encontram somente no meio delas, mas também no Mundo Invisível. Assim como há Espíritos protetores das associações, das cidades e dos povos, Espíritos malfeitores se ligam aos grupos, do mesmo modo que aos indivíduos. Ligam-se, primeiramente, aos mais fracos, aos mais acessíveis, procurando fazê-los seus instrumentos e gradativamente vão envolvendo os conjuntos, por isso que tanto mais prazer maligno experimentam, quanto maior é o número dos que lhes caem sob o jugo.
 
@@ -4385,7 +4402,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Se um dos membros do grupo for presa da obsessão, todos os esforços devem tender, desde os primeiros indícios, a lhe abrir os olhos, a fim de que o mal não se agrave, de modo a lhe levar a convicção de que se enganou e de lhe despertar o desejo de secundar os que procuram libertá-lo.
 
-<a name="LDM-p341"><code>LDM-pX</code></a>
+<a name="LDM-p341"><code>LDM-p341</code></a>
 
 - #️⃣ 341. A influência do meio é consequência da natureza dos Espíritos e do modo por que atuam sobre os seres vivos. Dessa influência pode cada um deduzir, por si mesmo, as condições mais favoráveis para uma Sociedade que aspira a granjear a simpatia dos bons Espíritos e a só obter boas comunicações, afastando as más. Estas condições se contêm todas nas disposições morais dos assistentes e se resumem nos pontos seguintes:
 
@@ -4400,7 +4417,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Serão estas condições de tão difícil preenchimento, que se não encontre quem as satisfaça? Não o cremos; esperamos, ao contrário, que as reuniões verdadeiramente sérias, como as que já se realizam em diversas localidades, se multiplicarão e não hesitamos em dizer que a elas é que o Espiritismo será devedor da sua mais ampla propagação. Religando os homens honestos e conscienciosos, elas imporão silêncio à crítica e, quanto mais puras forem suas intenções, mais respeitadas serão, mesmo pelos seus adversários: Quando a zombaria ataca o bem, deixa de provocar o riso: torna-se desprezível. É nas reuniões desse gênero que se estabelecerão, pela força mesma das coisas, laços de real simpatia, de solidariedade mútua, que contribuirão para o progresso geral.
 
-<a name="LDM-p342"><code>LDM-pX</code></a>
+<a name="LDM-p342"><code>LDM-p342</code></a>
 
 - #️⃣ 342. Fora errôneo acreditar-se que se achem fora desse concerto de fraternidade e que excluam toda ideia séria as reuniões consagradas de modo especial às manifestações físicas. Do fato de não requererem condições tão rigorosas para sua celebração, não se segue que a elas se possa assistir de ânimo ligeiro e muito se enganará quem suponha absolutamente nulo aí o concurso dos assistentes. Tem-se a prova do contrário no fato de que, muitas vezes, as manifestações deste gênero, ainda quando provocadas por médiuns poderosos, não chegam a produzir-se em certos meios. Quer dizer que também nesse caso há influências contrárias e que essas influências naturalmente decorrem da divergência ou hostilidade dos sentimentos, paralisando os esforços dos Espíritos.
 
@@ -4408,19 +4425,19 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Assuntos de estudo</h4>
 
-<a name="LDM-p343"><code>LDM-pX</code></a>
+<a name="LDM-p343"><code>LDM-p343</code></a>
 
 - #️⃣ 343. Os que evocam seus parentes e amigos, ou certas personagens célebres, para lhes comparar as opiniões de Além-Túmulo com as que sustentavam quando vivos, ficam, não raro, embaraçados para manter com eles a conversação, sem caírem nas banalidades e futilidades. Pensam muitas pessoas, ademais, que O livro dos espíritos esgotou a série das questões de moral e de filosofia. É um erro. Por isso julgamos útil indicar a fonte donde se pode tirar assuntos de estudo, por assim dizer inesgotáveis.
 
-<a name="LDM-p344"><code>LDM-pX</code></a>
+<a name="LDM-p344"><code>LDM-p344</code></a>
 
 - #️⃣ 344. Se a evocação dos homens ilustres, dos Espíritos Superiores, é eminentemente proveitosa, pelos ensinamentos que eles nos dão, a dos Espíritos vulgares não o é menos, embora esses Espíritos sejam incapazes de resolver as questões de grande alcance. Eles próprios revelam a sua inferioridade e, quanto menor é a distância que os separa de nós, mais os reconhecemos em situação análoga à nossa, sem levar em conta que frequentemente nos manifestam traços característicos do mais alto interesse, conforme explicamos acima, no número 281, falando da Utilidade das evocações particulares. Essa é, pois, uma mina inexaurível de observações, mesmo quando o experimentador se limite a evocar aqueles cuja vida humana apresente alguma particularidade, com relação ao gênero de morte que teve, à idade, às boas e más qualidades, à posição feliz ou desgraçada que lhes coube na Terra, aos hábitos, ao estado mental etc. Com os Espíritos elevados, amplia-se o quadro dos estudos. Além das questões psicológicas, que têm um limite, pode propor-se-lhes uma imensidade de problemas morais, que se estendem ao infinito, sobre todas as posições da vida, sobre a melhor conduta a ser observada em tal ou qual circunstância, sobre os nossos deveres recíprocos etc. O valor da instrução que se receba, acerca de um assunto qualquer, moral, histórico, filosófico, ou científico, depende inteiramente do estado do Espírito que se interroga. Cabe-nos a nós julgar.
 
-<a name="LDM-p345"><code>LDM-pX</code></a>
+<a name="LDM-p345"><code>LDM-p345</code></a>
 
 - #️⃣ 345. Além das evocações propriamente ditas, as comunicações espontâneas proporcionam uma infinidade de assuntos para estudo. No caso de tais comunicações, tudo se cifra em aguardar o assunto de que praza ao Espírito tratar. Nessa circunstância, muitos médiuns podem trabalhar simultaneamente. Algumas vezes, poder-se-á chamar determinado Espírito. De ordinário, porém, espera-se aquele que queira apresentar-se, o qual, amiúde, vem da maneira mais imprevista. Esses ditados servem, depois, para um sem-número de questões, cujos temas se acham assim preparados de antemão. Devem ser comentados cuidadosamente, para apreciação de todas as ideias que encerrem, julgando-se se eles têm o cunho da verdade. Feito com severidade, esse exame, já o dissemos, constitui a melhor garantia contra a intromissão dos Espíritos mistificadores. Por este motivo, tanto quanto para instrução de todos, bom será dar conhecimento das comunicações obtidas fora das sessões. Como se vê, uma fonte aí há inestancável de elementos sobremaneira sérios e instrutivos.
 
-<a name="LDM-p346"><code>LDM-pX</code></a>
+<a name="LDM-p346"><code>LDM-p346</code></a>
 
 - #️⃣ 346. Os trabalhos de cada sessão podem regular-se conforme se segue:
 
@@ -4432,7 +4449,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   4ª. Conferência. — Exame crítico e analítico das diversas comunicações. — Discussão sobre diferentes pontos da ciência espírita. 
 
-<a name="LDM-p347"><code>LDM-pX</code></a>
+<a name="LDM-p347"><code>LDM-p347</code></a>
 
 - #️⃣ 347. Os grupos recém-criados se veem, às vezes, tolhidos em seus trabalhos pela falta de médiuns. Estes, não há negar, são um dos elementos essenciais às reuniões espíritas, mas não constituem elemento indispensável e fora erro acreditar-se que sem eles nada se pode fazer. Sem dúvida, os que se reúnem apenas com o fim de realizar experimentações não podem, sem médiuns, fazer mais do que façam músicos, num concerto, sem instrumentos. Porém, os que objetivam o estudo sério, a esses se deparam mil assuntos com que se ocupem, tão úteis e proveitosos, quanto se pudessem operar por si mesmos. Acresce que os grupos possuidores de médiuns estão sujeitos, de um momento para outro, a ficar sem eles e seria de lamentar que julgassem só lhes caber, nesse caso, dissolverem-se. Os próprios Espíritos costumam, de tempos a tempos, levá-los a essa situação, a fim de lhes ensinarem a prescindir dos médiuns. Diremos mais: é necessário, para aproveitamento dos ensinos recebidos, que consagrem algum tempo a meditá-los.
 
@@ -4444,11 +4461,11 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h4>Rivalidades entre as Sociedades</h4>
 
-<a name="LDM-p348"><code>LDM-pX</code></a>
+<a name="LDM-p348"><code>LDM-p348</code></a>
 
 - #️⃣ 348. Os grupos que se ocupam exclusivamente com as manifestações inteligentes e os que se entregam ao estudo das manifestações físicas têm cada um a sua missão. Nem uns nem outros se achariam possuídos do verdadeiro espírito do Espiritismo, desde que não se olhassem com bons olhos; e aquele que atirasse pedras em outro provaria, por esse simples fato, a má influência que o domina. Todos devem concorrer, ainda que por vias diferentes, para o objetivo comum, que é a pesquisa e a propaganda da verdade. Os antagonismos, que não são mais do que efeito de orgulho superexcitado, fornecendo armas aos detratores, só poderão prejudicar a causa, que uns e outros pretendem defender.
 
-<a name="LDM-p349"><code>LDM-pX</code></a>
+<a name="LDM-p349"><code>LDM-p349</code></a>
 
 - #️⃣ 349. Estas últimas reflexões se aplicam igualmente a todos os grupos que porventura divirjam sobre alguns pontos da Doutrina. Conforme dissemos, no **capítulo** Das contradições e das mistificações, essas divergências, as mais das vezes, apenas versam sobre acessórios, não raro mesmo sobre simples palavras. Fora, portanto, pueril constituírem bando à parte alguns, por não pensarem todos do mesmo modo. Pior ainda do que isso seria o se tornarem ciosos uns dos outros os diferentes grupos ou associações da mesma cidade. Compreende-se o ciúme entre pessoas que fazem concorrência umas às outras e podem ocasionar recíprocos prejuízos materiais. Não havendo, porém, especulação, o ciúme só traduz mesquinha rivalidade de amor-próprio.
 
@@ -4456,7 +4473,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Alguns Espíritos, mais presunçosos do que lógicos, tentam por vezes impor sistemas singulares e impraticáveis, à sombra de nomes veneráveis com que se adornam. O bom senso acaba sempre por fazer justiça a essas utopias, mas, enquanto isso não se dá, podem elas semear a dúvida e a incerteza entre os adeptos. Daí, não raro, uma causa de dissentimentos passageiros. Além dos meios que temos indicado de as apreciar, outro critério há, que lhes dá a medida exata do valor: o número dos partidários que tais sistemas recrutam. A razão diz que, de todos os sistemas, aquele que encontra maior acolhimento nas massas, deve estar mais próximo da verdade do que os que são repelidos pela maioria e veem abrir claros nas suas fileiras. Tende, pois, como certo que, quando os Espíritos se negam a discutir seus próprios ensinos, é que bem reconhecem a fraqueza destes.
 
-<a name="LDM-p350"><code>LDM-pX</code></a>
+<a name="LDM-p350"><code>LDM-p350</code></a>
 
 - #️⃣ 350. Se o Espiritismo, conforme foi anunciado, tem que determinar a transformação da Humanidade, claro é que esse efeito ele só poderá produzir melhorando as massas, o que se verificará gradualmente, pouco a pouco, em consequência do aperfeiçoamento dos indivíduos. Que importa crer na existência dos Espíritos, se essa crença não faz que aquele que a tem se torne melhor, mais benigno e indulgente para com os seus semelhantes, mais humilde e paciente na adversidade? De que serve ao avarento ser espírita, se continua avarento; ao orgulhoso, se se conserva cheio de si; ao invejoso, se permanece dominado pela inveja? Assim, poderiam todos os homens acreditar nas manifestações dos Espíritos e a Humanidade ficar estacionária. Tais, porém, não são os desígnios de Deus. Para o objetivo providencial, portanto, é que devem tender todas as Sociedades espíritas sérias, grupando todos os que se achem animados dos mesmos sentimentos. Então, haverá união entre elas, simpatia, fraternidade, em vez de vão e pueril antagonismo, nascido do amor-próprio, mais de palavras do que de fatos; então, elas serão fortes e poderosas, porque assentarão em inabalável alicerce: o bem para todos; então, serão respeitadas e imporão silêncio à zombaria tola, porque falarão em nome da moral evangélica, que todos respeitam.
 
@@ -4464,7 +4481,9 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Convidamos, pois, todas as Sociedades espíritas a colaborar nessa grande obra. Que de um extremo ao outro do mundo elas se estendam fraternalmente as mãos e eis que terão colhido o mal em inextricáveis malhas.
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-30"><code>LDM-2-30</code></a>
 
 <h3>📑 30. Regulamento da Sociedade Parisiense de Estudos Espíritas</h3>
 
