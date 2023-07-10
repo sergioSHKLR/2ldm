@@ -731,7 +731,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-<a name="LDM-2-01"><code>LDM-2-02</code></a>
+<a name="LDM-2-02"><code>LDM-2-02</code></a>
 
 <h3>📑 2. Das manifestações físicas. Das mesas girantes</h3>
 
