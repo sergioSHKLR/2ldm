@@ -4859,7 +4859,6 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 
 <h5>29</h5>
 
-
 >A criação perpétua e incessante dos mundos é, para Deus, um como gozo perpétuo, porque Ele vê incessantemente seus raios se tornarem cada dia mais luminosos em felicidade. Para Deus, não há número, do mesmo modo que não há tempo. Eis por que centenas ou milhares não são, para Ele, mais nem menos uns do que outros. É um Pai, cuja felicidade se forma da felicidade coletiva de seus filhos e que, a cada segundo da Criação, vê uma nova felicidade vir fundir-se na felicidade geral. Não há parada, nem suspensão, nesse movimento perpétuo, nessa grande felicidade incessante que fecunda a terra e o céu. Do mundo, não se conhece mais do que uma pequena fração e tendes irmãos que vivem em latitudes onde o homem ainda não chegou a penetrar. Que significam esses calores de torrar e esses frios mortais, que detêm os esforços dos mais ousados? Julgais, com simplicidade, haver chegado ao limite do vosso mundo, quando não podeis mais avançar com os insignificantes meios de que dispondes? Poderíeis então medir exatamente o vosso planeta? Não creiais isso. Há no vosso planeta mais lugares ignorados do que lugares conhecidos. Porém, como é inútil que se propaguem ainda mais todas as vossas instituições más, todas as vossas leis más, ações e existências, há um limite que vos detém aqui e ali e que vos deterá até que tenhais de transportar as boas sementes que o vosso livre-arbítrio fez. Oh! não, não conheceis esse mundo, a que chamais Terra. Vereis na vossa existência um grande começo de provas desta comunicação. Eis que vai soar a hora em que haverá uma outra descoberta diferente da última que foi feita; eis que se vai alargar o círculo da vossa Terra conhecida e, quando toda a imprensa cantar esse Hosana em todas as línguas, vós, pobres filhos, que amais a Deus e que procurais sua voz, o tereis sabido antes daqueles mesmos que darão nome à nova Terra.
 >
 >**Vicente de Paulo**
@@ -4937,59 +4936,60 @@ Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os ma
 Interrogado sobre o motivo que o levara a proceder assim, disse esse Espírito: “Eu desejava escrever alguma coisa, a fim de me fazer lembrado dos homens. Vendo que sou fraco, entendi de apadrinhar o meu escrito com o prestígio de um grande nome.” — Mas não imaginaste que se reconheceria não ser de Bossuet a comunicação? — “Quem sabe lá, ao certo? Poderíeis enganar-vos. Outros menos perspicazes a teriam aceitado.”
 
 De fato, a facilidade com que algumas pessoas aceitam tudo o que vem do Mundo Invisível, sob o pálio de um grande nome, é que anima os Espíritos embusteiros. A lhes frustrar os embustes é que todos devem consagrar a máxima atenção, mas a tanto ninguém pode chegar, senão com a ajuda da experiência adquirida por meio de um estudo sério. Daí o repetirmos incessantemente: Estudai, antes de praticardes, porquanto é esse o único meio de não adquirirdes experiência à vossa própria custa.
+
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-32` 📑 32. Vocabulário espírita</h3>
 
-Agênere (Do grego a, privativo, e géiné, géinomai, gerar; que não foi gerado.) – Modalidade da aparição tangível; estado de certos Espíritos, quando temporariamente revestem as formas de uma pessoa viva, ao ponto de produzirem ilusão completa.
+- Agênere (Do grego a, privativo, e géiné, géinomai, gerar; que não foi gerado.) – Modalidade da aparição tangível; estado de certos Espíritos, quando temporariamente revestem as formas de uma pessoa viva, ao ponto de produzirem ilusão completa.
 
-Batedor – Qualidade de alguns Espíritos, daqueles que revelam sua presença num lugar por meio de pancadas e ruídos de naturezas diversas.
+- Batedor – Qualidade de alguns Espíritos, daqueles que revelam sua presença num lugar por meio de pancadas e ruídos de naturezas diversas.
 
-Erraticidade – Estado dos Espíritos errantes, ou erráticos, isto é, não encarnados, durante o intervalo de suas existências corpóreas.
+- Erraticidade – Estado dos Espíritos errantes, ou erráticos, isto é, não encarnados, durante o intervalo de suas existências corpóreas.
 
-Espírita – O que tem relação com o Espiritismo; adepto do Espiritismo; aquele que crê nas manifestações dos Espíritos. Um bom, um mau espírita; a Doutrina Espírita.
+- Espírita – O que tem relação com o Espiritismo; adepto do Espiritismo; aquele que crê nas manifestações dos Espíritos. Um bom, um mau espírita; a Doutrina Espírita.
 
-Espiritismo – Doutrina fundada sobre a crença na existência dos Espíritos e em suas manifestações.
+- Espiritismo – Doutrina fundada sobre a crença na existência dos Espíritos e em suas manifestações.
 
-Espiritista – Esta palavra, empregada a princípio para designar os adeptos do Espiritismo, não foi consagrada pelo uso; prevaleceu o termo espírita.
+- Espiritista – Esta palavra, empregada a princípio para designar os adeptos do Espiritismo, não foi consagrada pelo uso; prevaleceu o termo espírita.
 
-Espírito – No sentido especial da Doutrina Espírita, os Espíritos são os seres inteligentes da Criação, que povoam o Universo, fora do mundo material, e constituem o Mundo Invisível. Não são seres oriundos de uma criação especial, porém, as almas dos que viveram na Terra, ou nas outras esferas, e que deixaram o invólucro corporal.
+- Espírito – No sentido especial da Doutrina Espírita, os Espíritos são os seres inteligentes da Criação, que povoam o Universo, fora do mundo material, e constituem o Mundo Invisível. Não são seres oriundos de uma criação especial, porém, as almas dos que viveram na Terra, ou nas outras esferas, e que deixaram o invólucro corporal.
 
-Espiritualismo – Usa-se em sentido oposto ao de materialismo; crença na existência da alma espiritual e imaterial. O espiritualismo é a base de todas as religiões.
+- Espiritualismo – Usa-se em sentido oposto ao de materialismo; crença na existência da alma espiritual e imaterial. O espiritualismo é a base de todas as religiões.
 
-Espiritualista – O que se refere ao espiritualismo; adepto do espiritualismo. É espiritualista aquele que acredita que em nós nem tudo é matéria, o que de modo algum implica a crença nas manifestações dos Espíritos. Todo espírita é necessariamente espiritualista, mas pode-se ser espiritualista sem se ser espírita; o materialista não é uma nem outra coisa. Diz-se: a filosofia espiritualista. – Uma obra escrita segundo as ideias espiritualistas. – As manifestações espíritas são produzidas pela ação dos Espíritos sobre a matéria. – A moral espírita decorre do ensino dado pelos Espíritos. – Há espiritualistas que escarnecem das crenças espíritas. Nestes exemplos, a substituição da palavra espiritualista pelo termo espírita daria lugar a evidente confusão
+- Espiritualista – O que se refere ao espiritualismo; adepto do espiritualismo. É espiritualista aquele que acredita que em nós nem tudo é matéria, o que de modo algum implica a crença nas manifestações dos Espíritos. Todo espírita é necessariamente espiritualista, mas pode-se ser espiritualista sem se ser espírita; o materialista não é uma nem outra coisa. Diz-se: a filosofia espiritualista. – Uma obra escrita segundo as ideias espiritualistas. – As manifestações espíritas são produzidas pela ação dos Espíritos sobre a matéria. – A moral espírita decorre do ensino dado pelos Espíritos. – Há espiritualistas que escarnecem das crenças espíritas. Nestes exemplos, a substituição da palavra espiritualista pelo termo espírita daria lugar a evidente confusão
 
-Estereótipo (Do grego stereos, sólido.) – Qualidade das aparições tangíveis.
+- Estereótipo (Do grego stereos, sólido.) – Qualidade das aparições tangíveis.
 
-Medianímico – Qualidade da força do médium – Faculdade medianímica.
+- Medianímico – Qualidade da força do médium – Faculdade medianímica.
 
-Medianimidade – Faculdade dos médiuns. Sinônimo de mediunidade. Estas duas palavras são, com frequência, empregadas indiferentemente. A se querer fazer uma distinção, poder-se-á dizer que mediunidade tem um sentido mais geral e medianimidade um sentido mais restrito. – Ele possui o dom de mediunidade. – A medianimidade mecânica.
+- Medianimidade – Faculdade dos médiuns. Sinônimo de mediunidade. Estas duas palavras são, com frequência, empregadas indiferentemente. A se querer fazer uma distinção, poder-se-á dizer que mediunidade tem um sentido mais geral e medianimidade um sentido mais restrito. – Ele possui o dom de mediunidade. – A medianimidade mecânica.
 
-Médium (Do latim medium, meio, intermediário.) – Pessoa que pode servir de intermediária entre os Espíritos e os homens.
+- Médium (Do latim medium, meio, intermediário.) – Pessoa que pode servir de intermediária entre os Espíritos e os homens.
 
-Mediumato – Missão providencial dos médiuns. Esta palavra foi criada pelos Espíritos. (**Veja-se** o **capítulo** XXXI, comunicação XII.)
+- Mediumato – Missão providencial dos médiuns. Esta palavra foi criada pelos Espíritos. (**Veja-se** o **capítulo** 31, comunicação 12.)
 
-Mediunidade – Veja-se: Medianimidade.
+- Mediunidade – Veja-se: Medianimidade.
 
-Perispírito (Do grego peri, em torno.) – Envoltório semimaterial do Espírito. Nos encarnados, serve de intermediário entre o Espírito e a matéria; nos Espíritos errantes, constitui o corpo fluídico do Espírito.
+- Perispírito (Do grego peri, em torno.) – Envoltório semimaterial do Espírito. Nos encarnados, serve de intermediário entre o Espírito e a matéria; nos Espíritos errantes, constitui o corpo fluídico do Espírito.
 
-Pneumatofonia (Do grego pneuma, ar, sopro, vento, espírito e phoné, som ou voz.) – Voz dos Espíritos; comunicação oral dos Espíritos, sem o concurso da voz humana.
+- Pneumatofonia (Do grego pneuma, ar, sopro, vento, espírito e phoné, som ou voz.) – Voz dos Espíritos; comunicação oral dos Espíritos, sem o concurso da voz humana.
 
-Pneumatografia (Do grego pneuma e graphô, escrevo.) – Escrita direta dos Espíritos, sem o auxílio da mão de um médium.
+- Pneumatografia (Do grego pneuma e graphô, escrevo.) – Escrita direta dos Espíritos, sem o auxílio da mão de um médium.
 
-Psicofonia – Comunicação dos Espíritos pela voz de um médium falante.
+- Psicofonia – Comunicação dos Espíritos pela voz de um médium falante.
 
-Psicografia – Escrita dos Espíritos pela mão de um médium.
+- Psicografia – Escrita dos Espíritos pela mão de um médium.
 
-Psicógrafo (Do grego psiké, borboleta, alma, e graphô, escrevo.) – Aquele que faz psicografia; médium escrevente.
+- Psicógrafo (Do grego psiké, borboleta, alma, e graphô, escrevo.) – Aquele que faz psicografia; médium escrevente.
 
-Reencarnação – Volta do Espírito à vida corpórea, pluralidade das existências.
+- Reencarnação – Volta do Espírito à vida corpórea, pluralidade das existências.
 
-Sematologia (Do grego sema, sinal, e logos, discurso.) – Linguagem dos sinais. Comunicação dos Espíritos pelo movimento dos corpos inertes.
+- Sematologia (Do grego sema, sinal, e logos, discurso.) – Linguagem dos sinais. Comunicação dos Espíritos pelo movimento dos corpos inertes.
 
-Tiptologia (Do grego tipto, eu bato, e logos, discurso.) – Linguagem por pancadas, ou batimentos: modo de comunicação dos Espíritos. Tiptologia alfabética.
+- Tiptologia (Do grego tipto, eu bato, e logos, discurso.) – Linguagem por pancadas, ou batimentos: modo de comunicação dos Espíritos. Tiptologia alfabética.
 
-Tiptólogo – Gênero de médiuns aptos à tiptologia. Médium tiptólogo.
+- Tiptólogo – Gênero de médiuns aptos à tiptologia. Médium tiptólogo.
 
 ---
 
@@ -5071,7 +5071,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 <a href="#LDM">🔼</a>
 
-📑 Notas de rodapé
+<h5>📑 Notas de rodapé</h5>
 
 [^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
 
