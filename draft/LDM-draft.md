@@ -93,6 +93,11 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 
 <h2>🗂️ Parte 1 - Noções Preliminares</h2>
 
+- [`LDM-1-01` 📑 1. Há Espíritos?](#LDM-1-01)
+- [`LDM-1-02` 📑 2. Do maravilhoso e do sobrenatural](#LDM-1-02)
+- [`LDM-1-03` 📑 3. Do método](#LDM-1-03)
+- [`LDM-1-04` 📑 4. Dos sistemas](#LDM-1-04)
+
 <a href="#LDM">🔼</a>
 
 ---
@@ -194,7 +199,7 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
   — O que é sobrenatural.
 
   Que entendeis por sobrenatural?
-  
+
   — O que é contrário às Leis da Natureza.
 
   Conheceis, porventura, tão bem essas leis, que possais marcar limite ao poder de Deus? Pois bem! Provai então que a existência dos Espíritos e suas manifestações são contrárias às Leis da Natureza; que não é, nem pode ser, uma destas leis. Acompanhai a Doutrina Espírita e vede se todos os elos, ligados uniformemente à cadeia, não apresentam todos os caracteres de uma lei admirável, que resolve tudo o que as filosofias até agora não puderam resolver.
