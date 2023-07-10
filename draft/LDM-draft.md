@@ -670,8 +670,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h3>📑 1. Da ação dos Espíritos sobre a matéria</h3>
 
-<a href="#LDM-2">🔼</a>
-
 <a name="LDM-p52"><code>LDM-p52</code></a>
 
 - #️⃣ 52
