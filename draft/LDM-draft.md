@@ -296,13 +296,8 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
   Algumas pessoas contestam os fenômenos espíritas precisamente porque tais fenômenos lhes parecem estar fora da lei comum e porque não logram achar-lhes qualquer explicação. Dai-lhes uma base racional e a dúvida desaparecerá. A explicação, neste século em que ninguém se contenta com palavras, constitui, pois, poderoso motivo de convicção. Daí o vermos, todos os dias, pessoas que nenhum fato testemunharam, que não observaram uma mesa agitar-se ou um médium escrever se tornarem tão convencidas quanto nós, unicamente porque leram e compreenderam. Se houvéssemos de somente acreditar no que vemos com os nossos olhos, a bem pouco se reduziriam as nossas convicções.
 
-[^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
-
-[^2]: N.E.: Mau pintor.
-
-[^3]: Rafael Sanzio (1483–1520), pintor, escultor e arquiteto italiano. O seu gênio reunia todas as qualidades: perfeição do desenho, vivacidade dos movimentos, harmonia das linhas, delicadeza do colorido. Deixou grande número de obras-primas. É considerado o poeta da Pintura, como Ovídio foi considerado o músico da Poesia e como Chopin é considerado o poeta da Música.
-
 ---
+
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-1-03` 📑 3. Do método</h3>
@@ -408,8 +403,6 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
   Ser-nos-ia difícil dizer quantas pessoas que, desde quando começamos a ocupar-nos com o Espiritismo, hão vindo ter conosco e quantas delas vimos que se conservaram indiferentes ou incrédulas diante dos fatos mais positivos e só posteriormente se convenceram, mediante uma explicação racional; quantas outras que se predispuseram à convicção pelo raciocínio; quantas, enfim, que se persuadiram, sem nada nunca terem visto, unicamente porque haviam compreendido. Falamos, pois, por experiência e, assim, também, é por experiência que dizemos consistir o melhor método de ensino espírita em se dirigir, aquele que ensina, antes à razão do que aos olhos. Esse o método que seguimos em nossas lições e pelo qual somente temos que nos felicitar.[^4]
 
-[^4]: Nota de Allan Kardec (A.K.): O nosso ensino teórico e prático é sempre gratuito.
-
 <a name="LDM-p32"><code>LDM-pX</code></a>
 
 - #️⃣ 32. Ainda outra vantagem apresenta o estudo prévio da teoria — a de mostrar imediatamente a grandeza do objetivo e o alcance desta ciência. Aquele que começa por ver uma mesa a girar, ou a bater, se sente mais inclinado ao gracejo, porque dificilmente imaginará que de uma mesa possa sair uma doutrina regeneradora da Humanidade. Temos notado sempre que os que creem antes de haver visto, apenas porque leram e compreenderam, longe de se conservarem superficiais, são, ao contrário, os que mais refletem. Dando maior atenção ao fundo do que à forma, veem na parte filosófica o principal, considerando como acessório os fenômenos propriamente ditos. Declaram então que, mesmo quando estes fenômenos não existissem, ainda ficava uma filosofia que só ela resolve problemas até hoje insolúveis; que só ela apresenta a teoria mais racional do passado do homem e do seu futuro. Ora, como é natural, preferem eles uma doutrina que explica às que não explicam, ou explicam mal.
@@ -442,9 +435,8 @@ Desde que admitis a sobrevivência da alma, será racional que não admitais a s
 
   Por esse lado, não preconizamos nem criticamos obra alguma, visto não querermos, de nenhum modo, influenciar a opinião que dela se possa formar. Trazendo nossa pedra ao edifício, colocamo-nos nas fileiras. Não nos cabe ser juiz e parte e não alimentamos a ridícula pretensão de ser o único distribuidor da luz. Toca ao leitor separar o bom do mau, o verdadeiro do falso.
 
-[^5]: N.E.: De Kardec são ainda as obras: `🕊️ O Evangelho segundo o Espiritismo`; `🔥 O Céu e o Inferno`; `🌱 A Gênese` e `🪦 Obras Póstumas`.
-
 ---
+
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-1-04` 📑 4. Dos sistemas</h3>
@@ -505,8 +497,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Reconheçamos, pois, que ele julgou sem ter visto, ou sem ter observado tudo, e observado bem. É sempre de lamentar que homens de ciência se afoitem a dar, do que não conhecem, explicações que os fatos podem desmentir. O próprio saber que possuem deverá torná-los tanto mais circunspectos em seus juízos, quanto é certo que esse saber afasta deles os limites do desconhecido.
 
-[^6]: A.K.: Foi o Sr. Jobert (de Lamballe). Para sermos justos, devemos dizer que a descoberta é devida ao Sr. Schiff. O Sr. Jobert lhe deduziu as consequências perante a Academia de Medicina, pretendendo dar, assim, o golpe de morte nos Espíritos batedores. Na `📓 Revista Espírita`, do mês de junho de 1859, encontrar-se-ão todos os pormenores da explicação do Sr. Jobert.
-
 <a name="LDM-p42"><code>LDM-pX</code></a>
 
 - #️⃣ 42. Sistema das causas físicas. — Aqui, estamos fora do sistema da negação absoluta. Averiguada a realidade dos fenômenos, a primeira ideia que naturalmente acudiu ao espírito dos que os verificaram foi a de atribuir os movimentos ao magnetismo, à eletricidade ou à ação de um fluido qualquer; numa palavra, a uma causa inteiramente física e material. Nada apresentava de irracional esta opinião e teria prevalecido se o fenômeno houvera ficado adstrito a efeitos puramente mecânicos. Uma circunstância parecia mesmo corroborá-la: a do aumento que, em certos casos, experimentava a força atuante, na razão direta do número das pessoas presentes. Assim, cada uma destas podia ser considerada como um dos elementos de uma pilha elétrica humana. Já dissemos que o que caracteriza uma teoria verdadeira é poder dar a razão de tudo. Se, porém, um só fato que seja a contradiz, é que ela é falsa, incompleta ou por demais absoluta. Ora, foi o que não tardou a reconhecer-se quanto a esta.
@@ -533,8 +523,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 44
 . Sistema da alma coletiva. — Constitui uma variante do precedente. Segundo este sistema, apenas a alma do médium se manifesta, porém identificada com a de muitos outros vivos, presentes ou ausentes, e formando um **todo coletivo**, em que se acham reunidas as aptidões, a inteligência e os conhecimentos de cada um. Conquanto a brochura em que esta teoria vem exposta se intitule *A luz*, [^7] muito obscuro se nos afigura o seu estilo. Confessamos não ter logrado compreendê-la e dela falamos unicamente de memória. É, em suma, como tantas outras, uma opinião individual, que conta poucos prosélitos. Pelo nome de **Emah Tirpsé**, o autor designa o ser coletivo criado pela sua imaginação. Por epígrafe, tomou a seguinte sentença: **Nada há oculto que não deva ser conhecido**. Esta proposição é evidentemente falsa, porquanto uma imensidade há de coisas que o homem não pode e não tem que saber. Bem presunçoso seria aquele que pretendesse devassar todos os segredos de Deus.
-
-[^7]: A.K.: Comunhão. A luz do fenômeno do Espírito. Mesas falantes, sonâmbulos, médiuns, milagres. Magnetismo espiritual: poder da prática da fé. Por Emah Tirpsé, uma alma coletiva que escreve por intermédio de uma prancheta. Bruxelas, 1858, casa Devroye.
 
 <a name="LDM-p45"><code>LDM-pX</code></a>
 
@@ -575,8 +563,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   O muçulmano que ouvisse um Espírito falar contra certas leis do **Alcorão** certamente acreditaria tratar-se de um mau Espírito. O mesmo se daria com um judeu, pelo que toca a certas práticas da Lei de Moisés. Quanto aos católicos, de um ouvimos que o Espírito que se comunica não podia deixar de ser o **diabo**, porque se permitira a liberdade de pensar de modo diverso do dele, acerca do poder temporal, se bem que, em suma, o Espírito não houvesse pregado senão a caridade, a tolerância, o amor do próximo e a abnegação das coisas deste mundo, preceitos todos ensinados pelo Cristo.
 
   Não sendo os Espíritos mais do que as almas dos homens e não sendo estes perfeitos, o que se segue é que há Espíritos igualmente imperfeitos, cujos caracteres se refletem nas suas comunicações. É fato incontestável haver, entre eles, maus, astuciosos, profundamente hipócritas, contra os quais preciso se faz que estejamos em guarda. Mas, porque se encontram no mundo homens perversos, é isto motivo para nos afastarmos de toda a sociedade? Deus nos outorgou a razão e o discernimento para apreciarmos assim os Espíritos, como os homens. O melhor meio de se obviar aos inconvenientes da prática do Espiritismo não consiste em proibi-lo, mas em fazê-lo compreendido. Um receio imaginário apenas por um instante impressiona e não atinge a todos. A realidade claramente demonstrada, todos a compreendem.
-
-[^8]: A.K.: Esta questão foi tratada em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md) ([`LDE.q128`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md#ldeq128-%EF%B8%8F%E2%83%A3-128) e seguintes); mas, com relação a este assunto, como acerca de tudo o que respeita à parte religiosa, recomendamos a brochura intitulada: Carta de um católico sobre o espiritismo, do Dr. Grand, ex-cônsul da França (à venda na Livraria Ledoyen, in-18; preço 1 franco), bem como a que vamos publicar sob o título: Os contraditores do espiritismo, do ponto de vista da religião, da ciência e do materialismo.
 
 <a name="LDM-p47"><code>LDM-pX</code></a>
 
@@ -667,8 +653,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 - #️⃣ 53. A ideia que geralmente se faz dos Espíritos torna à primeira vista incompreensível o fenômeno das manifestações. Como estas não podem dar-se senão exercendo o Espírito ação sobre a matéria, os que julgam que a ideia de Espírito implica a de ausência completa de tudo o que seja matéria perguntam, com certa aparência de razão, como pode ele obrar materialmente. Ora, aí o erro, pois que o Espírito não é uma abstração, é um ser definido, limitado e circunscrito. O Espírito encarnado no corpo constitui a alma. Quando o deixa, por ocasião da morte, não sai dele despido de todo o envoltório. Todos nos dizem que conservam a forma humana e, com efeito, quando nos aparecem, trazem as que lhes conhecíamos.
 
   Observemo-los, atentamente, no instante em que acabem de deixar a vida; acham-se em estado de perturbação; tudo se lhes apresenta confuso em torno; veem perfeito ou mutilado, conforme o gênero da morte, o corpo que tiveram; por outro lado se reconhecem e sentem vivos; alguma coisa lhes diz que aquele corpo lhes pertence e não compreendem como podem estar separados dele. Continuam a ver-se sob a forma que tinham antes de morrer, e esta visão, nalguns, produz, durante certo tempo, singular ilusão: a de se crerem ainda vivos. Falta-lhes a experiência do novo estado em que se encontram, para se convencerem da realidade. Passado esse primeiro momento de perturbação, o corpo se lhes torna uma veste imprestável de que se despiram e de que não guardam saudades. Sentem-se mais leves e como que aliviados de um fardo. Não mais experimentam as dores físicas e se consideram felizes por poderem elevar-se, transpor o espaço, como tantas vezes o fizeram em sonho, quando vivos.[^9] Entretanto, malgrado a falta do corpo, comprovam suas personalidades; têm uma forma, mas que os não importuna nem os embaraça; têm, finalmente, a consciência de seu eu e de sua individualidade. Que devemos concluir daí? Que a alma não deixa tudo no túmulo, que leva consigo alguma coisa.
-
-[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md) sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
 
 <a name="LDM-p54"><code>LDM-pX</code></a>
 
@@ -1010,8 +994,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Nos **capítulo**s referentes aos **lugares assombrados e às obsessões**, consideraremos com mais pormenores este assunto e as causas da ineficácia das preces em muitos casos.
 
-[^10]: N.E.: Confusões, balbúrdias.
-
 <a name="LDM-p91"><code>LDM-pX</code></a>
 
 - #️⃣ 91. Estes fenômenos, conquanto operados por Espíritos inferiores, são com frequência provocados por Espíritos de ordem mais elevada, com o fim de demonstrarem a existência de seres incorpóreos e de uma potência superior ao homem. A repercussão que eles têm, o próprio temor que causam, chamam a atenção e acabarão por fazer que se rendam os mais incrédulos. Acham estes mais simples lançar os fenômenos a que nos referimos à conta da imaginação, explicação muito cômoda e que dispensa outras. Todavia, quando objetos vários são sacudidos ou atirados à cabeça de uma pessoa, bem complacente imaginação precisaria ela ter para fantasiar que tais coisas sejam reais, quando não o são.
@@ -1166,8 +1148,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >“_Bem sei que ides dizer: é que estes são úteis para convencer os incrédulos. Mas, ficai sabendo, se não houvésseis disposto de outros meios de convicção, não contaríeis hoje a centésima parte dos espíritas que existem. Falai ao coração; por aí é que fareis maior número de conversões sérias. Se julgardes conveniente, para certas pessoas, valer-vos dos fatos materiais, ao menos apresentai-os em circunstâncias tais que não possam permitir nenhuma interpretação falsa e, sobretudo, não vos afasteis das condições normais dos mesmos fatos, porque, apresentados em más condições, eles fornecem argumentos aos incrédulos, em vez de convencê-los._”
   >
   >**Erasto**
-
-[^11]: A.K.: Vê-se que, quando se trata de exprimir uma ideia nova, para a qual faltam termos na língua, os Espíritos sabem perfeitamente criar neologismos. Estas palavras: eletromediúnico, perispirítico, não são de invenção nossa. Os que nos têm criticado por havermos criado os termos espírita, espiritismo, perispírito, que tinham análogos, poderão fazer também a mesma crítica aos Espíritos.
 
 <a name="LDM-p99"><code>LDM-pX</code></a>
 
@@ -1395,7 +1375,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   📝 Nota – Somente a superstição pode fazer crer que certos animais são animados por Espíritos. É preciso uma imaginação muito complacente, ou muito impressionada, para ver qualquer coisa de sobrenatural nas circunstâncias um pouco extravagantes em que eles algumas vezes se apresentam. O medo faz que amiúde se veja o que não existe. Mas não só no medo tem sua origem essa ideia. Conhecemos uma senhora, muito inteligente aliás, que consagrava desmedida afeição a um gato preto, porque acreditava ser ele de natureza **sobreanimal**. Entretanto, essa senhora jamais ouvira falar do Espiritismo. Se o houvesse conhecido, ele lhe teria feito compreender o ridículo da causa de sua predileção pelo animal, provando-lhe a impossibilidade de tal metamorfose.
 
-[^12]: A.K.: Ver, para mais particularidades sobre o estado do Espírito durante o sono, [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md), [`LDE.q409`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md#ldeq409-%EF%B8%8F%E2%83%A3-409).
 
 ---
 
@@ -1435,8 +1414,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Os fatos de aparições tangíveis são os mais raros; porém, os que se têm dado nestes últimos tempos, pela influência de alguns médiuns de grande poder[^13] e absolutamente autenticados por testemunhos irrecusáveis, provam e explicam o que a história refere acerca de pessoas que, depois de mortas, se mostraram com todas as aparências da realidade.
 
   Todavia, conforme já dissemos, por mais extraordinários que sejam, tais fenômenos perdem inteiramente todo caráter de maravilhosos, quando conhecida a maneira por que se produzem e quando se compreende que, longe de constituírem uma derrogação das Leis da natureza, são apenas efeito de uma aplicação dessas leis.
-
-[^13]: A.K.: Entre outros, o Sr. Home.
 
 <a name="LDM-p105"><code>LDM-pX</code></a>
 
@@ -1520,7 +1497,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   É boa a nossa explicação? Damo-la pelo que possa valer, em falta de outra, e, se quiserem, a título de simples hipótese, enquanto outra melhor não aparece. Qual ela é, dá a razão de ser de todos os casos de visão? Certamente que não. Contudo, desafiamos todos os fisiologistas a que apresentem uma que abranja todos os casos, porquanto nenhuma dão, quando pronunciam as palavras sacramentais — sobre-excitação e exaltação. Assim sendo, desde que todas as teorias da alucinação se mostram incapazes de explicar os fatos, é que alguma outra coisa há, que não a alucinação propriamente dita. Seria falsa a nossa teoria, se a aplicássemos a todos os casos de visão, pois que alguns a contraditariam. É legítima, se restringida a alguns efeitos.
 
-[^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre [inventor e pintor francês (1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-07` 📑 7. Da bicorporeidade e da transfiguração</h3>
@@ -1592,8 +1568,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 121. Tem, pois, dois corpos o indivíduo que se mostra simultaneamente em dois lugares diferentes. Mas, desses dois corpos, um somente é real, o outro é simples aparência. Pode-se dizer que o primeiro tem a vida orgânica e que o segundo tem a vida da alma. Ao despertar o indivíduo, os dois corpos se reúnem e a vida da alma volta ao corpo material. Não parece possível, pelo menos não conhecemos disso exemplo algum, e a razão, ao nosso ver, o demonstra, que, no estado de separação, possam os dois corpos gozar, simultaneamente e no mesmo grau, da vida ativa e inteligente. Demais, do que acabamos de dizer ressalta que o corpo real não poderia morrer, enquanto o corpo aparente se conservaria visível, porquanto a aproximação da morte sempre atrai o Espírito para o corpo, ainda que apenas por um instante. Daí resulta igualmente que o corpo aparente não poderia ser matado, porque não é orgânico, não é formado de carne e osso. Desapareceria, no momento em que o quisessem matar [^16].
 
-[^16]: A.K.: Ver na `📓 Revista Espírita`, janeiro de 1859: O duende de Baiona; fevereiro de 1859: Os agêneres; Meu amigo Hermann; maio de 1859: O laço que prende o Espírito ao corpo; novembro de 1859: A alma errante; janeiro de 1860: O Espírito de um lado, o corpo do outro; março de 1860: Estudos sobre o Espírito de pessoas vivas; o doutor V. e a senhorita I.; abril de 1860: O fabricante de São Petersburgo; Aparições tangíveis; novembro de 1860: História de Maria de Agreda; julho de 1861: Uma aparição providencial.
-
 <a name="LDM-p122"><code>LDM-pX</code></a>
 
 - #️⃣ 122. Passemos ao segundo fenômeno, o da transfiguração. Consiste na mudança do aspecto de um corpo vivo. Aqui está um fato dessa natureza, cuja perfeita autenticidade podemos garantir, ocorrido durante os anos de 1858 e 1859, nos arredores de Saint-Etienne.
@@ -1622,7 +1596,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 125. Resta-nos falar do singular fenômeno dos **agêneres**, que, por muito extraordinário que pareça à primeira vista, não é mais sobrenatural do que os outros. Porém, como o explicamos na `📓 Revista Espírita` (fevereiro de 1859), julgamos inútil tratar dele aqui pormenorizadamente. Diremos tão somente que é uma variedade da aparição tangível. É o estado de certos Espíritos que podem revestir momentaneamente as formas de uma pessoa viva, ao ponto de causar completa ilusão. (Do grego **a** privativo, e **geine**, **geinomaï**, gerar: que não foi gerado.)
 
-[^15]: N.E.: O fato histórico ocorreu exatamente como relatamos acima, embora no original francês Allan Kardec o tenha narrado sob a seguinte versão: “_Santo Antônio de Pádua estava na Espanha e no instante em que ali pregava, seu pai, que se encontrava em Pádua, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, o santo aparece e demonstra a inocência de seu pai, dando a conhecer o verdadeiro criminoso, que mais tarde sofreu o castigo. Comprovou-se que nesse momento Santo Antônio não havia deixado a Espanha._”
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-08` 📑 8. Do laboratório do mundo invisível</h3>
@@ -1799,9 +1772,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-[^17]: A.K.: Veja-se a `📓 Revista Espírita`, de fevereiro de 1860: “_História de um danado_”
-[^18]: N.E.: Covardia. cadê o link?
-[^19]: N.E.: Travessuras, estrepolias
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-10` 📑 10. Da natureza das comunicações</h3>
@@ -1943,7 +1913,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   De um modo ou de outro, o fenômeno da pneumatofonia é quase sempre espontâneo e só muito raramente pode ser provocado.
 
-[^20]: A.K.: A realidade dos espíritos e de suas manifestações demonstrada mediante o fenômeno da escrita direta pelo barão de Guldenstubbé, 1 vol. in-oitavo, com 15 estampas e 93 fac-símiles.
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-13` 📑 13. Da psicografia</h3>
@@ -1980,7 +1949,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 158. Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter-se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
 
-[^21]: N.E.: Mastro que aponta para a parte da frente do navio
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-14` 📑 14. Dos médiuns</h3>
@@ -2158,11 +2126,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 . Dá-se este nome aos médiuns que têm aptidão para obter a escrita direta, o que não é possível a todos os médiuns escreventes. Esta faculdade, até agora, se mostra muito rara. Desenvolve-se, provavelmente, pelo exercício, mas, como dissemos, sua utilidade prática se limita a uma comprovação patente da intervenção de uma força oculta nas manifestações. Só a experiência é capaz de dar a ver a qualquer pessoa se a possui. Pode-se, portanto, experimentar, como também se pode inquirir a respeito um Espírito protetor, pelos outros meios de comunicação. Conforme seja maior ou menor o poder do médium, obtêm-se simples traços, sinais, letras, palavras, frases e mesmo páginas inteiras. Basta de ordinário colocar uma folha de papel dobrada num lugar qualquer, ou indicado pelo Espírito, durante dez minutos, ou um quarto de hora, às vezes mais. A prece e o recolhimento são condições essenciais; é por isso que se pode considerar impossível a obtenção de coisa alguma numa reunião de pessoas pouco sérias, ou não animadas de sentimentos de simpatia e benevolência. (**Veja-se a teoria da escrita direta, **capítulo** 8, Do laboratório do mundo invisível, **item** 127 e seguintes, e **capítulo** 12, Da pneumatografia ou escrita direta. Da pneumatofonia.**)
 
   Trataremos de modo especial dos médiuns escreventes nos **capítulo**s que se seguem.
-
-[^22]: A.K.: Um dos fatos mais extraordinários desta natureza, pela variedade e singularidade dos fenômenos, é, sem contestação, o que ocorreu em 1852, no Palatinado (Baviera renana), em Bergzabern, perto de Wissemburg. É tanto mais notável quanto denota, reunidos no mesmo indivíduo, quase todos os gêneros de manifestações espontâneas: estrondos de abalar a casa, derribamento dos móveis, arremesso de objetos ao longe por mãos invisíveis, visões e aparições, sonambulismo, êxtase, catalepsia, atração elétrica, gritos e sons aéreos, instrumentos tocando sem contato, comunicações inteligentes etc. e, o que não é de somenos importância, a comprovação destes fatos, durante quase dois anos, por inúmeras testemunhas oculares, dignas de crédito pelo saber e pelas posições sociais que ocupavam. A narração autêntica dos aludidos fenômenos foi publicada, naquela época, em muitos jornais alemães e, especialmente, numa brochura hoje esgotada e raríssima. Na `📓 Revista Espírita` de 1858 se encontra a tradução completa dessa brochura, com os comentários e explicações indispensáveis. Essa, que saibamos, é a única publicação feita em francês do folheto a que nos referimos. Além do empolgante interesse que tais fenômenos despertam, eles são eminentemente instrutivos, do ponto de vista do estudo prático do Espiritismo.
-
-[^23]: N.E.: No original francês está no grifo. “Torpilles humaines”. Torpille é um peixe semelhante à raia, ou arraia, que tem órgãos capazes de emitir descargas elétricas. É o peixe-torpedo, à semelhança das denominações que damos, de “enguia-elétrica” ou “peixe-elétrico”, ao peixe poraquê amazônico.
-<a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-15` 📑 15. Dos médiuns escreventes ou psicógrafos</h3>
 
@@ -3015,7 +2978,6 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   📝 Nota Na `📓 Revista Espírita` de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
 
-[^24]: N.E.: Ver Nota Explicativa.
 <a name="LDM-X"><code>LDM-X</code></a>
 
 <h3>`LDM-2-23` 📑 23. Da obsessão</h3>
@@ -4817,8 +4779,6 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 >
 >**Fénelon**
 
-[^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
-
 <h5>22</h5>
 
 >Perguntastes se a multiplicidade dos grupos, em uma mesma localidade, não seria de molde a gerar rivalidades prejudiciais à Doutrina. Responderei que os que se acham imbuídos dos verdadeiros princípios desta Doutrina veem unicamente irmãos em todos os espíritas, e não rivais. Os que se mostrassem ciosos de outros grupos provariam existir-lhes no íntimo uma segunda intenção, ou o sentimento do amor-próprio, e que não os guia o amor da verdade. Afirmo que, se essas pessoas se achassem entre vós, logo semeariam no vosso grupo a discórdia e a desunião.
@@ -5109,6 +5069,59 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 **A Editora**
 
+<a href="#LDM">🔼</a>
+
 📑 Notas de rodapé
+
+[^1]: Nota do Editor (N.E.).: Gioachino Antonio Rossini (1792–1868) foi um compositor erudito italiano, muito popular em seu tempo, que criou 39 óperas.
+
+[^2]: N.E.: Mau pintor.
+
+[^3]: Rafael Sanzio (1483–1520), pintor, escultor e arquiteto italiano. O seu gênio reunia todas as qualidades: perfeição do desenho, vivacidade dos movimentos, harmonia das linhas, delicadeza do colorido. Deixou grande número de obras-primas. É considerado o poeta da Pintura, como Ovídio foi considerado o músico da Poesia e como Chopin é considerado o poeta da Música.
+
+[^4]: Nota de Allan Kardec (A.K.): O nosso ensino teórico e prático é sempre gratuito.
+
+[^5]: N.E.: De Kardec são ainda as obras: `🕊️ O Evangelho segundo o Espiritismo`; `🔥 O Céu e o Inferno`; `🌱 A Gênese` e `🪦 Obras Póstumas`.
+
+[^6]: A.K.: Foi o Sr. Jobert (de Lamballe). Para sermos justos, devemos dizer que a descoberta é devida ao Sr. Schiff. O Sr. Jobert lhe deduziu as consequências perante a Academia de Medicina, pretendendo dar, assim, o golpe de morte nos Espíritos batedores. Na `📓 Revista Espírita`, do mês de junho de 1859, encontrar-se-ão todos os pormenores da explicação do Sr. Jobert.
+
+[^7]: A.K.: Comunhão. A luz do fenômeno do Espírito. Mesas falantes, sonâmbulos, médiuns, milagres. Magnetismo espiritual: poder da prática da fé. Por Emah Tirpsé, uma alma coletiva que escreve por intermédio de uma prancheta. Bruxelas, 1858, casa Devroye.
+
+[^8]: A.K.: Esta questão foi tratada em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md) ([`LDE.q128`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md#ldeq128-%EF%B8%8F%E2%83%A3-128) e seguintes); mas, com relação a este assunto, como acerca de tudo o que respeita à parte religiosa, recomendamos a brochura intitulada: Carta de um católico sobre o espiritismo, do Dr. Grand, ex-cônsul da França (à venda na Livraria Ledoyen, in-18; preço 1 franco), bem como a que vamos publicar sob o título: Os contraditores do espiritismo, do ponto de vista da religião, da ciência e do materialismo.
+
+[^9]: A.K.: Quem se quiser reportar a tudo o que dissemos em [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md) sobre os sonhos e o estado do Espírito durante o sono (questões 400 a 418), conceberá que esses sonhos que quase toda gente tem, em que nos vemos transportados através do espaço e como que voando, são mera recordação do que o nosso Espírito experimentou quando, durante o sono, deixara momentaneamente o corpo material, levando consigo apenas o corpo fluídico, o que ele conservará depois da morte. Esses sonhos, pois, nos podem dar uma ideia do estado do Espírito, quando se houver desembaraçado dos entraves que o retêm preso ao solo.
+
+[^10]: N.E.: Confusões, balbúrdias.
+
+[^11]: A.K.: Vê-se que, quando se trata de exprimir uma ideia nova, para a qual faltam termos na língua, os Espíritos sabem perfeitamente criar neologismos. Estas palavras: eletromediúnico, perispirítico, não são de invenção nossa. Os que nos têm criticado por havermos criado os termos espírita, espiritismo, perispírito, que tinham análogos, poderão fazer também a mesma crítica aos Espíritos.
+
+[^12]: A.K.: Ver, para mais particularidades sobre o estado do Espírito durante o sono, [👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md), [`LDE.q409`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-28.md#ldeq409-%EF%B8%8F%E2%83%A3-409).
+
+[^13]: A.K.: Entre outros, o Sr. Home.
+
+[^14]: N.E.: Relativo a antigo aparelho fotográfico inventado por Daguerre [inventor e pintor francês (1787- 1851), que fixava as imagens obtidas na câmara escura numa folha de prata sobre uma placa de cobre.
+
+[^15]: N.E.: O fato histórico ocorreu exatamente como relatamos acima, embora no original francês Allan Kardec o tenha narrado sob a seguinte versão: “_Santo Antônio de Pádua estava na Espanha e no instante em que ali pregava, seu pai, que se encontrava em Pádua, ia ser supliciado, sob a acusação de haver cometido um assassínio. No momento da execução, o santo aparece e demonstra a inocência de seu pai, dando a conhecer o verdadeiro criminoso, que mais tarde sofreu o castigo. Comprovou-se que nesse momento Santo Antônio não havia deixado a Espanha._”
+
+[^16]: A.K.: Ver na `📓 Revista Espírita`, janeiro de 1859: O duende de Baiona; fevereiro de 1859: Os agêneres; Meu amigo Hermann; maio de 1859: O laço que prende o Espírito ao corpo; novembro de 1859: A alma errante; janeiro de 1860: O Espírito de um lado, o corpo do outro; março de 1860: Estudos sobre o Espírito de pessoas vivas; o doutor V. e a senhorita I.; abril de 1860: O fabricante de São Petersburgo; Aparições tangíveis; novembro de 1860: História de Maria de Agreda; julho de 1861: Uma aparição providencial.
+
+[^17]: A.K.: Veja-se a `📓 Revista Espírita`, de fevereiro de 1860: “_História de um danado_”
+
+[^18]: N.E.: Covardia. cadê o link?
+
+[^19]: N.E.: Travessuras, estrepolias
+
+[^20]: A.K.: A realidade dos espíritos e de suas manifestações demonstrada mediante o fenômeno da escrita direta pelo barão de Guldenstubbé, 1 vol. in-oitavo, com 15 estampas e 93 fac-símiles.
+
+[^21]: N.E.: Mastro que aponta para a parte da frente do navio
+
+[^22]: A.K.: Um dos fatos mais extraordinários desta natureza, pela variedade e singularidade dos fenômenos, é, sem contestação, o que ocorreu em 1852, no Palatinado (Baviera renana), em Bergzabern, perto de Wissemburg. É tanto mais notável quanto denota, reunidos no mesmo indivíduo, quase todos os gêneros de manifestações espontâneas: estrondos de abalar a casa, derribamento dos móveis, arremesso de objetos ao longe por mãos invisíveis, visões e aparições, sonambulismo, êxtase, catalepsia, atração elétrica, gritos e sons aéreos, instrumentos tocando sem contato, comunicações inteligentes etc. e, o que não é de somenos importância, a comprovação destes fatos, durante quase dois anos, por inúmeras testemunhas oculares, dignas de crédito pelo saber e pelas posições sociais que ocupavam. A narração autêntica dos aludidos fenômenos foi publicada, naquela época, em muitos jornais alemães e, especialmente, numa brochura hoje esgotada e raríssima. Na `📓 Revista Espírita` de 1858 se encontra a tradução completa dessa brochura, com os comentários e explicações indispensáveis. Essa, que saibamos, é a única publicação feita em francês do folheto a que nos referimos. Além do empolgante interesse que tais fenômenos despertam, eles são eminentemente instrutivos, do ponto de vista do estudo prático do Espiritismo.
+
+[^23]: N.E.: No original francês está no grifo. “Torpilles humaines”. Torpille é um peixe semelhante à raia, ou arraia, que tem órgãos capazes de emitir descargas elétricas. É o peixe-torpedo, à semelhança das denominações que damos, de “enguia-elétrica” ou “peixe-elétrico”, ao peixe poraquê amazônico.
+<a name="LDM-X"><code>LDM-X</code></a>
+
+[^24]: N.E.: Ver Nota Explicativa.
+
+[^25]: A.K.: Conhecemos um senhor que foi aceito para um emprego de confiança, numa casa importante, porque era espírita sincero. Entenderam que as suas crenças eram uma garantia da sua moralidade.
 
 [^26]: N.E.: Esta nota explicativa, publicada em face de acordo com o Ministério Público Federal, tem por objetivo demonstrar a ausência de qualquer discriminação ou preconceito em alguns trechos das obras de Allan Kardec, caracterizadas, todas, pela sustentação dos princípios de fraternidade e solidariedade cristãs, contidos na Doutrina Espírita.
