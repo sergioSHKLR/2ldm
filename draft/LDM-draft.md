@@ -31,6 +31,8 @@
 - [`LDM-0-01` 📃 Folha de rosto](#LDM-0-01)
 - [`LDM-0-02` 📃 Introdução](#LDM-0-02)
 
+<a href="#LDM">🔼</a>
+
 ---
 
 <a name="LDM-0-01"><code>LDM-0-01</code></a>
@@ -90,6 +92,8 @@ Como lhe acrescentamos muitas coisas e muitos capítulos inteiros, suprimimos al
 <a name="LDM-1"><code>LDM-1</code></a>
 
 <h2>🗂️ Parte 1 - Noções Preliminares</h2>
+
+<a href="#LDM">🔼</a>
 
 <a name="LDM-1-01"><code>LDM-1-01</code></a>
 
@@ -644,6 +648,8 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 <a name="LDM-2"><code>LDM-2</code></a>
 
 <h2>🗂️ Parte 2 - Das manifestações espíritas</h2>
+
+ <a href="#LDM">🔼</a>
 
 <a name="LDM-2-01"><code>LDM-2-01</code></a>
 
@@ -5030,6 +5036,8 @@ Tiptólogo – Gênero de médiuns aptos à tiptologia. Médium tiptólogo.
 <a name="LDM-3"><code>LDM-3</code></a>
 
 <h2>🗂️ Parte 3 - Pós-textual</h2>
+
+<a href="#LDM">🔼</a>
 
 <a name="LDM-3-01"><code>LDM-3-01</code></a>
 
