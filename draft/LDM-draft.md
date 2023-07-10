@@ -629,6 +629,39 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h2>🗂️ Parte 2 - Das manifestações espíritas</h2>
 
+- [`LDM-2-01` 📑 1. Da ação dos Espíritos sobre a matéria](#LDM-2-01)
+- [`LDM-2-02` 📑 2. Das manifestações físicas. Das mesas girantes](#LDM-2-02)
+- [`LDM-2-03` 📑 3. Das manifestações inteligentes](#LDM-2-03)
+- [`LDM-2-04` 📑 4. Da teoria das manifestações físicas](#LDM-2-04)
+- [`LDM-2-05` 📑 5. Das manifestações físicas espontâneas](#LDM-2-05)
+- [`LDM-2-06` 📑 6. Das manifestações visuais](#LDM-2-06)
+- [`LDM-2-07` 📑 7. Da bicorporeidade e da transfiguração](#LDM-2-07)
+- [`LDM-2-08` 📑 8. Do laboratório do mundo invisível](#LDM-2-08)
+- [`LDM-2-09` 📑 9. Dos lugares assombrados](#LDM-2-09)
+- [`LDM-2-10` 📑 10. Da natureza das comunicações](#LDM-2-10)
+- [`LDM-2-11` 📑 11. Da sematologia e da tiptologia](#LDM-2-11)
+- [`LDM-2-12` 📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia](#LDM-2-12)
+- [`LDM-2-13` 📑 13. Da psicografia](#LDM-2-13)
+- [`LDM-2-14` 📑 14. Dos médiuns](#LDM-2-14)
+- [`LDM-2-15` 📑 15. Dos médiuns escreventes ou psicógrafos](#LDM-2-15)
+- [`LDM-2-16` 📑 16. Dos médiuns especiais](#LDM-2-16)
+- [`LDM-2-17` 📑 17. Da formação dos médiuns](#LDM-2-17)
+- [`LDM-2-18` 📑 18. Dos inconvenientes e perigos da mediunidade](#LDM-2-18)
+- [`LDM-2-19` 📑 19. Do papel dos médiuns nas comunicações espíritas](#LDM-2-19)
+- [`LDM-2-20` 📑 20. Da influência moral do médium](#LDM-2-20)
+- [`LDM-2-21` 📑 21. Da influência do meio](#LDM-2-21)
+- [`LDM-2-22` 📑 22. Da mediunidade nos animais](#LDM-2-22)
+- [`LDM-2-23` 📑 23. Da obsessão](#LDM-2-23)
+- [`LDM-2-24` 📑 24. Da identidade dos Espíritos](#LDM-2-24)
+- [`LDM-2-25` 📑 25. Das evocações](#LDM-2-25)
+- [`LDM-2-26` 📑 26. Das perguntas que se podem fazer aos Espíritos](#LDM-2-26)
+- [`LDM-2-27` 📑 27. Das contradições e das mistificações](#LDM-2-27)
+- [`LDM-2-28` 📑 28. Do charlatanismo e do embuste](#LDM-2-28)
+- [`LDM-2-29` 📑 29. Das reuniões e das Sociedades Espíritas](#LDM-2-29)
+- [`LDM-2-30` 📑 30. Regulamento da Sociedade Parisiense de Estudos Espíritas](#LDM-2-30)
+- [`LDM-2-31` 📑 31. Dissertações espíritas](#LDM-2-31)
+- [`LDM-2-32` 📑 32. Vocabulário espírita](#LDM-2-32)
+
 <a href="#LDM">🔼</a>
 
 ---
@@ -1708,7 +1741,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h3>`LDM-2-09` 📑 9. Dos lugares assombrados</h3>
 
-<a name="LDM-p132"><code>LDM-pX</code></a>
+<a name="LDM-p132"><code>LDM-p132</code></a>
 
 - #️⃣ 132. As manifestações espontâneas, que em todos os tempos se hão produzido, e a persistência de alguns Espíritos em darem mostras ostensivas de sua presença em certas localidades constituem a origem da crença na existência de lugares mal-assombrados. As respostas que se seguem foram dadas a perguntas feitas sobre este assunto:
 
@@ -1775,44 +1808,49 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Os que se prendem a certas localidades ou a certas coisas materiais nunca são Espíritos superiores. Contudo, mesmo que não pertençam a esta categoria, pode dar-se que não sejam maus e nenhuma intenção má alimentem. Não raro, são até comensais mais úteis do que prejudiciais, porquanto, desde que se interessam pelas pessoas, podem protegê-las.
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-10"><code>LDM-2-10</code></a>
 
 <h3>`LDM-2-10` 📑 10. Da natureza das comunicações</h3>
 
-<a name="LDM-p133"><code>LDM-pX</code></a>
+<a name="LDM-p133"><code>LDM-p133</code></a>
 
 - #️⃣ 133. Dissemos que todo efeito que revela, na sua causalidade, um ato de livre vontade, ainda que insignificantíssimo, atesta, por essa circunstância, a existência de uma causa inteligente. Assim, um simples movimento de mesa, que responda ao nosso pensamento ou manifeste caráter intencional, pode ser considerado uma manifestação inteligente. Se a isso houvesse de ficar circunscrito o resultado, só muito secundário interesse nos despertaria. Contudo, já seria alguma coisa o dar-nos a prova de que, em tais fenômenos, há mais do que uma ação puramente material. Nula, ou, pelo menos, muito restrita seria a utilidade prática que daí decorreria. O caso, porém, muda inteiramente de figura, quando essa inteligência ganha um desenvolvimento tal, que permite regular e contínua troca de ideias. Já não há então simples manifestações inteligentes, mas verdadeiras **comunicações**. Os meios de que hoje dispomos permitem que as obtenhamos tão extensas, tão explícitas e tão rápidas, como as que mantemos com os homens.
 
   Quem estiver bem compenetrado, segundo a **escala espírita** ([👻 **O Livro dos Espíritos**](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md), [`LDE.q100`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-06-13.md#ldeq100-%EF%B8%8F%E2%83%A3-100)), da variedade infinita que apresentam os Espíritos, sob o duplo aspecto da inteligência e da moralidade, facilmente se convencerá de que há de haver diferença entre as suas comunicações; que estas hão de refletir a elevação ou a baixeza de suas ideias, o saber e a ignorância deles, seus vícios e suas virtudes; que, numa palavra, elas não se hão de assemelhar mais do que as dos homens, desde os selvagens até o mais ilustrado europeu. Em quatro categorias principais se podem grupar os matizes que apresentam. Segundo seus caracteres mais acentuados, elas se dividem em: **grosseiras**, **frívolas**, **sérias** e **instrutivas**.
 
-<a name="LDM-p134"><code>LDM-pX</code></a>
+<a name="LDM-p134"><code>LDM-p134</code></a>
 
 - #️⃣ 134. **Comunicações grosseiras** são as concebidas em termos que chocam o decoro. Só podem provir de Espíritos de baixa estofa, ainda cobertos de todas as impurezas da matéria, e em nada diferem das que provenham de homens viciosos e grosseiros. Repugnam a quem quer que não seja inteiramente baldo de toda a delicadeza de sentimentos, pela razão de que, acordemente com o caráter dos Espíritos, elas serão triviais, ignóbeis, obscenas, insolentes, arrogantes, malévolas e mesmo ímpias.
 
-<a name="LDM-p135"><code>LDM-pX</code></a>
+<a name="LDM-p135"><code>LDM-p135</code></a>
 
 - #️⃣ 135. As comunicações frívolas emanam de Espíritos levianos, zombeteiros ou brincalhões, antes maliciosos do que maus, e que nenhuma importância ligam ao que dizem. Como nada de indecoroso encerram, essas comunicações agradam a certas pessoas, que com elas se divertem, porque encontram prazer nas confabulações fúteis, em que muito se fala para nada dizer. Tais Espíritos saem-se às vezes com tiradas espirituosas e mordazes e, por entre facécias vulgares, dizem não raro duras verdades, que quase sempre ferem com justeza. Em torno de nós pululam os Espíritos levianos, que de todas as ocasiões aproveitam para se intrometerem nas comunicações. A verdade é o que menos os preocupa; daí o maligno encanto que acham em mistificar os que têm a fraqueza e mesmo a presunção de neles crer sob palavra. As pessoas que se comprazem nesse gênero de comunicações naturalmente dão acesso aos Espíritos levianos e falaciosos. Delas se afastam os Espíritos sérios, do mesmo modo que na sociedade humana os homens sérios evitam a companhia dos doidivanas.
 
-<a name="LDM-p136"><code>LDM-pX</code></a>
+<a name="LDM-p136"><code>LDM-p136</code></a>
 
 - #️⃣ 136. **As comunicações sérias** são ponderosas quanto ao assunto e elevadas quanto à forma. Toda comunicação que, isenta de frivolidade e de grosseria, objetiva um fim útil, ainda que de caráter particular, é, por esse simples fato, uma comunicação séria. Nem todos os Espíritos sérios são igualmente esclarecidos; há muita coisa que eles ignoram e sobre que podem enganar-se de boa-fé. Por isso é que os Espíritos verdadeiramente superiores nos recomendam de contínuo que submetamos todas as comunicações ao crivo da razão e da mais rigorosa lógica.
 
   No tocante a comunicações **sérias**, cumpre se distingam as **verdadeiras das falsas**, o que nem sempre é fácil, porquanto exatamente à sombra da elevação da linguagem é que certos Espíritos presunçosos, ou pseudossábios, procuram conseguir a prevalência das mais falsas ideias e dos mais absurdos sistemas. E, para melhor acreditados se fazerem e maior importância ostentarem, não escrupulizam de se adornarem com os mais respeitáveis nomes e até com os mais venerados. Esse um dos maiores escolhos da ciência prática; dele trataremos mais adiante, com todos os desenvolvimentos que tão importante assunto reclama, ao mesmo tempo que daremos a conhecer os meios de premonição contra o perigo das falsas comunicações.
 
-<a name="LDM-p137"><code>LDM-pX</code></a>
+<a name="LDM-p137"><code>LDM-p137</code></a>
 
 - #️⃣ 137. **Instrutivas** são as comunicações sérias cujo principal objeto consiste num ensinamento qualquer, dado pelos Espíritos, sobre as ciências, a moral, a filosofia etc. São mais ou menos profundas, conforme o grau de elevação e de **desmaterialização** do Espírito. Para se retirarem frutos reais dessas comunicações, preciso é que elas sejam regulares e continuadas com perseverança. Os Espíritos sérios se ligam aos que desejam instruir-se e lhes secundam os esforços, deixando aos Espíritos levianos a tarefa de divertirem os que em tais manifestações só veem passageira distração. Unicamente pela regularidade e frequência daquelas comunicações se pode apreciar o valor moral e intelectual dos Espíritos que as dão e a confiança que eles merecem. Se, para julgar os homens, se necessita de experiência, muito mais ainda é esta necessária para se julgarem os Espíritos.
 
   Qualificando de instrutivas as comunicações, supomo-las **verdadeiras**, pois o que não for **verdadeiro** não pode ser **instrutivo**, ainda que dito na mais imponente linguagem. Nessa categoria, não podemos, conseguintemente, incluir certos ensinos que de sério apenas têm a forma, muitas vezes empolada e enfática, com que os Espíritos que os ditam, mais presunçosos do que instruídos, contam iludir os que os recebem. Mas, não podendo suprir a substância que lhes falta, são incapazes de sustentar por muito tempo o papel que procuram desempenhar. A breve trecho, traem-se, pondo a nu a sua fraqueza, desde que alguma sequência tenham os seus ditados, ou que eles sejam levados aos seus últimos redutos.
 
-<a name="LDM-p138"><code>LDM-pX</code></a>
+<a name="LDM-p138"><code>LDM-p138</code></a>
 
 - #️⃣ 138. São variadíssimos os meios de comunicação. Atuando sobre os nossos órgãos e sobre todos os nossos sentidos, podem os Espíritos manifestar-se à nossa visão, por meio das aparições; ao nosso tato, por impressões tangíveis, visíveis ou ocultas; à audição pelos ruídos; ao olfato por meio de odores sem causa conhecida. Este último modo de manifestação, se bem muito real, é, incontestavelmente, o mais incerto, pelas múltiplas causas que podem induzir em erro. Daí o nos não demorarmos em tratar dele. O que devemos examinar com cuidado são os diversos meios de se obterem comunicações, isto é, uma permuta regular e continuada de pensamentos. Esses meios são: **as pancadas**, **a palavra** e **a escrita**. Estudá-los-emos em **capítulo**s especiais.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-11"><code>LDM-2-11</code></a>
 
 <h3>`LDM-2-11` 📑 11. Da sematologia e da tiptologia</h3>
 
-<a name="LDM-p139"><code>LDM-pX</code></a>
+<a name="LDM-p139"><code>LDM-p139</code></a>
 
 - #️⃣ 139. As primeiras comunicações inteligentes foram obtidas por meio de pancadas, ou da tiptologia. Muito limitados eram os recursos que oferecia esse meio primitivo, que se ressentia de estar na infância a arte, tudo se reduzindo, nas comunicações, a respostas monossilábicas, por — sim ou não, mediante convencionado número de pancadas. Mais tarde, foi aperfeiçoado, como já dissemos.
 
@@ -1828,7 +1866,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   e assim por diante.
 
-<a name="LDM-p140"><code>LDM-pX</code></a>
+<a name="LDM-p140"><code>LDM-p140</code></a>
 
 - #️⃣ 140
 . É de notar-se que, quando se emprega esse meio, o Espírito usa também de uma espécie de mímica, isto é, exprime a energia da afirmação ou da negação pela força das pancadas. Também exprime a natureza dos sentimentos que o animam: a violência, pela brusquidão dos movimentos; a cólera e a impaciência, batendo repetidamente fortes pancadas, como uma pessoa que bate arrebatadamente com os pés, chegando às vezes a atirar ao chão a mesa. Se é amável e delicado, inclina, no começo e no fim da sessão, a mesa, à guisa de saudação. Se quer dirigir-se diretamente a um dos assistentes, para ele encaminha a mesa com brandura ou violência, conforme deseje testemunhar-lhe afeição ou antipatia. Essa, propriamente falando, a sematologia, ou linguagem dos sinais, como a tiptologia é a linguagem das pancadas. Eis aqui um exemplo notável do emprego espontâneo da sematologia.
@@ -1837,38 +1875,41 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   É, pois, evidente que o Espírito quisera chamar a atenção da pessoa a quem nos referimos e procurava uma ocasião de cientificá-la de que estava lá. Um mudo não se houvera conduzido melhor.
 
-<a name="LDM-p141"><code>LDM-pX</code></a>
+<a name="LDM-p141"><code>LDM-p141</code></a>
 
 - #️⃣ 141. Não tardou que a tiptologia se aperfeiçoasse e enriquecesse com um meio de comunicação mais completo, o da tiptologia alfabética, que consiste em serem as letras do alfabeto indicadas por pancadas. Podem obter-se então palavras, frases e até discursos inteiros. De acordo com o método adotado, a mesa dará tantas pancadas quantas forem necessárias para indicar cada letra, isto é, uma pancada para o a, duas pancadas para o b, e assim por diante. Enquanto isto, uma pessoa irá escrevendo as letras à medida que forem sendo designadas. O Espírito faz sentir que terminou, usando de um sinal que se haja convencionado.
 
   Como se vê, este modo de operar é muito lento e consome longo tempo para as comunicações de certa extensão. Entretanto, pessoas há que têm tido a paciência de se utilizarem dele para obter ditados de muitas páginas. Porém, a prática levou à descoberta de abreviaturas, que permitiram trabalhar-se com maior rapidez. A de uso mais frequente consiste em colocar o experimentador, diante de si, um alfabeto e a série dos algarismos indicadores das unidades. Estando o médium à mesa, uma outra pessoa percorre sucessivamente as letras do alfabeto, se se trata de obter uma palavra, ou a série dos algarismos, se de um número. Apontada a letra que serve, a mesa, por si mesma, bate uma pancada e escreve-se a letra. Recomeça-se a operação para obter-se a segunda, depois a terceira letra e assim sucessivamente. Se tiver havido engano em alguma letra, o Espírito previne, fazendo a mesa dar repetidas pancadas ou produzir um movimento especial, e recomeça-se. Com o hábito, chega-se a andar bem depressa, mas adivinhando o fim de uma palavra começada e com a qual se pode atinar pelo sentido da frase, é como, sobretudo, se consegue abreviar de muito a comunicação. Havendo incerteza, pergunta-se ao Espírito se foi esta ou aquela palavra a que ele quis empregar e o Espírito responde sim ou não.
 
-<a name="LDM-p142"><code>LDM-pX</code></a>
+<a name="LDM-p142"><code>LDM-p142</code></a>
 
 - #️⃣ 142. Todos os efeitos que acabamos de indicar podem obter-se de maneira ainda mais simples, por meio de pancadas produzidas na própria madeira da mesa, sem nenhuma espécie de movimento, processo que já descrevemos no **capítulo** das manifestações físicas, número 64. É a tiptologia interior. Nem todos os médiuns são igualmente aptos às manifestações deste último gênero. Muitos há que só obtêm as pancadas pelo movimento basculante da mesa. Contudo, exercitando-se, podem eles, em sua maioria, chegar a consegui-las daquela maneira, que tem a dupla vantagem de ser mais rápida e de oferecer menos azo à suspeita do que o básculo, que se pode atribuir a uma pressão voluntária. Verdade é que as pancadas no interior da madeira também podem ser imitadas por médiuns de má-fé. As melhores coisas podem ser simuladas, o que, aliás, nada prova contra elas. (**Veja-se**, no fim deste volume, o **capítulo** intitulado: Do charlatanismo e do embuste.)
 
   Quaisquer, porém, que sejam os aperfeiçoamentos que se possam introduzir nessa maneira de proceder, jamais se conseguirá fazê-la alcançar a rapidez e a facilidade que apresenta a escrita, razão por que, presentemente, já é pouco empregada. Ela, no entanto, é, às vezes, interessantíssima, do ponto de vista do fenômeno, sobretudo para os novatos, e tem, principalmente, a vantagem de provar, de forma peremptória, a absoluta independência do pensamento do médium. Assim se obtêm, não raro, respostas tão imprevistas, de tão flagrantes a propósito, que só uma prevenção bastante determinada será capaz de impedir que os assistentes se rendam à evidência. Daí vem que esse processo constitui, para muitas pessoas, forte motivo de convicção. Mas, seja ele o empregado, seja qualquer outro, em caso algum os Espíritos se mostram dispostos a prestar-se aos caprichos dos curiosos, que pretendam experimentá-los por meio de questões despropositadas.
 
-<a name="LDM-p143"><code>LDM-pX</code></a>
+<a name="LDM-p143"><code>LDM-p143</code></a>
 
 - #️⃣ 143. Com o fim de melhor garantir a independência ao pensamento do médium, imaginaram-se diversos instrumentos em forma de quadrantes, sobre os quais se traçam as letras, à maneira dos quadrantes do telégrafo elétrico. Uma agulha móvel, que a influência do médium põe em movimento, mediante um fio condutor e uma polia, indica as letras. Esses instrumentos só os conhecemos pelos desenhos e descrições que têm sido publicados na América. Nada, pois, podemos dizer do valor deles; temos, porém, para nós, que a só complicação que denotam constitui um inconveniente; que a independência do médium se comprova perfeitamente pelas pancadas interiores e, ainda melhor, pelo imprevisto das respostas, do que por todos os meios materiais. Acresce que os incrédulos, sempre dispostos que estão a ver por toda parte artifícios e arranjos, muito mais inclinados hão de estar a supô-los num mecanismo especial, do que na primeira mesa de que se lance mão, livre de todo e qualquer acessório.
 
-<a name="LDM-p144"><code>LDM-pX</code></a>
+<a name="LDM-p144"><code>LDM-p144</code></a>
 
 - #️⃣ 144. Um aparelho mais simples, porém, do qual a má-fé pode abusar facilmente, conforme veremos no **capítulo** sobre as fraudes, é o que designaremos sob o nome de Mesa-Girardin, tendo em atenção o uso que fazia dele a Sra. Émile de Girardin nas numerosas comunicações que obtinha como médium. Porque, essa senhora, se bem fosse uma mulher de espírito, tinha a fraqueza de crer nos Espíritos e nas suas manifestações. Consiste o instrumento num tampo móvel de mesa, com o diâmetro de 30 a 40 centímetros, girando livre e facilmente em torno de um eixo, como uma roleta. Sobre sua superfície e acompanhando-lhe a circunferência, se acham traçados, como sobre um quadrante, as letras do alfabeto, os algarismos e as palavras sim e não. Ao centro existe uma agulha fixa. Pousando o médium os dedos na borda do disco móvel, este gira e para, quando a letra desejada está sob a agulha. Escrevem-se, umas após outras, as letras indicadas e formam-se assim, muito rapidamente, as palavras e as frases.
 
   É de notar-se que o disco não desliza sob os dedos do médium; que os seus dedos, conservando-se apoiados nele, lhe acompanham o movimento. Talvez que um médium poderoso consiga obter um movimento independente. Julgamo-lo possível, mas nunca o observamos. Se se pudesse fazer a experiência dessa maneira, infinitamente mais probante ela seria, porque eliminaria toda possibilidade de embuste.
 
-<a name="LDM-p145"><code>LDM-pX</code></a>
+<a name="LDM-p145"><code>LDM-p145</code></a>
 
 - #️⃣ 145. Resta-nos destruir um erro assaz espalhado: o de confundirem-se com os Espíritos batedores todos os Espíritos que se comunicam por meio de pancadas. A tiptologia constitui um meio de comunicação como qualquer outro, e que não é, mais do que o da escrita, ou da palavra, indigno dos Espíritos elevados. Todos os Espíritos, bons e maus, podem servir-se dele, como dos diversos outros existentes. O que caracteriza os Espíritos superiores é a elevação das ideias, e não o instrumento de que se utilizem para exprimi-las. Sem dúvida, eles preferem os meios mais cômodos e, sobretudo, mais rápidos; mas, em falta de lápis e papel, não escrupulizarão de valer-se da vulgar mesa falante, e a prova é que, por esse meio, se obtém os mais sublimes ditados. Se dele não nos servimos, não é porque o consideremos desprezível, porém unicamente porque, como fenômeno, já nos ensinou tudo o que pudéramos vir a saber, nada mais lhe sendo possível acrescentar às nossas convicções, e porque a extensão das comunicações que recebemos exige uma rapidez com a qual é incompatível a tiptologia.
 
   Assim, pois, nem todos os Espíritos que se manifestam por pancadas são batedores. Este qualificativo deve ser reservado para os que poderíamos chamar batedores de profissão e que, por este meio, se deleitam em pregar partidas, para divertimentos de umas tantas pessoas, em aborrecer com as suas importunações. Pode-se esperar que algumas vezes deem coisas espirituosas; porém, coisas profundas, nunca. Seria, conseguintemente, perder tempo formular-lhes questões de certo porte científico ou filosófico. A ignorância e a inferioridade que lhes são peculiares deram motivo a que, com justeza, os outros Espíritos os qualificassem de palhaços, ou saltimbancos do mundo espírita. Acrescentemos que, além de agirem quase sempre por conta própria, também são amiúde instrumentos de que lançam mão os Espíritos superiores, quando querem produzir efeitos materiais.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-12"><code>LDM-2-12</code></a>
 
 <h3>`LDM-2-12` 📑 12. Da pneumatografia ou escrita direta. Da pneumatofonia</h3>
 
-<a name="LDM-p146"><code>LDM-pX</code></a>
+<a name="LDM-p146"><code>LDM-p146</code></a>
 
 - #️⃣ 146. A pneumatografia é a escrita produzida diretamente pelo Espírito, sem intermediário algum; difere da psicografia, por ser esta a transmissão do pensamento do Espírito, mediante a escrita feita com a mão do
   médium.
@@ -1879,13 +1920,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Entretanto, do fato de se poder imitar uma coisa, fora absurdo concluir-se pela sua inexistência. Nestes últimos tempos, não se há encontrado meio de imitar a lucidez sonambúlica, ao ponto de causar ilusão? Mas, por que esse processo de escamoteação se tenha exibido em todas as feiras, dever-se-á concluir que não haja verdadeiros sonâmbulos? Por que certos comerciantes vendem vinho falsificado, será uma razão para que não haja vinho puro? O mesmo sucede com a escrita direta. Bem simples e fáceis eram, aliás, as precauções a serem tomadas para garantir a realidade do fato e, graças a essas precauções, já hoje ele não pode constituir objeto da mais ligeira dúvida.
 
-<a name="LDM-p147"><code>LDM-pX</code></a>
+<a name="LDM-p147"><code>LDM-p147</code></a>
 
 - #️⃣ 147. Uma vez que a possibilidade de escrever sem intermediário representa um dos atributos do Espírito; uma vez que os Espíritos sempre existiram desde todos os tempos e que desde todos os tempos se hão produzindo os diversos fenômenos que conhecemos, o da escrita direta igualmente se há de ter operado na Antiguidade, tanto quanto nos dias atuais. Deste modo é que se pode explicar o aparecimento das três palavras célebres, na sala do festim de Baltazar. A Idade Média, tão fecunda em prodígios ocultos, mas que eram abafados por meio das fogueiras, também conheceu necessariamente a escrita direta, e possível é que, na teoria das modificações por que os Espíritos podem fazer passar a matéria, teoria que desenvolvemos no **capítulo** 8, se encontre o fundamento da crença na transmutação dos metais.
 
   Todavia, quaisquer que tenham sido os resultados obtidos em diversas épocas, só depois de vulgarizadas as manifestações espíritas foi que se tomou a sério a questão da escrita direta. Ao que parece, o primeiro a torná-la conhecida, estes últimos anos, em Paris, foi o barão de ­Guldenstubbé, que publicou sobre o assunto uma obra muito interessante, com grande número de fac-símiles das escritas que obteve [^20]. O fenômeno já era conhecido na América havia algum tempo. A posição social do Sr. ­Guldenstubbé, sua independência, a consideração de que goza nas mais elevadas rodas incontestavelmente afastam toda suspeita de fraude intencional, porquanto nenhum motivo de interesse havia a que ele obedecesse. Quando muito, o que se poderia supor é que fora vítima de uma ilusão; a isto, porém, um fato responde peremptoriamente: o de haverem outras pessoas obtido o mesmo fenômeno, cercadas de todas as precauções necessárias para evitar qualquer embuste e qualquer causa de erro.
 
-<a name="LDM-p148"><code>LDM-pX</code></a>
+<a name="LDM-p148"><code>LDM-p148</code></a>
 
 - #️⃣ 148. A escrita direta se obtém, como, em geral, a maior parte das manifestações espíritas não espontâneas, por meio da concentração, da prece e da evocação. Têm-se produzido em igrejas, sobre túmulos, no sopé de estátuas ou imagens de personagens evocadas. Evidente, porém, é que o local nenhuma outra influência exerce além da de facultar maior recolhimento espiritual e maior concentração dos pensamentos, porquanto provado está que o fenômeno se obtém, igualmente, sem esses acessórios e nos lugares mais comuns, sobre um simples móvel caseiro, desde que os que desejam obtê-lo se achem nas devidas condições morais e que entre esses se encontre quem possua a necessária faculdade mediúnica.
 
@@ -1893,7 +1934,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Quem queira reportar-se às explicações dadas em `LDM-p127` e `LDM-p128`, encontrará completa a teoria do fenômeno. Para escrever dessa maneira, o Espírito não se serve das nossas substâncias, nem dos nossos instrumentos. Ele próprio fabrica a matéria e os instrumentos de que há mister, tirando, para isso, os materiais precisos, do elemento primitivo universal que, pela ação da sua vontade, sofre as modificações necessárias à produção do efeito desejado. Possível lhe é, portanto, fabricar tanto o lápis vermelho, a tinta de imprimir, a tinta comum, como o lápis preto, ou, até, caracteres tipográficos bastante resistentes para darem relevo à escrita, conforme temos tido ensejo de verificar. A filha de um senhor que conhecemos, menina de 12 a 13 anos, obteve páginas e páginas escritas com uma substância análoga ao pastel.
 
-<a name="LDM-p149"><code>LDM-pX</code></a>
+<a name="LDM-p149"><code>LDM-p149</code></a>
 
 - #️⃣ 149
 . Tal o resultado a que nos conduziu o fenômeno da tabaqueira, descrito `LDM-p116`, e sobre o qual nos estendemos longamente, porque nele percebemos oportunidade para perscrutarmos uma das mais importantes leis do Espiritismo, lei cujo conhecimento pode esclarecer mais de um mistério, mesmo do mundo visível. Assim é que, de um fato aparentemente vulgar, pode sair a luz. Tudo está em observar com cuidado e isso todos podem fazer como nós, desde que se não limitem a observar efeitos, sem lhes procurarem as causas. Se a nossa fé se fortalece de dia para dia, é porque compreendemos. Tratai, pois, de compreender, se quiserdes fazer prosélitos sérios. Ainda outro resultado decorre da compreensão das causas: o de deixar riscada uma linha divisória entre a verdade e a superstição.
@@ -1902,13 +1943,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Pneumatofonia**
 
-<a name="LDM-p150"><code>LDM-pX</code></a>
+<a name="LDM-p150"><code>LDM-p150</code></a>
 
 - #️⃣ 150. Dado que podem produzir ruídos e pancadas, os Espíritos podem igualmente fazer se ouçam gritos de toda espécie e sons vocais que imitam a voz humana, assim ao nosso lado, como nos ares. A este fenômeno é que damos o nome de pneumatofonia. Pelo que sabemos da natureza dos Espíritos, podemos supor que, dentre eles, alguns, de ordem inferior, se iludem e julgam falar como quando vivos. (**Veja-se** `📓 Revista Espírita`, fevereiro de 1858: História da aparição de Mlle. Clairon.)
 
   Devemos, entretanto, preservar-nos de tomar por vozes ocultas todos os sons que não tenham causa conhecida, ou simples zumbidos, e, sobretudo, de dar o menor crédito à crença vulgar de que, quando o ouvido nos zune, é que nalguma parte estão falando de nós. Aliás, nenhuma significação têm esses zunidos, cuja causa é puramente fisiológica, ao passo que os sons pneumatofônicos exprimem pensamentos e nisso está o que nos faz reconhecer que são devidos a uma causa inteligente e não acidental. Pode-se estabelecer, como princípio, que os efeitos notoriamente inteligentes são os únicos capazes de atestar a intervenção dos Espíritos. Quanto aos outros, há pelo menos cem probabilidades contra uma de serem oriundos de causas fortuitas.
 
-<a name="LDM-p151"><code>LDM-pX</code></a>
+<a name="LDM-p151"><code>LDM-p151</code></a>
 
 - #️⃣ 151. Acontece frequentemente ouvirmos, de modo distinto, quando nos achamos meio adormecidos, palavras, nomes, às vezes frases inteiras, ditas com tal intensidade que nos despertam, espantados. Se bem nalguns casos possa haver aí, na realidade, uma manifestação, esse fenômeno nada de bastante positivo apresenta para que também possa ser atribuído a uma causa análoga à que estudamos desenvolvidamente na teoria da alucinação, `LDM-p111` e seguintes. Demais, nenhuma sequência tem o que de tal maneira se escuta. O mesmo, no entanto, não acontece quando se está inteiramente acordado, porque, então, se é um Espírito que se faz ouvir, quase sempre se podem trocar ideias com ele e travar uma conversação regular.
 
@@ -1916,43 +1957,47 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   De um modo ou de outro, o fenômeno da pneumatofonia é quase sempre espontâneo e só muito raramente pode ser provocado.
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-13"><code>LDM-2-13</code></a>
 
 <h3>`LDM-2-13` 📑 13. Da psicografia</h3>
 
-<a name="LDM-p152"><code>LDM-pX</code></a>
+<a name="LDM-p152"><code>LDM-p152</code></a>
 
 - #️⃣ 152. A ciência espírita há progredido como todas as outras e mais rapidamente do que estas. Alguns anos apenas nos separam da época em que se empregavam esses meios primitivos e incompletos, a que trivialmente se dava o nome de “_mesas falantes_”, e já nos achamos em condições de nos comunicar com os Espíritos tão fácil e rapidamente, como o fazem os homens entre si e pelos mesmos meios: a escrita e a palavra. A escrita, sobretudo, tem a vantagem de assinalar, de modo mais material, a intervenção de uma força oculta e de deixar traços que se podem conservar, como fazemos com a nossa correspondência. O primeiro meio de que se usou foi o das pranchas e cestas munidas de lápis, com a disposição que passamos a descrever.
 
-<a name="LDM-p153"><code>LDM-pX</code></a>
+<a name="LDM-p153"><code>LDM-p153</code></a>
 
 - #️⃣ 153. Já dissemos que uma pessoa dotada de aptidão especial pode imprimir movimento de rotação a uma mesa ou a outro objeto qualquer. Tomemos, em vez de uma mesa, uma cestinha de 15 a 20 centímetros de diâmetro (de madeira ou de vime, a substância pouco importa). Se fizermos passar pelo fundo dessa cesta um lápis e o prendermos bem, com a ponta de fora e para baixo; se mantivermos o aparelho assim formado em equilíbrio sobre a ponta do lápis, apoiado este sobre uma folha de papel, e apoiarmos os dedos nas bordas da cesta, ela se porá em movimento; mas, em vez de girar, fará que o lápis percorra, em diversos sentidos, o papel, traçando riscos sem significação ou letras. Se se evocar um Espírito que queira comunicar-se, ele responderá não mais por meio de pancadas, como na tiptologia, porém escrevendo palavras. O movimento da cesta já não é automático, como no caso das mesas girantes; torna-se inteligente. Com esse dispositivo, o lápis, ao chegar à extremidade da linha, não volta ao ponto de partida para começar outra; continua a mover-se circularmente, de sorte que a linha escrita forma uma espiral, tornando necessário voltear muitas vezes o papel para se ler o que está grafado. Nem sempre é muito legível a escrita assim feita, por não ficarem separadas as palavras. Entretanto, o médium, por uma espécie de intuição, facilmente a decifra. Por economia, o papel e o lápis comum podem ser substituídos por uma lousa com o respectivo lápis. Designaremos este gênero de cesta pelo nome de cesta-pião. Às vezes, em lugar da cesta, emprega-se um papelão muito semelhante às caixas de pastilhas, formando-lhe o lápis o eixo, como no brinquedo chamado carrapeta.
 
-<a name="LDM-p154"><code>LDM-pX</code></a>
+<a name="LDM-p154"><code>LDM-p154</code></a>
 
 - #️⃣ 154. Muitos outros dispositivos se têm imaginado para a obtenção do mesmo resultado. O mais cômodo é o a que chamaremos cesta de bico e que consiste em adaptar-se à cesta uma haste inclinada, de madeira, prolongando-se 10 a 15 centímetros para o lado de fora, na posição do gurupés [^21] numa embarcação. Por um buraco aberto na extremidade dessa haste, ou bico, passa-se um lápis bastante comprido para que sua ponta assente no papel. Pondo o médium os dedos na borda da cesta, o aparelho todo se agita e o lápis escreve, como no caso anterior, com a diferença, porém, de que, em geral, a escrita é mais legível, com as palavras separadas e as linhas sucedendo-se paralelas, como na escrita comum, por poder o médium levar facilmente o lápis de uma linha a outra. Obtêm-se assim dissertações de muitas páginas, tão rapidamente como se se escrevesse com a mão.
 
-<a name="LDM-p155"><code>LDM-pX</code></a>
+<a name="LDM-p155"><code>LDM-p155</code></a>
 
 - #️⃣ 155. Ainda por outros sinais inequívocos se manifesta amiúde a inteligência que atua. Chegando ao fim da página, o lápis faz espontaneamente um movimento para virar o papel. Se ele quer se reportar a uma passagem já escrita, na mesma página, ou noutra, procura-a com a ponta do lápis, como qualquer pessoa o faria com a ponta do dedo, e sublinha-a. Se, enfim, o Espírito quer dirigir-se a alguém, a extremidade da haste de madeira se dirige para esse alguém. Por abreviar, exprimem-se frequentemente as palavras sim e não, pelos sinais de afirmação e negação que fazemos com a cabeça. Se o Espírito quer exprimir cólera ou impaciência, bate repetidas pancadas com a ponta do lápis e não raro a quebra.
 
-<a name="LDM-p156"><code>LDM-pX</code></a>
+<a name="LDM-p156"><code>LDM-p156</code></a>
 
 - #️⃣ 156. Em vez de cesta, algumas pessoas se servem de uma espécie de mesa pequenina, feita de propósito, tendo de 12 a 15 centímetros de comprimento, por 5 a 6 de altura, e três pés, a um dos quais se adapta um lápis. Os dois outros são arredondados ou munidos de uma bola de marfim, para deslizar mais facilmente sobre o papel. Outros se utilizam apenas de uma prancheta de 15 a 20 centímetros quadrados, triangular, oblonga ou oval. Num dos bordos, há um furo oblíquo para introduzir-se o lápis. Colocada em posição de escrever, ela fica inclinada e se apoia por um dos lados no papel. Algumas trazem desse lado rodízios para lhe facilitarem o movimento. É de ver-se, em suma, que todos esses dispositivos nada têm de absoluto. O melhor é o que for mais cômodo.
 
   Com qualquer desses aparelhos, quase sempre é preciso que os operadores sejam dois, mas não é necessário que ambos sejam dotados de faculdades mediúnicas. Um serve unicamente para manter o equilíbrio e poupar ao médium excesso de fadiga.
 
-<a name="LDM-p157"><code>LDM-pX</code></a>
+<a name="LDM-p157"><code>LDM-p157</code></a>
 
 - #️⃣ 157. Chamamos psicografia indireta à escrita assim obtida, em contraposição à psicografia direta ou manual, obtida pelo próprio médium. Para se compreender este último processo, é mister levar em conta o que se passa na operação. O Espírito que se comunica atua sobre o médium que, debaixo dessa influência, move maquinalmente o braço e a mão para escrever, sem ter (é pelo menos o caso mais comum) a menor consciência do que escreve; a mão atua sobre a cesta e a cesta sobre o lápis. Assim, não é a cesta que se torna inteligente; ela não passa de um instrumento manejado por uma inteligência; não passa, realmente, de uma lapiseira, de um apêndice da mão, de um intermediário entre a mão e o lápis. Suprima-se esse intermediário, coloque-se o lápis na mão e o resultado será o mesmo, com um mecanismo muito mais simples, pois que o médium escreve como o faz nas condições ordinárias. De sorte que toda pessoa que escreve com o concurso de uma cesta, prancheta, ou qualquer outro objeto, pode escrever diretamente.
 
   De todos os meios de comunicação, a escrita manual, que alguns denominam escrita involuntária, é, sem contestação, a mais simples, a mais fácil e a mais cômoda, porque nenhum preparativo exige e se presta, como a escrita corrente, aos maiores desenvolvimentos. Dela tornaremos a falar, quando tratarmos dos médiuns.
 
-<a name="LDM-p158"><code>LDM-pX</code></a>
+<a name="LDM-p158"><code>LDM-p158</code></a>
 
 - #️⃣ 158. Nos primeiros tempos das manifestações, quando ainda ninguém tinha sobre o assunto ideias exatas, muitos escritos foram publicados com este título: Comunicações de uma mesa, de uma cesta, de uma prancheta etc. Hoje, bem se percebe o que tais expressões têm de impróprias, ou errôneas, abstração feita do caráter pouco sério que revelam. Efetivamente, como acabamos de ver, as mesas, pranchetas e cestas não são mais do que instrumentos ininteligentes, embora animados, por instantes, de uma vida fictícia, que nada podem comunicar por si mesmos. Dizer o contrário é tomar o efeito pela causa, o instrumento pelo princípio. Fora o mesmo que um autor declarar, no título da sua obra, tê-la escrito com uma pena metálica ou com uma pena de pato. Esses instrumentos, ademais, não são exclusivos. Conhecemos alguém que, em vez da cesta-pião, que acima descrevemos, se servia de um funil, em cujo gargalo introduzia o lápis. Ter-se-ia então podido receber comunicações de um funil, do mesmo modo que de uma caçarola ou de uma saladeira. Se elas são obtidas por meio de pancadas com uma cadeira ou uma bengala, já não há uma mesa falante, mas uma cadeira ou uma bengala falantes. O que importa se conheça não é a natureza do instrumento, e sim o modo de obtenção. Se a comunicação vem por meio da escrita, qualquer que seja o aparelho que sustente o lápis, o que há, para nós, é psicografia; tiptologia, se por meio de pancadas. Tomando o Espiritismo as proporções de uma ciência, indispensável se lhe torna uma linguagem científica.
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-14"><code>LDM-2-14</code></a>
 
 <h3>`LDM-2-14` 📑 14. Dos médiuns</h3>
 
