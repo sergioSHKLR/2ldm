@@ -2001,25 +2001,25 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h3>📑 14. Dos médiuns</h3>
 
-<a name="LDM-p159"><code>LDM-pX</code></a>
+<a name="LDM-p159"><code>LDM-p159</code></a>
 
 - #️⃣ 159. Todo aquele que sente, num grau qualquer, a influência dos Espíritos é, por esse fato, médium. Essa faculdade é inerente ao homem; não constitui, portanto, um privilégio exclusivo. Por isso mesmo, raras são as pessoas que dela não possuam alguns rudimentos. Pode, pois, dizer-se que todos são, mais ou menos, médiuns. Todavia, usualmente, assim só se qualificam aqueles em quem a faculdade mediúnica se mostra bem caracterizada e se traduz por efeitos patentes, de certa intensidade, o que então depende de uma organização mais ou menos sensitiva. É de notar-se, além disso, que essa faculdade não se revela, da mesma maneira, em todos. Geralmente, os médiuns têm uma aptidão especial para os fenômenos desta ou daquela ordem, donde resulta que formam tantas variedades quantas são as espécies de manifestações. As principais são: a dos médiuns de efeitos físicos; a dos médiuns sensitivos, ou impressionáveis; a dos audientes; a dos videntes; a dos sonambúlicos; a dos curadores; a dos pneumatógrafos; a dos escreventes ou psicógrafos.
 
 **Médiuns de efeitos físicos**
 
-<a name="LDM-p160"><code>LDM-pX</code></a>
+<a name="LDM-p160"><code>LDM-p160</code></a>
 
 - #️⃣ 160. Os médiuns de efeitos físicos são particularmente aptos a produzir fenômenos materiais, como os movimentos dos corpos inertes, ruídos etc. Podem dividir-se em médiuns facultativos e médiuns involuntários. (**Veja-se** `LDM-2-02` e `LDM-2-04`)
 
   Os médiuns facultativos são os que têm consciência do seu poder e que produzem fenômenos espíritas por ato da própria vontade. Conquanto inerente à espécie humana, conforme já dissemos, semelhante faculdade longe está de existir em todos no mesmo grau. Porém, se poucas pessoas há em quem ela seja absolutamente nula, mais raras ainda são as capazes de produzir os grandes efeitos, tais como a suspensão de corpos pesados, a translação aérea e, sobretudo, as aparições. Os efeitos mais simples são a rotação de um objeto, pancadas produzidas mediante o levantamento desse objeto, ou na sua própria substância. Embora não demos importância capital a esses fenômenos, recomendamos, contudo, que não sejam desprezados. Podem proporcionar ensejo a observações interessantes e contribuir para a convicção dos que os observem. Cumpre, entretanto, ponderar que a faculdade de produzir efeitos materiais raramente existe nos que dispõem de mais perfeitos meios de comunicação, quais a escrita e a palavra. Em geral, a faculdade diminui num sentido à proporção que se desenvolve em outro.
 
-<a name="LDM-p161"><code>LDM-pX</code></a>
+<a name="LDM-p161"><code>LDM-p161</code></a>
 
 - #️⃣ 161. Os médiuns involuntários ou naturais são aqueles cuja influência se exerce a seu mau grado. Nenhuma consciência têm do poder que possuem e, muitas vezes, o que de anormal se passa em torno deles não se lhes afigura de modo algum extraordinário. Isso faz parte deles, exatamente como se dá com as pessoas que, sem o suspeitarem, são dotadas de dupla vista. São muito dignos de observação esses indivíduos e ninguém deve descuidar-se de recolher e estudar os fatos deste gênero que lhe cheguem ao conhecimento. Manifestam-se em todas as idades e, frequentemente, em crianças ainda muito novas. (**Veja-se** `LDM-2-05`)
 
   Tal faculdade não constitui, em si mesma, indício de um estado patológico, porquanto não é incompatível com uma saúde perfeita. Se sofre aquele que a possui, esse sofrimento é devido a uma causa estranha, donde se segue que os meios terapêuticos são impotentes para fazê-la desaparecer. Nalguns casos, pode ser consequente de uma certa fraqueza orgânica, porém nunca é causa eficiente. Não seria, pois, razoável tirar dela um motivo de inquietação, do ponto de vista higiênico. Só poderia acarretar inconveniente, se aquele que a possui abusasse dela, depois de se haver tornado médium facultativo, porque então se verificaria nele uma emissão demasiado abundante de fluido vital e, por conseguinte, enfraquecimento dos órgãos.
 
-<a name="LDM-p162"><code>LDM-pX</code></a>
+<a name="LDM-p162"><code>LDM-p162</code></a>
 
 - #️⃣ 162. A razão se revolta à lembrança das torturas morais e corporais a que a ciência tem por vezes sujeitado criaturas fracas e delicadas, para se certificar da existência de fraude da parte delas. Tais experimentações, amiúde feitas maldosamente, são sempre prejudiciais às organizações sensitivas, podendo mesmo dar lugar a graves desordens na economia orgânica. Fazer semelhantes experiências é brincar com a vida. O observador de boa-fé não precisa lançar mão desses meios. Aquele que está familiarizado com os fenômenos desta espécie sabe, aliás, que eles são mais de ordem moral do que de ordem física e que será inútil procurar-lhes uma solução nas nossas ciências exatas.
 
@@ -2033,13 +2033,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   A moralização de um Espírito, pelos conselhos de uma terceira pessoa influente e experiente, não estando o médium em estado de o fazer, constitui frequentemente meio muito eficaz. Mais tarde voltaremos a tratar dele.
 
-<a name="LDM-p163"><code>LDM-pX</code></a>
+<a name="LDM-p163"><code>LDM-p163</code></a>
 
 - #️⃣ 163. Nesta categoria parece, à primeira vista, se deviam incluir as pessoas dotadas de certa dose de eletricidade natural, verdadeiros torpedos [^23]. humanos, a produzirem, por simples contato, todos os efeitos de atração e repulsão. Errado, porém, fora considerá-las médiuns, porquanto a vera mediunidade supõe a intervenção direta de um Espírito. Ora, no caso de que falamos, concludentes experiências hão provado que a eletricidade é o agente único desses fenômenos. Esta estranha faculdade, que quase se poderia considerar uma enfermidade, pode às vezes estar aliada à mediunidade, como é fácil de verificar-se na história do Espírito batedor de Bergzabern. Porém, as mais das vezes, de todo independe de qualquer faculdade mediúnica. Conforme já dissemos, a única prova da intervenção dos Espíritos é o caráter inteligente das manifestações. Desde que este caráter não exista, fundamento há para serem atribuídas a causas puramente físicas. A questão é saber se as pessoas elétricas estarão ou não mais aptas, do que quaisquer outras, a tornar-se médiuns de efeitos físicos. Cremos que sim, mas só a experiência poderia demonstrá-lo.
 
 **Médiuns sensitivos ou impressionáveis**
 
-<a name="LDM-p164"><code>LDM-pX</code></a>
+<a name="LDM-p164"><code>LDM-p164</code></a>
 
 - #️⃣ 164. Chamam-se assim às pessoas suscetíveis de sentir a presença dos Espíritos por uma impressão vaga, por uma espécie de leve roçadura sobre todos os seus membros, sensação que elas não podem explicar. Esta variedade não apresenta caráter bem definido. Todos os médiuns são necessariamente impressionáveis, sendo assim a impressionabilidade mais uma qualidade geral do que especial. É a faculdade rudimentar indispensável ao desenvolvimento de todas as outras. Difere da impressionabilidade puramente física e nervosa, com a qual preciso é não seja confundida, porquanto pessoas há que não têm nervos delicados e que sentem mais ou menos o efeito da presença dos Espíritos, do mesmo modo que outras, muito irritáveis, absolutamente não os pressentem.
 
@@ -2047,7 +2047,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns audientes**
 
-<a name="LDM-p165"><code>LDM-pX</code></a>
+<a name="LDM-p165"><code>LDM-p165</code></a>
 
 - #️⃣ 165. Estes ouvem a voz dos Espíritos. É, como dissemos ao falar da pneumatofonia, algumas vezes uma voz interior, que se faz ouvir no foro íntimo; doutras vezes, é uma voz exterior, clara e distinta, qual a de uma pessoa viva. Os médiuns audientes podem, assim, travar conversação com os Espíritos. Quando têm o hábito de se comunicar com determinados Espíritos, eles os reconhecem imediatamente pela natureza da voz. Quem não seja dotado desta faculdade pode, igualmente, se comunicar com um Espírito, se tiver, a auxiliá-lo, um médium audiente, que desempenhe a função de intérprete.
 
@@ -2055,7 +2055,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns falantes**
 
-<a name="LDM-p166"><code>LDM-pX</code></a>
+<a name="LDM-p166"><code>LDM-p166</code></a>
 
 - #️⃣ 166. Os médiuns audientes, que apenas transmitem o que ouvem, não são, a bem dizer, médiuns falantes. Estes últimos, as mais das vezes, nada ouvem. Neles, o Espírito atua sobre os órgãos da palavra, como atua sobre a mão dos médiuns escreventes. Querendo comunicar-se, o Espírito se serve do órgão que se lhe depara mais flexível no médium. A um, toma da mão; a outro, da palavra; a um terceiro, do ouvido. O médium falante geralmente se exprime sem ter consciência do que diz e muitas vezes diz coisas completamente estranhas às suas ideias habituais, aos seus conhecimentos e, até, fora do alcance de sua inteligência. Embora se ache perfeitamente acordado e em estado normal, raramente guarda lembrança do que diz. Em suma, nele, a palavra é um instrumento de que se serve o Espírito, com o qual uma terceira pessoa pode comunicar-se, como pode com o auxílio de um médium audiente.
 
@@ -2063,19 +2063,19 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns videntes**
 
-<a name="LDM-p167"><code>LDM-pX</code></a>
+<a name="LDM-p167"><code>LDM-p167</code></a>
 
 - #️⃣ 167. Os médiuns videntes são dotados da faculdade de ver os Espíritos. Alguns gozam dessa faculdade em estado normal, quando perfeitamente acordados, e conservam lembrança precisa do que viram. Outros só a possuem em estado sonambúlico, ou próximo do sonambulismo. Raro é que esta faculdade se mostre permanente; quase sempre é efeito de uma crise passageira. Na categoria dos médiuns videntes se podem incluir todas as pessoas dotadas de dupla vista. A possibilidade de ver em sonho os Espíritos resulta, sem contestação, de uma espécie de mediunidade, mas não constitui, propriamente falando, o que se chama médium vidente. Explicamos esse fenômeno no **capítulo** VI — Das manifestações visuais.
 
   O médium vidente julga ver com os olhos, como os que são dotados de dupla vista, mas, na realidade, é a alma quem vê e por isso é que eles tanto veem com os olhos fechados como com os olhos abertos; donde se conclui que um cego pode ver os Espíritos, do mesmo modo que qualquer outro que tem perfeita a vista. Sobre este último ponto caberia fazer-se interessante estudo, o de saber se a faculdade de que tratamos é mais frequente nos cegos. Espíritos que na Terra foram cegos nos disseram que, quando vivos, tinham, pela alma, a percepção de certos objetos e que não se encontravam imersos em negra escuridão.
 
-<a name="LDM-p168"><code>LDM-pX</code></a>
+<a name="LDM-p168"><code>LDM-p168</code></a>
 
 - #️⃣ 168. Cumpre distinguir as aparições acidentais e espontâneas da faculdade propriamente dita de ver os Espíritos. As primeiras são frequentes, sobretudo no momento da morte das pessoas que aquele que vê amou ou conheceu e que o vêm prevenir de que já não são deste mundo. Há inúmeros exemplos de fatos deste gênero, sem falar das visões durante o sono. Doutras vezes, são, do mesmo modo, parentes ou amigos que, conquanto mortos há mais ou menos tempo, aparecem, ou para avisar de um perigo, ou para dar um conselho, ou, ainda, para pedir um serviço. O serviço que o Espírito pode solicitar é, em geral, a execução de uma coisa que lhe não foi possível fazer em vida, ou o auxílio das preces. Estas aparições constituem fatos isolados, que apresentam sempre um caráter individual e pessoal, e não efeito de uma faculdade propriamente dita. A faculdade consiste na possibilidade, senão permanente, pelo menos muito frequente de ver qualquer Espírito que se apresente, ainda que seja absolutamente estranho ao vidente. A posse desta faculdade é o que constitui, propriamente falando, o médium vidente.
 
   Entre esses médiuns, alguns há que só veem os Espíritos evocados e cuja descrição podem fazer com exatidão minuciosa. Descrevem-lhes, com as menores particularidades, os gestos, a expressão da fisionomia, os traços do semblante, as vestes e até os sentimentos de que parecem animados. Outros há em quem a faculdade da vidência é ainda mais ampla: veem toda a população espírita ambiente, a se mover em todos os sentidos, cuidando, poder-se-ia dizer, de seus afazeres.
 
-<a name="LDM-p169"><code>LDM-pX</code></a>
+<a name="LDM-p169"><code>LDM-p169</code></a>
 
 - #️⃣ 169. Assistimos uma noite à representação da ópera Oberon, em companhia de um médium vidente muito bom. Havia na sala grande número de lugares vazios, muitos dos quais, no entanto, estavam ocupados por Espíritos, que pareciam interessar-se pelo espetáculo. Alguns se colocavam junto de certos espectadores, como que a lhes escutar a conversação. Cena diversa se desenrolava no palco: por detrás dos atores, muitos Espíritos, de humor jovial, se divertiam em arremedá-los, imitando-lhes os gestos de modo grotesco; outros, mais sérios, pareciam inspirar os cantores e fazer esforços por lhes dar energia. Um deles se conservava sempre junto de uma das principais cantoras. Julgando-o animado de intenções um tanto levianas e tendo-o evocado após a terminação do ato, ele acudiu ao nosso chamado e nos reprochou, com severidade, o temerário juízo: 
 
@@ -2091,11 +2091,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Foi visto, daí a nada, no palco, pairando acima dos atores. Partindo dele, um como eflúvio se derramava sobre os intérpretes. Houve, então, nestes, visível recrudescência de energia.
 
-<a name="LDM-p170"><code>LDM-pX</code></a>
+<a name="LDM-p170"><code>LDM-p170</code></a>
 
 - #️⃣ 170. Outro fato que prova a influência que os Espíritos exercem sobre os homens, à revelia destes: Assistíamos, como nessa noite, a uma representação teatral, com outro médium vidente. Travando conversação com um Espírito espectador, disse-nos ele: “_Vês aquelas duas damas sós, naquele camarote da primeira ordem? Pois bem, estou esforçando-me por fazer que deixem a sala._” Dizendo isso, o médium o viu ir colocar-se no camarote em questão e falar às duas. De súbito, estas, que se mostravam muito atentas ao espetáculo, se entreolharam, parecendo consultar-se mutuamente. Depois, vão-se e não mais voltam. O Espírito nos fez então um gesto cômico, querendo significar que cumprira o que dissera. Não o tornamos a ver, para pedir-lhe explicações mais amplas. É assim que muitas vezes fomos testemunhas do papel que os Espíritos desempenham entre os vivos. Observamo-los em diversos lugares de reunião, em bailes, concertos, sermões, funerais, casamentos etc., e por toda parte os encontramos atiçando paixões más, soprando discórdias, provocando rixas e rejubilando-se com suas proezas. Outros, ao contrário, combatiam essas influências perniciosas, porém raramente eram atendidos.
 
-<a name="LDM-p171"><code>LDM-pX</code></a>
+<a name="LDM-p171"><code>LDM-p171</code></a>
 
 - #️⃣ 171. A faculdade de ver os Espíritos pode, sem dúvida, desenvolver-se, mas é uma das de que convém esperar o desenvolvimento natural, sem o provocar, não se querendo ser joguete da própria imaginação. Quando o gérmen de uma faculdade existe, ela se manifesta de si mesma. Em princípio, devemos contentar-nos com as que Deus nos outorgou, sem procurarmos o impossível, por isso que, pretendendo ter muito, corremos o risco de perder o que possuímos.
 
@@ -2113,29 +2113,29 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h4>Médiuns sonambúlicos</h4>
 
-<a name="LDM-p172"><code>LDM-pX</code></a>
+<a name="LDM-p172"><code>LDM-p172</code></a>
 
 - #️⃣ 172
 . Pode considerar-se o sonambulismo uma variedade da faculdade mediúnica, ou melhor, são duas ordens de fenômenos que frequentemente se acham reunidos. O sonâmbulo age sob a influência do seu próprio Espírito; é sua alma que, nos momentos de emancipação, vê, ouve e percebe, fora dos limites dos sentidos. O que ele externa tira-o de si mesmo; suas ideias são, em geral, mais justas do que no estado normal, seus conhecimentos mais dilatados, porque tem livre a alma. Numa palavra, ele vive antecipadamente a vida dos Espíritos. O médium, ao contrário, é instrumento de uma inteligência estranha; é passivo e o que diz não vem de si. Em resumo, o sonâmbulo exprime o seu próprio pensamento, enquanto o médium exprime o de outrem. Mas o Espírito que se comunica com um médium comum também o pode fazer com um sonâmbulo; dá-se mesmo que, muitas vezes, o estado de emancipação da alma facilita essa comunicação. Muitos sonâmbulos veem perfeitamente os Espíritos e os descrevem com tanta precisão, como os médiuns videntes. Podem confabular com eles e transmitir-nos seus pensamentos. O que dizem, fora do âmbito de seus conhecimentos pessoais, lhes é com frequência sugerido por outros Espíritos. Aqui está um exemplo notável, em que a dupla ação do Espírito do sonâmbulo e de outro Espírito se revela e de modo inequívoco.
 
-<a name="LDM-p173"><code>LDM-pX</code></a>
+<a name="LDM-p173"><code>LDM-p173</code></a>
 
 - #️⃣ 173. Um de nossos amigos tinha como sonâmbulo um rapaz de 14 a 15 anos, de inteligência muito vulgar e instrução extremamente escassa. Entretanto, no estado de sonambulismo, deu provas de lucidez extraordinária e de grande perspicácia. Excelia, sobretudo, no tratamento das enfermidades e operou grande número de curas consideradas impossíveis. Certo dia, dando consulta a um doente, descreveu a enfermidade com absoluta exatidão. **“_Não basta_”, disseram-lhe, “_agora é preciso que indiques o remédio._” “_Não posso_”, respondeu, “_meu anjo doutor não está aqui._” “_Quem é esse anjo doutor de quem falas?_” “_O que dita os remédios._” “_Não és tu, então, que vês os remédios?_” “_Oh! não; estou a dizer que é o meu anjo doutor quem mos dita._”**
 
   Assim, nesse sonâmbulo, a ação de ver o mal era do seu próprio Espírito que, para isso, não precisava de assistência alguma; a indicação, porém, dos remédios lhe era dada por outro. Não estando presente esse outro, ele nada podia dizer. Quando só, era apenas sonâmbulo; assistido por aquele a quem chamava seu anjo doutor, era sonâmbulo-médium.
 
-<a name="LDM-p174"><code>LDM-pX</code></a>
+<a name="LDM-p174"><code>LDM-p174</code></a>
 
 - #️⃣ 174. A lucidez sonambúlica é uma faculdade que se radica no organismo e que independe, em absoluto, da elevação, do adiantamento e mesmo do estado moral do indivíduo. Pode, pois, um sonâmbulo ser muito lúcido e ao mesmo tempo incapaz de resolver certas questões, desde que seu Espírito seja pouco adiantado. O que fala por si próprio pode, portanto, dizer coisas boas ou más, exatas ou falsas, demonstrar mais ou menos delicadeza e escrúpulo nos processos de que use, conforme o grau de elevação ou de inferioridade do seu próprio Espírito. A assistência então de outro Espírito pode suprir-lhe as deficiências. Mas um sonâmbulo, tanto como os médiuns, pode ser assistido por um Espírito mentiroso, leviano, ou mesmo mau. Aí, sobretudo, é que as qualidades morais exercem grande influência, para atraírem os bons Espíritos. **(**Veja-se**: O livro dos espíritos, “_Sonambulismo_”, questão 425, e, aqui, adiante, o **capítulo** sobre a influência moral do médium**.)
 
 **Médiuns curadores**
 
-<a name="LDM-p175"><code>LDM-pX</code></a>
+<a name="LDM-p175"><code>LDM-p175</code></a>
 
 - #️⃣ 175
 . Unicamente para não deixar de mencioná-la, falaremos aqui desta espécie de médiuns, porquanto o assunto exigiria desenvolvimento excessivo para os limites em que precisamos ater-nos. Sabemos, ademais, que um de nossos amigos, médico, se propõe a tratá-lo em obra especial sobre a medicina intuitiva. Diremos apenas que este gênero de mediunidade consiste, principalmente, no dom que possuem certas pessoas de curar pelo simples toque, pelo olhar, mesmo por um gesto, sem o concurso de qualquer medicação. Dir-se-á, sem dúvida, que isso mais não é do que magnetismo. Evidentemente, o fluido magnético desempenha aí importante papel; porém, quem examina cuidadosamente o fenômeno sem dificuldade reconhece que há mais alguma coisa. A magnetização ordinária é um verdadeiro tratamento seguido, regular e metódico; no caso que apreciamos, as coisas se passam de modo inteiramente diverso. Todos os magnetizadores são mais ou menos aptos a curar, desde que saibam conduzir-se convenientemente, ao passo que nos médiuns curadores a faculdade é espontânea e alguns até a possuem sem jamais terem ouvido falar de magnetismo. A intervenção de uma potência oculta, que é o que constitui a mediunidade, se faz manifesta, em certas circunstâncias, sobretudo se considerarmos que a maioria das pessoas que podem, com razão, ser qualificadas de médiuns curadores recorre à prece, que é uma verdadeira evocação. (**Veja-se** `LDM-p131`)
 
-<a name="LDM-p176"><code>LDM-pX</code></a>
+<a name="LDM-p176"><code>LDM-p176</code></a>
 
 - #️⃣ 176. Eis aqui as respostas que nos deram os Espíritos às perguntas que lhes dirigimos sobre este assunto: 
 
@@ -2168,22 +2168,26 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h4>Médiuns pneumatógrafos</h4>
 
-<a name="LDM-p177"><code>LDM-pX</code></a>
+<a name="LDM-p177"><code>LDM-p177</code></a>
 
 - #️⃣ 177
 . Dá-se este nome aos médiuns que têm aptidão para obter a escrita direta, o que não é possível a todos os médiuns escreventes. Esta faculdade, até agora, se mostra muito rara. Desenvolve-se, provavelmente, pelo exercício, mas, como dissemos, sua utilidade prática se limita a uma comprovação patente da intervenção de uma força oculta nas manifestações. Só a experiência é capaz de dar a ver a qualquer pessoa se a possui. Pode-se, portanto, experimentar, como também se pode inquirir a respeito um Espírito protetor, pelos outros meios de comunicação. Conforme seja maior ou menor o poder do médium, obtêm-se simples traços, sinais, letras, palavras, frases e mesmo páginas inteiras. Basta de ordinário colocar uma folha de papel dobrada num lugar qualquer, ou indicado pelo Espírito, durante dez minutos, ou um quarto de hora, às vezes mais. A prece e o recolhimento são condições essenciais; é por isso que se pode considerar impossível a obtenção de coisa alguma numa reunião de pessoas pouco sérias, ou não animadas de sentimentos de simpatia e benevolência. (**Veja-se a teoria da escrita direta, **capítulo** 8, Do laboratório do mundo invisível, **item** 127 e seguintes, e **capítulo** 12, Da pneumatografia ou escrita direta. Da pneumatofonia.**)
 
   Trataremos de modo especial dos médiuns escreventes nos **capítulo**s que se seguem.
 
+---
+
+<a name="LDM-2-15"><code>LDM-2-15</code></a>
+
 <h3>📑 15. Dos médiuns escreventes ou psicógrafos</h3>
 
-<a name="LDM-p178"><code>LDM-pX</code></a>
+<a name="LDM-p178"><code>LDM-p178</code></a>
 
 - #️⃣ 178. De todos os meios de comunicação, a escrita manual é o mais simples, mais cômodo e, sobretudo, mais completo. Para ele devem tender todos os esforços, porquanto permite se estabeleçam, com os Espíritos, relações tão continuadas e regulares como as que existem entre nós. Com tanto mais afinco deve ser empregado, quanto é por ele que os Espíritos revelam melhor sua natureza e o grau do seu aperfeiçoamento ou da sua inferioridade. Pela facilidade que encontram em exprimir-se por esse meio, eles nos revelam seus mais íntimos pensamentos e nos facultam julgá-los e apreciar-lhes o valor. Para o médium, a faculdade de escrever é, além disso, a mais suscetível de desenvolver-se pelo exercício.
 
 **Médiuns mecânicos**
 
-<a name="LDM-p179"><code>LDM-pX</code></a>
+<a name="LDM-p179"><code>LDM-p179</code></a>
 
 - #️⃣ 179. Quem examinar certos efeitos que se produzem nos movimentos da mesa, da cesta ou da prancheta que escreve não poderá duvidar de uma ação diretamente exercida pelo Espírito sobre esses objetos. A cesta se agita por vezes com tanta violência que escapa das mãos do médium e não raro se dirige a certas pessoas da assistência para nelas bater. Outras vezes, seus movimentos dão mostra de um sentimento afetuoso. O mesmo ocorre quando o lápis está colocado na mão do médium; frequentemente é atirado longe com força, ou, então, a mão, bem como a cesta, se agitam convulsivamente e batem na mesa de modo colérico, ainda quando o médium está possuído da maior calma e se admira de não ser senhor de si. Digamos, de passagem, que tais efeitos demonstram sempre a presença de Espíritos imperfeitos; os Espíritos superiores são constantemente calmos, dignos e benévolos; se não são escutados convenientemente, retiram-se e outros lhes tomam o lugar. Pode, pois, o Espírito exprimir diretamente suas ideias, quer movimentando um objeto a que a mão do médium serve de simples ponto de apoio, quer acionando a própria mão.
 
@@ -2193,7 +2197,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns intuitivos**
 
-<a name="LDM-p180"><code>LDM-pX</code></a>
+<a name="LDM-p180"><code>LDM-p180</code></a>
 
 - #️⃣ 180. A transmissão do pensamento também se dá por meio do Espírito do médium, ou melhor, de sua alma, pois que por este nome designamos o Espírito encarnado. O Espírito livre, neste caso, não atua sobre a mão para fazê-la escrever; não a toma, não a guia. Atua sobre a alma, com a qual se identifica. A alma, sob esse impulso, dirige a mão e esta dirige o lápis. Notemos aqui uma coisa importante: é que o Espírito livre não se substitui à alma, visto que não a pode deslocar. Domina-a, mau grado seu, e lhe imprime a sua vontade. Em tal circunstância, o papel da alma não é o de inteira passividade; ela recebe o pensamento do Espírito livre e o transmite. Nessa situação, o médium tem consciência do que escreve, embora não exprima o seu próprio pensamento. É o que se chama médium intuitivo.
 
@@ -2203,19 +2207,19 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns semimecânicos**
 
-<a name="LDM-p181"><code>LDM-pX</code></a>
+<a name="LDM-p181"><code>LDM-p181</code></a>
 
 - #️⃣ 181. No médium puramente mecânico, o movimento da mão independe da vontade; no médium intuitivo, o movimento é voluntário e facultativo. O médium semimecânico participa de ambos esses gêneros. Sente que à sua mão uma impulsão é dada, mau grado seu, mas, ao mesmo tempo, tem consciência do que escreve, à medida que as palavras se formam. No primeiro, o pensamento vem depois do ato da escrita; no segundo, precede-o; no terceiro, acompanha-o. Estes últimos médiuns são os mais numerosos.
 
 **Médiuns inspirados ou involuntários**
 
-<a name="LDM-p182"><code>LDM-pX</code></a>
+<a name="LDM-p182"><code>LDM-p182</code></a>
 
 - #️⃣ 182. Todo aquele que, tanto no estado normal, como no de êxtase, recebe, pelo pensamento, comunicações estranhas às suas ideias preconcebidas pode ser incluído na categoria dos médiuns inspirados. Estes, como se vê, formam uma variedade da mediunidade intuitiva, com a diferença de que a intervenção de uma força oculta é aí muito menos sensível, por isso que, ao inspirado, ainda é mais difícil distinguir o pensamento próprio do que lhe é sugerido. A espontaneidade é o que, sobretudo, caracteriza o pensamento deste último gênero. A inspiração nos vem dos Espíritos que nos influenciam para o bem ou para o mal, porém procede, principalmente, dos que querem o nosso bem e cujos conselhos muito amiúde cometemos o erro de não seguir. Ela se aplica, em todas as circunstâncias da vida, às resoluções que devamos tomar. Sob esse aspecto, pode dizer-se que todos são médiuns, porquanto não há quem não tenha seus Espíritos protetores e familiares, a se esforçarem por sugerir aos protegidos salutares ideias. Se todos estivessem bem compenetrados desta verdade, ninguém deixaria de recorrer com frequência à inspiração do seu anjo de guarda, nos momentos em que se não sabe o que dizer ou fazer. Que cada um, pois, o invoque com fervor e confiança, em caso de necessidade, e muito frequentemente se admirará das ideias que lhe surgem como por encanto, quer se trate de uma resolução a tomar, quer de alguma coisa a compor. Se nenhuma ideia surge, é que é preciso esperar. A prova de que a ideia que sobrevém é estranha à pessoa de quem se trate está em que, se tal ideia lhe existira na mente, essa pessoa seria senhora de, a qualquer momento, utilizá-la e não haveria razão para que ela se não manifestasse à vontade. Quem não é cego nada mais precisa fazer do que abrir os olhos, para ver quando quiser. Do mesmo modo, aquele que possui ideias próprias tem-nas sempre à disposição. Se elas não lhes vêm quando quer, é que está obrigado a buscá-las algures, que não no seu íntimo.
 
   Também se podem incluir nesta categoria as pessoas que, sem serem dotadas de inteligência fora do comum e sem saírem do estado normal, têm relâmpagos de uma lucidez intelectual que lhes dá momentaneamente não habitual facilidade de concepção e de elocução e, em certos casos, o pressentimento de coisas futuras. Nesses momentos, que com acerto se chamam de inspiração, as ideias abundam, sob um impulso involuntário e quase febril. Parece que uma inteligência superior nos vem ajudar e que o nosso espírito se desembaraçou de um fardo.
 
-<a name="LDM-p183"><code>LDM-pX</code></a>
+<a name="LDM-p183"><code>LDM-p183</code></a>
 
 - #️⃣ 183. Os homens de gênio, de todas as espécies, artistas, sábios, literatos, são sem dúvida Espíritos adiantados, capazes de compreender por si mesmos e de conceber grandes coisas. Ora, precisamente porque os julgam capazes é que os Espíritos, quando querem executar certos trabalhos, lhes sugerem as ideias necessárias, e assim é que eles, as mais das vezes, são médiuns sem o saberem. Têm, no entanto, vaga intuição de uma assistência estranha, visto que todo aquele que apela para a inspiração não faz mais do que uma evocação. Se não esperasse ser atendido, por que exclamaria, tão frequentemente: meu bom gênio, vem em meu auxílio?
 
@@ -2233,14 +2237,17 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 **Médiuns de pressentimentos**
 
-<a name="LDM-p184"><code>LDM-pX</code></a>
+<a name="LDM-p184"><code>LDM-p184</code></a>
 
 - #️⃣ 184. O pressentimento é uma intuição vaga das coisas futuras. Algumas pessoas têm essa faculdade mais ou menos desenvolvida. Pode ser devida a uma espécie de dupla vista, que lhes permite entrever as consequências das coisas atuais e a filiação dos acontecimentos. Mas, muitas vezes, também é resultado de comunicações ocultas e, sobretudo neste caso, é que se pode dar aos que dela são dotados o nome de médiuns de pressentimentos, que constituem uma variedade dos médiuns inspirados.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-16"><code>LDM-2-16</code></a>
 
 <h3>📑 16. Dos médiuns especiais</h3>
 
-<a name="LDM-p185"><code>LDM-pX</code></a>
+<a name="LDM-p185"><code>LDM-185</code></a>
 
 - #️⃣ 185. Além das categorias de médiuns que acabamos de enumerar, a mediunidade apresenta uma variedade infinita de matizes, que constituem os chamados médiuns especiais, dotados de aptidões particulares, ainda não definidas, abstração feita das qualidades e conhecimentos do Espírito que se manifesta.
 
@@ -2248,7 +2255,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Façamos uma comparação: um músico muito hábil tem ao seu alcance diversos violinos, que todos, para o vulgo, são bons instrumentos, mas que são muito diferentes uns dos outros para o artista consumado, o qual descobre neles matizes de extrema delicadeza, que o levam a escolher uns e a rejeitar outros, matizes que ele percebe por intuição, visto que não os pode definir. O mesmo se dá com relação aos médiuns. Em igualdade de condições quanto às forças mediúnicas, o Espírito preferirá um ou outro, conforme o gênero da comunicação que queira transmitir. Assim, por exemplo, indivíduos há que, como médiuns, escrevem admiráveis poesias, sendo certo que, em condições ordinárias, jamais puderam ou souberam fazer dois versos; outros, ao contrário, que são poetas e que, como médiuns, nunca puderam escrever senão prosa, malgrado o desejo que nutrem de escrever poesias. Outro tanto sucede com o desenho, com a música etc. Alguns há que, sem possuírem de si mesmos conhecimentos científicos, demonstram especial aptidão para receber comunicações eruditas; outros, para os estudos históricos; outros servem mais facilmente de intérpretes aos Espíritos moralistas. Numa palavra, qualquer que seja a maleabilidade do médium, as comunicações que ele com mais facilidade recebe trazem geralmente um cunho especial; alguns existem mesmo que não saem de uma certa ordem de ideias e, quando destas se afastam, só obtêm comunicações incompletas, lacônicas e não raro falsas. Além das causas de aptidão, os Espíritos também se comunicam mais ou menos preferentemente por tal ou qual intermediário, de acordo com as suas simpatias. Assim, em perfeita igualdade de condições, o mesmo Espírito será muito mais explícito com certos médiuns, apenas porque estes lhe convêm mais.
 
-<a name="LDM-p186"><code>LDM-pX</code></a>
+<a name="LDM-p186"><code>LDM-p186</code></a>
 
 - #️⃣ 186. Laboraria, pois, em erro quem, simplesmente por ter ao seu alcance um bom médium, ainda mesmo com a maior facilidade para escrever, entendesse de querer obter por ele boas comunicações de todos os gêneros. A primeira condição é, não há contestar, certificar-se a pessoa da fonte donde elas promanam, isto é, das qualidades do Espírito que as transmite; porém, não é menos necessário ter em vista as qualidades do instrumento oferecido ao Espírito. Cumpre, portanto, se estude a natureza do médium, como se estuda a do Espírito, porquanto são esses os dois elementos essenciais para a obtenção de um resultado satisfatório. Um terceiro existe, que desempenha papel igualmente importante: é a intenção, o pensamento íntimo, o sentimento mais ou menos louvável de quem interroga. Isto facilmente se concebe. Para que uma comunicação seja boa, preciso é que proceda de um Espírito bom; para que esse bom Espírito a possa transmitir, indispensável lhe é um bom instrumento; para que queira transmiti-la, necessário se faz que o fim visado lhe convenha. O Espírito, que lê o pensamento, julga se a questão que lhe propõem merece resposta séria e se a pessoa que lha dirige é digna de recebê-la. A não ser assim, não perde seu tempo em lançar boas sementes em cima de pedras e é quando os Espíritos levianos e zombeteiros entram em ação, porque, pouco lhes importando a verdade, não a encaram de muito perto e se mostram geralmente pouco escrupulosos, quer quanto aos fins, quer quanto aos meios.
 
@@ -2256,7 +2263,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Grupamos as diferentes espécies de médiuns por analogia de causas e efeitos, sem que esta classificação algo tenha de absoluto. Algumas se encontram com facilidade; outras, ao contrário, são raras e excepcionais, o que teremos o cuidado de indicar. Estas últimas indicações foram todas feitas pelos Espíritos, que, aliás, reviram este quadro com particular cuidado e o completaram por meio de numerosas observações e novas categorias, de sorte que o dito quadro é, a bem dizer, obra deles. Mediante aspas, destacamos as suas observações textuais, sempre que nos pareceu conveniente assiná-las. São, na sua maioria, de **Erasto** e de **Sócrates**.
 
-<a name="LDM-p187"><code>LDM-pX</code></a>
+<a name="LDM-p187"><code>LDM-p187</code></a>
 
 - #️⃣ 187
 . Podem dividir-se os médiuns em duas grandes categorias: Médiuns de efeitos físicos, os que têm o poder de provocar efeitos materiais, ou manifestações ostensivas. ([`LDM-p160`](#ldmp160-%EF%B8%8F%E2%83%A3-160))
@@ -2265,7 +2272,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Todas as outras espécies se prendem mais ou menos diretamente a uma ou outra dessas duas categorias; algumas participam de ambas. Se analisarmos os diferentes fenômenos produzidos sob a influência mediúnica, veremos que, em todos, há um efeito físico e que aos efeitos físicos se alia quase sempre um efeito inteligente. Difícil é muitas vezes determinar o limite entre os dois, mas isso nenhuma consequência apresenta. Sob a denominação de médiuns de efeitos intelectuais abrangemos os que podem, mais particularmente, servir de intermediários para as comunicações regulares e fluentes. ([`LDM-p133`](#ldmp133-%EF%B8%8F%E2%83%A3-133))
 
-<a name="LDM-p188"><code>LDM-pX</code></a>
+<a name="LDM-p188"><code>LDM-p188</code></a>
 
 - #️⃣ 188. Espécies comuns a todos os gêneros de mediunidade Médiuns sensitivos: pessoas suscetíveis de sentir a presença dos Espíritos, por uma impressão geral ou local, vaga ou material. A maioria dessas pessoas distingue os Espíritos bons dos maus, pela natureza da impressão. ([`LDM-p164`](#ldmp164-%EF%B8%8F%E2%83%A3-164))
 
@@ -2277,7 +2284,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   “_Qualquer que seja essa vontade, eles nada podem se os Espíritos se recusam, o que prova a intervenção de uma força estranha._”
 
-<a name="LDM-p189"><code>LDM-pX</code></a>
+<a name="LDM-p189"><code>LDM-p189</code></a>
 
 - #️⃣ 189. Variedades especiais para os efeitos físicos:
 
@@ -2309,7 +2316,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Médiuns excitadores: pessoas que têm o poder de, por sua influência, desenvolver nas outras a faculdade de escrever.
   >“_Aí há antes um efeito magnético do que um caso de mediunidade propriamente dita, porquanto nada prova a intervenção de um Espírito. Como quer que seja, pertence à categoria dos efeitos físicos._” (**Veja-se** o **capítulo** Da formação dos médiuns.)
 
-<a name="LDM-p190"><code>LDM-pX</code></a>
+<a name="LDM-p190"><code>LDM-p190</code></a>
 
 - #️⃣ 190. Médiuns audientes: os que ouvem os Espíritos. Muito comuns. ([`LDM-p165`](#ldmp165-%EF%B8%8F%E2%83%A3-165))
 
@@ -2341,7 +2348,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <h4>Variedades dos médiuns escreventes</h4>
 
-<a name="LDM-p191"><code>LDM-pX</code></a>
+<a name="LDM-p191"><code>LDM-p191</code></a>
 
 - #️⃣ 191. 1º. Segundo o modo de execução: 
 
@@ -2361,7 +2368,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Médiuns iletrados: os que escrevem, como médiuns, sem saberem ler, nem escrever, no estado ordinário. 
   >“_Mais raros do que os precedentes; há maior dificuldade material a vencer._”
 
-<a name="LDM-p192"><code>LDM-pX</code></a>
+<a name="LDM-p192"><code>LDM-p192</code></a>
 
 - #️⃣ 192. 2º. ) Segundo o desenvolvimento da faculdade: 
 
@@ -2390,7 +2397,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Médiuns para ditados espontâneos: recebem comunicações espontâneas de Espíritos que se apresentam sem ser chamados. Quando esta faculdade é especial num médium, torna-se difícil, às vezes impossível mesmo, fazer-se por ele uma evocação.
   >“_Entretanto, são mais bem aparelhados que os da classe precedente. Atenta em que o aparelhamento de que aqui se trata é o de materiais do cérebro, pois mister se faz, frequentemente, direi mesmo — sempre, maior soma de inteligência para os ditados espontâneos do que para as evocações. Entende por ditados espontâneos os que verdadeiramente merecem essa denominação e não algumas frases incompletas ou algumas ideias corriqueiras, que se deparam em todos os escritos humanos._”
 
-<a name="LDM-p193"><code>LDM-pX</code></a>
+<a name="LDM-p193"><code>LDM-p193</code></a>
 
 - #️⃣ 193. 3º. Segundo o gênero e a particularidade das comunicações: 
 
@@ -2420,7 +2427,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Médiuns de comunicações triviais e obscenas: estas palavras indicam o gênero de comunicações que alguns médiuns recebem habitualmente e a natureza dos Espíritos que as dão. Quem haja estudado o mundo espírita, em todos os graus da escala, sabe que Espíritos há cuja perversidade iguala à dos homens mais depravados e que se comprazem em exprimir seus pensamentos nos mais grosseiros termos. Outros, menos abjetos, se contentam com expressões triviais. É natural que esses médiuns sintam o desejo de se verem livres da preferência de que são objeto por parte de semelhantes Espíritos e que devem invejar os que, nas comunicações que recebem, jamais escreveram uma palavra inconveniente. Fora necessário uma estranha aberração de ideias e estar divorciado do bom senso, para acreditar que semelhante linguagem possa ser usada por Espíritos bons.
 
-<a name="LDM-p194"><code>LDM-pX</code></a>
+<a name="LDM-p194"><code>LDM-p194</code></a>
 
 - #️⃣ 194. 4º. Segundo as qualidades físicas do médium:
 
@@ -2432,13 +2439,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   Médiuns convulsivos: ficam num estado de sobre-excitação quase febril. A mão e algumas vezes todo o corpo se lhes agitam num tremor que é impossível dominar. A causa primária desse fato está, sem dúvida, na organização, mas também depende muito da natureza dos Espíritos que por eles se comunicam. Os bons e benévolos produzem sempre uma impressão suave e agradável; os maus, ao contrário, produzem-na penosa.
   >“_É preciso que esses médiuns só raramente se sirvam de sua faculdade mediúnica, cujo uso frequente lhes poderia afetar o sistema nervoso._” (**capítulo** Da identidade dos Espíritos, diferenciação dos bons e maus Espíritos.)
 
-<a name="LDM-p195"><code>LDM-pX</code></a>
+<a name="LDM-p195"><code>LDM-p195</code></a>
 
 - #️⃣ 195. 5º. Segundo as qualidades morais dos médiuns: 
 
   Mencionamo-las sumariamente e de memória, apenas para completar o quadro, visto que serão desenvolvidas adiante, nos **capítulo**s Da influência moral do médium, Da obsessão, Da identidade dos Espíritos e outros, para os quais chamamos particularmente a atenção do leitor. Aí se verá a influência que as qualidades e os defeitos dos médiuns pode exercer na segurança das comunicações e quais os que com razão se podem considerar médiuns imperfeitos ou bons médiuns.
 
-<a name="LDM-p196"><code>LDM-pX</code></a>
+<a name="LDM-p196"><code>LDM-p196</code></a>
 
 - #️⃣ 196. Médiuns imperfeitos:
 
@@ -2471,7 +2478,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Médiuns invejosos: os que se mostram despeitados com o maior apreço dispensado a outros médiuns, que lhes são superiores. Todas estas más qualidades têm necessariamente seu oposto no bem.
 
-<a name="LDM-p197"><code>LDM-pX</code></a>
+<a name="LDM-p197"><code>LDM-p197</code></a>
 
 - #️⃣ 197. Bons médiuns:
 
@@ -2490,7 +2497,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >**Sócrates**
 
-<a name="LDM-p198"><code>LDM-pX</code></a>
+<a name="LDM-p198"><code>LDM-p198</code></a>
 
 - #️⃣ 198. Todas estas variedades de médiuns apresentam uma infinidade de graus em sua intensidade. Muitas há que, a bem dizer, apenas constituem matizes, mas que, nem por isso, deixam de ser efeito de aptidões especiais. Concebe-se que há de ser muito raro esteja a faculdade de um médium rigorosamente circunscrita a um só gênero. Um médium pode, sem dúvida, ter muitas aptidões, havendo, porém, sempre uma dominante. Ao cultivo dessa é que, se for útil, deve ele aplicar-se. Em erro grave incorre quem queira forçar de todo modo o desenvolvimento de uma faculdade que não possua. Deve a pessoa cultivar todas aquelas de que reconheça possuir os germens. Procurar ter as outras é, acima de tudo, perder tempo e, em segundo lugar, perder talvez, enfraquecer com certeza, as de que seja dotado.
   
@@ -2498,30 +2505,33 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >**Sócrates**
 
-<a name="LDM-p199"><code>LDM-pX</code></a>
+<a name="LDM-p199"><code>LDM-p199</code></a>
 
 - #️⃣ 199. O estudo da especialidade dos médiuns não só lhes é necessário, como também ao evocador. Conforme a natureza do Espírito que se deseja chamar e as perguntas que se lhe quer dirigir, convém se escolha o médium mais apto ao que se tem em vista. Interrogar o primeiro que apareça é expor-se a receber respostas incompletas ou errôneas. Tomemos aos fatos comuns um exemplo. Ninguém confiará a redação de qualquer trabalho, nem mesmo uma simples cópia, ao primeiro que encontre, apenas porque saiba escrever. Suponhamos um músico que queira seja executado um trecho de canto por ele composto. Muitos cantores, hábeis todos, se acham à sua disposição. Ele, entretanto, não os tomará ao acaso: escolherá, para seu intérprete, aquele cuja voz, cuja expressão, cujas qualidades todas, numa palavra, digam melhor com a natureza do trecho musical. O mesmo fazem os Espíritos com relação aos médiuns, e nós devemos fazer como os Espíritos.
 
   Cumpre, além disso, notar que os matizes que a mediunidade apresenta, e aos quais outros mais se poderiam acrescentar, nem sempre guardam relação com o caráter do médium. Assim, por exemplo, um médium naturalmente alegre, jovial, pode obter comumente comunicações graves, mesmo severas e vice-versa. É ainda uma prova evidente de que ele age sob a impulsão de uma influência estranha. Voltaremos ao assunto no **capítulo** que trata da influência moral do médium.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-17"><code>LDM-2-17</code></a>
 
 <h3>📑 17. Da formação dos médiuns</h3>
 
-<a name="LDM-p200"><code>LDM-pX</code></a>
+<a name="LDM-p200"><code>LDM-p200</code></a>
 
 - #️⃣ 200. Ocupar-nos-emos aqui, especialmente, com os médiuns escreventes, por ser o gênero de mediunidade mais espalhado e, além disso, porque é, ao mesmo tempo, o mais simples, o mais cômodo, o que dá resultados mais satisfatórios e completos. É também o que toda gente ambiciona possuir. Infelizmente, até hoje, por nenhum diagnóstico se pode inferir, ainda que aproximadamente, que alguém possua essa faculdade. Os sinais físicos, em os quais algumas pessoas julgam ver indícios, nada têm de infalíveis. Ela se manifesta nas crianças e nos velhos, em homens e mulheres, quaisquer que sejam o temperamento, o estado de saúde, o grau de desenvolvimento intelectual e moral. Só existe um meio de se lhe comprovar a existência. É experimentar
 
   Pode obter-se a escrita, como já vimos, com o auxílio das cestas e pranchetas ou, diretamente, com a mão. Sendo o mais fácil e, pode dizer-se, o único empregado hoje, este último modo é o que recomendamos à preferência de todos. O processo é dos mais simples: consiste unicamente em a pessoa tomar de um lápis e de papel e colocar-se na posição de quem escreve, sem qualquer outro preparativo. Entretanto, para que alcance bom êxito, muitas recomendações se fazem indispensáveis.
 
-<a name="LDM-p201"><code>LDM-pX</code></a>
+<a name="LDM-p201"><code>LDM-p201</code></a>
 
 - #️⃣ 201. Como disposição material, recomendamos se evite tudo o que possa embaraçar o movimento da mão. É mesmo preferível que esta não descanse no papel. A ponta do lápis deve encostar neste o bastante para traçar alguma coisa, mas não tanto que ofereça resistência. Todas essas precauções se tornam inúteis, desde que se tenha chegado a escrever correntemente, porque então nenhum obstáculo detém mais a mão. São meras preliminares para o aprendiz.
 
-<a name="LDM-p202"><code>LDM-pX</code></a>
+<a name="LDM-p202"><code>LDM-p202</code></a>
 
 - #️⃣ 202. É indiferente que se use da pena ou do lápis. Alguns médiuns preferem a pena que, todavia, só pode servir para os que estejam formados e escrevem pausadamente. Outros, porém, escrevem com tal velocidade que o uso da pena seria quase impossível, ou, pelo menos, muito incômodo. O mesmo sucede quando a escrita é feita às arrancadas e irregularmente, ou quando se manifestam Espíritos violentos, que batem com a ponta do lápis e a quebram, rasgando o papel.
 
-<a name="LDM-p203"><code>LDM-pX</code></a>
+<a name="LDM-p203"><code>LDM-p203</code></a>
 
 - #️⃣ 203. O desejo natural de todo aspirante a médium é o de poder confabular com os Espíritos das pessoas que lhe são caras; deve, porém, moderar a sua impaciência, porquanto a comunicação com determinado Espírito apresenta muitas vezes dificuldades materiais que a tornam impossível ao principiante. Para que um Espírito possa comunicar-se, preciso é que haja entre ele e o médium relações fluídicas, que nem sempre se estabelecem instantaneamente. Só à medida que a faculdade se desenvolve, é que o médium adquire pouco a pouco a aptidão necessária para pôr-se em comunicação com o Espírito que se apresente. Pode dar-se, pois, que aquele com quem o médium deseje comunicar-se não esteja em condições propícias a fazê-lo, embora se ache presente, como também pode acontecer que não tenha possibilidade, nem permissão para acudir ao chamado que lhe é dirigido. Convém, por isso, que no começo ninguém se obstine em chamar determinado Espírito, com exclusão de qualquer outro, pois amiúde sucede não ser com esse que as relações fluídicas se estabelecem mais facilmente, por maior que seja a simpatia que lhe vote o encarnado. Antes, pois, de pensar em obter comunicações de tal ou tal Espírito, importa que o aspirante leve a efeito o desenvolvimento da sua faculdade, para o que deve fazer um apelo geral e dirigir-se principalmente ao seu anjo guardião.
 
@@ -2529,11 +2539,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Quando queira chamar determinados Espíritos, é essencial que o médium comece por se dirigir somente aos que ele sabe serem bons e simpáticos e que podem ter motivo para acudir ao apelo, como parentes ou amigos. Neste caso, a evocação pode ser formulada assim: Em nome de Deus todo-poderoso, peço que tal Espírito se comunique comigo, ou então: Peço a Deus todo-poderoso permita que tal Espírito se comunique comigo; ou qualquer outra fórmula que corresponda ao mesmo pensamento. Não é menos necessário que as primeiras perguntas sejam concebidas de tal sorte que as respostas possam ser dadas por um sim ou um não, como por exemplo: Estás aí? Queres responder-me? Podes fazer-me escrever? etc. Mais tarde essa precaução se torna inútil. No princípio, trata-se de estabelecer assim uma relação. O essencial é que a pergunta não seja fútil, não diga respeito a coisas de interesse particular e, sobretudo, seja a expressão de um sentimento de benevolência e simpatia para com o Espírito a quem é dirigida. (**Veja-se** adiante o **capítulo** especial sobre as evocações.)
 
-<a name="LDM-p204"><code>LDM-pX</code></a>
+<a name="LDM-p204"><code>LDM-p204</code></a>
 
 - #️⃣ 204. Coisa ainda mais importante a ser observada, do que o modo da evocação, são a calma e o recolhimento, juntos ao desejo ardente e à firme vontade de conseguir-se o intuito. Por vontade, não entendemos aqui uma vontade efêmera, que age com intermitências e que outras preocupações interrompem a cada momento, mas uma vontade séria, perseverante, contínua, sem impaciência, sem febricitação. A solidão, o silêncio e o afastamento de tudo o que possa ser causa de distração favorecem o recolhimento. Então, uma só coisa resta a fazer: renovar todos os dias a tentativa, por dez minutos, ou um quarto de hora, no máximo, de cada vez, durante 15 dias, um mês, dois meses e mais, se for preciso. Conhecemos médiuns que só se formaram depois de seis meses de exercício, ao passo que outros escrevem correntemente logo da primeira vez.
 
-<a name="LDM-p205"><code>LDM-pX</code></a>
+<a name="LDM-p205"><code>LDM-p205</code></a>
 
 - #️⃣ 205. Para se evitarem tentativas inúteis, pode consultar-se, por outro médium, um Espírito sério e adiantado. Deve, porém, notar-se que, quando alguém inquire dos Espíritos se é médium ou não, eles quase sempre respondem afirmativamente, o que não impede que os ensaios resultem infrutíferos. Isso se explica naturalmente. Desde que se faça ao Espírito uma pergunta de ordem geral, ele responde de modo geral. Ora, como se sabe, nada é mais elástico do que a faculdade mediúnica, pois que pode apresentar-se sob as mais variadas formas e em graus muito diferentes. Pode, portanto, uma pessoa ser médium sem dar por isso, e num sentido diverso daquele que imagina. A esta pergunta vaga: 
 
@@ -2550,13 +2560,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Deve também levar-se em conta a natureza do Espírito a quem é feita a pergunta. Há os tão levianos e ignorantes, que respondem a torto e a direito, como verdadeiros estúrdios. Por isso aconselhamos se dirija o interrogante a Espíritos esclarecidos, que, geralmente, respondem de boa vontade a essas perguntas e indicam o melhor caminho a seguir-se, desde que haja possibilidade de bom êxito.
 
-<a name="LDM-p206"><code>LDM-pX</code></a>
+<a name="LDM-p206"><code>LDM-p206</code></a>
 
 - #️⃣ 206. Um meio que muito frequentemente dá bom resultado consiste em empregar-se, como auxiliar de ocasião, um bom médium escrevente, maleável, já formado. Pondo ele a mão, ou os dedos, sobre a mão do que deseja escrever, raro é que este último não o faça imediatamente. Compreende-se o que em tal circunstância se passa: a mão que segura o lápis se torna, de certo modo, um apêndice da mão do médium, como o seria uma cesta ou uma prancheta. Isto, porém, não impede que esse exercício seja muito útil, quando é possível empregá-lo, visto que, repetido amiúde e regularmente, ajuda a vencer o obstáculo material e provoca o desenvolvimento da faculdade. Algumas vezes, basta mesmo que o médium magnetize, com essa intenção, a mão e o braço daquele que quer escrever. Não raro até limitando-se o magnetizador a colocar a mão no ombro daquele, temo-lo visto escrever prontamente sob essa influência. Idêntico efeito pode também produzir-se sem nenhum contato, apenas por ato da vontade do auxiliar. Concebe-se facilmente que a confiança do magnetizador no seu poder, para produzir tal resultado, há de aí desempenhar papel importante e que um magnetizador incrédulo fraca ação, ou nenhuma, exercerá.
 
   O concurso de um guia experimentado é, além disso, muito útil, às vezes, para apontar ao principiante uma porção de precauçõezinhas que ele frequentemente despreza, em detrimento da rapidez de seus progressos. Sobretudo o é para esclarecê-lo sobre a natureza das primeiras questões e sobre a maneira de propô-las. Seu papel é o de um professor, que o aprendiz dispensará logo que esteja bem habilitado.
 
-<a name="LDM-p207"><code>LDM-pX</code></a>
+<a name="LDM-p207"><code>LDM-p207</code></a>
 
 - #️⃣ 207. Outro meio que também pode contribuir fortemente para desenvolver a faculdade consiste em reunir-se certo número de pessoas, todas animadas do mesmo desejo e comungando na mesma intenção. Feito isso, todas simultaneamente, guardando absoluto silêncio e num recolhimento religioso, tentem escrever, apelando cada um para o seu anjo da guarda ou para qualquer Espírito simpático. Ou, então, uma delas poderá dirigir, sem designação especial e por todos os presentes, um apelo aos bons Espíritos em geral, dizendo por exemplo: Em nome de Deus todo-poderoso, pedimos aos bons Espíritos que se dignem de comunicar-se por intermédio das pessoas aqui presentes. É raro que entre estas não haja algumas que deem prontos sinais de mediunidade, ou que até escrevam correntemente em pouco tempo.
 
@@ -2564,15 +2574,15 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Este meio deve sobretudo ser empregado nos grupos espíritas a que faltam médiuns, ou que não os possuam em número suficiente.
 
-<a name="LDM-p208"><code>LDM-pX</code></a>
+<a name="LDM-p208"><code>LDM-p208</code></a>
 
 - #️⃣ 208. Têm-se procurado processos para a formação dos médiuns, como se têm procurado diagnósticos, mas até hoje nenhum conhecemos mais eficaz do que os que indicamos. Na persuasão de ser uma resistência de ordem toda material o obstáculo que encontra o desenvolvimento da faculdade, algumas pessoas pretendem vencê-la por meio de uma espécie de ginástica quase deslocadora do braço e da cabeça. Não descrevemos esse processo, que nos vem do outro lado do Atlântico, não só porque nenhuma prova possuímos da sua eficiência, como também pela convicção que nutrimos de que há de oferecer perigo para os de compleição delicada, pelo abalo do sistema nervoso. Se não existirem rudimentos da faculdade, nada poderá produzi-los, nem mesmo a eletrização, que já foi empregada, sem êxito, com o mesmo objetivo.
 
-<a name="LDM-p209"><code>LDM-pX</code></a>
+<a name="LDM-p209"><code>LDM-p209</code></a>
 
 - #️⃣ 209. No médium aprendiz, a fé não é a condição rigorosa; sem dúvida lhe secunda os esforços, mas não é indispensável; a pureza de intenção, o desejo e a boa vontade bastam. Têm-se visto pessoas inteiramente incrédulas ficarem espantadas de escrever a seu mau grado, enquanto crentes sinceros não o conseguem, o que prova que esta faculdade se prende a uma disposição orgânica.
 
-<a name="LDM-p210"><code>LDM-pX</code></a>
+<a name="LDM-p210"><code>LDM-p210</code></a>
 
 - #️⃣ 210. O primeiro indício de disposição para escrever é uma espécie de frêmito no braço e na mão. Pouco a pouco, a mão é arrastada por uma impulsão que ela não logra dominar. Muitas vezes, não traça senão riscos insignificantes; depois, os caracteres se desenham cada vez mais nitidamente e a escrita acaba por adquirir a rapidez da escrita ordinária. Em todos os casos, deve-se entregar a mão ao seu movimento natural, e não oferecer resistência, nem propeli-la.
 
@@ -2581,7 +2591,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   A estas observações, acrescenta um Espírito:
   >“_Há médiuns cuja faculdade não pode produzir senão esses sinais. Quando, ao cabo de alguns meses, nada mais obtêm do que coisas insignificantes, ora um sim, ora um não, ou letras sem conexão, é inútil continuarem, será gastar papel em pura perda. São médiuns, mas médiuns improdutivos. Demais, as primeiras comunicações obtidas devem considerar-se meros exercícios, tarefa que é confiada a Espíritos secundários. Não se lhes deve dar muita importância, visto que procedem de Espíritos empregados, por assim dizer, como mestres de escrita, para desembaraçarem o médium principiante. Não creiais sejam alguma vez Espíritos elevados os que se aplicam a fazer com o médium esses exercícios preparatórios; acontece, porém, que, se o médium não colima um fim sério, esses Espíritos continuam e acabam por se lhe ligarem. Quase todos os médiuns passaram por este cadinho para se desenvolver; cabe-lhes fazer o que seja preciso para captar a simpatia dos Espíritos verdadeiramente superiores._”
 
-<a name="LDM-p211"><code>LDM-pX</code></a>
+<a name="LDM-p211"><code>LDM-p211</code></a>
 
 - #️⃣ 211. O escolho com que topa a maioria dos médiuns principiantes é o de terem de haver-se com Espíritos inferiores e devem dar-se por felizes quando são apenas Espíritos levianos. Toda atenção precisam pôr em que tais Espíritos não assumam predomínio, porquanto, acontecendo isso, nem sempre lhes será fácil desembaraçar-se deles. É ponto este de tal modo capital, sobretudo em começo, que, não sendo tomadas as precauções necessárias, podem perder-se os frutos das mais belas faculdades.
 
@@ -2589,13 +2599,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   A segunda condição é aplicar-se, com meticuloso cuidado, a reconhecer, por todos os indícios que a experiência faculta, de que natureza são os primeiros Espíritos que se comunicam e dos quais manda a prudência sempre se desconfie. Se forem suspeitos esses indícios, dirigir fervoroso apelo ao seu anjo da guarda e repelir, com todas as forças, o mau Espírito, provando-lhe que não conseguirá enganar, a fim de que ele desanime. Por isso é que indispensável se faz o estudo prévio da teoria, para todo aquele que queira evitar os inconvenientes peculiares à experiência. A este respeito, instruções muito desenvolvidas se encontram nos **capítulo**s Da obsessão e Da identidade dos Espíritos. Limitar-nos-emos aqui a dizer que, além da linguagem, podem considerar-se provas infalíveis da inferioridade dos Espíritos: todos os sinais, figuras, emblemas inúteis ou pueris; toda escrita extravagante, irregular, intencionalmente torturada, de exageradas dimensões, apresentando formas ridículas e desusadas. A escrita pode ser muito má, mesmo pouco legível, sem que isso tenha o que quer que seja de insólito, porquanto é mais questão do médium que do Espírito. Temos visto médiuns de tal maneira enganados que medem a superioridade dos Espíritos pelas dimensões das letras e que ligam grande importância às letras bem talhadas, como se foram letras de imprensa, puerilidade evidentemente incompatível com uma superioridade real.
 
-<a name="LDM-p212"><code>LDM-pX</code></a>
+<a name="LDM-p212"><code>LDM-p212</code></a>
 
 - #️⃣ 212. Se é importante não cair o médium, sem o querer, na dependência dos maus Espíritos, ainda mais importante é que não caia por espontânea vontade. Preciso, pois, se torna que imoderado desejo de escrever não o leve a considerar indiferente dirigir-se ao primeiro que apareça, salvo para mais tarde se livrar dele, caso não convenha, por isso que ninguém pedirá impunemente, seja para o que for, a assistência de um mau Espírito, o qual pode fazer que o imprudente lhe pague caro os serviços.
 
   Algumas pessoas, na impaciência de verem desenvolver-se em si as faculdades mediúnicas, desenvolvimento que consideram muito demorado, se lembram de buscar o auxílio de um Espírito qualquer, ainda que mau, contando despedi-lo logo. Muitas hão tido plenamente satisfeitos seus desejos e escrito imediatamente, porém o Espírito, pouco se incomodando com o ter sido chamado na pior das hipóteses, menos dócil se mostrou em ir-se do que em vir. Diversas conhecemos que foram punidas da presunção de se julgarem bastante fortes para afastá-los quando o quisessem, por anos de obsessões de toda espécie, pelas mais ridículas mistificações, por uma fascinação tenaz e, até, por desgraças materiais e pelas mais cruéis decepções. O Espírito se mostrou, a princípio, abertamente mau, depois hipócrita, a fim de fazer crer na sua conversão ou no pretendido poder do seu subjugado, para repeli-lo à vontade.
 
-<a name="LDM-p213"><code>LDM-pX</code></a>
+<a name="LDM-p213"><code>LDM-p213</code></a>
 
 - #️⃣ 213. A escrita é algumas vezes legível, as palavras e as letras bem destacadas, mas, com certos médiuns, é difícil que outrem, a não ser ele, a decifre, antes de haver adquirido o hábito de fazê-lo. É formada, frequentemente, de grandes traços; os Espíritos não costumam economizar papel. Quando uma palavra ou uma frase é quase de todo ilegível, pede-se ao Espírito que consinta em recomeçar, ao que ele em geral aquiesce de boa vontade. Quando a escrita é habitualmente ilegível, mesmo para o médium, este chega quase sempre a obtê-la mais nítida, por meio de exercícios frequentes e demorados, pondo nisso uma vontade forte e rogando com fervor ao Espírito que seja mais correto. Alguns Espíritos adotam sinais convencionais, que passam a ser de uso nas reuniões do costume. Para assinalarem que uma pergunta lhes desagrada e que não querem responder a ela, fazem, por exemplo, um risco longo ou coisa equivalente.
 
@@ -2603,11 +2613,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Estas as explicações essenciais que temos para ministrar, no tocante ao desenvolvimento da psicografia. A experiência revelará, na prática, alguns pormenores de que seria inútil tratar aqui e a cujo respeito os princípios gerais servirão de guia. Se muitos forem os que experimentarem, haverá mais médiuns do que em geral se pensa.
 
-<a name="LDM-p214"><code>LDM-pX</code></a>
+<a name="LDM-p214"><code>LDM-p214</code></a>
 
 - #️⃣ 214. Tudo o que acabamos de dizer se aplica à escrita mecânica. É a que todos os médiuns procuram, com razão, conseguir. Porém, raríssimo é o mecanismo puro; a ele se acha frequentemente associada, mais ou menos, a intuição. Tendo consciência do que escreve, o médium é naturalmente levado a duvidar da sua faculdade; não sabe se o que lhe sai do lápis vem do seu próprio ou de outro Espírito. Não tem absolutamente que se preocupar com isso e, nada obstante, deve prosseguir. Se se observar a si mesmo com atenção, facilmente descobrirá no que escreve uma porção de coisas que lhe não passavam pela mente e que até são contrárias às suas ideias, prova evidente de que tais coisas não provêm do seu Espírito. Continue, portanto, e, com a experiência, a dúvida se dissipará.
 
-<a name="LDM-p215"><code>LDM-pX</code></a>
+<a name="LDM-p215"><code>LDM-p215</code></a>
 
 - #️⃣ 215. Se ao médium não foi concedido ser exclusivamente mecânico, todas as tentativas para chegar a esse resultado serão infrutíferas; erro seu, no entanto, fora o julgar-se, em consequência, não aquinhoado. Se apenas é dotado de mediunidade intuitiva, cumpre que com isso se contente e ela não deixará de lhe prestar grandes serviços, se a souber aproveitar e não a repelir.
 
@@ -2615,27 +2625,27 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Dissemos acima haver casos em que é indiferente saber o médium se o pensamento vem de si próprio ou de outro Espírito. Isso ocorre quando, sendo ele puramente intuitivo ou inspirado, executa por si mesmo um trabalho de imaginação. Pouco importa atribua a si próprio um pensamento que lhe foi sugerido; se lhe acodem boas ideias, agradeça ao seu bom gênio, que não deixará de lhe sugerir outras. Tal é a inspiração dos poetas, dos filósofos e dos sábios.
 
-<a name="LDM-p216"><code>LDM-pX</code></a>
+<a name="LDM-p216"><code>LDM-p216</code></a>
 
 - #️⃣ 216. Suponhamos agora que a faculdade mediúnica esteja completamente desenvolvida; que o médium escreva com facilidade; que seja, em suma, o que se chama um médium feito. Grande erro de sua parte fora crer-se dispensado de qualquer instrução mais, porquanto apenas terá vencido uma resistência material. Do ponto a que chegou é que começam as verdadeiras dificuldades, é que ele mais do que nunca precisa dos conselhos da prudência e da experiência, se não quiser cair nas mil armadilhas que lhe vão ser preparadas. Se pretender muito cedo voar com suas próprias asas, não tardará em ser vítima de Espíritos mentirosos, que não se descuidarão de lhe explorar a presunção.
 
-<a name="LDM-p217"><code>LDM-pX</code></a>
+<a name="LDM-p217"><code>LDM-p217</code></a>
 
 - #️⃣ 217. Uma vez desenvolvida a faculdade, é essencial que o médium não abuse dela. O contentamento que daí advém a alguns principiantes lhes provoca um entusiasmo, que muito importa moderar. Devem lembrar-se de que ela lhes foi dada para o bem, e não para satisfação de vã curiosidade. Convém, portanto, que só se utilizem dela nas ocasiões oportunas, e não a todo momento. Não lhes estando os Espíritos ao dispor a toda hora, correm o risco de ser enganados por mistificadores. Bom é que, para evitarem esse mal, adotem o sistema de só trabalhar em dias e horas determinados, porque assim se entregarão ao trabalho em condições de maior recolhimento e os Espíritos que os queiram auxiliar, estando prevenidos, se disporão melhor a prestar esse auxílio.
 
-<a name="LDM-p218"><code>LDM-pX</code></a>
+<a name="LDM-p218"><code>LDM-p218</code></a>
 
 - #️⃣ 218. Se, apesar de todas as tentativas, a mediunidade não se revelar de modo algum, deverá o aspirante renunciar a ser médium, como renuncia ao canto quem reconhece não ter voz. Do mesmo modo que aquele que ignora uma língua se vale de um tradutor, o recurso para o dito aspirante será servir-se de outro médium. Mas, se não puder, à falta de médiuns, recorrer a nenhum, nem por isso deverá considerar-se privado da assistência dos Espíritos. Para estes, a mediunidade constitui um meio de se exprimirem, porém não um meio exclusivo de serem atraídos. Os que nos consagram afeição se acham ao nosso lado, sejamos ou não médiuns. Um pai não abandona um filho porque, surdo e cego, não o pode ouvir nem ver; cerca-o, ao contrário, de toda a solicitude. O mesmo fazem conosco os bons Espíritos. Se não podem transmitir-nos materialmente seus pensamentos, auxiliam-nos por meio da inspiração.
 
 <h4>Mudança de caligrafia</h4>
 
-<a name="LDM-p219"><code>LDM-pX</code></a>
+<a name="LDM-p219"><code>LDM-p219</code></a>
 
 - #️⃣ 219. Um fenômeno muito comum nos médiuns escreventes é a mudança da caligrafia, conforme os Espíritos que se comunicam. E o que há de mais notável é que uma certa caligrafia se reproduz constantemente com determinado Espírito, sendo às vezes idêntica à que este tinha em vida. Veremos mais tarde as consequências que daí se podem tirar com relação à identidade dos Espíritos. A mudança da caligrafia só se dá com os médiuns mecânicos ou semimecânicos, porque neles é involuntário o movimento da mão e dirigido unicamente pelo Espírito. O mesmo já não sucede com os médiuns puramente intuitivos, visto que, neste caso, o Espírito apenas atua sobre o pensamento, sendo a mão dirigida, como nas circunstâncias ordinárias, pela vontade do médium. Mas a uniformidade da caligrafia, mesmo tratando-se de um médium mecânico, nada absolutamente prova contra a sua faculdade, porquanto a variação da forma da escrita não é condição absoluta na manifestação dos Espíritos: deriva de uma aptidão especial, de que nem sempre são dotados os médiuns, ainda os mais mecânicos. Aos que a possuem damos a denominação de médiuns polígrafos.
 
 <h4>Perda e suspensão da mediunidade</h4>
 
-<a name="LDM-p220"><code>LDM-pX</code></a>
+<a name="LDM-p220"><code>LDM-p220</code></a>
 
 - #️⃣ 220. A faculdade mediúnica está sujeita a intermitências e a suspensões temporárias, quer para as manifestações físicas, quer para a escrita. Damos a seguir as respostas que obtivemos dos Espíritos a algumas perguntas feitas sobre este ponto:
 
@@ -2690,11 +2700,14 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   16ª. Como pode um homem aperfeiçoar-se mediante o ensino dos Espíritos, quando não tem, nem por si mesmo, nem com o auxílio de outros médiuns, os meios de receber de modo direto esse ensinamento?
   >“_Não tem ele os livros, como tem o cristão o Evangelho? Para praticar a moral de Jesus, não é preciso que o cristão tenha ouvido as palavras ao lhe saírem da boca._”
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-18"><code>LDM-2-18</code></a>
 
 <h3>📑 18. Dos inconvenientes e perigos da mediunidade</h3>
 
-<a name="LDM-p221"><code>LDM-pX</code></a>
+<a name="LDM-p221"><code>LDM-p221</code></a>
 
 - #️⃣ 221. 1ª. Será a faculdade mediúnica indício de um estado patológico qualquer, ou de um estado simplesmente anômalo?
 
@@ -2721,16 +2734,19 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   8ª. Em que idade se pode ocupar, sem inconvenientes, de mediunidade?
   >“_Não há idade precisa, tudo dependendo inteiramente do desenvolvimento físico e, ainda mais, do desenvolvimento moral. Há crianças de 12 anos a quem tal coisa afetará menos do que a algumas pessoas já feitas. Falo da mediunidade em geral, porém a de efeitos físicos é mais fatigante para o corpo; a da escrita tem outro inconveniente, derivado da inexperiência da criança, dado o caso de ela querer entregar-se a sós ao exercício da sua faculdade e fazer disso um brinquedo._”
 
-<a name="LDM-p222"><code>LDM-pX</code></a>
+<a name="LDM-p222"><code>LDM-p222</code></a>
 
 - #️⃣ 222. A prática do Espiritismo, como veremos mais adiante, demanda muito tato, para a inutilização das tramas dos Espíritos enganadores. Se estes iludem a homens feitos, claro é que a infância e a juventude mais expostas se acham a ser vítimas deles. Sabe-se, além disso, que o recolhimento é uma condição sem a qual não se pode lidar com Espíritos sérios. As evocações feitas estouvadamente e por gracejo constituem verdadeira profanação, que facilita o acesso aos Espíritos zombeteiros ou malfazejos. Ora, não se podendo esperar de uma criança a gravidade necessária a semelhante ato, muito de temer é que ela faça disso um brinquedo, se ficar entregue a si mesma. Ainda nas condições mais favoráveis, é de desejar que uma criança dotada de faculdade mediúnica não a exercite senão sob a vigilância de pessoas experientes, que lhe ensinem, pelo exemplo, o respeito devido às almas dos que viveram no mundo. Por aí se vê que a questão de idade está subordinada às circunstâncias, assim de temperamento, como de caráter. Todavia, o que ressalta com clareza das respostas acima é que não se deve forçar o desenvolvimento dessas faculdades nas crianças, quando não é espontânea, e que, em todos os casos, se deve proceder com grande circunspeção, não convindo nem excitá-las, nem animá-las nas pessoas débeis. Do seu exercício cumpre afastar, por todos os meios possíveis, as que apresentem sintomas, ainda que mínimos, de excentricidade nas ideias ou de enfraquecimento das faculdades mentais, porquanto, nessas pessoas, há predisposição evidente para a loucura, que se pode manifestar por efeito de qualquer sobre-excitação. As ideias espíritas não têm, a esse respeito, maior influência do que outras, mas, vindo a loucura a declarar-se, tomará o caráter de preocupação dominante, como tomaria o caráter religioso, se a pessoa se entregasse em excesso às práticas de devoção, e a responsabilidade seria lançada ao Espiritismo. O que de melhor se tem a fazer com todo indivíduo que mostre tendência à ideia fixa é dar outra diretriz às suas preocupações, a fim de lhe proporcionar repouso aos órgãos enfraquecidos.
 
   Chamamos, a propósito deste assunto, a atenção dos nossos leitores para o parágrafo XII da Introdução de O livro dos espíritos.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-19"><code>LDM-2-10</code></a>
 
 <h3>📑 19. Do papel dos médiuns nas comunicações espíritas</h3>
 
-<a name="LDM-p223"><code>LDM-pX</code></a>
+<a name="LDM-p223"><code>LDM-p223</code></a>
 
 - #️⃣ 223. 1ª. No momento em que exerce a sua faculdade, está o médium em estado perfeitamente normal?
   >“_Está, às vezes, num estado, mais ou menos acentuado, de crise. É o que o fadiga e é por isso que necessita de repouso. Porém, habitualmente, seu estado não difere de modo sensível do estado normal, sobretudo se se trata de médiuns escreventes._”
@@ -2811,7 +2827,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   23ª. Por que é que um homem de extraordinário talento numa existência já não o tem na existência seguinte?
   >“_Nem sempre assim é, pois que muitas vezes ele aperfeiçoa, numa existência, o que começou na precedente. Mas pode acontecer que uma faculdade extraordinária dormite durante certo tempo, para deixar que outra se desenvolva. É um gérmen latente, que tornará a ser encontrado mais tarde e do qual alguns traços ou, pelo menos, uma vaga intuição sempre permanecem._”
 
-<a name="LDM-p224"><code>LDM-pX</code></a>
+<a name="LDM-p224"><code>LDM-p224</code></a>
 
 - #️⃣ 224. O Espírito que se quer comunicar compreende, sem dúvida, todas as línguas, pois que as línguas são a expressão do pensamento e é pelo pensamento que o Espírito tem a compreensão de tudo, mas, para exprimir esse pensamento, torna-se-lhe necessário um instrumento, e este é o médium. A alma do médium, que recebe a comunicação de um terceiro, não a pode transmitir senão pelos órgãos de seu corpo. Ora, esses órgãos não podem ter, para uma língua que o médium desconheça, a flexibilidade que apresentam para a que lhe é familiar.
 
@@ -2821,7 +2837,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Daí decorre que, salvo algumas exceções, o médium exprime o pensamento dos Espíritos pelos meios mecânicos que lhe estão à disposição e também que a expressão desse pensamento pode e deve mesmo, as mais das vezes, ressentir-se da imperfeição de tais meios. Assim, o homem inculto, o campônio, poderá dizer as mais belas coisas, expressar as mais elevadas e as mais filosóficas ideias, falando como campônio, porquanto, conforme se sabe, para os Espíritos o pensamento a tudo sobrepuja. Isto responde a certas críticas a propósito das incorreções de estilo e de ortografia, que se imputam aos Espíritos, mas que tanto podem provir deles, como do médium. Apegar-se a tais coisas não passa de futilidade. Não é menos pueril que se atenham a reproduzir essas incorreções com exatidão minuciosa, conforme o temos visto fazerem algumas vezes. Lícito é, portanto, corrigi-las, sem o mínimo escrúpulo, a menos que caracterizem o Espírito que se comunica, caso em que é bom conservá-las, como prova de identidade. Assim é, por exemplo, que temos visto um Espírito escrever constantemente Jule (sem o s), falando a seu neto, porque, quando vivo, escrevia desse modo, muito embora o neto, que lhe servia de médium, soubesse perfeitamente escrever o seu próprio nome.
 
-<a name="LDM-p225"><code>LDM-pX</code></a>
+<a name="LDM-p225"><code>LDM-p225</code></a>
 
 - #️⃣ 225. A dissertação que se segue, dada espontaneamente por um Espírito superior, que se revelou mediante comunicações de ordem elevadíssima, resume, de modo claro e completo, a questão do papel do médium:
 
@@ -2854,11 +2870,14 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   📝 Nota Esta análise do papel dos médiuns e dos processos pelos quais os Espíritos se comunicam é tão clara quanto lógica. Dela decorre, como princípio, que o Espírito haure não as suas ideias, porém os materiais de que necessita para exprimi-las no cérebro do médium e que, quanto mais rico em materiais for esse cérebro, tanto mais fácil será a comunicação. Quando o Espírito se exprime num idioma familiar ao médium, encontra neste, inteiramente formadas, as palavras necessárias ao revestimento da ideia; se o faz numa língua estranha ao médium, não encontra neste as palavras, mas apenas as letras. Por isso é que o Espírito se vê obrigado a ditar, por assim dizer, letra a letra, tal qual como quem quisesse fazer que escrevesse alemão uma pessoa que desse idioma não conhecesse uma só palavra. Se o médium é analfabeto, nem mesmo as letras fornece ao Espírito. Preciso se torna a este conduzir-lhe a mão, como se faz a uma criança que começa a aprender. Ainda maior dificuldade a vencer encontra aí o Espírito. Estes fenômenos, pois, são possíveis e há deles numerosos exemplos; compreende-se, no entanto, que semelhante maneira de proceder pouco apropriada se mostra para comunicações extensas e rápidas e que os Espíritos hão de preferir os instrumentos de manejo mais fácil, ou, como eles dizem, os médiuns bem aparelhados do ponto de vista deles.
 
   Se os que reclamam esses fenômenos, como meio de se convencerem, estudassem previamente a teoria, haviam de saber em que condições excepcionais eles se produzem.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-20"><code>LDM-2-20</code></a>
 
 <h3>📑 20. Da influência moral do médium</h3>
 
-<a name="LDM-p226"><code>LDM-pX</code></a>
+<a name="LDM-p226"><code>LDM-p226</code></a>
 
 - #️⃣ 226. 1ª. O desenvolvimento da mediunidade guarda relação com o desenvolvimento moral dos médiuns?
 
@@ -2907,11 +2926,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >“_Expurguem-se, pois, os que desejam esclarecer-se, de toda a vaidade humana e humilhem a sua inteligência ante o infinito poder do Criador. Esta a melhor prova que poderão dar da sinceridade do desejo que os anima. É uma condição a que todos podem satisfazer._”
 
-<a name="LDM-p227"><code>LDM-pX</code></a>
+<a name="LDM-p227"><code>LDM-p227</code></a>
 
 - #️⃣ 227. Se o médium, do ponto de vista da execução, não passa de um instrumento, exerce, todavia, influência muito grande sob o aspecto moral. Pois que, para se comunicar, o Espírito desencarnado se identifica com o Espírito do médium, esta identificação não se pode verificar senão havendo, entre um e outro, simpatia e, se assim é lícito dizer-se, afinidade. A alma exerce sobre o Espírito livre uma espécie de atração ou de repulsão, conforme o grau da semelhança existente entre eles. Ora, os bons têm afinidade com os bons, e os maus com os maus, donde se segue que as qualidades morais do médium exercem influência capital sobre a natureza dos Espíritos que por ele se comunicam. Se o médium é vicioso, em torno dele se vêm grupar os Espíritos inferiores, sempre prontos a tomar o lugar aos bons Espíritos evocados. As qualidades que, de preferência, atraem os bons Espíritos são: a bondade, a benevolência, a simplicidade do coração, o amor do próximo, o desprendimento das coisas materiais. Os defeitos que os afastam são: o orgulho, o egoísmo, a inveja, o ciúme, o ódio, a cupidez, a sensualidade e todas as paixões que escravizam o homem à matéria.
 
-<a name="LDM-p228"><code>LDM-pX</code></a>
+<a name="LDM-p228"><code>LDM-p228</code></a>
 
 - #️⃣ 228. Todas as imperfeições morais são outras tantas portas abertas ao acesso dos maus Espíritos. A que, porém, eles exploram com mais habilidade é o orgulho, porque é a que a criatura menos confessa a si mesma. O orgulho tem perdido muitos médiuns dotados das mais belas faculdades e que, se não fora essa imperfeição, teriam podido tornar-se instrumentos notáveis e muito úteis, ao passo que, presas de Espíritos mentirosos, suas faculdades, depois de se haverem pervertido, aniquilaram-se e mais de um se viu humilhado por amaríssimas decepções.
 
@@ -2919,11 +2938,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Devemos também convir em que, muitas vezes, o orgulho é despertado no médium pelos que o cercam. Se ele tem faculdades um pouco transcendentes, é procurado e gabado e entra a julgar-se indispensável. Logo toma ares de importância e desdém, quando presta a alguém o seu concurso. Mais de uma vez tivemos motivo de deplorar elogios que dispensamos a alguns médiuns, com o intuito de os animar.
 
-<a name="LDM-p229"><code>LDM-pX</code></a>
+<a name="LDM-p229"><code>LDM-p229</code></a>
 
 - #️⃣ 229. A par disto, ponhamos em evidência o quadro do médium verdadeiramente bom, daquele em que se pode confiar. Supor-lhe-emos, antes de tudo, uma grandíssima facilidade de execução, que permita se comuniquem livremente os Espíritos, sem encontrarem qualquer obstáculo material. Isto posto, o que mais importa considerar é de que natureza são os Espíritos que habitualmente o assistem, para o que não nos devemos ater aos nomes, porém à linguagem. Jamais deverá ele perder de vista que a simpatia que lhe dispensam os bons Espíritos estará na razão direta de seus esforços por afastar os maus. Persuadido de que a sua faculdade é um dom que só lhe foi outorgado para o bem, de nenhum modo procura prevalecer-se dela, nem apresentá-la como demonstração de mérito seu. Aceita as boas comunicações, que lhe são transmitidas, como uma graça, de que lhe cumpre tornar-se cada vez mais digno, pela sua bondade, pela sua benevolência e pela sua modéstia. O primeiro se orgulha de suas relações com os Espíritos superiores; este outro se humilha, por se considerar sempre abaixo desse favor.
 
-<a name="LDM-p230"><code>LDM-pX</code></a>
+<a name="LDM-p230"><code>LDM-p230</code></a>
 
 - #️⃣ 230. A seguinte instrução deu-no-la sobre o assunto, um Espírito de quem temos inserido muitas comunicações:
 
@@ -2942,11 +2961,14 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >“_O Espiritismo já está bastante espalhado entre os homens e já moralizou suficientemente os adeptos sinceros da sua santa doutrina, para que os Espíritos já não se vejam constrangidos a usar de maus instrumentos, de médiuns imperfeitos. Se, pois, agora, um médium, qualquer que ele seja, se tornar objeto de legítima suspeição, pelo seu proceder, pelos seus costumes, pelo seu orgulho, pela sua falta de amor e de caridade, repeli, repeli suas comunicações, porquanto aí estará uma serpente oculta entre as ervas. É esta a conclusão a que chego sobre a influência moral dos médiuns._” 
   >
   >**Erasto**
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-21"><code>LDM-2-21</code></a>
 
 <h3>📑 21. Da influência do meio</h3>
 
-<a name="LDM-p231"><code>LDM-pX</code></a>
+<a name="LDM-p231"><code>LDM-p231</code></a>
 
 - #️⃣ 231. 1ª. O meio em que se acha o médium exerce alguma influência nas manifestações? “_Todos os Espíritos que cercam o médium o auxiliam para o bem ou para o mal._”
 
@@ -2956,25 +2978,28 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   4ª. Aos Espíritos inferiores é interdito o acesso às reuniões sérias? “_Não, algumas vezes lhes é permitido assistir a elas, a fim de aproveitarem os ensinos que vos são dados, mas conservam-se silenciosos, como estouvados numa assembleia de gente ponderada._”
 
-<a name="LDM-p232"><code>LDM-pX</code></a>
+<a name="LDM-p232"><code>LDM-p232</code></a>
 
 - #️⃣ 232. Fora erro acreditar alguém que precisa ser médium para atrair a si os seres do mundo invisível. Eles povoam o espaço; temo-los incessantemente em torno de nós, ao nosso lado, vendo-nos, observando-nos, intervindo em nossas reuniões, seguindo-nos ou evitando-nos, conforme os atraímos ou repelimos. A faculdade mediúnica em nada influi para isto: ela mais não é do que um meio de comunicação. De acordo com o que dissemos acerca das causas de simpatia ou antipatia dos Espíritos, facilmente se compreenderá que devemos estar cercados daqueles que têm afinidade com o nosso próprio Espírito, conforme é este graduado ou degradado. Consideremos agora o estado moral do nosso planeta e compreenderemos de que gênero devem ser os que predominam entre os Espíritos errantes. Se tomarmos cada povo em particular, poderemos, pelo caráter dominante dos habitantes, pelas suas preocupações, seus sentimentos mais ou menos morais e humanitários, dizer de que ordem são os Espíritos que de preferência se reúnem no seio dele.
 
   
   Partindo deste princípio, suponhamos uma reunião de homens levianos, inconsequentes, ocupados com seus prazeres; quais serão os Espíritos que preferentemente os cercarão? Não serão decerto Espíritos superiores, do mesmo modo que não seriam os nossos sábios e filósofos os que iriam passar o seu tempo em semelhante lugar. Assim, onde quer que haja uma reunião de homens, há igualmente em torno deles uma assembleia oculta, que simpatiza com suas qualidades ou com seus defeitos, feita abstração completa de toda ideia de evocação. Admitamos agora que tais homens tenham a possibilidade de se comunicar com os seres do mundo invisível, por meio de um intérprete, isto é, por um médium; quais serão os que lhes responderão ao chamado? Evidentemente, os que os estão rodeando de muito perto, à espreita de uma ocasião para se comunicarem. Se, numa assembleia fútil, chamarem um Espírito superior, este poderá vir e até proferir algumas palavras ponderosas, como um bom pastor que acode ao chamamento de suas ovelhas desgarradas, porém, desde que não se veja compreendido nem ouvido, retira-se, como em seu lugar o faria qualquer de nós, ficando os outros com o campo livre.
 
-<a name="LDM-p233"><code>LDM-pX</code></a>
+<a name="LDM-p233"><code>LDM-p233</code></a>
 
 - #️⃣ 233. Nem sempre basta que uma assembleia seja séria para receber comunicações de ordem elevada. Há pessoas que nunca riem e cujo coração, nem por isso, é puro. Ora, o coração, sobretudo, é que atrai os bons Espíritos. Nenhuma condição moral exclui as comunicações espíritas; os que, porém, estão em más condições, esses se comunicam com os que lhes são semelhantes, os quais não deixam de enganar e de lisonjear os preconceitos.
 
   Por aí se vê a influência enorme que o meio exerce sobre a natureza das manifestações inteligentes. Essa influência, entretanto, não se exerce como o pretenderam algumas pessoas, quando ainda se não conhecia o mundo dos Espíritos qual se conhece hoje e antes que experiências mais concludentes houvessem esclarecido as dúvidas. Quando as comunicações concordam com a opinião dos assistentes, não é que essa opinião se reflita no Espírito do médium, como num espelho; é que com os assistentes estão Espíritos que lhes são simpáticos para o bem, tanto quanto para o mal, e que abundam nos seus modos de ver. Prova-o o fato de que, se tiverdes a força de atrair outros Espíritos, que não os que vos cercam, o mesmo médium usará de linguagem absolutamente diversa e dirá coisas muito distanciadas das vossas ideias e das vossas convicções.
 
   Em resumo: as condições do meio serão tanto melhores quanto mais homogeneidade houver para o bem, mais sentimentos puros e elevados, mais desejo sincero de instrução, sem ideias preconcebidas.
-<a name="LDM-X"><code>LDM-X</code></a>
+
+---
+
+<a name="LDM-2-22"><code>LDM-2-22</code></a>
 
 <h3>📑 22. Da mediunidade nos animais</h3>
 
-<a name="LDM-p234"><code>LDM-pX</code></a>
+<a name="LDM-p234"><code>LDM-p234</code></a>
 
 - #️⃣ 234. Podem os animais ser médiuns? Muitas vezes tem sido formulada esta pergunta, à qual parece que alguns fatos respondem afirmativamente. O que, sobretudo, tem autorizado a opinião dos que pensam assim são os notáveis sinais de inteligência de alguns pássaros que, educados, parecem adivinhar o pensamento e tiram de um maço de cartas as que podem responder com exatidão a uma pergunta feita. Observamos com especial atenção tais experiências e o que mais admiramos foi a arte que houve de ser empregada para a instrução dos ditos pássaros.
   
@@ -2984,13 +3009,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   O mesmo se verificou, quando a prestidigitação pretendeu imitar a segunda vista. Obrigava-se o paciente a ir ao extremo, para que a ilusão durasse longo tempo. Desde a primeira vez que assistimos a uma sessão deste gênero, nada mais vimos do que muito imperfeita imitação do sonambulismo, revelando ignorância das condições essenciais dessa faculdade.
 
-<a name="LDM-p235"><code>LDM-pX</code></a>
+<a name="LDM-p235"><code>LDM-p235</code></a>
 
 - #️⃣ 235. Como quer que seja, no tocante às experiências de que acima falamos, não menos integral permanece, de outro ponto de vista, a questão principal, por isso que, assim como a imitação do sonambulismo não obsta a que a faculdade exista, também a imitação da mediunidade por meio dos pássaros nada prova contra a possibilidade da existência, neles, ou em outros animais, de uma faculdade análoga.
 
   Trata-se, pois, de saber se os animais são aptos, como os homens, a servir de intermediários aos Espíritos, para suas comunicações inteligentes. Muito lógico parece mesmo se suponha que um ser vivo, dotado de certa dose de inteligência, seja mais apto, para esse efeito, do que um corpo inerte, sem vitalidade, qual, por exemplo, uma mesa. É, entretanto, o que não se dá.
 
-<a name="LDM-p236"><code>LDM-pX</code></a>
+<a name="LDM-p236"><code>LDM-p236</code></a>
 
 - #️⃣ 236. A questão da mediunidade dos animais se acha completamente resolvida na dissertação seguinte, feita por um Espírito cuja profundeza e sagacidade os leitores hão podido apreciar nas citações, que temos tido ocasião de fazer, de instruções suas. Para bem se apreender o valor da sua demonstração, essencial é se tenha em vista a explicação por ele dada do papel do médium nas comunicações, explicação que atrás reproduzimos. ([`LDM-p225`](#ldmp225-%EF%B8%8F%E2%83%A3-225))
 
@@ -3024,9 +3049,11 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >**Erasto**
 
-  📝 Nota Na `📓 Revista Espírita` de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
+  📝 Nota na `📓 Revista Espírita` de setembro de 1861, encontra-se, minudenciado, um processo empregado pelos educadores de pássaros sábios, com o fim de fazê-los tirar de um maço de cartas as que se queiram.
 
-<a name="LDM-X"><code>LDM-X</code></a>
+---
+
+<a name="LDM-2-23"><code>LDM-2-23</code></a>
 
 <h3>📑 23. Da obsessão</h3>
 
