@@ -1140,9 +1140,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-<h4>Fenômeno de transporte</h4>
-
----
+**Fenômeno de transporte**
 
 <a name="LDM-p96"><code>LDM-p96</code></a>
 
@@ -1408,7 +1406,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 ---
 
-<h4>Ensaio teórico sobre as aparições</h4>
+**Ensaio teórico sobre as aparições**
 
 <a name="LDM-p101"><code>LDM-p101</code></a>
 
@@ -2111,7 +2109,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Por essa particularidade e outros detalhes descritos, a senhora reconheceu, sem haver possibilidade de engano, sua avó, em quem naquele instante absolutamente não pensava. Se o médium houvesse querido simular a faculdade, fácil lhe fora acompanhar o pensamento da dama. Entretanto, em vez do marido, com quem ela se achava preocupada, ele vê uma mulher, com uma particularidade no penteado, da qual coisa alguma lhe podia dar ideia. Este fato prova também que a vidência, no médium, não era reflexo de qualquer pensamento estranho. (**Veja-se** `LDM-p102`)
 
-<h4>Médiuns sonambúlicos</h4>
+**Médiuns sonambúlicos**
 
 <a name="LDM-p172"><code>LDM-p172</code></a>
 
@@ -2166,7 +2164,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 9ª. Haverá para isso algumas fórmulas de prece mais eficazes do que outras?
 >“_Somente a superstição pode emprestar virtudes quaisquer a certas palavras e somente Espíritos ignorantes ou mentirosos podem alimentar semelhantes ideias, prescrevendo fórmulas. Pode, entretanto, acontecer que, tratando-se de pessoas pouco esclarecidas e incapazes de compreender as coisas puramente espirituais, o uso de determinada fórmula contribua para lhes infundir confiança. Neste caso, porém, não é na fórmula que está a eficácia, mas na fé, que aumenta por efeito da ideia ligada ao uso da fórmula._”
 
-<h4>Médiuns pneumatógrafos</h4>
+**Médiuns pneumatógrafos**
 
 <a name="LDM-p177"><code>LDM-p177</code></a>
 
@@ -2346,7 +2344,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   
   Médiuns músicos: os que executam, compõem ou escrevem músicas, sob a influência dos Espíritos. Há médiuns músicos mecânicos, semimecânicos, intuitivos e inspirados, como os há para as comunicações literárias. (**Veja-se** “_Médiuns de efeitos musicais_”.)
 
-<h4>Variedades dos médiuns escreventes</h4>
+**Variedades dos médiuns escreventes**
 
 <a name="LDM-p191"><code>LDM-p191</code></a>
 
@@ -2637,13 +2635,13 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 - #️⃣ 218. Se, apesar de todas as tentativas, a mediunidade não se revelar de modo algum, deverá o aspirante renunciar a ser médium, como renuncia ao canto quem reconhece não ter voz. Do mesmo modo que aquele que ignora uma língua se vale de um tradutor, o recurso para o dito aspirante será servir-se de outro médium. Mas, se não puder, à falta de médiuns, recorrer a nenhum, nem por isso deverá considerar-se privado da assistência dos Espíritos. Para estes, a mediunidade constitui um meio de se exprimirem, porém não um meio exclusivo de serem atraídos. Os que nos consagram afeição se acham ao nosso lado, sejamos ou não médiuns. Um pai não abandona um filho porque, surdo e cego, não o pode ouvir nem ver; cerca-o, ao contrário, de toda a solicitude. O mesmo fazem conosco os bons Espíritos. Se não podem transmitir-nos materialmente seus pensamentos, auxiliam-nos por meio da inspiração.
 
-<h4>Mudança de caligrafia</h4>
+**Mudança de caligrafia**
 
 <a name="LDM-p219"><code>LDM-p219</code></a>
 
 - #️⃣ 219. Um fenômeno muito comum nos médiuns escreventes é a mudança da caligrafia, conforme os Espíritos que se comunicam. E o que há de mais notável é que uma certa caligrafia se reproduz constantemente com determinado Espírito, sendo às vezes idêntica à que este tinha em vida. Veremos mais tarde as consequências que daí se podem tirar com relação à identidade dos Espíritos. A mudança da caligrafia só se dá com os médiuns mecânicos ou semimecânicos, porque neles é involuntário o movimento da mão e dirigido unicamente pelo Espírito. O mesmo já não sucede com os médiuns puramente intuitivos, visto que, neste caso, o Espírito apenas atua sobre o pensamento, sendo a mão dirigida, como nas circunstâncias ordinárias, pela vontade do médium. Mas a uniformidade da caligrafia, mesmo tratando-se de um médium mecânico, nada absolutamente prova contra a sua faculdade, porquanto a variação da forma da escrita não é condição absoluta na manifestação dos Espíritos: deriva de uma aptidão especial, de que nem sempre são dotados os médiuns, ainda os mais mecânicos. Aos que a possuem damos a denominação de médiuns polígrafos.
 
-<h4>Perda e suspensão da mediunidade</h4>
+**Perda e suspensão da mediunidade**
 
 <a name="LDM-p220"><code>LDM-p220</code></a>
 
@@ -3239,7 +3237,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h3>📑 24. Da identidade dos Espíritos</h3>
 
-<h4>Provas possíveis de identidade</h4>
+**Provas possíveis de identidade**
 
 <a name="LDM-p255"><code>LDM-p255</code></a>
 
@@ -3281,7 +3279,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 - #️⃣ 261. Dir-se-á, sem dúvida, que, se um Espírito pode imitar uma assinatura, também pode perfeitamente imitar a linguagem. É exato; alguns temos visto tomar atrevidamente o nome do Cristo e, para impingirem a mistificação, simulavam o estilo evangélico e pronunciavam a torto e a direito estas bem conhecidas palavras: Em verdade, em verdade vos digo. Estudando, porém, sem prevenção, o ditado, em seu conjunto, perscrutado o fundo das ideias, o alcance das expressões, quando, a par de belas máximas de caridade, se veem recomendações pueris e ridículas, fora preciso estar fascinado para que alguém se equivocasse. Sim, certas partes da forma material da linguagem podem ser imitadas, mas não o pensamento. Jamais a ignorância imitará o verdadeiro saber e jamais o vício imitará a verdadeira virtude. Em qualquer ponto, sempre aparecerá a pontinha da orelha. É então que o médium, assim como o evocador, precisam de toda a perspicácia e de toda a ponderação para destrinçar a verdade da impostura. Devem persuadir-se de que os Espíritos perversos são capazes de todos os ardis e de que, quanto mais venerável for o nome com que um Espírito se apresente, tanto maior desconfiança deve inspirar. Quantos médiuns têm tido comunicações apócrifas assinadas por Jesus, Maria ou um santo venerado!
 
-<h4>Modo de se distinguirem os bons dos maus Espíritos</h4>
+**Modo de se distinguirem os bons dos maus Espíritos**
 
 <a name="LDM-p262"><code>LDM-p262</code></a>
 
@@ -3497,7 +3495,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Convém igualmente que só com muita prudência se façam evocações, na ausência das pessoas que as pediram, sendo mesmo preferível que não sejam feitas nessas condições, visto que somente aquelas pessoas se acham aptas a analisar as respostas, a julgar da identidade, a provocar esclarecimentos, se for oportuno, e a formular questões incidentes, que as circunstâncias indiquem. Além disso, a presença delas é um laço que atrai o Espírito, quase sempre pouco disposto a se comunicar com estranhos, que lhes não inspiram nenhuma simpatia. O médium, em suma, deve evitar tudo o que possa transformá-lo em agente de consultas, o que, aos olhos de muitas pessoas, é sinônimo de ledor da “_buena-dicha_”.
 
-<h4>Espíritos que se podem evocar</h4>
+**Espíritos que se podem evocar**
 
 <a name="LDM-p274"><code>LDM-p274</code></a>
 
@@ -3533,7 +3531,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   >“_O nome de Deus só tem influência sobre os Espíritos imperfeitos, quando proferido por quem possa, pelas suas virtudes, servir-se dele com autoridade. Pronunciado por quem nenhuma superioridade moral tenha com relação ao Espírito, é uma palavra como qualquer outra. O mesmo se dá com as coisas santas com que se procure dominá-los. A mais terrível das armas se torna inofensiva em mãos inábeis a se servirem dela, ou incapazes de manejá-la._”
 
-<h4>Linguagem de que se deve usar com os Espíritos</h4>
+**Linguagem de que se deve usar com os Espíritos**
 
 <a name="LDM-p280"><code>LDM-p280</code></a>
 
@@ -3549,7 +3547,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   Em resumo, tão irreverente seria tratarmos de igual para igual os Espíritos superiores, quanto ridículo seria dispensarmos a todos, sem exceção, a mesma deferência. Tenhamos veneração para os que a merecem, reconhecimento para os que nos protegem e nos assistem e, para todos os demais, a benignidade de que talvez um dia venhamos a necessitar. Penetrando no mundo incorpóreo, aprendemos a conhecê-lo e esse conhecimento nos deve guiar em nossas relações com os que o habitam. Os Antigos, na sua ignorância, levantaram-lhes altares; para nós, eles são apenas criaturas mais ou menos perfeitas, e altares só a Deus se levantam.
 
-<h4>Utilidade das evocações particulares</h4>
+**Utilidade das evocações particulares**
 
 <a name="LDM-p281"><code>LDM-p281</code></a>
 
@@ -3836,7 +3834,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h3>📑 26. Das perguntas que se podem fazer aos Espíritos</h3>
 
-<h4>Observações preliminares</h4>
+**Observações preliminares**
 
 <a name="LDM-p286"><code>LDM-p286</code></a>
 
@@ -4047,7 +4045,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h3>📑 27. Das contradições e das mistificações</h3>
 
-<h4>Das contradições</h4>
+**Das contradições**
   
 <a name="LDM-p297"><code>LDM-p297</code></a>
 
@@ -4133,7 +4131,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 - #️⃣ 303
 
-<h4>Das mistificações</h4>
+**Das mistificações**
 
 . Se ser enganado é desagradável, ainda mais desagradável é ser mistificado. Esse, aliás, um dos inconvenientes de que mais facilmente nos podemos preservar. De todas as instruções precedentes ressaltam os meios de se frustrarem as tramas dos Espíritos enganadores. Por essa razão, pouca coisa diremos a tal respeito. Sobre o assunto, foram estas as respostas que nos deram os Espíritos:
 
@@ -4160,7 +4158,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h3>📑 28. Do charlatanismo e do embuste</h3>
 
-<h4>Médiuns interesseiros</h4>
+**Médiuns interesseiros**
 
 <a name="LDM-p304"><code>LDM-p304</code></a>
 
@@ -4212,7 +4210,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 - #️⃣ 313. Não ignoramos que a nossa severidade para com os médiuns interesseiros levanta contra nós todos os que exploram, ou se veem tentados a explorar essa nova indústria, fazendo-os, bem como de seus amigos, que naturalmente lhes esposam a opinião, encarniçados inimigos nossos. Consolamo-nos com o nos lembrarmos de que os mercadores expulsos do templo por Jesus também não o viam com bons olhos. Temos igualmente contra nós os que não consideram a coisa com a mesma gravidade. Entretanto, julgamo-nos no direito de ter uma opinião e de a emitir. A ninguém obrigamos que a adote. Se uma imensa maioria a esposou, é que aparentemente a acharam justa; porquanto, não vemos, com efeito, como se provaria que não há mais facilidade de se encontrarem a fraude e os abusos na especulação do que no desinteresse. Quanto a nós, se os nossos escritos hão contribuído para desacreditar, assim na França, como em outros países, a mediunidade interesseira, entendemos que esse não será dos menores serviços que tenhamos prestado ao Espiritismo sério.
 
-<h4>Fraudes espíritas</h4>
+**Fraudes espíritas**
 
 <a name="LDM-p314"><code>LDM-p314</code></a>
 
@@ -4290,7 +4288,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <h3>📑 29. Das reuniões e das Sociedades Espíritas</h3>
 
-<h4>Das reuniões em geral</h4>
+**Das reuniões em geral**
 
 <a name="LDM-p324"><code>LDM-p324</code></a>
 
@@ -4360,7 +4358,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Acrescentemos, todavia, que, se bem os Espíritos prefiram a regularidade, os de ordem verdadeiramente superior não se mostram meticulosos a esse extremo. A exigência de pontualidade rigorosa é sinal de inferioridade, como tudo o que seja pueril. Mesmo fora das horas predeterminadas, podem eles, sem dúvida, comparecer e se apresentam de boa vontade, se é útil o fim objetivado. Nada, porém, mais prejudicial às boas comunicações do que os chamar a torto e a direito, quando isso nos acuda à fantasia e, principalmente, sem motivo sério. Como não se acham adstritos a se submeterem aos nossos caprichos, bem pode dar-se que não se movam ao nosso chamado. É então que ocorre tomarem-lhe outros o lugar e os nomes.
 
-<h4>Das Sociedades propriamente ditas</h4>
+**Das Sociedades propriamente ditas**
 
 <a name="LDM-p334"><code>LDM-p334</code></a>
 
@@ -4423,7 +4421,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
   As manifestações físicas, conforme já dissemos, têm grande utilidade, visto abrirem campo vasto ao observador, porquanto é toda uma série de fenômenos insólitos, de incalculáveis consequências a se lhe desdobrarem diante dos olhos. Pode, pois, com eles ocupar-se uma assembleia de objetivos muito sérios, mas não logrará a efetivação desses objetivos, quer como forma de estudo quer como meio de convicção, se se não realizarem em condições favoráveis, a primeira das quais consiste, não na fé dos assistentes, mas no desejo que os impulsione de se esclarecerem, sem intenções ocultas e sem o propósito antecipado de tudo recusarem, mesmo a evidência. A segunda é a limitação do número, para evitar a intromissão de elementos heterogêneos. Se é certo que são os Espíritos menos adiantados os que produzem as manifestações físicas, nem por isso deixam estas de apresentar um fim providencial e os bons Espíritos as favorecem, sempre que sejam capazes de dar resultados proveitosos.
 
-<h4>Assuntos de estudo</h4>
+**Assuntos de estudo**
 
 <a name="LDM-p343"><code>LDM-p343</code></a>
 
@@ -4459,7 +4457,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   Garantimos que a uma sociedade espírita, cujos trabalhos se mostrassem organizados nesse sentido, munida ela dos materiais necessários a executá-los, não sobraria tempo bastante para consagrar às comunicações diretas dos Espíritos. Daí o chamarmos para esse ponto a atenção dos grupos realmente sérios, dos que mais cuidam de instruir-se, do que de achar um passatempo. (**Veja-se** o **item** 207, no **capítulo** Da formação dos médiuns.)
 
-<h4>Rivalidades entre as Sociedades</h4>
+**Rivalidades entre as Sociedades**
 
 <a name="LDM-p348"><code>LDM-p348</code></a>
 
@@ -4493,7 +4491,7 @@ E autorizada por decreto do Sr. Prefeito de Polícia, em data de 13 de abril de 
 
 📝 Nota Conquanto este regulamento seja fruto da experiência, não o apresentamos como lei absoluta, mas unicamente para facilitar a formação de Sociedades aos que as queiram fundar, os quais aí encontrarão os dispositivos que lhes pareçam convenientes e aplicáveis às circunstâncias que lhes sejam peculiares. Embora já simplificada, essa organização ainda o poderá ser muito mais, quando se trate, não de Sociedades regularmente constituídas, mas de simples reuniões íntimas, que apenas necessitam adotar medidas de ordem, de precaução e de regularidade nos trabalhos. Apresentamo-lo, igualmente, para o governo dos que desejam manter relações com a Sociedade parisiense, quer como correspondentes, quer a título de membros da Sociedade.
 
-<h4>1. Fins e formação da Sociedade</h4>
+**1. Fins e formação da Sociedade**
 
 Art. 1º — A Sociedade tem por objeto o estudo de todos os fenômenos relativos às manifestações espíritas e suas aplicações às ciências morais, físicas, históricas e psicológicas. São defesas nela as questões políticas, de controvérsia religiosa e de economia social. Toma por título: Sociedade Parisiense de Estudos Espíritas.
 
@@ -4515,7 +4513,7 @@ Art. 6º — A Sociedade limitará, se julgar conveniente, o número dos associa
 
 Art. 7º — Sócios correspondentes são os que, não residindo em Paris, mantenham relações com a Sociedade e lhe forneçam documentos úteis a seus estudos. Podem ser nomeados por proposta de um único sócio titular.
 
-<h4>2. Administração</h4>
+**2. Administração**
 
 Art. 8º — A Sociedade é administrada por um Presidente-diretor, assistido pelos membros de uma diretoria e de uma comissão.
 
@@ -4575,7 +4573,7 @@ Art. 16 — A todos os admitidos, associados livres ou titulares, se conferirá 
 
 Será igualmente considerado demissionário, todo sócio que não houver pago sua cota anual no primeiro mês da renovação do ano social, desde que fique sem resultado um aviso que o Tesoureiro lhe enviará.
 
-<h4>3. Das sessões</h4>
+**3. Das sessões**
 
 Art. 17 — As sessões da Sociedade se realizarão às sextas-feiras, às 8 horas da noite, salvo modificação, se for necessária. As sessões serão particulares ou gerais; nunca serão públicas. Todos os que façam parte da Sociedade, sob qualquer título, devem, em cada sessão, assinar os nomes numa lista de presença.
 
@@ -4589,7 +4587,7 @@ Art. 21° — As sessões particulares são reservadas aos membros da Sociedade.
 
 Art. 22° — As sessões gerais se realizarão nas 2ª e 4ª sextas-feiras de cada mês. Nas sessões gerais, a Sociedade autoriza a admissão de ouvintes estranhos, que poderão a elas assistir temporariamente, sem tomarem parte nelas. Cabe-lhe retirar essa autorização, quando julgue conveniente. Ninguém pode assistir às sessões, como ouvinte, sem ser apresentado ao Presidente, por um sócio, que se torna fiador de seu cuidado em não causar perturbação, nem interrupção. A Sociedade não admite como ouvintes senão pessoas que aspirem a tornar-se seus associados, ou que simpatizem com seus trabalhos, e que já estejam suficientemente iniciadas na ciência espírita, para compreendê-los. A admissão deverá ser negada de modo absoluto a quem quer que deseje ser ouvinte por mera curiosidade, ou cujos sentimentos sejam hostis à Sociedade. Aos ouvintes é interdito o uso da palavra, salvo casos excepcionais, a juízo do Presidente. Aquele que, de qualquer maneira, perturbar a ordem, ou manifestar má vontade para com os trabalhos da Sociedade, poderá ser convidado a retirar-se e, em todos os casos, o fato será anotado na lista de admissão e a entrada lhe será de futuro proibida. Devendo limitar-se o número dos ouvintes pelos lugares disponíveis, os que puderem assistir às sessões deverão ser inscritos previamente num registro criado para esse fim, com indicação dos endereços e das pessoas que os recomendam. Em consequência, todo pedido de entrada deverá ser dirigido, muitos dias antes da sessão, ao Presidente, que expedirá os cartões de admissão até que a lista se ache esgotada. Os cartões de entrada só podem servir para o dia indicado e para as pessoas designadas. A permissão de entrada não pode ser concedida ao mesmo ouvinte para mais de duas sessões, salvo autorização do Presidente e em casos excepcionais. Nenhum membro da Sociedade poderá apresentar mais de duas pessoas ao mesmo tempo. Não têm limite as entradas concedidas pelo Presidente. Os ouvintes não serão admitidos depois de aberta a sessão.
 
-<h4>4. Disposições diversas</h4>
+**4. Disposições diversas**
 
 Art. 23º — Todos os membros da Sociedade lhe devem inteiro concurso. Em consequência, são convidados a colher, nos seus respectivos círculos de observações, os fatos antigos ou recentes, que possam dizer respeito ao Espiritismo, e a os assinalar. Cuidarão, ao mesmo tempo, de inquirir, tanto quanto possível, da notoriedade deles.
 
@@ -4620,7 +4618,7 @@ Pode a Sociedade, sem modificar o seu regulamento nos pontos essenciais, adotar 
 
 Reunimos neste **capítulo** alguns ditados espontâneos, que completam e confirmam os princípios exarados nesta obra. Poderíamos inseri-los em muito maior número; limitamo-nos, porém, aos que, de modo mais particular, dizem respeito ao porvir do Espiritismo, aos médiuns e às reuniões. Damo-los também como instrução e como tipos das comunicações verdadeiramente sérias. Encerramos o **capítulo** com algumas comunicações apócrifas, seguidas de notas apropriadas a torná-las reconhecíveis.
 
-<h4>Acerca do Espiritismo</h4>
+**Acerca do Espiritismo**
 
 <h5>1</h5>
 
@@ -4721,7 +4719,7 @@ Como já dissemos, quanto mais elevados são os Espíritos na hierarquia, com ta
 
 Na comunicação acima apenas uma coisa reconhecemos: é a superioridade incontestável da linguagem e das ideias, deixando que cada um julgue por si mesmo se aquele de quem ela traz o nome não a renegaria.
 
-<h4>Sobre os médiuns
+**Sobre os médiuns
 
 <h5>10</h5>
 
@@ -4791,7 +4789,7 @@ Na comunicação acima apenas uma coisa reconhecemos: é a superioridade inconte
 >
 >**O Espírito de Verdade**
 
-<h4>Sobre as Sociedades Espíritas
+**Sobre as Sociedades Espíritas
 
 📝 Nota Das comunicações que se seguem, algumas foram dadas na Sociedade Parisiense de Estudos Espíritas, ou em sua intenção. Outras, que nos foram transmitidas por diversos médiuns, encerram conselhos gerais sobre os grupos, sua formação e obstáculos que podem encontrar.
 
@@ -4947,7 +4945,7 @@ Perguntando nós a São Luís se, com essas palavras, tinha o intento de condena
 
 📝 Nota A melhor garantia de que um princípio é a expressão da verdade se encontra em ser ensinado e revelado por diferentes Espíritos, com o concurso de médiuns diversos, desconhecidos uns dos outros e em lugares vários, e em ser, ademais, confirmado pela razão e sancionado pela adesão do maior número. Só a verdade pode fornecer raízes a uma doutrina. Um sistema errôneo pode, sem dúvida, reunir alguns aderentes, mas, como lhe falta a primeira condição de vitalidade, efêmera será a sua existência. Não há, pois, motivo para que com ele nos inquietemos. Seus próprios erros o matam e a sua queda será inevitável aos golpes da poderosa arma que é a lógica.
 
-<h4>Comunicações apócrifas
+**Comunicações apócrifas
 
 Muitas comunicações há, de tal modo absurdas, que, embora assinadas com os mais respeitáveis nomes, o senso comum basta para lhes tornar patente a falsidade. Outras, porém, há, em que o erro, dissimulado entre coisas aproveitáveis, chega a iludir, impedindo às vezes se possa apreendê-lo à primeira vista. Essas comunicações, no entanto, não resistem a um exame sério. Vamos, como amostra, reproduzir aqui algumas.
 
