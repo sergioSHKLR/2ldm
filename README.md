@@ -29,7 +29,7 @@
 
 ✒️ **O Livro dos Médiuns** (ISBN 978-85-7328-729-5), digitalizado.
 
-- 📔 [LDM-draft.md](./draft/LDM-draft.md)
+- 📔 [LDM-v2023-07-10.md](./releases/LDM-2023-07-10.md)
 
 [🔼](#%EF%B8%8F-o-livro-dos-médiuns)
 
