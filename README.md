@@ -160,7 +160,6 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
            |     
            └── #️⃣ parágrafo
 
-✝️ ─ trecho bíblico
 </pre>
 
 Em especial no LDM, o código para parágrafos é modificado de `LDM-X-XX-XXX` para:
