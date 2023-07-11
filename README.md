@@ -159,7 +159,6 @@ Dentro de cada livro individual, usaremos os emojis abaixo para identificar elem
       └── 📑 capítulo
            |     
            └── #️⃣ parágrafo
-
 </pre>
 
 Em especial no LDM, o código para parágrafos é modificado de `LDM-X-XX-XXX` para:
