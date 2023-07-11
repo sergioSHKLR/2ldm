@@ -632,7 +632,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   **Lamennais**
 
-  Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram sondar a natureza da alma. Como poderíamos nós fazê-lo? É, portanto, perder tempo querer perscrutar o princípio das coisas que, como foi dito em 👉 ([`LDE-q17`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md#LDE-q17) e 👉 [`LDE-q49`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md#LDE-q49)), está nos segredos de Deus. Pretender esquadrinhar, com o auxílio do Espiritismo, o que escapa à alçada da Humanidade é desviá-lo do seu verdadeiro objetivo, é fazer como a criança que quisesse saber tanto quanto o velho. Aplique o homem o Espiritismo em aperfeiçoar-se moralmente, eis o essencial. O mais não passa de curiosidade estéril e muitas vezes orgulhosa, cuja satisfação não o faria adiantar um passo. O único meio de nos adiantarmos consiste em nos tornarmos melhores. Os Espíritos que ditaram o livro que lhes traz o nome demonstraram a sua sabedoria, mantendo-se, pelo que concerne ao princípio das coisas, dentro dos limites que Deus não permite sejam ultrapassados e deixando aos Espíritos sistemáticos e presunçosos a responsabilidade das teorias prematuras e errôneas, mais sedutoras do que sólidas, e que um dia virão a cair, ante a razão, como tantas outras surgidas dos cérebros humanos. Eles, ao justo, só disseram o que era preciso para que o homem compreendesse o futuro que o aguarda e para, por essa maneira, animá-lo à prática do bem. 👉 ([`LDM-2-01`](#ldm201--1-da-a%C3%A7%C3%A3o-dos-esp%C3%ADritos-sobre-a-mat%C3%A9ria))
+  Assim, Espíritos, que podemos considerar adiantados, ainda não conseguiram sondar a natureza da alma. Como poderíamos nós fazê-lo? É, portanto, perder tempo querer perscrutar o princípio das coisas que, como foi dito em 👉 ([`LDE-q17`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md#LDE-q17) e 👉 [`LDE-q49`](https://github.com/sergioSHKLR/LDE/blob/main/releases/LDE-2023-07-09.md#LDE-q49)), está nos segredos de Deus. Pretender esquadrinhar, com o auxílio do Espiritismo, o que escapa à alçada da Humanidade é desviá-lo do seu verdadeiro objetivo, é fazer como a criança que quisesse saber tanto quanto o velho. Aplique o homem o Espiritismo em aperfeiçoar-se moralmente, eis o essencial. O mais não passa de curiosidade estéril e muitas vezes orgulhosa, cuja satisfação não o faria adiantar um passo. O único meio de nos adiantarmos consiste em nos tornarmos melhores. Os Espíritos que ditaram o livro que lhes traz o nome demonstraram a sua sabedoria, mantendo-se, pelo que concerne ao princípio das coisas, dentro dos limites que Deus não permite sejam ultrapassados e deixando aos Espíritos sistemáticos e presunçosos a responsabilidade das teorias prematuras e errôneas, mais sedutoras do que sólidas, e que um dia virão a cair, ante a razão, como tantas outras surgidas dos cérebros humanos. Eles, ao justo, só disseram o que era preciso para que o homem compreendesse o futuro que o aguarda e para, por essa maneira, animá-lo à prática do bem. 👉 ([`LDM-2-01`](#LDM-2-01)
 
 ---
 
@@ -2305,21 +2305,21 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 <a name="LDM-p187"><code>LDM-p187</code></a>
 
 - #️⃣ 187
-. Podem dividir-se os médiuns em duas grandes categorias: Médiuns de efeitos físicos, os que têm o poder de provocar efeitos materiais, ou manifestações ostensivas. ([`LDM-p160`](#ldmp160-%EF%B8%8F%E2%83%A3-160))
+. Podem dividir-se os médiuns em duas grandes categorias: Médiuns de efeitos físicos, os que têm o poder de provocar efeitos materiais, ou manifestações ostensivas. 👉 ([`LDM-p160`](#LDM-p160))
 
-  Médiuns de efeitos intelectuais, os que são mais aptos a receber e a transmitir comunicações inteligentes. ([`LDM-p65`](#ldmp65-%EF%B8%8F%E2%83%A3-65) e seguintes.)
+  Médiuns de efeitos intelectuais, os que são mais aptos a receber e a transmitir comunicações inteligentes. 👉 ([`LDM-p65`](#LDM-p65) e seguintes.)
 
-  Todas as outras espécies se prendem mais ou menos diretamente a uma ou outra dessas duas categorias; algumas participam de ambas. Se analisarmos os diferentes fenômenos produzidos sob a influência mediúnica, veremos que, em todos, há um efeito físico e que aos efeitos físicos se alia quase sempre um efeito inteligente. Difícil é muitas vezes determinar o limite entre os dois, mas isso nenhuma consequência apresenta. Sob a denominação de médiuns de efeitos intelectuais abrangemos os que podem, mais particularmente, servir de intermediários para as comunicações regulares e fluentes. ([`LDM-p133`](#ldmp133-%EF%B8%8F%E2%83%A3-133))
+  Todas as outras espécies se prendem mais ou menos diretamente a uma ou outra dessas duas categorias; algumas participam de ambas. Se analisarmos os diferentes fenômenos produzidos sob a influência mediúnica, veremos que, em todos, há um efeito físico e que aos efeitos físicos se alia quase sempre um efeito inteligente. Difícil é muitas vezes determinar o limite entre os dois, mas isso nenhuma consequência apresenta. Sob a denominação de médiuns de efeitos intelectuais abrangemos os que podem, mais particularmente, servir de intermediários para as comunicações regulares e fluentes. 👉 ([`LDM-p133`](#LDM-p133))
 
 <a name="LDM-p188"><code>LDM-p188</code></a>
 
-- #️⃣ 188. Espécies comuns a todos os gêneros de mediunidade Médiuns sensitivos: pessoas suscetíveis de sentir a presença dos Espíritos, por uma impressão geral ou local, vaga ou material. A maioria dessas pessoas distingue os Espíritos bons dos maus, pela natureza da impressão. ([`LDM-p164`](#ldmp164-%EF%B8%8F%E2%83%A3-164))
+- #️⃣ 188. Espécies comuns a todos os gêneros de mediunidade Médiuns sensitivos: pessoas suscetíveis de sentir a presença dos Espíritos, por uma impressão geral ou local, vaga ou material. A maioria dessas pessoas distingue os Espíritos bons dos maus, pela natureza da impressão. 👉 ([`LDM-p164`](#LDM-p164))
 
   “_Os médiuns delicados e muito sensitivos devem abster-se das comunicações com os Espíritos violentos, ou cuja impressão é penosa, por causa da fadiga que daí resulta._”
 
-  Médiuns naturais ou inconscientes: os que produzem espontaneamente os fenômenos, sem intervenção da própria vontade e, as mais das vezes, à sua revelia. ([`LDM-p161`](#ldmp161-%EF%B8%8F%E2%83%A3-161))
+  Médiuns naturais ou inconscientes: os que produzem espontaneamente os fenômenos, sem intervenção da própria vontade e, as mais das vezes, à sua revelia. 👉 ([`LDM-p161`](#LDM-p161))
 
-  Médiuns facultativos ou voluntários: os que têm o poder de provocar os fenômenos por ato da própria vontade. ([`LDM-p160`](#ldmp160-%EF%B8%8F%E2%83%A3-160))
+  Médiuns facultativos ou voluntários: os que têm o poder de provocar os fenômenos por ato da própria vontade. 👉 ([`LDM-p160`](#LDM-p160))
 
   “_Qualquer que seja essa vontade, eles nada podem se os Espíritos se recusam, o que prova a intervenção de uma força estranha._”
 
@@ -2329,15 +2329,15 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Médiuns tiptólogos: aqueles pela influência dos quais se produzem os ruídos, as pancadas. Variedade muito comum, com ou sem intervenção da vontade.
 
-  Médiuns motores: os que produzem o movimento dos corpos inertes. Muito comuns. ([`LDM-p61`](#ldmp61-%EF%B8%8F%E2%83%A3-61))
+  Médiuns motores: os que produzem o movimento dos corpos inertes. Muito comuns. 👉 ([`LDM-p61`](#LDM-p61))
 
-  Médiuns de translações e de suspensões: os que produzem a translação aérea e a suspensão dos corpos inertes no espaço, sem ponto de apoio. Entre eles há os que podem elevar-se a si mesmos. Mais ou menos raros, conforme a amplitude do fenômeno; muito raros, no último caso. ([`LDM-p75`](#ldmp75-%EF%B8%8F%E2%83%A3-75)) e seguintes; **item** 80)
+  Médiuns de translações e de suspensões: os que produzem a translação aérea e a suspensão dos corpos inertes no espaço, sem ponto de apoio. Entre eles há os que podem elevar-se a si mesmos. Mais ou menos raros, conforme a amplitude do fenômeno; muito raros, no último caso. 👉 ([`LDM-p75`](#LDM-p75)) e seguintes; **item** 80)
 
-  Médiuns de efeitos musicais: provocam a execução de composições, em certos instrumentos de música, sem contato com estes. Muito raros. ([`LDM-p74`](#ldmp74-%EF%B8%8F%E2%83%A3-74)), perg. 24`)
+  Médiuns de efeitos musicais: provocam a execução de composições, em certos instrumentos de música, sem contato com estes. Muito raros. 👉 ([`LDM-p74`](#LDM-p74)), perg. 24`)
 
-  Médiuns de aparições: os que podem provocar aparições fluídicas ou tangíveis, visíveis para os assistentes. Muito excepcionais. ([`LDM-p100`](#ldmp100-%EF%B8%8F%E2%83%A3-100)), perg. 27; ([`LDM-p104`](#ldmp104-%EF%B8%8F%E2%83%A3-104)))
+  Médiuns de aparições: os que podem provocar aparições fluídicas ou tangíveis, visíveis para os assistentes. Muito excepcionais. 👉 ([`LDM-p100`](#LDM-p100)), perg. 27; 👉 ([`LDM-p104`](#LDM-p104)))
 
-  Médiuns de transporte: os que podem servir de auxiliares aos Espíritos para o transporte de objetos materiais. Variedade dos médiuns motores e de translações. Excepcionais. ([`LDM-p96`](#ldmp96-%EF%B8%8F%E2%83%A3-96))
+  Médiuns de transporte: os que podem servir de auxiliares aos Espíritos para o transporte de objetos materiais. Variedade dos médiuns motores e de translações. Excepcionais. 👉 ([`LDM-p96`](#LDM-p96))
 
   Médiuns noturnos: os que só na obscuridade obtêm certos efeitos físicos. É a seguinte a resposta que nos deu um Espírito à pergunta que fizemos sobre se se podem considerar esses médiuns como constituindo uma variedade:
 
@@ -2345,37 +2345,37 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
   >
   >**Erasto**
 
-  Médiuns pneumatógrafos: os que obtêm a escrita direta. Fenômeno muito raro e, sobretudo, muito fácil de ser imitado pelos trapaceiros. ([`LDM-p177`](#ldmp177-%EF%B8%8F%E2%83%A3-177))
+  Médiuns pneumatógrafos: os que obtêm a escrita direta. Fenômeno muito raro e, sobretudo, muito fácil de ser imitado pelos trapaceiros. 👉 ([`LDM-p177`](#LDM-p177))
 
   📝 Nota Os Espíritos insistiram, contra a nossa opinião, em incluir a escrita direta entre os fenômenos de ordem física, pela razão, disseram eles, de que: “_Os efeitos inteligentes são aqueles para cuja produção o Espírito se serve dos materiais existentes no cérebro do médium, o que não se dá na escrita direta. A ação do médium é aqui toda material, ao passo que no médium escrevente, ainda que completamente mecânico, o cérebro desempenha sempre um papel ativo._”
 
   Médiuns curadores: os que têm o poder de curar ou de aliviar o doente pela só imposição das mãos ou pela prece.
-  >“_Esta faculdade não é essencialmente mediúnica; possuem-na todos os verdadeiros crentes, sejam médiuns ou não. As mais das vezes, é apenas uma exaltação do poder magnético, fortalecido, se necessário, pelo concurso de bons Espíritos._” ([`LDM-p175`](#ldmp175-%EF%B8%8F%E2%83%A3-175))
+  >“_Esta faculdade não é essencialmente mediúnica; possuem-na todos os verdadeiros crentes, sejam médiuns ou não. As mais das vezes, é apenas uma exaltação do poder magnético, fortalecido, se necessário, pelo concurso de bons Espíritos._” 👉 ([`LDM-p175`](#LDM-p175))
 
   Médiuns excitadores: pessoas que têm o poder de, por sua influência, desenvolver nas outras a faculdade de escrever.
   >“_Aí há antes um efeito magnético do que um caso de mediunidade propriamente dita, porquanto nada prova a intervenção de um Espírito. Como quer que seja, pertence à categoria dos efeitos físicos._” (**Veja-se** o **capítulo** Da formação dos médiuns.)
 
 <a name="LDM-p190"><code>LDM-p190</code></a>
 
-- #️⃣ 190. Médiuns audientes: os que ouvem os Espíritos. Muito comuns. ([`LDM-p165`](#ldmp165-%EF%B8%8F%E2%83%A3-165))
+- #️⃣ 190. Médiuns audientes: os que ouvem os Espíritos. Muito comuns. 👉 ([`LDM-p165`](#LDM-p165))
 
   >“_Muitos há que imaginam ouvir o que apenas lhes está na imaginação._”
   
-  Médiuns falantes: os que falam sob a influência dos Espíritos. Muito comuns. ([`LDM-p166`](#ldmp166-%EF%B8%8F%E2%83%A3-166))
+  Médiuns falantes: os que falam sob a influência dos Espíritos. Muito comuns. 👉 ([`LDM-p166`](#LDM-p166))
   
-  Médiuns videntes: os que, em estado de vigília, veem os Espíritos. A visão acidental e fortuita de um Espírito, numa circunstância especial, é muito frequente, mas a visão habitual ou facultativa dos Espíritos, sem distinção, é excepcional. ([`LDM-p167`](#ldmp167-%EF%B8%8F%E2%83%A3-167))
+  Médiuns videntes: os que, em estado de vigília, veem os Espíritos. A visão acidental e fortuita de um Espírito, numa circunstância especial, é muito frequente, mas a visão habitual ou facultativa dos Espíritos, sem distinção, é excepcional. 👉 ([`LDM-p167`](#LDM-p167))
   
   >“_É uma aptidão a que se opõe o estado atual dos órgãos visuais. Por isso é que cumpre nem sempre acreditar na palavra dos que dizem ver os Espíritos._”
   
-  Médiuns inspirados: aqueles a quem, quase sempre mau grado seu, os Espíritos sugerem ideias, quer relativas aos atos ordinários da vida, quer com relação aos grandes trabalhos da inteligência. ([`LDM-p182`](#ldmp182-%EF%B8%8F%E2%83%A3-182))
+  Médiuns inspirados: aqueles a quem, quase sempre mau grado seu, os Espíritos sugerem ideias, quer relativas aos atos ordinários da vida, quer com relação aos grandes trabalhos da inteligência. 👉 ([`LDM-p182`](#LDM-p182))
   
-  Médiuns de pressentimentos: pessoas que, em dadas circunstâncias, têm uma intuição vaga de coisas vulgares que ocorrerão no futuro. ([`LDM-p184`](#ldmp184-%EF%B8%8F%E2%83%A3-184))
+  Médiuns de pressentimentos: pessoas que, em dadas circunstâncias, têm uma intuição vaga de coisas vulgares que ocorrerão no futuro. 👉 ([`LDM-p184`](#LDM-p184))
   
   Médiuns proféticos: variedade dos médiuns inspirados ou de pressentimentos. Recebem, permitindo-o Deus, com mais precisão do que os médiuns de pressentimentos, a revelação de futuras coisas de interesse geral e são incumbidos de dá-las a conhecer aos homens, para instrução destes.
   
   >“_Se há profetas verdadeiros, mais ainda os há falsos, que consideram revelações os devaneios da própria imaginação, quando não são embusteiros que, por ambição, se apresentam como tais._” (**Veja-se**, em O livro dos espíritos, a questão 624, sobre as características do verdadeiro profeta.)
   
-  Médiuns sonâmbulos: os que, em estado de sonambulismo, são assistidos por Espíritos. ([`LDM-p172`](#ldmp172-%EF%B8%8F%E2%83%A3-172))
+  Médiuns sonâmbulos: os que, em estado de sonambulismo, são assistidos por Espíritos. 👉 ([`LDM-p172`](#LDM-p172))
   
   Médiuns extáticos: os que, em estado de êxtase, recebem revelações da parte dos Espíritos.
   
@@ -2393,14 +2393,14 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Médiuns escreventes ou psicógrafos: os que têm a faculdade de escrever por si mesmos sob a influência dos Espíritos. 
   
-  Médiuns escreventes mecânicos: aqueles cuja mão recebe um impulso involuntário e que nenhuma consciência têm do que escrevem. Muito raros. ([`LDM-p179`](#ldmp179-%EF%B8%8F%E2%83%A3-179))
+  Médiuns escreventes mecânicos: aqueles cuja mão recebe um impulso involuntário e que nenhuma consciência têm do que escrevem. Muito raros. 👉 ([`LDM-p179`](#LDM-p179))
   
-  Médiuns semimecânicos: aqueles cuja mão se move involuntariamente, mas que têm, instantaneamente, consciência das palavras ou das frases, à medida que escrevem. São os mais comuns. ([`LDM-p181`](#ldmp181-%EF%B8%8F%E2%83%A3-181)) 
+  Médiuns semimecânicos: aqueles cuja mão se move involuntariamente, mas que têm, instantaneamente, consciência das palavras ou das frases, à medida que escrevem. São os mais comuns. 👉 ([`LDM-p181`](#LDM-p181)) 
   
-  Médiuns intuitivos: aqueles com quem os Espíritos se comunicam pelo pensamento e cuja mão é conduzida voluntariamente. Diferem dos médiuns inspirados que não precisam escrever, ao passo que o médium intuitivo escreve o pensamento que lhe é sugerido instantaneamente sobre um assunto determinado e provocado. ([`LDM-p180`](#ldmp180-%EF%B8%8F%E2%83%A3-180))
+  Médiuns intuitivos: aqueles com quem os Espíritos se comunicam pelo pensamento e cuja mão é conduzida voluntariamente. Diferem dos médiuns inspirados que não precisam escrever, ao passo que o médium intuitivo escreve o pensamento que lhe é sugerido instantaneamente sobre um assunto determinado e provocado. 👉 ([`LDM-p180`](#LDM-p180))
   >“_São muito comuns, mas também muito sujeitos a erro, por não poderem, muitas vezes, discernir o que provém dos Espíritos do que deles próprios emana._” 
   
-  Médiuns polígrafos: aqueles cuja escrita muda com o Espírito que se comunica, ou aptos a reproduzir a escrita que o Espírito tinha em vida. O primeiro caso é muito vulgar; o segundo, o da identidade da escrita, é mais raro. ([`LDM-p219`](#ldmp219-%EF%B8%8F%E2%83%A3-219))
+  Médiuns polígrafos: aqueles cuja escrita muda com o Espírito que se comunica, ou aptos a reproduzir a escrita que o Espírito tinha em vida. O primeiro caso é muito vulgar; o segundo, o da identidade da escrita, é mais raro. 👉 ([`LDM-p219`](#LDM-p219))
   
   Médiuns poliglotas: os que têm a faculdade de falar ou escrever em línguas que lhes são desconhecidas. Muito raros. 
   
@@ -3066,7 +3066,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
 <a name="LDM-p236"><code>LDM-p236</code></a>
 
-- #️⃣ 236. A questão da mediunidade dos animais se acha completamente resolvida na dissertação seguinte, feita por um Espírito cuja profundeza e sagacidade os leitores hão podido apreciar nas citações, que temos tido ocasião de fazer, de instruções suas. Para bem se apreender o valor da sua demonstração, essencial é se tenha em vista a explicação por ele dada do papel do médium nas comunicações, explicação que atrás reproduzimos. ([`LDM-p225`](#ldmp225-%EF%B8%8F%E2%83%A3-225))
+- #️⃣ 236. A questão da mediunidade dos animais se acha completamente resolvida na dissertação seguinte, feita por um Espírito cuja profundeza e sagacidade os leitores hão podido apreciar nas citações, que temos tido ocasião de fazer, de instruções suas. Para bem se apreender o valor da sua demonstração, essencial é se tenha em vista a explicação por ele dada do papel do médium nas comunicações, explicação que atrás reproduzimos. 👉 ([`LDM-p225`](#LDM-p225))
 
   Esta comunicação deu-a ele em seguida a uma discussão, que se travara, sobre o assunto, na Sociedade Parisiense de Estudos Espíritas:
 
@@ -3122,7 +3122,7 @@ Julgaram os adversários do Espiritismo encontrar um argumento nessa divergênci
 
   Na obsessão simples, o médium sabe muito bem que se acha presa de um Espírito mentiroso e este não se disfarça; de nenhuma forma dissimula suas más intenções e o seu propósito de contrariar. O médium reconhece sem dificuldade a felonia e, como se mantém em guarda, raramente é enganado. Este gênero de obsessão é, portanto, apenas desagradável e não tem outro inconveniente além do de opor obstáculo às comunicações que se desejara receber de Espíritos sérios, ou dos afeiçoados.
 
-  Podem incluir-se nesta categoria os casos de obsessão física, isto é, a que consiste nas manifestações ruidosas e obstinadas de alguns Espíritos, que fazem se ouçam, espontaneamente, pancadas ou outros ruídos. Pelo que concerne a este fenômeno, consulte-se o **capítulo** Das manifestações físicas espontâneas. ([`LDM-p82`](#ldmp82-%EF%B8%8F%E2%83%A3-82))
+  Podem incluir-se nesta categoria os casos de obsessão física, isto é, a que consiste nas manifestações ruidosas e obstinadas de alguns Espíritos, que fazem se ouçam, espontaneamente, pancadas ou outros ruídos. Pelo que concerne a este fenômeno, consulte-se o **capítulo** Das manifestações físicas espontâneas. 👉 ([`LDM-p82`](#LDM-p82))
 
 <a name="LDM-p239"><code>LDM-p239</code></a>
 
@@ -3204,7 +3204,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <a name="LDM-p248"><code>LDM-p248</code></a>
 
-- #️⃣ 248. Acontece muito frequentemente que um médium só se pode comunicar com um único Espírito, que a ele se liga e responde pelos que são chamados por seu intermédio. Nem sempre há nisso uma obsessão, porquanto o fato pode derivar da falta de maleabilidade do médium, de uma afinidade especial sua com tal ou tal Espírito. Somente há obsessão propriamente dita quando o Espírito se impõe e afasta intencionalmente os outros, o que jamais é obra de um Espírito bom. Geralmente, o Espírito que se apodera do médium, tendo em vista dominá-lo, não suporta o exame crítico das suas comunicações; quando vê que não são aceitas, que as discutem, não se retira, mas inspira ao médium o pensamento de se insular, chegando mesmo, não raro, a ordenar-lho. Todo médium que se melindra com a crítica das comunicações que obtém faz-se eco do Espírito que o domina, Espírito esse que não pode ser bom, desde que lhe inspira um pensamento ilógico, qual o de se recusar ao exame. O insulamento do médium é sempre coisa deplorável para ele, porque fica sem uma verificação das comunicações que recebe. Não somente deve buscar a opinião de terceiros para esclarecer-se, como também necessário lhe é estudar todos os gêneros de comunicações, a fim de as comparar. Restringindo-se às que lhe são transmitidas, expõe-se a se iludir sobre o valor destas, sem considerar que não lhe é dado tudo saber e que elas giram quase sempre dentro do mesmo círculo. ([`LDM-p192`](#ldmp192-%EF%B8%8F%E2%83%A3-192))
+- #️⃣ 248. Acontece muito frequentemente que um médium só se pode comunicar com um único Espírito, que a ele se liga e responde pelos que são chamados por seu intermédio. Nem sempre há nisso uma obsessão, porquanto o fato pode derivar da falta de maleabilidade do médium, de uma afinidade especial sua com tal ou tal Espírito. Somente há obsessão propriamente dita quando o Espírito se impõe e afasta intencionalmente os outros, o que jamais é obra de um Espírito bom. Geralmente, o Espírito que se apodera do médium, tendo em vista dominá-lo, não suporta o exame crítico das suas comunicações; quando vê que não são aceitas, que as discutem, não se retira, mas inspira ao médium o pensamento de se insular, chegando mesmo, não raro, a ordenar-lho. Todo médium que se melindra com a crítica das comunicações que obtém faz-se eco do Espírito que o domina, Espírito esse que não pode ser bom, desde que lhe inspira um pensamento ilógico, qual o de se recusar ao exame. O insulamento do médium é sempre coisa deplorável para ele, porque fica sem uma verificação das comunicações que recebe. Não somente deve buscar a opinião de terceiros para esclarecer-se, como também necessário lhe é estudar todos os gêneros de comunicações, a fim de as comparar. Restringindo-se às que lhe são transmitidas, expõe-se a se iludir sobre o valor destas, sem considerar que não lhe é dado tudo saber e que elas giram quase sempre dentro do mesmo círculo. 👉 ([`LDM-p192`](#LDM-p192))
 
 <a name="LDM-p249"><code>LDM-p249</code></a>
 
@@ -3268,7 +3268,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >“_Eu não disse que é um sinal de indignidade, mas que um obstáculo pode opor-se a certas comunicações; em remover o obstáculo que está nele, é o a que deve aplicar-se; sem isso, suas preces, suas súplicas nada farão. Não basta que um doente diga ao seu médico: dê-me saúde, quero passar bem. O médico nada pode, se o doente não faz o que é preciso._”
   
   4ª. Assim, a impossibilidade de se comunicar com os bons Espíritos seria uma espécie de punição?
-  >“_Em certos casos, pode ser uma verdadeira punição, como a possibilidade de se comunicar com eles é uma recompensa que deveis esforçar-vos por merecer._” ([`LDM-p220`](#ldmp220-%EF%B8%8F%E2%83%A3-220))
+  >“_Em certos casos, pode ser uma verdadeira punição, como a possibilidade de se comunicar com eles é uma recompensa que deveis esforçar-vos por merecer._” 👉 ([`LDM-p220`](#LDM-p220))
   
   5ª. Não se pode também combater a influência dos maus Espíritos, moralizando-os?
   >“_Sim, mas é o que não se faz e é o que não se deve descurar de fazer, porquanto, muitas vezes, isso constitui uma tarefa que vos é dada e que deveis desempenhar caridosa e religiosamente. Por meio de sábios conselhos, é possível induzi-los ao arrependimento e apressar-lhes o progresso._”
@@ -3276,10 +3276,10 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   — Como pode um homem ter, a esse respeito, mais influência do que a têm os próprios Espíritos?
   >“_Os Espíritos perversos se aproximam antes dos homens que eles procuram atormentar, do que dos Espíritos, dos quais se afastam o mais possível. Nessa aproximação dos humanos, quando encontram algum que os moralize, a princípio não o escutam e até se riem dele; depois, se aquele os sabe prender, acabam por se deixarem tocar. Os Espíritos elevados só em nome de Deus lhes podem falar e isto os apavora. O homem, indubitavelmente, não dispõe de mais poder do que os Espíritos superiores, porém sua linguagem se identifica melhor com a natureza daqueles outros e, ao verem o ascendente que o homem pode exercer sobre os Espíritos inferiores, melhor compreendem a solidariedade que existe entre o céu e a terra._”
   >
-  >“_Demais, o ascendente que o homem pode exercer sobre os Espíritos está na razão da sua superioridade moral. Ele não domina os Espíritos superiores, nem mesmo os que, sem serem superiores, são bons e benevolentes, mas pode dominar os que lhe são inferiores em moralidade._” ([`LDM-p279`](#ldmp279-%EF%B8%8F%E2%83%A3-279))
+  >“_Demais, o ascendente que o homem pode exercer sobre os Espíritos está na razão da sua superioridade moral. Ele não domina os Espíritos superiores, nem mesmo os que, sem serem superiores, são bons e benevolentes, mas pode dominar os que lhe são inferiores em moralidade._” 👉 ([`LDM-p279`](#LDM-p279))
   
   6ª. A subjugação corporal, levada a certo grau, poderá ter como consequência a loucura?
-  >“_Pode, a uma espécie de loucura cuja causa o mundo desconhece, mas que não tem relação alguma com a loucura ordinária. Entre os que são tidos por loucos, muitos há que apenas são subjugados; eles precisariam de um tratamento moral, enquanto com os tratamentos corporais os tornamos verdadeiros loucos. Quando os médicos conhecerem bem o Espiritismo, saberão fazer essa distinção e curarão mais doentes do que com as duchas._” ([`LDM-p221`](#ldmp221-%EF%B8%8F%E2%83%A3-221))
+  >“_Pode, a uma espécie de loucura cuja causa o mundo desconhece, mas que não tem relação alguma com a loucura ordinária. Entre os que são tidos por loucos, muitos há que apenas são subjugados; eles precisariam de um tratamento moral, enquanto com os tratamentos corporais os tornamos verdadeiros loucos. Quando os médicos conhecerem bem o Espiritismo, saberão fazer essa distinção e curarão mais doentes do que com as duchas._” 👉 ([`LDM-p221`](#LDM-p221))
   
   7ª. Que se deve pensar dos que, vendo um perigo qualquer no Espiritismo, julgam que o meio de preveni-lo seria proibir as comunicações espíritas?
   >“_Se podem proibir a certas pessoas que se comuniquem com os Espíritos, não podem impedir que manifestações espontâneas sejam feitas a essas mesmas pessoas, porquanto não podem suprimir os Espíritos, nem lhes impedir que exerçam sua influência oculta. Esses tais se assemelham às crianças que tapam os olhos e ficam crentes de que ninguém as vê. Fora loucura querer suprimir uma coisa que oferece grandes vantagens, só porque imprudentes podem abusar dela. O meio de se lhe prevenirem os inconvenientes consiste, ao contrário, em torná-la conhecida a fundo._”
@@ -3374,7 +3374,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   
   4º. Os Espíritos superiores usam sempre de uma linguagem digna, nobre, elevada, sem eiva de trivialidade; tudo dizem com simplicidade e modéstia, jamais se vangloriam, nem se jactam de seu saber, ou da posição que ocupam entre os outros. A dos Espíritos inferiores ou vulgares sempre algo refletem das paixões humanas. Toda expressão que denote baixeza, pretensão, arrogância, fanfarronice, acrimônia é indício característico de inferioridade e de embuste, se o Espírito se apresenta com um nome respeitável e venerado.
   
-  5º. Não se deve julgar da qualidade do Espírito pela forma material, nem pela correção do estilo. É preciso sondar-lhe o íntimo, analisar-lhe as palavras, pesá-las friamente, maduramente e sem prevenção. Qualquer ofensa à lógica, à razão e à ponderação não pode deixar dúvida sobre a sua procedência, seja qual for o nome com que se ostente o Espírito. ([`LDM-p224`](#ldmp224-%EF%B8%8F%E2%83%A3-224))
+  5º. Não se deve julgar da qualidade do Espírito pela forma material, nem pela correção do estilo. É preciso sondar-lhe o íntimo, analisar-lhe as palavras, pesá-las friamente, maduramente e sem prevenção. Qualquer ofensa à lógica, à razão e à ponderação não pode deixar dúvida sobre a sua procedência, seja qual for o nome com que se ostente o Espírito. 👉 ([`LDM-p224`](#LDM-p224))
   
   6º. A linguagem dos Espíritos elevados é sempre idêntica, senão quanto à forma, pelo menos quanto ao fundo. Os pensamentos são os mesmos, em qualquer tempo e em todo lugar. Podem ser mais ou menos desenvolvidos, conforme as circunstâncias, as necessidades e as faculdades que encontrem para se comunicar; porém, jamais serão contraditórios. Se duas comunicações, firmadas pelo mesmo nome, se mostram em contradição, uma das duas é evidentemente apócrifa e a verdadeira será aquela em que nada desminta o conhecido caráter da personagem. Sobre duas comunicações assinadas, por exemplo, com o nome de São Vicente de Paulo, uma das quais propendendo para a união e a caridade e a outra tendendo para a discórdia, nenhuma pessoa sensata poderá equivocar-se.
   
@@ -3530,7 +3530,7 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
 
 <a name="LDM-p270"><code>LDM-p270</code></a>
 
-- #️⃣ 270. Quando se deseja comunicar com determinado Espírito, é de toda necessidade evocá-lo. ([`LDM-p203`](#ldmp203-%EF%B8%8F%E2%83%A3-203)) Se ele pode vir, a resposta é geralmente: Sim, ou Estou aqui, ou ainda, Que quereis de mim? Às vezes, entra diretamente em matéria, respondendo de antemão às perguntas que se lhe queria dirigir.
+- #️⃣ 270. Quando se deseja comunicar com determinado Espírito, é de toda necessidade evocá-lo. 👉 ([`LDM-p203`](#LDM-p203)) Se ele pode vir, a resposta é geralmente: Sim, ou Estou aqui, ou ainda, Que quereis de mim? Às vezes, entra diretamente em matéria, respondendo de antemão às perguntas que se lhe queria dirigir.
 
   Quando um Espírito é evocado pela primeira vez, convém designá-lo com alguma precisão. Nas perguntas que se lhe façam, devem evitar-se as fórmulas secas e imperativas, que constituiriam para ele um motivo de afastamento. As fórmulas devem ser afetuosas ou respeitosas, conforme o Espírito, e, em todos os casos, cumpre que o evocador lhe dê prova da sua benevolência.
 
@@ -3651,10 +3651,10 @@ A moral, porém, para esses Espíritos é simples passaporte, é o que menos os 
   >“_Perfeitamente; onde estaria o seu livre-arbítrio, se assim não fosse? Pensais que todos os seres do universo estão às vossas ordens? Vós mesmos vos considerais obrigados a responder a todos os que vos pronunciam os nomes? Quando digo que o Espírito pode recusar-se, refiro-me ao pedido do evocador, visto que um Espírito inferior pode ser constrangido a vir, por um Espírito superior._”
   
   10ª. Haverá, para o evocador, meio de constranger um Espírito a vir, a seu mau grado?
-  >“_Nenhum, desde que o Espírito lhe seja igual, ou superior, em moralidade. Digo — em moralidade e não em inteligência, porque, então, nenhuma autoridade tem o evocador sobre ele. Se lhe é inferior, o evocador pode consegui-lo, desde que seja para bem do Espírito, porque, nesse caso, outros Espíritos o secundarão._” ([`LDM-p279`](#ldmp279-%EF%B8%8F%E2%83%A3-279))
+  >“_Nenhum, desde que o Espírito lhe seja igual, ou superior, em moralidade. Digo — em moralidade e não em inteligência, porque, então, nenhuma autoridade tem o evocador sobre ele. Se lhe é inferior, o evocador pode consegui-lo, desde que seja para bem do Espírito, porque, nesse caso, outros Espíritos o secundarão._” 👉 ([`LDM-p279`](#LDM-p279))
   
   11ª. Haverá inconveniente em se evocarem Espíritos inferiores e será de temer que, chamando-os, o evocador lhes fique sob o domínio?
-  >“_Eles não dominam senão os que se deixam dominar. Aquele que é assistido por bons Espíritos nada tem que temer. Impõe-se aos Espíritos inferiores e não estes a ele. Isolados, os médiuns, sobretudo os que começam, devem abster-se de tais evocações._” (`LDM-p278`)
+  >“_Eles não dominam senão os que se deixam dominar. Aquele que é assistido por bons Espíritos nada tem que temer. Impõe-se aos Espíritos inferiores e não estes a ele. Isolados, os médiuns, sobretudo os que começam, devem abster-se de tais evocações._” 👉 ([`LDM-p278`](#LDM-p278))
   
   12ª. Serão necessárias algumas disposições especiais para as evocações?
   >“_A mais essencial de todas as disposições é o recolhimento, quando se deseja entrar em comunicação com Espíritos sérios. Com fé e com o desejo do bem, tem-se mais força para evocar os Espíritos superiores. Elevando sua alma, por alguns instantes de recolhimento, quando da evocação, o evocador se identifica com os bons Espíritos e os dispõe a virem._”
