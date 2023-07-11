@@ -57,6 +57,8 @@ Copyright © 1944 by<br />
 Federação Espírita Brasileira — FEB<br />
 ISBN 978-85-7328-729-5
 
+<code>⚠️ A obra original sofreu pequenas alterações de formato para melhor servir ao propósito deste projeto.</code>
+
 <a href="#LDM-0">🔼</a>
 
 ---
