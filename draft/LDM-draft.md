@@ -5249,7 +5249,7 @@ Feitas essas considerações, é lícito concluir que na Doutrina Espírita vigo
 
 [^4]: Nota de Allan Kardec (A.K.): O nosso ensino teórico e prático é sempre gratuito.
 
-[^5]: N.E.: De Kardec são ainda as obras: `🕊️ O Evangelho segundo o Espiritismo`; `🔥 O Céu e o Inferno`; `🌱 A Gênese` e `🪦 Obras Póstumas`.
+[^5]: N.E.: De Kardec são ainda as obras: 🕊️ **O Evangelho segundo o Espiritismo**; 🔥 **O Céu e o Inferno**; 🌱 **A Gênese** e 🪦 **Obras Póstumas**.
 
 [^6]: A.K.: Foi o Sr. Jobert (de Lamballe). Para sermos justos, devemos dizer que a descoberta é devida ao Sr. Schiff. O Sr. Jobert lhe deduziu as consequências perante a Academia de Medicina, pretendendo dar, assim, o golpe de morte nos Espíritos batedores. Na 📓 **Revista Espírita**, do mês de junho de 1859, encontrar-se-ão todos os pormenores da explicação do Sr. Jobert.
 
